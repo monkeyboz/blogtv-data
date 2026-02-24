@@ -1,0 +1,56 @@
+{
+  "_comment": "Edit this file to add your own curated channels by category.",
+  "_format": "Each entry needs: name, url, type ('live'|'vod'|'mp4'), and optionally logo and desc.",
+  "_types": {
+    "live": "HLS/M3U8 live stream - plays directly in Roku Video node",
+    "vod":  "On-demand video URL - plays directly in Roku Video node",
+    "mp4":  "Direct MP4 file - plays directly in Roku Video node",
+    "info": "Info page URL - opens in browser context only"
+  },
+
+  "technology": [
+    {
+      "name": "NASA Live",
+      "url":  "https://ntv3.akamaized.net/hls/live/2014075/NASA-NTV3-Public/master.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/200px-NASA_logo.svg.png",
+      "desc": "NASA Television - live coverage of space missions and science",
+      "type": "live"
+    },
+    {
+      "name": "Big Buck Bunny (test MP4)",
+      "url":  "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "logo": "",
+      "desc": "Open source short film - playback test",
+      "type": "mp4"
+    }
+  ],
+
+  "news": [
+    {
+      "name": "DW News English",
+      "url":  "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/DW_logo_2012.svg/200px-DW_logo_2012.svg.png",
+      "desc": "Deutsche Welle - English language international news",
+      "type": "live"
+    },
+    {
+      "name": "France 24 English",
+      "url":  "https://stream.france24.com/hls/live/2037226/F24_EN_HI_HLS/master.m3u8",
+      "logo": "",
+      "desc": "France 24 live in English",
+      "type": "live"
+    }
+  ],
+
+  "science": [
+    {
+      "name": "Curiosity Stream - Sample",
+      "url":  "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "logo": "",
+      "desc": "Open source animated short - Elephant's Dream",
+      "type": "mp4"
+    }
+  ],
+
+  "general": []
+}

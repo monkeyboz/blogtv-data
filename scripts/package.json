@@ -1,0 +1,14 @@
+{
+  "name": "blogtv-channel-builder",
+  "version": "1.0.0",
+  "description": "Fetches and merges IPTV/YouTube/TMDB channel data for BlogTV Roku channel",
+  "main": "build-channels.js",
+  "scripts": {
+    "build": "node build-channels.js",
+    "test":  "node build-channels.js --dry-run"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "m3u-parser-generator": "^1.0.0"
+  }
+}

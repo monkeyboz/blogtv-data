@@ -1,0 +1,4 @@
+# blogtv-data GitHub Pages config
+# Serves /data/*.json at https://monkeyboz.github.io/blogtv-data/data/
+
+# No Jekyll processing needed - just serve static files
