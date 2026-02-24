@@ -63,7 +63,7 @@ async function get(url, params = {}, timeout = 15000) {
 async function fetchIptvOrg() {
   console.log('Fetching iptv-org...');
   const raw = await get(
-    'https://iptv-org.github.io/iptv/index.nsfw.m3u',
+    'https://iptv-org.github.io/iptv/index.m3u',
     {}, 30000
   );
   if (!raw) return {};
