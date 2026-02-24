@@ -1,8 +1,308 @@
 {
-  "updated": "2026-02-24T19:38:22.180Z",
+  "updated": "2026-02-24T22:47:06.139Z",
   "version": "1.0",
   "categories": {
     "news": [
+      {
+        "name": "2GB Sydney (1080p)",
+        "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+        "id": "2GB.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3AW Melbourne (1080p)",
+        "logo": "https://i.imgur.com/Z4MdB0S.png",
+        "id": "3AW.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "id": "4DmasNoticiasTV.py@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "4TV News (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+        "id": "4TVNews.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "6PR Perth (1080p)",
+        "logo": "https://i.imgur.com/Q9iCxg1.png",
+        "id": "6PR.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "6 TV Telugu (576p)",
+        "logo": "https://i.imgur.com/l3EcRnZ.png",
+        "id": "6TVTelugu.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "10 TV (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
+        "id": "10TV.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "13 Siam Thai (1080p)",
+        "logo": "https://i.imgur.com/FvEp1S2.png",
+        "id": "13SiamThai.th@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "22Scope News (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "id": "22ScopeNews.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "24/7 Canal de Noticias",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "id": "247CanaldeNoticias.ar@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "24KZ",
+        "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
+        "id": "24KZ.kz@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "like Gecko Chrome/76.0.3809.25 Safari/537.36\" group-title=\"News\",24 TV (1080p)",
+        "logo": "https://i.imgur.com/8FO41es.png",
+        "id": "24TV.tr@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "24 Канал (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+        "id": "Channel24.ua@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "30A Lionel Nation TV",
+        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+        "id": "30ALionelNation.us@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/ln.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "92 News HD (720p)",
+        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+        "id": "92NewsHD.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "1Almere TV (720p)",
+        "logo": "https://i.imgur.com/XfkbTrU.png",
+        "id": "1AlmereTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "1TV (720p)",
+        "logo": "https://i.imgur.com/FSkYLPK.png",
+        "id": "1TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "1Twente TV (1080p)",
+        "logo": "https://i.imgur.com/ftiuNK3.png",
+        "id": "1TwenteTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "2M Monde",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "2M Monde +1 (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@Plus1",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "2TV (720p)",
+        "logo": "https://i.imgur.com/FJBL6zI.png",
+        "id": "2TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3HD",
+        "logo": "https://i.imgur.com/YRiulCU.png",
+        "id": "3HD.th@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3sat (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3sat HD (1080p) [Geo-Blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",5 Канал",
+        "logo": "https://i.imgur.com/KPXMa3U.png",
+        "id": "Channel5.ru@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "8 La Marina TV (576p)",
+        "logo": "https://i.imgur.com/BTJvvBK.png",
+        "id": "8LaMarinaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "8NTV (1080p)",
+        "logo": "https://i.imgur.com/7ecgGIG.png",
+        "id": "8NTV.mx@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "news"
+      },
       {
         "name": "DW News English",
         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -53,18 +353,2130 @@
         "source": "custom"
       }
     ],
-    "history": [],
-    "sports": [],
-    "music": [],
-    "entertainment": [],
+    "history": [
+      {
+        "name": "A2i Naija (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/yq7ghPE.jpg",
+        "id": "A2iNaija.sn@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Al Alamiya 2",
+        "logo": "https://i.imgur.com/5FrE3Nv.png",
+        "id": "AlAlamiya2.sd@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://82.212.74.98:8000/live/7815.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Alhiwar TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/UjOxwdd.png",
+        "id": "AlHiwarTV.uk@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "ALTV (1080p)",
+        "logo": "https://i.imgur.com/MCbCSWv.png",
+        "id": "ALTV.th@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Anger Management",
+        "logo": "https://i.imgur.com/VXZgrNy.png",
+        "id": "AngerManagementChannel.us@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591",
+        "category": "history"
+      },
+      {
+        "name": "Animaux [Geo-Blocked]",
+        "logo": "https://i.imgur.com/FM9FVAG.png",
+        "id": "Animaux.fr@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
+        "category": "history"
+      },
+      {
+        "name": "ARD-alpha (720p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+        "id": "ARDalpha.de@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "ARD-alpha HD [Geo-Blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+        "id": "ARDalpha.de@HD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Arkansas PBS [Geo-blocked]",
+        "logo": "https://i.imgur.com/dNBZLtD.png",
+        "id": "KETSDT1.us@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
+        "logo": "https://i.imgur.com/tUgEAUJ.png",
+        "id": "CVCEducation.us@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Iv1Fe67.png",
+        "id": "BUTV10.us@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "BVG (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png",
+        "id": "BVG.in@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://mumt05.tangotv.in/BVG/index.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Campus TV (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/E1TmADM.png",
+        "id": "CampusTV.hn@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Canal 15 ILCE Summa Sabres (720p)",
+        "logo": "https://i.imgur.com/r7czgOc.png",
+        "id": "ILCECanal15SummaSaberes.mx@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Canal 15 Nicaragüense (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/DGBMuEs.png",
+        "id": "Canal15.ni@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cootv.cootel.com.ni:8095/Canal15_CooTel/playlist.m3u8",
+        "category": "history"
+      }
+    ],
+    "sports": [
+      {
+        "name": "30A Golf Kingdom",
+        "logo": "https://golfkingdom.net/wp-content/uploads/2022/04/golf-kingdom-st.jpg",
+        "id": "30AGolfKingdom.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/vidaa/golf.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": ":Šport (1080p)",
+        "logo": "https://i.imgur.com/oAtcxNZ.png",
+        "id": "Sport.sk@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Abu Dhabi Sports 1 (1080p)",
+        "logo": "https://i.imgur.com/6BVWk8z.png",
+        "id": "AbuDhabiSports1.ae@HD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Abu Dhabi Sports 2 (1080p)",
+        "logo": "https://i.imgur.com/y1I2jFK.png",
+        "id": "AbuDhabiSports2.ae@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "ACCDN (1080p)",
+        "logo": "https://i.imgur.com/V6Kaqha.png",
+        "id": "ACCDigitalNetwork.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "ACI Sport TV (1080p)",
+        "logo": "https://i.imgur.com/U8cHMOt.png",
+        "id": "ACISportTV.it@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "ACL Cornhole TV",
+        "logo": "https://i.imgur.com/lBIq2ZD.png",
+        "id": "ACLCornholeTV.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=NbEpkTCqk8a",
+        "category": "sports"
+      },
+      {
+        "name": "Adjarasport 1",
+        "logo": "https://i.imgur.com/SVV5xHC.png",
+        "id": "Adjarasport1.ge@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Adventure Sports TV (1080p)",
+        "logo": "https://i.imgur.com/9oyc88J.png",
+        "id": "AdventureSportsTV.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alfa Sport (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/vhMPYIW.png",
+        "id": "AlfaSport.cy@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Five (1080p)",
+        "logo": "https://i.imgur.com/6RGNGsM.png",
+        "id": "AlkassFive.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Four (1080p)",
+        "logo": "https://i.imgur.com/iDL65Wu.png",
+        "id": "AlkassFour.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass One (1080p)",
+        "logo": "https://i.imgur.com/10mmlha.png",
+        "id": "AlkassOne.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Seven (1080p)",
+        "logo": "https://i.imgur.com/3eyHP3S.png",
+        "id": "AlkassSeven.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass SHOOF (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof.png",
+        "id": "AlkassSHOOF.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "category": "sports"
+      }
+    ],
+    "music": [
+      {
+        "name": "4 Fun TV (576i) [Not 24/7]",
+        "logo": "https://i.imgur.com/rI1wo2l.png",
+        "id": "4FunTV.pl@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "4 Kurd",
+        "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
+        "id": "4Kurd.fr@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "7 RadioVisione (720p)",
+        "logo": "https://radio7note.com/img/favicon/android-icon-192x192.png",
+        "id": "7RadioVisione.it@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "7S Music (576p)",
+        "logo": "https://i.imgur.com/zDiIhdN.png",
+        "id": "7SMusic.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "7 YOU & ME (720p)",
+        "logo": "https://i.imgur.com/Rte2K3x.png",
+        "id": "7YOUME.it@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "9X Jalwa (1080p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
+        "id": "9XJalwa.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "9X Jhakaas",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/9xjhakaas.png",
+        "id": "9XJhakaas.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "9X Tashan",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png",
+        "id": "9XTashan.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "9XM (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png",
+        "id": "9XM.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://b.jsrdn.com/strm/channels/9xm/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "13 Festival (1080p)",
+        "logo": "https://i.imgur.com/Ymk6j5o.png",
+        "id": "13Festival.cl@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "15+ Music (1080p)",
+        "logo": "https://i.imgur.com/kj21hwd.png",
+        "id": "15PlusMusic.ru@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "30A Music (720p)",
+        "logo": "https://i.imgur.com/gNWg9tl.png",
+        "id": "30AMusic.us@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/music.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "51 Radio TV (480p) [Geo-blocked]",
+        "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+        "id": "51RadioTV.it@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "70-80 TV (1080P)",
+        "logo": "https://i.imgur.com/y4kNV3Q.png",
+        "id": "7080TV.it@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "88 Stereo (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/i3YwORV.png",
+        "id": "88Stereo.cr@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+        "category": "music"
+      }
+    ],
+    "entertainment": [
+      {
+        "name": "2х2 [Geo-blocked]",
+        "logo": "https://i.imgur.com/fhQFLEl.png",
+        "id": "2x2.ru@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "4U TV (720p)",
+        "logo": "https://i.imgur.com/PexhKwp.png",
+        "id": "4UTV.tr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://hls.4utv.live/hls/stream.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "5AAB TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/jrGrfof.png",
+        "id": "5AABTV.ca@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "6ter (1080p) [Geo-blocked] [Geo-Blocked]",
+        "logo": "https://i.imgur.com/2nd5Cox.png",
+        "id": "6ter.fr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "8TV",
+        "logo": "https://i.imgur.com/Jkx9W88.png",
+        "id": "8TV.my@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cdn6.163189.xyz/163189/8tv",
+        "category": "entertainment"
+      },
+      {
+        "name": "9Gem (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/cwLzqaw.png",
+        "id": "9Gem.au@Sydney",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "13 Entretención (720p)",
+        "logo": "https://i.imgur.com/utI1tJV.png",
+        "id": "13E.cl@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "13 Realities (1080p)",
+        "logo": "https://i.imgur.com/m0SuwMU.png",
+        "id": "13Realities.cl@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "20 Mediaset [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png",
+        "id": "20.it@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Sidewalks (720p)",
+        "logo": "https://i.imgur.com/HSdwqZN.png",
+        "id": "30ASidewalks.us@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/sidewalks.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Television Channel",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
+        "id": "30ATelevisionChannel.us@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "247 Box TV",
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "id": "247BoxTV.ir@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://hls.247box.live/hls/stream.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "312 ТВ (406p)",
+        "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+        "id": "312TV.kg@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "¡OPA! (1080i) [Geo-blocked]",
+        "logo": "https://i.imgur.com/300c1ZH.png",
+        "id": "OPA.cr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "A&E East (720p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "id": "AE.us@East",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tvpass.org/live/AEEast/hd",
+        "category": "entertainment"
+      },
+      {
+        "name": "9Life (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/HlJOrGI.png",
+        "id": "9Life.au@Sydney",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "13 Prime (720p)",
+        "logo": "https://i.imgur.com/R6D228s.png",
+        "id": "13P.cl@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Luxe Life Discovered",
+        "logo": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+        "id": "30ALuxeLifeDiscovered.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Alma TV (576p)",
+        "logo": "https://i.imgur.com/MfFOnJp.png",
+        "id": "AlmaTV.it@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Antena Monden (720p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+        "id": "AntenaMonden.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Autentic Travel (1080p)",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+        "id": "AutenticTravel.de@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Ayush TV (360p) [Not 24/7]",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ayush_TV.png",
+        "id": "AyushTV.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
+        "category": "entertainment"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
+        "category": "entertainment"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CaTine (720p)",
+        "logo": "https://i.imgur.com/eFNHuIh.png",
+        "id": "CaTine.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "entertainment"
+      }
+    ],
     "nature": [],
-    "cooking": [],
-    "travel": [],
-    "politics": [],
-    "business": [],
-    "health": [],
-    "kids": [],
-    "animation": [],
-    "general": []
+    "cooking": [
+      {
+        "name": "9Life (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/HlJOrGI.png",
+        "id": "9Life.au@Sydney",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "13 Prime (720p)",
+        "logo": "https://i.imgur.com/R6D228s.png",
+        "id": "13P.cl@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "30A Luxe Life Discovered",
+        "logo": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+        "id": "30ALuxeLifeDiscovered.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Alma TV (576p)",
+        "logo": "https://i.imgur.com/MfFOnJp.png",
+        "id": "AlmaTV.it@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Antena Monden (720p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+        "id": "AntenaMonden.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Autentic Travel (1080p)",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+        "id": "AutenticTravel.de@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Ayush TV (360p) [Not 24/7]",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ayush_TV.png",
+        "id": "AyushTV.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
+        "category": "cooking"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
+        "category": "cooking"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CaTine (720p)",
+        "logo": "https://i.imgur.com/eFNHuIh.png",
+        "id": "CaTine.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "cooking"
+      }
+    ],
+    "travel": [
+      {
+        "name": "Aruba.TV (1080p)",
+        "logo": "https://i.imgur.com/9fWY09U.png",
+        "id": "ArubaTV.aw@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn01.setar.aw/Canal49/canal49/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "BamBarBia TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/zdRvy87.png",
+        "id": "BamBarBiaTV.ua@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Beach TV CSULB (160p) [Not 24/7]",
+        "logo": "https://i.imgur.com/EJjfSWi.png",
+        "id": "BeachTVCSULB.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Beach TV Florida & Alabama (720p)",
+        "logo": "https://i.imgur.com/weypM9C.png",
+        "id": "BeachTVFloridaAlabama.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Beach TV Key West & Florida Keys (720p)",
+        "logo": "https://i.imgur.com/XhDBdff.png",
+        "id": "BeachTVKeyWestFloridaKeys.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Beach TV Myrtle Beach & The Grand Strand (720p)",
+        "logo": "https://i.imgur.com/aLYz7Bv.png",
+        "id": "BeachTVMyrtleBeachTheGrandStrand.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Beach TV Panama City (720p)",
+        "logo": "https://i.imgur.com/HCQDvEe.png",
+        "id": "BeachTVPanamaCity.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "BHA TV (1080p)",
+        "logo": "https://i.imgur.com/Nz5zM3H.png",
+        "id": "BHATV.bz@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streamer2.nexgen.bz/15-BHA/index.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Discover Pakistan (1080p)",
+        "logo": "https://i.imgur.com/IJH47fJ.png",
+        "id": "DiscoverPakistan.pk@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Go2Travel (1080p)",
+        "logo": "https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png",
+        "id": "Go2Travel.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://go2thls.wns.live/hls/stream.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Go USA TV (720p)",
+        "logo": "https://i.imgur.com/x90ALip.png",
+        "id": "GoUSATV.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "GoTraveler (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/IaRcN1G.png",
+        "id": "GoTraveler.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Living Asia Channel",
+        "logo": "https://i.imgur.com/q3UToRM.png",
+        "id": "LivingAsiaChannel.ph@HD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Maldives TV (720p)",
+        "logo": "https://i.imgur.com/Zl2FmFC.png",
+        "id": "MaldivesTV.mv@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lana.psm.mv/live/mtv.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "NOTV New Orleans TV (720p)",
+        "logo": "https://i.imgur.com/D7Lzqyl.png",
+        "id": "KNOVCD1.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+        "category": "travel"
+      }
+    ],
+    "politics": [
+      {
+        "name": "2GB Sydney (1080p)",
+        "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
+        "id": "2GB.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3AW Melbourne (1080p)",
+        "logo": "https://i.imgur.com/Z4MdB0S.png",
+        "id": "3AW.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
+        "id": "4DmasNoticiasTV.py@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "4TV News (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png",
+        "id": "4TVNews.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "6PR Perth (1080p)",
+        "logo": "https://i.imgur.com/Q9iCxg1.png",
+        "id": "6PR.au@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "6 TV Telugu (576p)",
+        "logo": "https://i.imgur.com/l3EcRnZ.png",
+        "id": "6TVTelugu.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "10 TV (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
+        "id": "10TV.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "13 Siam Thai (1080p)",
+        "logo": "https://i.imgur.com/FvEp1S2.png",
+        "id": "13SiamThai.th@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live.x2.co.th/live/13livetv-th.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "22Scope News (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png",
+        "id": "22ScopeNews.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "24/7 Canal de Noticias",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "id": "247CanaldeNoticias.ar@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "24KZ",
+        "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
+        "id": "24KZ.kz@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "like Gecko Chrome/76.0.3809.25 Safari/537.36\" group-title=\"News\",24 TV (1080p)",
+        "logo": "https://i.imgur.com/8FO41es.png",
+        "id": "24TV.tr@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "24 Канал (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+        "id": "Channel24.ua@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "30A Lionel Nation TV",
+        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+        "id": "30ALionelNation.us@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/ln.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "92 News HD (720p)",
+        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+        "id": "92NewsHD.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "1Almere TV (720p)",
+        "logo": "https://i.imgur.com/XfkbTrU.png",
+        "id": "1AlmereTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "1TV (720p)",
+        "logo": "https://i.imgur.com/FSkYLPK.png",
+        "id": "1TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "1Twente TV (1080p)",
+        "logo": "https://i.imgur.com/ftiuNK3.png",
+        "id": "1TwenteTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "2M Monde",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "2M Monde +1 (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@Plus1",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "2TV (720p)",
+        "logo": "https://i.imgur.com/FJBL6zI.png",
+        "id": "2TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3HD",
+        "logo": "https://i.imgur.com/YRiulCU.png",
+        "id": "3HD.th@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3sat (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3sat HD (1080p) [Geo-Blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",5 Канал",
+        "logo": "https://i.imgur.com/KPXMa3U.png",
+        "id": "Channel5.ru@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "8 La Marina TV (576p)",
+        "logo": "https://i.imgur.com/BTJvvBK.png",
+        "id": "8LaMarinaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "8NTV (1080p)",
+        "logo": "https://i.imgur.com/7ecgGIG.png",
+        "id": "8NTV.mx@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "politics"
+      }
+    ],
+    "business": [
+      {
+        "name": "30A Investment Pitch (720p)",
+        "logo": "https://i.imgur.com/CKCtZo7.png",
+        "id": "30AInvestmentPitch.us@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Al Arabiya Business (1080p)",
+        "logo": "https://i.imgur.com/eEV4r6J.jpg",
+        "id": "AlArabiyaBusiness.ae@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Aleph Business (1280p)",
+        "logo": "https://i.imgur.com/IqvZBeo.png",
+        "id": "AlephBusiness.ro@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streamw.m.ro/Aleph/ngrp:Alephbiz.stream_all/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Ameritrade (1080p) [Not 24/7]",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CZKwin9mL.png",
+        "id": "Ameritrade.us@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tdameritrade-vizio.amagi.tv/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "ausbiz TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/8vGGdB0.png",
+        "id": "AusbizTV.au@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/iTH9Z0j.png",
+        "id": "BilyonaryoNewsChannel.ph@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg HT (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/bmkXfIE.png",
+        "id": "BloombergHT.tr@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg Originals",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+        "id": "BloombergOriginals.us@Poland",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg Originals (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+        "id": "BloombergOriginals.us@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV Asia (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Asia",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV Asia Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@AsiaLiveEvent",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV Australia (270p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Australia",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV EMEA Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@EMEALiveEvent",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV Europe [Geo-Blocked]",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Europe",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTVMongolia.mn@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+        "category": "business"
+      }
+    ],
+    "health": [
+      {
+        "name": "9Life (720p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/HlJOrGI.png",
+        "id": "9Life.au@Sydney",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "13 Prime (720p)",
+        "logo": "https://i.imgur.com/R6D228s.png",
+        "id": "13P.cl@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "30A Luxe Life Discovered",
+        "logo": "https://m.media-amazon.com/images/I/51FJ5A0mEyL.jpg",
+        "id": "30ALuxeLifeDiscovered.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Alma TV (576p)",
+        "logo": "https://i.imgur.com/MfFOnJp.png",
+        "id": "AlmaTV.it@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Antena Monden (720p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
+        "id": "AntenaMonden.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Autentic Travel (1080p)",
+        "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
+        "id": "AutenticTravel.de@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Ayush TV (360p) [Not 24/7]",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Ayush_TV.png",
+        "id": "AyushTV.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BBC_lifestyle/HLSv3-FTA/BBC_lifestyle.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
+        "category": "health"
+      },
+      {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
+        "category": "health"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CaTine (720p)",
+        "logo": "https://i.imgur.com/eFNHuIh.png",
+        "id": "CaTine.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "health"
+      }
+    ],
+    "kids": [
+      {
+        "name": "4 Fun Kids (576i) [[Not 24/7]]",
+        "logo": "https://i.imgur.com/2JO5Y8c.png",
+        "id": "4FunKids.pl@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "13 Kids (1080p)",
+        "logo": "https://i.imgur.com/8WJUbSD.png",
+        "id": "13Kids.cl@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "ABC Kids",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
+        "id": "ABCKids.au@Sydney",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://c.mjh.nz/abc-kids.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Afarin Baxcha (1080p)",
+        "logo": "https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png",
+        "id": "AfarinBaxcha.iq@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Afarin TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/6MnXD7g.png",
+        "id": "AfarinTV.iq@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Aghapy Kids (1080p)",
+        "logo": "https://i.imgur.com/8ariztD.png",
+        "id": "AghapyKids.us@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Amou Yazid TV (576p)",
+        "logo": "https://i.imgur.com/L8UPGPC.png",
+        "id": "AmouYazidTV.dz@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Ani",
+        "logo": "https://i.imgur.com/i2AP0hp.png",
+        "id": "Ani.ru@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://31.148.48.15/Ani/index.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "ARB Gunes",
+        "logo": "https://i.imgur.com/dSg7KUK.png",
+        "id": "ARBGunes.az@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Atfal & Mawaheb TV (1080p)",
+        "logo": "https://i.imgur.com/Y2BqP9m.png",
+        "id": "AtfalMawahebTV.sa@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png",
+        "id": "Avatar.us@Germany",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=942fbd6a-2e59-4f33-aba3-b450b9fd1954",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
+        "id": "Avatar.us@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
+        "id": "Avatar.us@UK",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656df599c0fc8800089c75ab/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e2d744d7-54b2-4426-9bff-633413a16def",
+        "category": "kids"
+      },
+      {
+        "name": "Baby Shark TV",
+        "logo": "https://i.imgur.com/SbBKr8L.png",
+        "id": "BabySharkTV.us@Poland",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Baby Shark TV (720p)",
+        "logo": "https://i.imgur.com/SbBKr8L.png",
+        "id": "BabySharkTV.us@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "category": "kids"
+      }
+    ],
+    "animation": [
+      {
+        "name": "ADN TV+",
+        "logo": "https://i.imgur.com/HQZQyWt.png",
+        "id": "ADNTVPlus.fr@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Animax Asia India (1080p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png",
+        "id": "AnimaxAsia.sg@India",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Anime (1080p)",
+        "logo": "https://shahid.mbc.net/mediaObject/a5893f8d-8488-4c21-ab97-a627f99c7676?height=auto&width=512&croppingPoint=&version=1&type=png",
+        "id": "Anime.sa@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Anime Vision (1080p)",
+        "logo": "https://i.imgur.com/pUpKznl.png",
+        "id": "AnimeVision.es@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Anime Vision Classics (1080p)",
+        "logo": "https://i.imgur.com/mTaiEE1.png",
+        "id": "AnimeVisionClassics.es@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Anime Zone TV (480p)",
+        "logo": "https://i.imgur.com/AHaXlCh.png",
+        "id": "AnimeZoneTV.do@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://animezonetv.net/hls/stream.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Aniplus Asia (720p)",
+        "logo": "https://i.imgur.com/Im3MePy.png",
+        "id": "AniplusAsia.sg@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Becker",
+        "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+        "id": "AlanBeckerTV.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca065-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b43dd2-234d-4338-9a94-c40967ccbed6",
+        "category": "animation"
+      },
+      {
+        "name": "Blues TV",
+        "logo": "https://i.imgur.com/px0CSti.png",
+        "id": "KMBYLD5.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "DreikoTv (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/k8U0e0b.png",
+        "id": "DreikoTV.pa@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "EnerGeek (720p) [Not 24/7]",
+        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+        "id": "EnerGeek.cl@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
+        "name": "Geekdot (720p)",
+        "logo": "https://i.imgur.com/jML1u4O.png",
+        "id": "Geekdot.br@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Gong (1080p)",
+        "logo": "https://i.imgur.com/lA9UFMG.png",
+        "id": "Gong.fr@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Magic Kids (486p)",
+        "logo": "https://i.imgur.com/CMImqQY.png",
+        "id": "MagicKids.ar@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Movies for Gamers",
+        "logo": "https://i.imgur.com/aqjzEkb.png",
+        "id": "MoviesforGamers.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=df2515d1-b943-492a-9b0f-e1d6db00001d",
+        "category": "animation"
+      }
+    ],
+    "general": [
+      {
+        "name": "1Almere TV (720p)",
+        "logo": "https://i.imgur.com/XfkbTrU.png",
+        "id": "1AlmereTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "1TV (720p)",
+        "logo": "https://i.imgur.com/FSkYLPK.png",
+        "id": "1TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "1Twente TV (1080p)",
+        "logo": "https://i.imgur.com/ftiuNK3.png",
+        "id": "1TwenteTV.nl@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "2M Monde",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "2M Monde +1 (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@Plus1",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "2TV (720p)",
+        "logo": "https://i.imgur.com/FJBL6zI.png",
+        "id": "2TV.ge@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "3HD",
+        "logo": "https://i.imgur.com/YRiulCU.png",
+        "id": "3HD.th@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "3sat (720p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "3sat HD (1080p) [Geo-Blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "id": "3sat.de@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",5 Канал",
+        "logo": "https://i.imgur.com/KPXMa3U.png",
+        "id": "Channel5.ru@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "8 La Marina TV (576p)",
+        "logo": "https://i.imgur.com/BTJvvBK.png",
+        "id": "8LaMarinaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "8NTV (1080p)",
+        "logo": "https://i.imgur.com/7ecgGIG.png",
+        "id": "8NTV.mx@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "general"
+      }
+    ]
   }
 }
