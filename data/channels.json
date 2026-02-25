@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-24T23:55:04.335Z",
+  "updated": "2026-02-25T01:05:13.318Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2220,13 +2220,13 @@
         "category": "business"
       },
       {
-        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (720p)",
+        "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTVMongolia.mn@SD",
         "group": "Business",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
