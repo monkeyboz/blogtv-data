@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T06:37:04.587Z",
+  "updated": "2026-02-27T12:29:47.478Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,6 +515,15 @@
         "category": "science"
       },
       {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "The World Heritage",
         "url": "https://www.themoviedb.org/tv/82172",
         "logo": "https://image.tmdb.org/t/p/w92/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
@@ -537,15 +546,6 @@
         "url": "https://www.themoviedb.org/tv/98271",
         "logo": "https://image.tmdb.org/t/p/w92/19ChTJxvw9jZpMnWKsuXc83eI5C.jpg",
         "desc": "Discover Europe in all its diversity of viewpoints",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
