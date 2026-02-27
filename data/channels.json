@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T00:59:43.895Z",
+  "updated": "2026-02-27T06:37:04.587Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1061,6 +1061,15 @@
         "category": "music"
       },
       {
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/31143",
         "logo": "https://image.tmdb.org/t/p/w92/9nVwikNQG1AK9hmjRfT5G95tCen.jpg",
         "desc": "Los exitosos Pells is a 2008-2009 Argentine telenovela, produced by Underground Producciones and Endemol, and aired by T",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
