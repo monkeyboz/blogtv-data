@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-26T18:35:25.226Z",
+  "updated": "2026-02-27T00:59:43.895Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,15 +405,6 @@
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -423,19 +414,19 @@
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -454,6 +445,15 @@
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -611,13 +611,13 @@
         "category": "history"
       },
       {
-        "name": "Anger Management",
+        "name": "Anger Management Channel (1080p)",
         "logo": "https://i.imgur.com/VXZgrNy.png",
         "id": "AngerManagementChannel.us@SD",
         "group": "Education",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591",
+        "url": "https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8",
         "category": "history"
       },
       {
@@ -1329,26 +1329,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
-        "category": "entertainment"
-      },
-      {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
-        "category": "entertainment"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1396,6 +1376,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CCTV-12 (2160p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CineLife",
+        "logo": "https://i.imgur.com/RIUNuMQ.png",
+        "id": "CineLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1554,26 +1554,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
-        "category": "cooking"
-      },
-      {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
-        "category": "cooking"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1621,6 +1601,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CCTV-12 (2160p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CineLife",
+        "logo": "https://i.imgur.com/RIUNuMQ.png",
+        "id": "CineLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -2130,6 +2130,16 @@
         "category": "business"
       },
       {
+        "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Berita Satu [Geo-blocked]",
+        "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
+        "id": "BeritaSatu.id",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8",
+        "category": "business"
+      },
+      {
         "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/iTH9Z0j.png",
         "id": "BilyonaryoNewsChannel.ph@SD",
@@ -2170,6 +2180,16 @@
         "category": "business"
       },
       {
+        "name": "Bloomberg TV + (2160p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Plus",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8",
+        "category": "business"
+      },
+      {
         "name": "Bloomberg TV Asia (720p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@Asia",
@@ -2207,26 +2227,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg TV Europe [Geo-Blocked]",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTV.us@Europe",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTVMongolia.mn@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
@@ -2312,26 +2312,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca064-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12cb58bd-609a-4a2f-9905-c2bb4ea0def1",
-        "category": "health"
-      },
-      {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=ee900083-fa45-4f88-90c6-bfd208fd21b9",
-        "category": "health"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2379,6 +2359,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CCTV-12 (2160p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CineLife",
+        "logo": "https://i.imgur.com/RIUNuMQ.png",
+        "id": "CineLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "health"
       }
     ],
@@ -2484,36 +2484,6 @@
         "category": "kids"
       },
       {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png",
-        "id": "Avatar.us@Germany",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=62b227dc-b436-4646-95c2-26345773df69&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=942fbd6a-2e59-4f33-aba3-b450b9fd1954",
-        "category": "kids"
-      },
-      {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
-        "id": "Avatar.us@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/600adbdf8c554e00072125c9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca060-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c480aed6-08b6-4f7d-9964-40220005ecb8",
-        "category": "kids"
-      },
-      {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
-        "id": "Avatar.us@UK",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656df599c0fc8800089c75ab/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=07998d5d-dd4a-4bcc-84be-58dcbcec76b7&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e2d744d7-54b2-4426-9bff-633413a16def",
-        "category": "kids"
-      },
-      {
         "name": "Baby Shark TV",
         "logo": "https://i.imgur.com/SbBKr8L.png",
         "id": "BabySharkTV.us@Poland",
@@ -2531,6 +2501,36 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "BabyFirst",
+        "logo": "https://i.imgur.com/WxLHBwu.png",
+        "id": "BabyFirst.us@US",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "BabyFirst Spanish",
+        "logo": "https://i.imgur.com/WxLHBwu.png",
+        "id": "BabyFirst.us@Spanish",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "id": "BabyTV.uk@Turkiye",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
         "category": "kids"
       },
       {
@@ -2678,16 +2678,6 @@
         "category": "animation"
       },
       {
-        "name": "Becker",
-        "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
-        "id": "AlanBeckerTV.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/630348a54c48ce00077eb6c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1ca065-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c5b43dd2-234d-4338-9a94-c40967ccbed6",
-        "category": "animation"
-      },
-      {
         "name": "Blues TV",
         "logo": "https://i.imgur.com/px0CSti.png",
         "id": "KMBYLD5.us@SD",
@@ -2748,13 +2738,23 @@
         "category": "animation"
       },
       {
-        "name": "Movies for Gamers",
-        "logo": "https://i.imgur.com/aqjzEkb.png",
-        "id": "MoviesforGamers.us@SD",
+        "name": "Toonami Aftermath East (480p)",
+        "logo": "https://i.imgur.com/aSjhZK7.png",
+        "id": "ToonamiAftermath.us@East",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=df2515d1-b943-492a-9b0f-e1d6db00001d",
+        "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Yu-Gi-Oh! (1080p)",
+        "logo": "https://i.imgur.com/Tl6aW2u.png",
+        "id": "YuGiOh.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
         "category": "animation"
       },
       {
