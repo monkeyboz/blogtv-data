@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-27T18:25:05.806Z",
+  "updated": "2026-02-28T00:53:36.963Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1061,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Sweet Home, Sweet Honey",
-        "url": "https://www.themoviedb.org/tv/64357",
-        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
-        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Crazy Love",
-        "url": "https://www.themoviedb.org/tv/60437",
-        "logo": "https://image.tmdb.org/t/p/w92/3AflXXOx01kqAlOFcNbcUZh3d7y.jpg",
-        "desc": "A destitute young Yoon Mi-so was brought up in an orphanage, but eventually found good fortune in the form of Lee Min-ja",
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Los exitosos Pells",
-        "url": "https://www.themoviedb.org/tv/31143",
-        "logo": "https://image.tmdb.org/t/p/w92/9nVwikNQG1AK9hmjRfT5G95tCen.jpg",
-        "desc": "Los exitosos Pells is a 2008-2009 Argentine telenovela, produced by Underground Producciones and Endemol, and aired by T",
+        "name": "Crazy Love",
+        "url": "https://www.themoviedb.org/tv/60437",
+        "logo": "https://image.tmdb.org/t/p/w92/3AflXXOx01kqAlOFcNbcUZh3d7y.jpg",
+        "desc": "A destitute young Yoon Mi-so was brought up in an orphanage, but eventually found good fortune in the form of Lee Min-ja",
         "source": "tmdb",
         "type": "info",
         "category": "music"
