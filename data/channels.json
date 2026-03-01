@@ -1,5 +1,5 @@
 {
-  "updated": "2026-02-28T18:15:38.663Z",
+  "updated": "2026-03-01T01:07:10.054Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1379,7 +1379,7 @@
         "category": "entertainment"
       },
       {
-        "name": "CCTV-12 (2160p)",
+        "name": "CCTV-12 (2160p) [Geo-blocked]",
         "logo": "https://i.imgur.com/3yTuiOM.png",
         "id": "CCTV12.cn@SD",
         "group": "Lifestyle",
@@ -1604,7 +1604,7 @@
         "category": "cooking"
       },
       {
-        "name": "CCTV-12 (2160p)",
+        "name": "CCTV-12 (2160p) [Geo-blocked]",
         "logo": "https://i.imgur.com/3yTuiOM.png",
         "id": "CCTV12.cn@SD",
         "group": "Lifestyle",
@@ -1625,6 +1625,16 @@
       }
     ],
     "travel": [
+      {
+        "name": "4K TRAVEL TV",
+        "logo": "https://i.imgur.com/zsGt5iH.png",
+        "id": "TravelTV.es",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO",
+        "category": "travel"
+      },
       {
         "name": "Aruba.TV (1080p)",
         "logo": "https://i.imgur.com/9fWY09U.png",
@@ -1746,6 +1756,16 @@
         "category": "travel"
       },
       {
+        "name": "InTravel (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
+        "id": "INTRAVEL.nl",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8",
+        "category": "travel"
+      },
+      {
         "name": "Living Asia Channel",
         "logo": "https://i.imgur.com/q3UToRM.png",
         "id": "LivingAsiaChannel.ph@HD",
@@ -1753,26 +1773,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streams.comclark.com/pknsd/lac/playlist.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "Maldives TV (720p)",
-        "logo": "https://i.imgur.com/Zl2FmFC.png",
-        "id": "MaldivesTV.mv@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lana.psm.mv/live/mtv.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "NOTV New Orleans TV (720p)",
-        "logo": "https://i.imgur.com/D7Lzqyl.png",
-        "id": "KNOVCD1.us@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
         "category": "travel"
       }
     ],
@@ -2362,7 +2362,7 @@
         "category": "health"
       },
       {
-        "name": "CCTV-12 (2160p)",
+        "name": "CCTV-12 (2160p) [Geo-blocked]",
         "logo": "https://i.imgur.com/3yTuiOM.png",
         "id": "CCTV12.cn@SD",
         "group": "Lifestyle",
@@ -2708,6 +2708,16 @@
         "category": "animation"
       },
       {
+        "name": "EnerGeek Fan",
+        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+        "id": "EnerGeekFAN.cl",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
         "name": "Geekdot (720p)",
         "logo": "https://i.imgur.com/jML1u4O.png",
         "id": "Geekdot.br@SD",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://api.toonamiaftermath.com:3000/est/playlist.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Yu-Gi-Oh! (1080p)",
-        "logo": "https://i.imgur.com/Tl6aW2u.png",
-        "id": "YuGiOh.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8",
         "category": "animation"
       },
       {
