@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T06:40:53.617Z",
+  "updated": "2026-03-02T12:29:33.445Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
