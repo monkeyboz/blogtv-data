@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-02T18:29:54.738Z",
+  "updated": "2026-03-03T01:02:12.139Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2180,6 +2180,16 @@
         "category": "business"
       },
       {
+        "name": "Bloomberg Originals (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
+        "id": "BloombergOriginals.us@US",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
+        "category": "business"
+      },
+      {
         "name": "Bloomberg TV + (2160p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@Plus",
@@ -2217,16 +2227,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg TV EMEA Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTV.us@EMEALiveEvent",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
         "category": "business"
       }
     ],
