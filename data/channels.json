@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T12:28:33.774Z",
+  "updated": "2026-03-04T18:30:49.443Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,6 +322,15 @@
         "category": "news"
       },
       {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -340,8 +349,8 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
         "logo": "",
         "desc": "",
         "source": "tmdb",
@@ -353,15 +362,6 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -405,15 +405,6 @@
         "category": "technology"
       },
       {
-        "name": "A Knight of the Seven Kingdoms",
-        "url": "https://www.themoviedb.org/tv/224372",
-        "logo": "https://image.tmdb.org/t/p/w92/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
-        "desc": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous kni",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Pili",
         "url": "https://www.themoviedb.org/tv/19530",
         "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
@@ -423,10 +414,10 @@
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
+        "name": "A Knight of the Seven Kingdoms",
+        "url": "https://www.themoviedb.org/tv/224372",
+        "logo": "https://image.tmdb.org/t/p/w92/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
+        "desc": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous kni",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -441,10 +432,10 @@
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
         "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1043,15 +1043,6 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "You are My Destiny",
         "url": "https://www.themoviedb.org/tv/39068",
         "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
@@ -1061,10 +1052,10 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1070,28 @@
         "category": "music"
       },
       {
-        "name": "Crazy Love",
-        "url": "https://www.themoviedb.org/tv/60437",
-        "logo": "https://image.tmdb.org/t/p/w92/3AflXXOx01kqAlOFcNbcUZh3d7y.jpg",
-        "desc": "A destitute young Yoon Mi-so was brought up in an orphanage, but eventually found good fortune in the form of Lee Min-ja",
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Crazy Love",
+        "url": "https://www.themoviedb.org/tv/60437",
+        "logo": "https://image.tmdb.org/t/p/w92/3AflXXOx01kqAlOFcNbcUZh3d7y.jpg",
+        "desc": "A destitute young Yoon Mi-so was brought up in an orphanage, but eventually found good fortune in the form of Lee Min-ja",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,19 +1417,19 @@
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Duel Masters",
+        "url": "https://www.themoviedb.org/tv/46392",
+        "logo": "https://image.tmdb.org/t/p/w92/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+        "desc": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to l",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
