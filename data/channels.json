@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-03T18:31:41.752Z",
+  "updated": "2026-03-04T00:58:52.267Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1319,6 +1319,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Home & Garden (1080p)",
+        "logo": "https://i.imgur.com/rC0pi1D.png",
+        "id": "BBCHomeGarden.us",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CineLife",
-        "logo": "https://i.imgur.com/RIUNuMQ.png",
-        "id": "CineLife.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1544,6 +1544,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Home & Garden (1080p)",
+        "logo": "https://i.imgur.com/rC0pi1D.png",
+        "id": "BBCHomeGarden.us",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CineLife",
-        "logo": "https://i.imgur.com/RIUNuMQ.png",
-        "id": "CineLife.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -1756,6 +1756,16 @@
         "category": "travel"
       },
       {
+        "name": "JOURNY TV (720p)",
+        "logo": "https://i.imgur.com/1JNrLxq.png",
+        "id": "Journy.us",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
+        "category": "travel"
+      },
+      {
         "name": "Living Asia Channel (1080p)",
         "logo": "https://i.imgur.com/q3UToRM.png",
         "id": "LivingAsiaChannel.ph@HD",
@@ -1763,16 +1773,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "Maldives TV (720p)",
-        "logo": "https://i.imgur.com/Zl2FmFC.png",
-        "id": "MaldivesTV.mv@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lana.psm.mv/live/mtv.m3u8",
         "category": "travel"
       }
     ],
@@ -2160,36 +2160,6 @@
         "category": "business"
       },
       {
-        "name": "Bloomberg Originals",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-        "id": "BloombergOriginals.us@Poland",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg Originals (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-        "id": "BloombergOriginals.us@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnT3JpZ2luYWxzX0hMUw/playlist.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg Originals (1080p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Bloomberg_Originals.png",
-        "id": "BloombergOriginals.us@US",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://dai.google.com/linear/hls/event/jKwfd4apQcuxQtyRI9Q6-Q/master.m3u8",
-        "category": "business"
-      },
-      {
         "name": "Bloomberg TV + (2160p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@Plus",
@@ -2227,6 +2197,36 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV EMEA Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@EMEALiveEvent",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV Europe (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Europe",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTVMongolia.mn@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
@@ -2302,6 +2302,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Home & Garden (1080p)",
+        "logo": "https://i.imgur.com/rC0pi1D.png",
+        "id": "BBCHomeGarden.us",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d11r33s5i066xh.cloudfront.net/playlist.m3u8",
+        "category": "health"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CineLife",
-        "logo": "https://i.imgur.com/RIUNuMQ.png",
-        "id": "CineLife.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8",
         "category": "health"
       }
     ],
@@ -2618,6 +2618,16 @@
         "category": "animation"
       },
       {
+        "name": "Animation+ (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/OIFK6JB.png",
+        "id": "AnimationPlus.us",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png",
         "id": "AnimaxAsia.sg@India",
@@ -2655,6 +2665,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "ANIME x HIDIVE (720p)",
+        "logo": "https://i.imgur.com/v0BlxCa.png",
+        "id": "AnimexHIDIVE.us",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
         "category": "animation"
       },
       {
@@ -2728,33 +2748,13 @@
         "category": "animation"
       },
       {
-        "name": "Geekdot (720p)",
-        "logo": "https://i.imgur.com/jML1u4O.png",
-        "id": "Geekdot.br@SD",
+        "name": "FilmRise Anime (720p)",
+        "logo": "https://i.imgur.com/3wqeGXM.png",
+        "id": "FilmRiseAnime.us",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Gong (1080p)",
-        "logo": "https://i.imgur.com/lA9UFMG.png",
-        "id": "Gong.fr@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Magic Kids (486p)",
-        "logo": "https://i.imgur.com/CMImqQY.png",
-        "id": "MagicKids.ar@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://magicstream.ddns.net/magicstream/stream.m3u8",
+        "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
         "category": "animation"
       },
       {
