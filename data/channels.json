@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-04T06:31:33.393Z",
+  "updated": "2026-03-04T12:28:33.774Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
