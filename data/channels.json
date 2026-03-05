@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-05T01:01:06.126Z",
+  "updated": "2026-03-05T06:35:21.477Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2794,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "BAKI-DOU: The Invincible Samurai",
-        "url": "https://www.themoviedb.org/tv/300054",
-        "logo": "https://image.tmdb.org/t/p/w92/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
-        "desc": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyam",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "BAKI-DOU: The Invincible Samurai",
+        "url": "https://www.themoviedb.org/tv/300054",
+        "logo": "https://image.tmdb.org/t/p/w92/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+        "desc": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
