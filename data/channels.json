@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T12:26:56.997Z",
+  "updated": "2026-03-06T18:27:49.287Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -423,24 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Kamen Rider",
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
@@ -463,6 +445,24 @@
         "url": "https://www.themoviedb.org/tv/224372",
         "logo": "https://image.tmdb.org/t/p/w92/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg",
         "desc": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous kni",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Crazy Love",
+        "url": "https://www.themoviedb.org/tv/60437",
+        "logo": "https://image.tmdb.org/t/p/w92/3AflXXOx01kqAlOFcNbcUZh3d7y.jpg",
+        "desc": "A destitute young Yoon Mi-so was brought up in an orphanage, but eventually found good fortune in the form of Lee Min-ja",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Beautiful You",
-        "url": "https://www.themoviedb.org/tv/65365",
-        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
-        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
+        "name": "My Son-In-Law's Woman",
+        "url": "https://www.themoviedb.org/tv/65352",
+        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
+        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,28 +1417,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Among Friends",
         "url": "https://www.themoviedb.org/tv/50821",
         "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
         "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "The Pendragon Cycle: Rise of the Merlin",
+        "url": "https://www.themoviedb.org/tv/235685",
+        "logo": "https://image.tmdb.org/t/p/w92/jJfk8NXauN4UgFQ1qn9lFzEk7ib.jpg",
+        "desc": "Merlin, the immortal son of the bard Taliesin and Atlantean Princess Charis, is followed through his tragic upbringing, ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2552,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Pleasant Goat and Big Big Wolf",
-        "url": "https://www.themoviedb.org/tv/6732",
-        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
-        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
+        "name": "Duel Masters",
+        "url": "https://www.themoviedb.org/tv/46392",
+        "logo": "https://image.tmdb.org/t/p/w92/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
+        "desc": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to l",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Duel Masters",
-        "url": "https://www.themoviedb.org/tv/46392",
-        "logo": "https://image.tmdb.org/t/p/w92/t5ijeKzOukACRktUfbjuMIlqwfr.jpg",
-        "desc": "A mysterious organization is interested in fledging duelist Shobu Kirifuda's ability to bring Duel Master creatures to l",
+        "name": "Pleasant Goat and Big Big Wolf",
+        "url": "https://www.themoviedb.org/tv/6732",
+        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
+        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,19 +2785,19 @@
         "category": "animation"
       },
       {
-        "name": "BAKI-DOU: The Invincible Samurai",
-        "url": "https://www.themoviedb.org/tv/300054",
-        "logo": "https://image.tmdb.org/t/p/w92/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
-        "desc": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyam",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "BAKI-DOU: The Invincible Samurai",
+        "url": "https://www.themoviedb.org/tv/300054",
+        "logo": "https://image.tmdb.org/t/p/w92/frtzbwANetYd0M4zdrZ5gx0E89q.jpg",
+        "desc": "Baki and the strongest Underground Arena fighters face a threat of historical proportions: the resurrected Musashi Miyam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Ichigo Aika: Strawberry Elegy",
+        "url": "https://www.themoviedb.org/tv/300015",
+        "logo": "https://image.tmdb.org/t/p/w92/fjKOO6PBLwLG3ViyvrIL9oZUmbU.jpg",
+        "desc": "The story centers on a pair of stepsiblings. When Kōta's father gets remarried, Kōta's first impression of his new steps",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
