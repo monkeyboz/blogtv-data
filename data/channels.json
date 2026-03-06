@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T01:05:32.350Z",
+  "updated": "2026-03-06T06:31:56.879Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2552,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
