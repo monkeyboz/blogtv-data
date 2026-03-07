@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T06:23:10.454Z",
+  "updated": "2026-03-07T12:20:44.434Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,19 +423,19 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,15 +524,6 @@
         "category": "science"
       },
       {
-        "name": "Formula 1: Drive to Survive",
-        "url": "https://www.themoviedb.org/tv/87083",
-        "logo": "https://image.tmdb.org/t/p/w92/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
-        "desc": "Drivers, managers and team owners live life in the fast lane - both on and off the track - during one cutthroat season o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "RE: European Stories",
         "url": "https://www.themoviedb.org/tv/98271",
         "logo": "https://image.tmdb.org/t/p/w92/19ChTJxvw9jZpMnWKsuXc83eI5C.jpg",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/20097",
         "logo": "https://image.tmdb.org/t/p/w92/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
         "desc": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "science"
