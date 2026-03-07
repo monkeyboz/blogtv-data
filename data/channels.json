@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-06T18:27:49.287Z",
+  "updated": "2026-03-07T00:56:44.600Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -506,15 +506,6 @@
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Bares für Rares",
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
@@ -524,10 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Découverte",
+        "url": "https://www.themoviedb.org/tv/20097",
+        "logo": "https://image.tmdb.org/t/p/w92/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
+        "desc": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2220,7 +2220,7 @@
         "category": "business"
       },
       {
-        "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTVMongolia.mn@SD",
         "group": "Business",
