@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-07T18:16:47.346Z",
+  "updated": "2026-03-08T01:01:01.651Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,15 +414,6 @@
         "category": "technology"
       },
       {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
@@ -432,10 +423,10 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "Game of Thrones",
+        "url": "https://www.themoviedb.org/tv/1399",
+        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -459,10 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Monarch: Legacy of Monsters",
+        "url": "https://www.themoviedb.org/tv/202411",
+        "logo": "https://image.tmdb.org/t/p/w92/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+        "desc": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threat",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -743,26 +743,6 @@
         "category": "sports"
       },
       {
-        "name": "Abu Dhabi Sports 1 (1080p)",
-        "logo": "https://i.imgur.com/6BVWk8z.png",
-        "id": "AbuDhabiSports1.ae@HD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Abu Dhabi Sports 2 (1080p)",
-        "logo": "https://i.imgur.com/y1I2jFK.png",
-        "id": "AbuDhabiSports2.ae@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "ACCDN (1080p)",
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "id": "ACCDigitalNetwork.us@SD",
@@ -783,13 +763,13 @@
         "category": "sports"
       },
       {
-        "name": "ACL Cornhole TV (1080p)",
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",ACL Cornhole TV (1080p)",
         "logo": "https://i.imgur.com/lBIq2ZD.png",
         "id": "ACLCornholeTV.us@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy",
         "category": "sports"
       },
       {
@@ -870,6 +850,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass SHOOF 2 (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+        "id": "AlkassSHOOF2.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Six (1080p)",
+        "logo": "https://i.imgur.com/CrPSPSC.png",
+        "id": "AlkassSix.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -955,13 +955,13 @@
         "category": "music"
       },
       {
-        "name": "9XM (576p)",
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Music\",9XM (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png",
         "id": "9XM.in@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://b.jsrdn.com/strm/channels/9xm/master.m3u8",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.vf=JyGLrSjXxAC",
         "category": "music"
       },
       {
@@ -1756,13 +1756,13 @@
         "category": "travel"
       },
       {
-        "name": "JOURNY TV (720p)",
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Travel\",Journy (720p)",
         "logo": "https://i.imgur.com/1JNrLxq.png",
-        "id": "Journy.us",
+        "id": "Journy.us@SD",
         "group": "Travel",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
         "category": "travel"
       },
       {
@@ -2160,6 +2160,16 @@
         "category": "business"
       },
       {
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Business\",Bloomberg Television (1080p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@US",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bloomberg-television/bloombergtv.m3u8?ads.vf=XfUcpFmGLda",
+        "category": "business"
+      },
+      {
         "name": "Bloomberg TV + (2160p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@Plus",
@@ -2217,16 +2227,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTVMongolia.mn@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
@@ -2709,7 +2709,7 @@
       },
       {
         "name": "Chutti TV (576p)",
-        "logo": "https://i.imgur.com/FSM47sR.png",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHUTTI_TV/images/LOGO_HD/image.png",
         "id": "ChuttiTV.in@SD",
         "group": "Animation",
         "source": "iptv-org",
