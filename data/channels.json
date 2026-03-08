@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T01:01:01.651Z",
+  "updated": "2026-03-08T06:27:56.600Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -184,13 +184,23 @@
         "category": "news"
       },
       {
-        "name": "2M Monde",
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "2M Monde (576p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
         "category": "news"
       },
       {
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
         "category": "news"
       },
       {
@@ -515,6 +515,15 @@
         "category": "science"
       },
       {
+        "name": "The Dinosaurs",
+        "url": "https://www.themoviedb.org/tv/313298",
+        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/87083",
         "logo": "https://image.tmdb.org/t/p/w92/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg",
         "desc": "Drivers, managers and team owners live life in the fast lane - both on and off the track - during one cutthroat season o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Découverte",
-        "url": "https://www.themoviedb.org/tv/20097",
-        "logo": "https://image.tmdb.org/t/p/w92/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
-        "desc": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1958,13 +1958,23 @@
         "category": "politics"
       },
       {
-        "name": "2M Monde",
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "2M Monde (576p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
         "category": "politics"
       },
       {
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
         "category": "politics"
       }
     ],
@@ -2758,6 +2758,15 @@
         "category": "animation"
       },
       {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
@@ -2771,15 +2780,6 @@
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Ichigo Aika: Strawberry Elegy",
         "url": "https://www.themoviedb.org/tv/300015",
         "logo": "https://image.tmdb.org/t/p/w92/fjKOO6PBLwLG3ViyvrIL9oZUmbU.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
         "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2862,13 +2862,23 @@
         "category": "general"
       },
       {
-        "name": "2M Monde",
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "2M Monde (576p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
         "category": "general"
       },
       {
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
         "category": "general"
       }
     ]
