@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-08T18:16:50.031Z",
+  "updated": "2026-03-09T01:01:24.958Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1321,7 +1321,7 @@
       {
         "name": "BBC Home & Garden (1080p)",
         "logo": "https://i.imgur.com/rC0pi1D.png",
-        "id": "BBCHomeGarden.us",
+        "id": "BBCHomeGarden.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -1546,7 +1546,7 @@
       {
         "name": "BBC Home & Garden (1080p)",
         "logo": "https://i.imgur.com/rC0pi1D.png",
-        "id": "BBCHomeGarden.us",
+        "id": "BBCHomeGarden.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -2304,7 +2304,7 @@
       {
         "name": "BBC Home & Garden (1080p)",
         "logo": "https://i.imgur.com/rC0pi1D.png",
-        "id": "BBCHomeGarden.us",
+        "id": "BBCHomeGarden.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -2620,7 +2620,7 @@
       {
         "name": "Animation+ (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/OIFK6JB.png",
-        "id": "AnimationPlus.us",
+        "id": "AnimationPlus.us@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
@@ -2670,7 +2670,7 @@
       {
         "name": "ANIME x HIDIVE (720p)",
         "logo": "https://i.imgur.com/v0BlxCa.png",
-        "id": "AnimexHIDIVE.us",
+        "id": "AnimexHIDIVE.us@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
@@ -2750,7 +2750,7 @@
       {
         "name": "FilmRise Anime (720p)",
         "logo": "https://i.imgur.com/3wqeGXM.png",
-        "id": "FilmRiseAnime.us",
+        "id": "FilmRiseAnime.us@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
