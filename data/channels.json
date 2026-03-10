@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T00:55:55.517Z",
+  "updated": "2026-03-10T06:33:13.245Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,19 +497,19 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
+        "name": "The Dinosaurs",
+        "url": "https://www.themoviedb.org/tv/313298",
+        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "The Dinosaurs",
-        "url": "https://www.themoviedb.org/tv/313298",
-        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
