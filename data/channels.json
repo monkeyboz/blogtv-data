@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-10T18:32:40.409Z",
+  "updated": "2026-03-11T00:56:56.501Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -125,7 +125,7 @@
       },
       {
         "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
         "id": "Channel24.ua@SD",
         "group": "News",
         "source": "iptv-org",
@@ -235,7 +235,7 @@
       },
       {
         "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
@@ -245,7 +245,7 @@
       },
       {
         "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@HD",
         "group": "General",
         "source": "iptv-org",
@@ -622,7 +622,7 @@
       },
       {
         "name": "ARD-alpha (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
         "id": "ARDalpha.de@SD",
         "group": "Education",
         "source": "iptv-org",
@@ -632,7 +632,7 @@
       },
       {
         "name": "ARD-alpha HD [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
         "id": "ARDalpha.de@HD",
         "group": "Education",
         "source": "iptv-org",
@@ -925,6 +925,16 @@
         "category": "music"
       },
       {
+        "name": "8XM (576p)",
+        "logo": "https://i.imgur.com/KLrfKRn.png",
+        "id": "8XM.pk@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://115.42.65.142:9981/stream/channelid/582886861",
+        "category": "music"
+      },
+      {
         "name": "9X Jalwa (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
         "id": "9XJalwa.in@SD",
@@ -1015,13 +1025,12 @@
         "category": "music"
       },
       {
-        "name": "88 Stereo (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/i3YwORV.png",
-        "id": "88Stereo.cr@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "source": "tmdb",
+        "type": "info",
         "category": "music"
       },
       {
@@ -1029,15 +1038,6 @@
         "url": "https://www.themoviedb.org/tv/2942",
         "logo": "https://image.tmdb.org/t/p/w92/7wmyiVEhmJ7OUvwBIsvOFqMa0q9.jpg",
         "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,6 +1070,15 @@
         "category": "music"
       },
       {
+        "name": "My Son-In-Law's Woman",
+        "url": "https://www.themoviedb.org/tv/65352",
+        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
+        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Head over Heels",
         "url": "https://www.themoviedb.org/tv/58929",
         "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
         "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1180,7 +1180,7 @@
       },
       {
         "name": "20 Mediaset [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "id": "20.it@SD",
         "group": "Entertainment",
         "source": "iptv-org",
@@ -1240,7 +1240,7 @@
       },
       {
         "name": "A&E East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
         "id": "AE.us@East",
         "group": "Entertainment",
         "source": "iptv-org",
@@ -1899,7 +1899,7 @@
       },
       {
         "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
         "id": "Channel24.ua@SD",
         "group": "News",
         "source": "iptv-org",
@@ -2009,7 +2009,7 @@
       },
       {
         "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
@@ -2019,7 +2019,7 @@
       },
       {
         "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@HD",
         "group": "General",
         "source": "iptv-org",
@@ -2629,7 +2629,7 @@
       },
       {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/512px-Animax.png",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
         "id": "AnimaxAsia.sg@India",
         "group": "Animation",
         "source": "iptv-org",
@@ -2714,7 +2714,7 @@
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://111.88.78.21:8000/play/a0z5/index.m3u8",
+        "url": "http://iptvcasomsapi.jprdigital.in/x-media/C0572/master.m3u8",
         "category": "animation"
       },
       {
@@ -2913,7 +2913,7 @@
       },
       {
         "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
@@ -2923,7 +2923,7 @@
       },
       {
         "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@HD",
         "group": "General",
         "source": "iptv-org",
