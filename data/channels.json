@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-11T00:56:56.501Z",
+  "updated": "2026-03-11T06:36:17.097Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2552,6 +2552,15 @@
         "category": "kids"
       },
       {
+        "name": "Shin Chan",
+        "url": "https://www.themoviedb.org/tv/30623",
+        "logo": "https://image.tmdb.org/t/p/w92/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+        "desc": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the m",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2579,10 +2588,10 @@
         "category": "kids"
       },
       {
-        "name": "Shin Chan",
-        "url": "https://www.themoviedb.org/tv/30623",
-        "logo": "https://image.tmdb.org/t/p/w92/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
-        "desc": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the m",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2592,15 +2601,6 @@
         "url": "https://www.themoviedb.org/tv/155256",
         "logo": "https://image.tmdb.org/t/p/w92/9Il7a5oQSpo12wGCkBwkB5S1H3O.jpg",
         "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Pleasant Goat and Big Big Wolf",
-        "url": "https://www.themoviedb.org/tv/6732",
-        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
-        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
