@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T12:29:53.088Z",
+  "updated": "2026-03-12T18:36:07.636Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
-        "desc": "",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -405,15 +405,6 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -432,19 +423,10 @@
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -459,10 +441,28 @@
         "category": "technology"
       },
       {
+        "name": "Game of Thrones",
+        "url": "https://www.themoviedb.org/tv/1399",
+        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Smallville",
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,24 +488,6 @@
     ],
     "science": [
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Horizon",
         "url": "https://www.themoviedb.org/tv/1966",
         "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
@@ -524,19 +506,19 @@
         "category": "science"
       },
       {
-        "name": "Scoop",
-        "url": "https://www.themoviedb.org/tv/203599",
-        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
-        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "The Dinosaurs",
-        "url": "https://www.themoviedb.org/tv/313298",
-        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +533,28 @@
         "category": "science"
       },
       {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "MythBusters",
         "url": "https://www.themoviedb.org/tv/1428",
         "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
         "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "The Dinosaurs",
+        "url": "https://www.themoviedb.org/tv/313298",
+        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1025,10 +1025,10 @@
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1043,19 +1043,10 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "My Son-In-Law's Woman",
-        "url": "https://www.themoviedb.org/tv/65352",
-        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
-        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,37 +1417,28 @@
         "category": "entertainment"
       },
       {
+        "name": "Family Matters",
+        "url": "https://www.themoviedb.org/tv/2685",
+        "logo": "https://image.tmdb.org/t/p/w92/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+        "desc": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "The Goldbergs",
+        "url": "https://www.themoviedb.org/tv/49009",
+        "logo": "https://image.tmdb.org/t/p/w92/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+        "desc": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '8",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "HK 80's",
         "url": "https://www.themoviedb.org/tv/228091",
         "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
         "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
         "desc": "The life of Christ through the eyes of those who encountered him.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,19 +2561,28 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "name": "Obake no Q-tarō",
+        "url": "https://www.themoviedb.org/tv/112527",
+        "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
+        "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Pleasant Goat and Big Big Wolf",
-        "url": "https://www.themoviedb.org/tv/6732",
-        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
-        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Happy Toon",
-        "url": "https://www.themoviedb.org/tv/155256",
-        "logo": "https://image.tmdb.org/t/p/w92/9Il7a5oQSpo12wGCkBwkB5S1H3O.jpg",
-        "desc": "",
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,15 +2776,6 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
@@ -2794,10 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "Pokémon",
-        "url": "https://www.themoviedb.org/tv/60572",
-        "logo": "https://image.tmdb.org/t/p/w92/w1g6hUQg0IzXyU7APRfCQbepsKN.jpg",
-        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,10 +2803,19 @@
         "category": "animation"
       },
       {
-        "name": "Chibi Maruko-chan",
-        "url": "https://www.themoviedb.org/tv/57775",
-        "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-        "desc": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a c",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/w1g6hUQg0IzXyU7APRfCQbepsKN.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
