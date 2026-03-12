@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T00:54:14.643Z",
+  "updated": "2026-03-12T06:38:05.575Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -396,6 +396,15 @@
     ],
     "technology": [
       {
+        "name": "ONE PIECE",
+        "url": "https://www.themoviedb.org/tv/111110",
+        "logo": "https://image.tmdb.org/t/p/w92/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+        "desc": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Pili",
         "url": "https://www.themoviedb.org/tv/19530",
         "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
@@ -418,15 +427,6 @@
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/lv3OlrXyTNg4Dz0JrtopOmMziNs.jpg",
         "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "ONE PIECE",
-        "url": "https://www.themoviedb.org/tv/111110",
-        "logo": "https://image.tmdb.org/t/p/w92/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-        "desc": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,19 +524,19 @@
         "category": "science"
       },
       {
-        "name": "The Dinosaurs",
-        "url": "https://www.themoviedb.org/tv/313298",
-        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
-        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Scoop",
-        "url": "https://www.themoviedb.org/tv/203599",
-        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
-        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
+        "name": "The Dinosaurs",
+        "url": "https://www.themoviedb.org/tv/313298",
+        "logo": "https://image.tmdb.org/t/p/w92/x37IK9WWhuzi7tgyMT4ff3kiT5X.jpg",
+        "desc": "From the first dinosaurs to the last, this epic documentary series examines their 165 million years on Earth and the for",
         "source": "tmdb",
         "type": "info",
         "category": "science"
