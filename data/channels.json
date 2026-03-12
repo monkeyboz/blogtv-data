@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-12T06:38:05.575Z",
+  "updated": "2026-03-12T12:29:53.088Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2794,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/w1g6hUQg0IzXyU7APRfCQbepsKN.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Pokémon",
-        "url": "https://www.themoviedb.org/tv/60572",
-        "logo": "https://image.tmdb.org/t/p/w92/w1g6hUQg0IzXyU7APRfCQbepsKN.jpg",
-        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
