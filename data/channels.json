@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-13T18:25:19.721Z",
+  "updated": "2026-03-14T00:59:01.717Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
@@ -546,6 +537,15 @@
         "url": "https://www.themoviedb.org/tv/1428",
         "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
         "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -783,16 +783,6 @@
         "category": "sports"
       },
       {
-        "name": "Adventure Sports TV (1080p)",
-        "logo": "https://i.imgur.com/9oyc88J.png",
-        "id": "AdventureSportsTV.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "Alfa Sport (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/vhMPYIW.png",
         "id": "AlfaSport.cy@SD",
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Three (1080p)",
+        "logo": "https://i.imgur.com/d57BdFh.png",
+        "id": "AlkassThree.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -1339,6 +1339,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1379,39 +1389,10 @@
         "category": "entertainment"
       },
       {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CCTV-12 (2160p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,10 +1416,19 @@
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1443,19 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1564,6 +1554,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1601,26 +1601,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CCTV-12 (2160p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2140,13 +2120,13 @@
         "category": "business"
       },
       {
-        "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
+        "name": "Bilyonaryo News Channel (1080p)",
         "logo": "https://i.imgur.com/iTH9Z0j.png",
         "id": "BilyonaryoNewsChannel.ph@SD",
         "group": "Business",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8",
+        "url": "https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8",
         "category": "business"
       },
       {
@@ -2322,6 +2302,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Austria",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2359,26 +2349,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CCTV-12 (2160p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://123.175.209.52:9003/hls/13/index.m3u8",
         "category": "health"
       }
     ],
@@ -2484,6 +2454,26 @@
         "category": "kids"
       },
       {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png",
+        "id": "Avatar.us@Germany",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
+        "id": "Avatar.us@UK",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Baby Shark TV",
         "logo": "https://i.imgur.com/SbBKr8L.png",
         "id": "BabySharkTV.us@Poland",
@@ -2501,36 +2491,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "BabyFirst",
-        "logo": "https://i.imgur.com/WxLHBwu.png",
-        "id": "BabyFirst.us@US",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "BabyFirst Spanish",
-        "logo": "https://i.imgur.com/WxLHBwu.png",
-        "id": "BabyFirst.us@Spanish",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
-        "id": "BabyTV.uk@Turkiye",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
         "category": "kids"
       },
       {
@@ -2698,6 +2658,16 @@
         "category": "animation"
       },
       {
+        "name": "Becker",
+        "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
+        "id": "AlanBeckerTV.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "Blues TV",
         "logo": "https://i.imgur.com/px0CSti.png",
         "id": "KMBYLD5.us@SD",
@@ -2745,16 +2715,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
-        "category": "animation"
-      },
-      {
-        "name": "FilmRise Anime (720p)",
-        "logo": "https://i.imgur.com/3wqeGXM.png",
-        "id": "FilmRiseAnime.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
         "category": "animation"
       },
       {
