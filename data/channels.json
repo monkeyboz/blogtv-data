@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-16T18:43:51.807Z",
+  "updated": "2026-03-17T01:01:17.542Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1341,7 +1341,7 @@
       {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
+        "id": "BBCTravel.us@Germany",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -1386,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1556,7 +1566,7 @@
       {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
+        "id": "BBCTravel.us@Germany",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -1601,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2304,7 +2324,7 @@
       {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Austria",
+        "id": "BBCTravel.us@Germany",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
@@ -2349,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
@@ -2494,6 +2524,16 @@
         "category": "kids"
       },
       {
+        "name": "Baby TV Spain (1080p)",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "id": "BabyTV.uk@Spain",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://45.95.78.232:8001/udp/239.106.86.1:5000",
+        "category": "kids"
+      },
+      {
         "name": "Obake no Q-tarō",
         "url": "https://www.themoviedb.org/tv/112527",
         "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
@@ -2530,19 +2570,10 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Bionic Six",
-        "url": "https://www.themoviedb.org/tv/11092",
-        "logo": "https://image.tmdb.org/t/p/w92/cdI7RkGufJ1dGIWNaQtjW7VM9EI.jpg",
-        "desc": "The title characters of the series are a family of machine-enhanced human beings possessing unique powers after being au",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2557,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Bionic Six",
+        "url": "https://www.themoviedb.org/tv/11092",
+        "logo": "https://image.tmdb.org/t/p/w92/cdI7RkGufJ1dGIWNaQtjW7VM9EI.jpg",
+        "desc": "The title characters of the series are a family of machine-enhanced human beings possessing unique powers after being au",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2658,16 +2698,6 @@
         "category": "animation"
       },
       {
-        "name": "Becker",
-        "logo": "https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",
-        "id": "AlanBeckerTV.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "Blues TV",
         "logo": "https://i.imgur.com/px0CSti.png",
         "id": "KMBYLD5.us@SD",
@@ -2715,6 +2745,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
+        "name": "FilmRise Anime (720p)",
+        "logo": "https://i.imgur.com/3wqeGXM.png",
+        "id": "FilmRiseAnime.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
         "category": "animation"
       },
       {
