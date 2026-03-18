@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-17T18:43:18.272Z",
+  "updated": "2026-03-18T01:05:05.057Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -114,6 +114,16 @@
         "category": "news"
       },
       {
+        "name": "24 News (576p)",
+        "logo": "https://i.imgur.com/xraizkS.png",
+        "id": "24News.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+        "category": "news"
+      },
+      {
         "name": "like Gecko Chrome/76.0.3809.25 Safari/537.36\" group-title=\"News\",24 TV (1080p)",
         "logo": "https://i.imgur.com/8FO41es.png",
         "id": "24TV.tr@SD",
@@ -141,16 +151,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/ln.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "92 News HD (720p)",
-        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
-        "id": "92NewsHD.pk@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
         "category": "news"
       },
       {
@@ -1888,6 +1888,16 @@
         "category": "politics"
       },
       {
+        "name": "24 News (576p)",
+        "logo": "https://i.imgur.com/xraizkS.png",
+        "id": "24News.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "like Gecko Chrome/76.0.3809.25 Safari/537.36\" group-title=\"News\",24 TV (1080p)",
         "logo": "https://i.imgur.com/8FO41es.png",
         "id": "24TV.tr@SD",
@@ -1915,16 +1925,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/ln.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "92 News HD (720p)",
-        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
-        "id": "92NewsHD.pk@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
         "category": "politics"
       },
       {
