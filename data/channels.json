@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T12:29:55.505Z",
+  "updated": "2026-03-20T18:30:15.541Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -396,6 +396,15 @@
     ],
     "technology": [
       {
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -414,19 +423,28 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -445,24 +463,6 @@
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,10 +488,28 @@
     ],
     "science": [
       {
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Fuse",
         "url": "https://www.themoviedb.org/tv/16656",
         "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
         "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,46 +533,28 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "The World Heritage",
+        "url": "https://www.themoviedb.org/tv/82172",
+        "logo": "https://image.tmdb.org/t/p/w92/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
+        "desc": "TBS’s ”World Heritage,” is a 30-minute weekly documentary series that is registered by UNESCO under Natural Heritage, Cu",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "name": "Découverte",
+        "url": "https://www.themoviedb.org/tv/20097",
+        "logo": "https://image.tmdb.org/t/p/w92/gqrOZ2vIWrDvlYOYAGc3K4Ya2Jw.jpg",
+        "desc": "Charles Tisseyre explores the world of science and technology through real-world stories. Each episode features reports ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Scoop",
-        "url": "https://www.themoviedb.org/tv/203599",
-        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
-        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fun Abroad: 3D2N",
-        "url": "https://www.themoviedb.org/tv/208344",
-        "logo": "https://image.tmdb.org/t/p/w92/37w9D05BhjEi2yKyT9XKHXcVJIr.jpg",
-        "desc": "Fun Abroad: 3D2N is a tourism project. In the early days, it was characterized by a tight schedule and a high degree of ",
+        "name": "Dateline",
+        "url": "https://www.themoviedb.org/tv/78",
+        "logo": "https://image.tmdb.org/t/p/w92/xj9zonhdomfBpEhZQmAON5u3CiB.jpg",
+        "desc": "Dateline NBC, or simply Dateline, is a weekly American television newsmagazine series. It was previously the network's f",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1061,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Beautiful You",
+        "url": "https://www.themoviedb.org/tv/65365",
+        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
+        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Beautiful You",
-        "url": "https://www.themoviedb.org/tv/65365",
-        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
-        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,10 +1417,28 @@
         "category": "entertainment"
       },
       {
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "The Goldbergs",
         "url": "https://www.themoviedb.org/tv/49009",
         "logo": "https://image.tmdb.org/t/p/w92/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
         "desc": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '8",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Heartland",
+        "url": "https://www.themoviedb.org/tv/14929",
+        "logo": "https://image.tmdb.org/t/p/w92/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
+        "desc": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, h",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,28 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Heartland",
-        "url": "https://www.themoviedb.org/tv/14929",
-        "logo": "https://image.tmdb.org/t/p/w92/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
-        "desc": "Life is hard on the Flemings' ranch in the Alberta foothills where abused or neglected horses find refuge with a kind, h",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "The Chosen",
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
         "desc": "The life of Christ through the eyes of those who encountered him.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,28 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Sesame Street",
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
         "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,10 +2570,10 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "GG Bond",
+        "url": "https://www.themoviedb.org/tv/217772",
+        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,6 +2785,15 @@
         "category": "animation"
       },
       {
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
@@ -2794,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Invincible",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "South Park",
-        "url": "https://www.themoviedb.org/tv/2190",
-        "logo": "https://image.tmdb.org/t/p/w92/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
-        "desc": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/w1g6hUQg0IzXyU7APRfCQbepsKN.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
