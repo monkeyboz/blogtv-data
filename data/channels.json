@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T01:01:04.659Z",
+  "updated": "2026-03-20T06:38:34.853Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
