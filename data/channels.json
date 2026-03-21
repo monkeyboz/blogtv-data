@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T18:30:15.541Z",
+  "updated": "2026-03-21T00:57:16.757Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1329,6 +1329,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Lifestyle",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Singapore",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1554,6 +1554,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Lifestyle",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Singapore",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2312,6 +2312,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Lifestyle",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Singapore",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
+        "category": "health"
+      },
+      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
