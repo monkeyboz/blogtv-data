@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T06:35:33.307Z",
+  "updated": "2026-03-22T12:22:36.860Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,19 +405,19 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Lost",
-        "url": "https://www.themoviedb.org/tv/4607",
-        "logo": "https://image.tmdb.org/t/p/w92/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-        "desc": "Stripped of everything, the survivors of a horrific plane crash  must work together to stay alive. But the island holds ",
+        "name": "ONE PIECE",
+        "url": "https://www.themoviedb.org/tv/111110",
+        "logo": "https://image.tmdb.org/t/p/w92/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+        "desc": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "science"
