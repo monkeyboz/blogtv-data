@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T12:36:47.203Z",
+  "updated": "2026-03-23T18:36:04.950Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,19 +322,19 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
-        "desc": "",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -405,19 +405,19 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "name": "ONE PIECE",
+        "url": "https://www.themoviedb.org/tv/111110",
+        "logo": "https://image.tmdb.org/t/p/w92/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
+        "desc": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "ONE PIECE",
-        "url": "https://www.themoviedb.org/tv/111110",
-        "logo": "https://image.tmdb.org/t/p/w92/blWCPEqDGLBuLB9u89CxP9ORQP4.jpg",
-        "desc": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure.",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,10 +488,10 @@
     ],
     "science": [
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -506,10 +506,10 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,10 +533,19 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "name": "Die Nordreportage",
+        "url": "https://www.themoviedb.org/tv/311137",
+        "logo": "https://image.tmdb.org/t/p/w92/2kj1EkEqPje6bPcTi8K4J6ZJCWe.jpg",
         "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/208344",
         "logo": "https://image.tmdb.org/t/p/w92/37w9D05BhjEi2yKyT9XKHXcVJIr.jpg",
         "desc": "Fun Abroad: 3D2N is a tourism project. In the early days, it was characterized by a tight schedule and a high degree of ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "name": "Beautiful You",
+        "url": "https://www.themoviedb.org/tv/65365",
+        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
+        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,19 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1444,28 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Family Matters",
+        "url": "https://www.themoviedb.org/tv/2685",
+        "logo": "https://image.tmdb.org/t/p/w92/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+        "desc": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,10 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Shin Chan",
+        "url": "https://www.themoviedb.org/tv/30623",
+        "logo": "https://image.tmdb.org/t/p/w92/zg19Paur3lVVSh8J4LJVO1wgBIg.jpg",
+        "desc": "Shin-chan, the boy next door, is a walking disaster, creating chaos wherever he goes. With the body of a child and the m",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,19 +2588,10 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Obake no Q-tarō",
+        "url": "https://www.themoviedb.org/tv/112527",
+        "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
+        "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Obake no Q-tarō",
-        "url": "https://www.themoviedb.org/tv/112527",
-        "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
-        "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,10 +2812,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Bleach",
+        "url": "https://www.themoviedb.org/tv/30984",
+        "logo": "https://image.tmdb.org/t/p/w92/5iVUUnE2tgBPypACYNobCKHagfV.jpg",
+        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
