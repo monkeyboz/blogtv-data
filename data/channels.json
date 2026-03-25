@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T18:44:11.155Z",
+  "updated": "2026-03-25T01:03:29.461Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2524,13 +2524,13 @@
         "category": "kids"
       },
       {
-        "name": "Baby TV Spain (1080p)",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
-        "id": "BabyTV.uk@Spain",
+        "name": "Babyfirst",
+        "logo": "https://i.imgur.com/WxLHBwu.png",
+        "id": "BabyFirst.us@Brazil",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://45.95.78.232:8001/udp/239.106.86.1:5000",
+        "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
         "category": "kids"
       },
       {
