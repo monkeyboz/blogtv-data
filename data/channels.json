@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T12:43:37.811Z",
+  "updated": "2026-03-26T18:46:40.543Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -331,19 +331,19 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "Vetenskapens värld",
+        "url": "https://www.themoviedb.org/tv/5859",
+        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
+        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -414,28 +414,10 @@
         "category": "technology"
       },
       {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,6 +432,24 @@
         "category": "technology"
       },
       {
+        "name": "Game of Thrones",
+        "url": "https://www.themoviedb.org/tv/1399",
+        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "The Chosen",
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Baywatch",
-        "url": "https://www.themoviedb.org/tv/4386",
-        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
-        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1061,19 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Beautiful You",
-        "url": "https://www.themoviedb.org/tv/65365",
-        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
-        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "name": "Beautiful You",
+        "url": "https://www.themoviedb.org/tv/65365",
+        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
+        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,10 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "The Goldbergs",
-        "url": "https://www.themoviedb.org/tv/49009",
-        "logo": "https://image.tmdb.org/t/p/w92/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
-        "desc": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '8",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "The Goldbergs",
+        "url": "https://www.themoviedb.org/tv/49009",
+        "logo": "https://image.tmdb.org/t/p/w92/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+        "desc": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '8",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Heartland",
         "url": "https://www.themoviedb.org/tv/14929",
         "logo": "https://image.tmdb.org/t/p/w92/uc2gtWczT58BiAUJWFz9P5aZmNF.jpg",
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Family Matters",
         "url": "https://www.themoviedb.org/tv/2685",
         "logo": "https://image.tmdb.org/t/p/w92/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
         "desc": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Beni Affet",
-        "url": "https://www.themoviedb.org/tv/119693",
-        "logo": "https://image.tmdb.org/t/p/w92/oMYjsfaEFBNcsVMxK2tQ6LmkxjP.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,10 +2543,28 @@
         "category": "kids"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "X-Men",
         "url": "https://www.themoviedb.org/tv/4574",
         "logo": "https://image.tmdb.org/t/p/w92/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
         "desc": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant righ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Pleasant Goat and Big Big Wolf",
+        "url": "https://www.themoviedb.org/tv/6732",
+        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
+        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2562,9 +2580,9 @@
       },
       {
         "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,28 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2794,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Death Note",
-        "url": "https://www.themoviedb.org/tv/13916",
-        "logo": "https://image.tmdb.org/t/p/w92/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
-        "desc": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds t",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "South Park",
-        "url": "https://www.themoviedb.org/tv/2190",
-        "logo": "https://image.tmdb.org/t/p/w92/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
-        "desc": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "name": "Death Note",
+        "url": "https://www.themoviedb.org/tv/13916",
+        "logo": "https://image.tmdb.org/t/p/w92/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+        "desc": "Light Yagami is an ace student with great prospects—and he’s bored out of his mind. But all that changes when he finds t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
