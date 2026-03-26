@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T18:39:54.953Z",
+  "updated": "2026-03-26T01:08:41.415Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2543,10 +2543,10 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "X-Men",
+        "url": "https://www.themoviedb.org/tv/4574",
+        "logo": "https://image.tmdb.org/t/p/w92/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
+        "desc": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant righ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2561,19 +2561,28 @@
         "category": "kids"
       },
       {
-        "name": "X-Men",
-        "url": "https://www.themoviedb.org/tv/4574",
-        "logo": "https://image.tmdb.org/t/p/w92/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
-        "desc": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant righ",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Victorious",
+        "url": "https://www.themoviedb.org/tv/31251",
+        "logo": "https://image.tmdb.org/t/p/w92/5YJT7qzswtdYhOGfLulXtBhUcl1.jpg",
+        "desc": "Aspiring singer Tori Vega navigates life while attending a performing arts high school called Hollywood Arts.",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "The Smurfs",
-        "url": "https://www.themoviedb.org/tv/123591",
-        "logo": "https://image.tmdb.org/t/p/w92/uiOT3X9p9eB1V5QQeSP0yAIP5gV.jpg",
-        "desc": "Blue and small, standing only three apples high, the Smurfs might be hard to tell apart at first. However, each Smurf is",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
