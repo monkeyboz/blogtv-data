@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T06:53:32.346Z",
+  "updated": "2026-03-27T12:34:22.000Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,6 +414,15 @@
         "category": "technology"
       },
       {
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "Family Matters",
+        "url": "https://www.themoviedb.org/tv/2685",
+        "logo": "https://image.tmdb.org/t/p/w92/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
+        "desc": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Family Matters",
-        "url": "https://www.themoviedb.org/tv/2685",
-        "logo": "https://image.tmdb.org/t/p/w92/lIIPV3te2mxBQBHw2rfhwkUYsHf.jpg",
-        "desc": "A long-running dramedy centering on the Winslow family, a middle-class African American family living in Chicago, and th",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
