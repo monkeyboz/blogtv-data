@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T18:22:36.596Z",
+  "updated": "2026-03-29T01:11:21.362Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -224,16 +224,6 @@
         "category": "news"
       },
       {
-        "name": "3HD",
-        "logo": "https://i.imgur.com/YRiulCU.png",
-        "id": "3HD.th@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-        "category": "news"
-      },
-      {
         "name": "3sat (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
@@ -301,6 +291,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "9 la Loma TV (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/WQP3el2.png",
+        "id": "9laLomaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9laloma.tv/live.m3u8",
         "category": "news"
       },
       {
@@ -1998,16 +1998,6 @@
         "category": "politics"
       },
       {
-        "name": "3HD",
-        "logo": "https://i.imgur.com/YRiulCU.png",
-        "id": "3HD.th@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "3sat (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
@@ -2075,6 +2065,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "9 la Loma TV (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/WQP3el2.png",
+        "id": "9laLomaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9laloma.tv/live.m3u8",
         "category": "politics"
       }
     ],
@@ -2902,16 +2902,6 @@
         "category": "general"
       },
       {
-        "name": "3HD",
-        "logo": "https://i.imgur.com/YRiulCU.png",
-        "id": "3HD.th@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
-        "category": "general"
-      },
-      {
         "name": "3sat (720p) [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
@@ -2979,6 +2969,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "9 la Loma TV (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/WQP3el2.png",
+        "id": "9laLomaTV.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://9laloma.tv/live.m3u8",
         "category": "general"
       }
     ]
