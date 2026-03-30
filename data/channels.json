@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-29T18:23:58.373Z",
+  "updated": "2026-03-30T01:12:16.033Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -184,23 +184,13 @@
         "category": "news"
       },
       {
-        "name": "2M (1080p)",
-        "logo": "https://i.imgur.com/PJYTfHi.png",
-        "id": "2M.ma@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "2M Monde (576p)",
+        "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
         "category": "news"
       },
       {
@@ -301,6 +291,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "11 Kanal (720p)",
+        "logo": "https://i.imgur.com/y78saaG.png",
+        "id": "Channel11.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "news"
       },
       {
@@ -423,6 +423,15 @@
         "category": "technology"
       },
       {
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1958,23 +1958,13 @@
         "category": "politics"
       },
       {
-        "name": "2M (1080p)",
-        "logo": "https://i.imgur.com/PJYTfHi.png",
-        "id": "2M.ma@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "2M Monde (576p)",
+        "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
         "category": "politics"
       },
       {
@@ -2075,6 +2065,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "11 Kanal (720p)",
+        "logo": "https://i.imgur.com/y78saaG.png",
+        "id": "Channel11.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "politics"
       }
     ],
@@ -2862,23 +2862,13 @@
         "category": "general"
       },
       {
-        "name": "2M (1080p)",
-        "logo": "https://i.imgur.com/PJYTfHi.png",
-        "id": "2M.ma@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0e9/index.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "2M Monde (576p)",
+        "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://5.253.46.190:8000/play/a0dt/index.m3u8",
+        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
         "category": "general"
       },
       {
@@ -2979,6 +2969,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "11 Kanal (720p)",
+        "logo": "https://i.imgur.com/y78saaG.png",
+        "id": "Channel11.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "general"
       }
     ]
