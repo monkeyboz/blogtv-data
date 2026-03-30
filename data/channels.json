@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T01:12:16.033Z",
+  "updated": "2026-03-30T07:12:42.544Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2552,15 +2552,6 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2583,6 +2574,15 @@
         "url": "https://www.themoviedb.org/tv/6732",
         "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
         "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
