@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T12:45:04.221Z",
+  "updated": "2026-03-31T18:42:47.121Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,15 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Pili",
         "url": "https://www.themoviedb.org/tv/19530",
         "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
@@ -441,10 +432,10 @@
         "category": "technology"
       },
       {
-        "name": "Maken-Ki! Battling Venus",
-        "url": "https://www.themoviedb.org/tv/60732",
-        "logo": "https://image.tmdb.org/t/p/w92/wQub2j7xzXxjtjELPqDYgDmru4r.jpg",
-        "desc": "This romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance ex",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Fun Abroad: 3D2N",
-        "url": "https://www.themoviedb.org/tv/208344",
-        "logo": "https://image.tmdb.org/t/p/w92/37w9D05BhjEi2yKyT9XKHXcVJIr.jpg",
-        "desc": "Fun Abroad: 3D2N is a tourism project. In the early days, it was characterized by a tight schedule and a high degree of ",
+        "name": "MythBusters",
+        "url": "https://www.themoviedb.org/tv/1428",
+        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,10 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Angel's Revenge",
+        "url": "https://www.themoviedb.org/tv/63945",
+        "logo": "https://image.tmdb.org/t/p/w92/aB3yYQYJjULAWsvLc2WtdPLAvCh.jpg",
+        "desc": "Lee Seon-yoo is training to become a nun. Right before she finally gets her wish, she learns that her beloved older sist",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/62409",
         "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
         "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "My Daughter, Geum Sa-Wol",
-        "url": "https://www.themoviedb.org/tv/64040",
-        "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
-        "desc": "A family has been dismantled by revenge and hate, but Geum Sa-Wol (Baek Jin-Hee) attempts to build up a dream house for ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,19 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "GG Bond",
         "url": "https://www.themoviedb.org/tv/217772",
         "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "De Fabeltjeskrant",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2794,15 +2794,6 @@
         "category": "animation"
       },
       {
-        "name": "Maken-Ki! Battling Venus",
-        "url": "https://www.themoviedb.org/tv/60732",
-        "logo": "https://image.tmdb.org/t/p/w92/wQub2j7xzXxjtjELPqDYgDmru4r.jpg",
-        "desc": "This romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance ex",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
         "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
