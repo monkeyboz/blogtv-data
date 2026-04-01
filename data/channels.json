@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T01:16:43.703Z",
+  "updated": "2026-04-01T07:05:54.503Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2570,15 +2570,6 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "GG Bond",
         "url": "https://www.themoviedb.org/tv/217772",
         "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
         "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
