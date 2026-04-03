@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T12:34:32.716Z",
+  "updated": "2026-04-03T18:30:04.969Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,15 +322,6 @@
         "category": "news"
       },
       {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -358,10 +349,19 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
+        "name": "凤凰大视野",
+        "url": "https://www.themoviedb.org/tv/93120",
+        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
         "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,10 +396,10 @@
     ],
     "technology": [
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -414,28 +414,10 @@
         "category": "technology"
       },
       {
-        "name": "Invincible",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,19 +432,37 @@
         "category": "technology"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,28 +524,28 @@
         "category": "science"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "American Experience",
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,10 +1052,10 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,19 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "Save the Family",
-        "url": "https://www.themoviedb.org/tv/64304",
-        "logo": "https://image.tmdb.org/t/p/w92/7cpgEtTYPkWZGRbMTGGBg4Z05g0.jpg",
-        "desc": "Jung Woo Jin is an ambitious doctor. After he failed in love, he no longer believes in true love. He views marriage as j",
+        "name": "Tiny Times",
+        "url": "https://www.themoviedb.org/tv/63217",
+        "logo": "https://image.tmdb.org/t/p/w92/inlMwkyW48yd6YJYXSWfL9tN1Cb.jpg",
+        "desc": "In Shanghai, high school best friends Lin Xiao, Wan Ru, Gu Li, and Nan Xiang, experience various life events that challe",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,6 +1408,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "HK 80's",
         "url": "https://www.themoviedb.org/tv/228091",
         "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
@@ -1427,18 +1436,18 @@
       },
       {
         "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "The Red Skelton Show",
+        "url": "https://www.themoviedb.org/tv/10534",
+        "logo": "https://image.tmdb.org/t/p/w92/6e54gnblIDcwDGOGhzPyV0fB6Rw.jpg",
+        "desc": "The Red Skelton Show is an American variety show that was a television staple for two decades, from 1951 to 1971. It was",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Kang's Family",
-        "url": "https://www.themoviedb.org/tv/121513",
-        "logo": "https://image.tmdb.org/t/p/w92/yubXCrUPIc83Nk53gYARF49rOYV.jpg",
-        "desc": "Kang's Family; Migrant Wives, Local Husbands (Chinese: 外来媳妇本地郎 is a Cantonese sitcom produced by Guangdong Radio and Tel",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Dancing with the Stars",
-        "url": "https://www.themoviedb.org/tv/1508",
-        "logo": "https://image.tmdb.org/t/p/w92/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
-        "desc": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom e",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2552,6 +2552,15 @@
         "category": "kids"
       },
       {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2579,28 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "GG Bond",
-        "url": "https://www.themoviedb.org/tv/217772",
-        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
-        "desc": "",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,10 +2758,28 @@
         "category": "animation"
       },
       {
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Obake no Q-tarō",
         "url": "https://www.themoviedb.org/tv/112527",
         "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
         "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,19 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Frieren: Beyond Journey's End",
-        "url": "https://www.themoviedb.org/tv/209867",
-        "logo": "https://image.tmdb.org/t/p/w92/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "desc": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of",
+        "name": "South Park",
+        "url": "https://www.themoviedb.org/tv/2190",
+        "logo": "https://image.tmdb.org/t/p/w92/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+        "desc": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
