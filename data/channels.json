@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T18:30:04.969Z",
+  "updated": "2026-04-04T01:03:50.651Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "name": "South Park",
+        "url": "https://www.themoviedb.org/tv/2190",
+        "logo": "https://image.tmdb.org/t/p/w92/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+        "desc": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "South Park",
-        "url": "https://www.themoviedb.org/tv/2190",
-        "logo": "https://image.tmdb.org/t/p/w92/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
-        "desc": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
