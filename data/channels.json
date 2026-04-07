@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T12:51:09.852Z",
+  "updated": "2026-04-07T18:43:04.095Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,6 +322,15 @@
         "category": "news"
       },
       {
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Saturday Night Live",
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
@@ -340,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -423,6 +423,15 @@
         "category": "technology"
       },
       {
+        "name": "Bloodhounds",
+        "url": "https://www.themoviedb.org/tv/127529",
+        "logo": "https://image.tmdb.org/t/p/w92/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg",
+        "desc": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Invincible",
         "url": "https://www.themoviedb.org/tv/95557",
         "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
@@ -432,10 +441,10 @@
         "category": "technology"
       },
       {
-        "name": "Bloodhounds",
-        "url": "https://www.themoviedb.org/tv/127529",
-        "logo": "https://image.tmdb.org/t/p/w92/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg",
-        "desc": "@jung",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,19 +524,19 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Rosy Lovers",
+        "url": "https://www.themoviedb.org/tv/61706",
+        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
+        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Mekakucity Actors",
-        "url": "https://www.themoviedb.org/tv/60842",
-        "logo": "https://image.tmdb.org/t/p/w92/qgHTJ0jZpuD67ZDy7LNu6bfCFXs.jpg",
-        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,15 +1426,6 @@
         "category": "entertainment"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "The Chosen",
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
@@ -1453,19 +1444,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Idol",
-        "url": "https://www.themoviedb.org/tv/57589",
-        "logo": "https://image.tmdb.org/t/p/w92/p5yJ0bBXZU03kEAm65j8rqwMFbN.jpg",
-        "desc": "The first season of Sweden's Idol premiered in August 2004 and continued until its grand finale on 26 November. It is a ",
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Idol",
+        "url": "https://www.themoviedb.org/tv/57589",
+        "logo": "https://image.tmdb.org/t/p/w92/p5yJ0bBXZU03kEAm65j8rqwMFbN.jpg",
+        "desc": "The first season of Sweden's Idol premiered in August 2004 and continued until its grand finale on 26 November. It is a ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
