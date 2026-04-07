@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T18:38:57.397Z",
+  "updated": "2026-04-07T01:10:21.075Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
+        "name": "Vetenskapens värld",
+        "url": "https://www.themoviedb.org/tv/5859",
+        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
+        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "凤凰大视野",
+        "url": "https://www.themoviedb.org/tv/93120",
+        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Only Love",
         "url": "https://www.themoviedb.org/tv/61130",
         "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
@@ -1088,10 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/qgHTJ0jZpuD67ZDy7LNu6bfCFXs.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
         "source": "tmdb",
         "type": "info",
         "category": "music"
