@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T01:11:38.560Z",
+  "updated": "2026-04-08T07:03:38.901Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -416,7 +416,7 @@
       {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
         "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2778,7 +2778,7 @@
       {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
         "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
