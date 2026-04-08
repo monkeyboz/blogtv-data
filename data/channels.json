@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T12:50:41.963Z",
+  "updated": "2026-04-08T18:59:14.973Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -396,28 +396,19 @@
     ],
     "technology": [
       {
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Pili",
         "url": "https://www.themoviedb.org/tv/19530",
         "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
         "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "NCIS",
-        "url": "https://www.themoviedb.org/tv/4614",
-        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -432,28 +423,19 @@
         "category": "technology"
       },
       {
-        "name": "Invincible",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Boys",
-        "url": "https://www.themoviedb.org/tv/76479",
-        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
+        "name": "NCIS",
+        "url": "https://www.themoviedb.org/tv/4614",
+        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -463,6 +445,24 @@
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
         "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
@@ -515,10 +506,10 @@
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,6 +524,15 @@
         "category": "science"
       },
       {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "跟着书本去旅行",
         "url": "https://www.themoviedb.org/tv/120218",
         "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "name": "Diners, Drive-Ins and Dives",
+        "url": "https://www.themoviedb.org/tv/4086",
+        "logo": "https://image.tmdb.org/t/p/w92/fPpDR6kw8bA0iZ8a0dUbexVVzn3.jpg",
+        "desc": "Host Guy Fieri takes a cross-country road trip to visit some of America's classic \"greasy spoon\" restaurants — diners, d",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1408,19 +1408,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Frasier",
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Idol",
-        "url": "https://www.themoviedb.org/tv/57589",
-        "logo": "https://image.tmdb.org/t/p/w92/p5yJ0bBXZU03kEAm65j8rqwMFbN.jpg",
-        "desc": "The first season of Sweden's Idol premiered in August 2004 and continued until its grand finale on 26 November. It is a ",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "My Little Pony: Friendship Is Magic",
-        "url": "https://www.themoviedb.org/tv/33765",
-        "logo": "https://image.tmdb.org/t/p/w92/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
-        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
