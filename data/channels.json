@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T18:59:14.973Z",
+  "updated": "2026-04-09T01:01:23.535Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,15 +313,6 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -340,6 +331,24 @@
         "category": "news"
       },
       {
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "The Colbert Report",
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
@@ -349,28 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "DAS!",
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
         "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Leute heute",
+        "url": "https://www.themoviedb.org/tv/111979",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -641,6 +641,16 @@
         "category": "history"
       },
       {
+        "name": "Arkansas PBS [Geo-blocked]",
+        "logo": "https://i.imgur.com/dNBZLtD.png",
+        "id": "KETS21.us@HD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
+        "category": "history"
+      },
+      {
         "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
         "logo": "https://i.imgur.com/tUgEAUJ.png",
         "id": "CVCEducation.us@SD",
@@ -708,16 +718,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "Canal Educativo (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/huBxZpP.png",
-        "id": "CanalEducativo.cu@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
         "category": "history"
       }
     ],
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "My Daughter, Geum Sa-Wol",
         "url": "https://www.themoviedb.org/tv/64040",
         "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
@@ -1079,19 +1070,28 @@
         "category": "music"
       },
       {
-        "name": "Rosy Lovers",
-        "url": "https://www.themoviedb.org/tv/61706",
-        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
-        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2698,6 +2698,16 @@
         "category": "animation"
       },
       {
+        "name": "Blues TV",
+        "logo": "https://i.imgur.com/px0CSti.png",
+        "id": "KMBYLD275.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "DreikoTv (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/k8U0e0b.png",
         "id": "DreikoTV.pa@SD",
@@ -2748,13 +2758,21 @@
         "category": "animation"
       },
       {
-        "name": "Gong (1080p)",
-        "logo": "https://i.imgur.com/lA9UFMG.png",
-        "id": "Gong.fr@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "source": "tmdb",
+        "type": "info",
         "category": "animation"
       },
       {
@@ -2762,15 +2780,6 @@
         "url": "https://www.themoviedb.org/tv/112527",
         "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
         "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "Invincible",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Invincible",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Frieren: Beyond Journey's End",
-        "url": "https://www.themoviedb.org/tv/209867",
-        "logo": "https://image.tmdb.org/t/p/w92/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "desc": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
