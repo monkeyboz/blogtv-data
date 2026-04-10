@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T01:11:55.184Z",
+  "updated": "2026-04-10T07:12:33.614Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,6 +524,15 @@
         "category": "science"
       },
       {
+        "name": "News Treasury",
+        "url": "https://www.themoviedb.org/tv/221606",
+        "logo": "https://image.tmdb.org/t/p/w92/3SOKpal8nA7irhcfEqWVltiaeBq.jpg",
+        "desc": "\"News Treasury\" explores historical news events and rarely seen footage, allowing viewers to dig into the news archives.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "American Experience",
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
         "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "My Little Pony: Friendship Is Magic",
-        "url": "https://www.themoviedb.org/tv/33765",
-        "logo": "https://image.tmdb.org/t/p/w92/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
-        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
