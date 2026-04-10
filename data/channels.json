@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T07:12:33.614Z",
+  "updated": "2026-04-10T12:39:48.354Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -349,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "DAS!",
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
@@ -370,6 +361,15 @@
         "name": "Leute heute",
         "url": "https://www.themoviedb.org/tv/111979",
         "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
