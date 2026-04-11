@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T12:29:05.306Z",
+  "updated": "2026-04-11T18:25:19.987Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,19 +313,19 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,27 +349,27 @@
         "category": "news"
       },
       {
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Good Day Live",
+        "url": "https://www.themoviedb.org/tv/22073",
+        "logo": "",
+        "desc": "Good Day Live was a nationwide talk show seen weekdays on FOX affiliates throughout the US.  Each FOX owned and operated",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "凤凰大视野",
         "url": "https://www.themoviedb.org/tv/93120",
         "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -405,10 +405,10 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -418,6 +418,15 @@
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
         "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Pili",
+        "url": "https://www.themoviedb.org/tv/19530",
+        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
+        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -441,15 +450,6 @@
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,10 +506,10 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -524,27 +524,18 @@
         "category": "science"
       },
       {
-        "name": "News Treasury",
-        "url": "https://www.themoviedb.org/tv/221606",
-        "logo": "https://image.tmdb.org/t/p/w92/3SOKpal8nA7irhcfEqWVltiaeBq.jpg",
-        "desc": "\"News Treasury\" explores historical news events and rarely seen footage, allowing viewers to dig into the news archives.",
+        "name": "MythBusters",
+        "url": "https://www.themoviedb.org/tv/1428",
+        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
+        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Menschen hautnah",
-        "url": "https://www.themoviedb.org/tv/312192",
-        "logo": "",
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,10 +1079,10 @@
         "category": "music"
       },
       {
-        "name": "My Daughter, Geum Sa-Wol",
-        "url": "https://www.themoviedb.org/tv/64040",
-        "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
-        "desc": "A family has been dismantled by revenge and hate, but Geum Sa-Wol (Baek Jin-Hee) attempts to build up a dream house for ",
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/qgHTJ0jZpuD67ZDy7LNu6bfCFXs.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,10 +1408,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1421,6 +1421,15 @@
         "url": "https://www.themoviedb.org/tv/68350",
         "logo": "https://image.tmdb.org/t/p/w92/wXKYoUpEGAXuagqIuzq88Nj5u6K.jpg",
         "desc": "Protected and empowered by the magical Tree of Life, the miniature metropolis of Pixieville is home to a group of extrao",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "The Nanny",
+        "url": "https://www.themoviedb.org/tv/2352",
+        "logo": "https://image.tmdb.org/t/p/w92/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+        "desc": "That flashy girl from Flushing with the heart of an angel (and the voice of a slighty more nasal angel). The comic misad",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Idler: Sister Ma",
-        "url": "https://www.themoviedb.org/tv/128318",
-        "logo": "https://image.tmdb.org/t/p/w92/3ZaDKlJbEXs6pmhNdzGWHhSr3zP.jpg",
-        "desc": "Chinese sitcom set in a residential neighborhood in Beijing, centered on Ma Xiao Yan, a middle aged woman known as Siste",
+        "name": "The Red Skelton Show",
+        "url": "https://www.themoviedb.org/tv/10534",
+        "logo": "https://image.tmdb.org/t/p/w92/6e54gnblIDcwDGOGhzPyV0fB6Rw.jpg",
+        "desc": "The Red Skelton Show is an American variety show that was a television staple for two decades, from 1951 to 1971. It was",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2534,19 +2534,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "PopPixie",
+        "url": "https://www.themoviedb.org/tv/68350",
+        "logo": "https://image.tmdb.org/t/p/w92/wXKYoUpEGAXuagqIuzq88Nj5u6K.jpg",
+        "desc": "Protected and empowered by the magical Tree of Life, the miniature metropolis of Pixieville is home to a group of extrao",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PopPixie",
-        "url": "https://www.themoviedb.org/tv/68350",
-        "logo": "https://image.tmdb.org/t/p/w92/wXKYoUpEGAXuagqIuzq88Nj5u6K.jpg",
-        "desc": "Protected and empowered by the magical Tree of Life, the miniature metropolis of Pixieville is home to a group of extrao",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,15 +2570,6 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Obake no Q-tarō",
         "url": "https://www.themoviedb.org/tv/112527",
         "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
@@ -2588,10 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "Pleasant Goat and Big Big Wolf",
-        "url": "https://www.themoviedb.org/tv/6732",
-        "logo": "https://image.tmdb.org/t/p/w92/3TEX73koX9NroUA9lVwFDMTZtaC.jpg",
-        "desc": "Pleasant Goat and Big Big Wolf is a Chinese animated television series which was created by Huang Weiming, Lin Yuting an",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,6 +2767,15 @@
         "category": "animation"
       },
       {
+        "name": "3000 Leagues in Search of Mother",
+        "url": "https://www.themoviedb.org/tv/8962",
+        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
+        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2780,15 +2789,6 @@
         "url": "https://www.themoviedb.org/tv/95557",
         "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
         "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Aikatsu!",
-        "url": "https://www.themoviedb.org/tv/65503",
-        "logo": "https://image.tmdb.org/t/p/w92/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
-        "desc": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol tr",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Aikatsu!",
+        "url": "https://www.themoviedb.org/tv/65503",
+        "logo": "https://image.tmdb.org/t/p/w92/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
+        "desc": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol tr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
