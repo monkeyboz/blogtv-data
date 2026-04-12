@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T18:25:19.987Z",
+  "updated": "2026-04-12T01:15:51.914Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1329,16 +1329,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Singapore",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1554,16 +1554,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Singapore",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
-        "category": "cooking"
-      },
-      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2312,16 +2312,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Singapore",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8",
-        "category": "health"
-      },
-      {
         "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Lifestyle\",BBC Lifestyle Asia (720p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Asia",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
@@ -2570,15 +2570,6 @@
         "category": "kids"
       },
       {
-        "name": "Obake no Q-tarō",
-        "url": "https://www.themoviedb.org/tv/112527",
-        "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
-        "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
         "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Obake no Q-tarō",
+        "url": "https://www.themoviedb.org/tv/112527",
+        "logo": "https://image.tmdb.org/t/p/w92/acb9g0rlsFhy3LBPDvMF7Tso9Q0.jpg",
+        "desc": "Q-taro, a monster, is living with the Ohara family. He can fly and make his body transparent, but he cannot turn his bod",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
