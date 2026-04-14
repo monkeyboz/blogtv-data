@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T18:56:57.113Z",
+  "updated": "2026-04-14T01:16:26.957Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1099,13 +1099,13 @@
     ],
     "entertainment": [
       {
-        "name": "2x2 (576p)",
+        "name": "2x2 (576i)",
         "logo": "https://i.imgur.com/fhQFLEl.png",
         "id": "2x2.ru@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://31.148.48.15/2x2/index.m3u8",
+        "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=tenr-yHXUv1wibfka78s2A&e=2068731801&scheme=https",
         "category": "entertainment"
       },
       {
@@ -1716,6 +1716,16 @@
         "category": "travel"
       },
       {
+        "name": "Glazami Turista (576i)",
+        "logo": "https://i.imgur.com/GXJKWdy.png",
+        "id": "GlazamiTurista.ru@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+        "category": "travel"
+      },
+      {
         "name": "Go2Travel (1080p)",
         "logo": "https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png",
         "id": "Go2Travel.us@SD",
@@ -1763,16 +1773,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
-        "category": "travel"
-      },
-      {
-        "name": "Living Asia Channel (1080p)",
-        "logo": "https://i.imgur.com/q3UToRM.png",
-        "id": "LivingAsiaChannel.ph@HD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
