@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T01:14:21.145Z",
+  "updated": "2026-04-15T07:14:42.644Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,15 +405,6 @@
         "category": "technology"
       },
       {
-        "name": "Bloodhounds",
-        "url": "https://www.themoviedb.org/tv/127529",
-        "logo": "https://image.tmdb.org/t/p/w92/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg",
-        "desc": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Invincible",
         "url": "https://www.themoviedb.org/tv/95557",
         "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
@@ -427,6 +418,15 @@
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
         "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Bloodhounds",
+        "url": "https://www.themoviedb.org/tv/127529",
+        "logo": "https://image.tmdb.org/t/p/w92/yu4oHDi6kO3cYXdmEnYT6SibATj.jpg",
+        "desc": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2758,15 +2758,6 @@
         "category": "animation"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/65503",
         "logo": "https://image.tmdb.org/t/p/w92/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
         "desc": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol tr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
