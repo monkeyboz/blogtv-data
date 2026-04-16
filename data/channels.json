@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T18:56:51.296Z",
+  "updated": "2026-04-16T01:18:39.787Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2130,16 +2130,6 @@
         "category": "business"
       },
       {
-        "name": "BeritaSatu (1080p)",
-        "logo": "https://i.postimg.cc/6pycF7Vx/300px-IDTV.png",
-        "id": "BeritaSatu.id@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
-        "category": "business"
-      },
-      {
         "name": "Bilyonaryo News Channel (1080p)",
         "logo": "https://i.imgur.com/iTH9Z0j.png",
         "id": "BilyonaryoNewsChannel.ph@SD",
@@ -2227,6 +2217,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTVMongolia.mn@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
