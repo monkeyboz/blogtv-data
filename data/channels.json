@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T18:29:51.470Z",
+  "updated": "2026-04-19T01:18:57.557Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1061,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Smile, You",
-        "url": "https://www.themoviedb.org/tv/32824",
-        "logo": "https://image.tmdb.org/t/p/w92/rscdUkrscWqEeIY189cQN4kuQgk.jpg",
-        "desc": "Seo Jung In is the kind-hearted, but spoiled daughter of a wealthy family. When the family's financial bubble bursts, he",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2570,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "My Little Pony: Friendship Is Magic",
         "url": "https://www.themoviedb.org/tv/33765",
         "logo": "https://image.tmdb.org/t/p/w92/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
@@ -2579,28 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "PopPixie",
-        "url": "https://www.themoviedb.org/tv/68350",
-        "logo": "https://image.tmdb.org/t/p/w92/wXKYoUpEGAXuagqIuzq88Nj5u6K.jpg",
-        "desc": "Protected and empowered by the magical Tree of Life, the miniature metropolis of Pixieville is home to a group of extrao",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Aikatsu!",
-        "url": "https://www.themoviedb.org/tv/65503",
-        "logo": "https://image.tmdb.org/t/p/w92/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg",
-        "desc": "Ichigo Hoshimiya is a regular, ordinary middle school girl. But when her best friend Aoi invites her to join the idol tr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Pokémon Horizons",
         "url": "https://www.themoviedb.org/tv/220150",
         "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
         "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Super Wings",
+        "url": "https://www.themoviedb.org/tv/71026",
+        "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
+        "desc": "An action-packed preschool series about an adorable jet plane named Jett who travels the world delivering packages to ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
