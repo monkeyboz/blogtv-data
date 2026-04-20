@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T12:59:28.832Z",
+  "updated": "2026-04-20T18:46:41.118Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,19 +322,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/88Rqa5oOrlEI8z0ALmDgeNWthBm.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Last Week Tonight with John Oliver",
         "url": "https://www.themoviedb.org/tv/60694",
         "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
@@ -367,10 +358,19 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Frontline",
+        "url": "https://www.themoviedb.org/tv/4384",
+        "logo": "https://image.tmdb.org/t/p/w92/88Rqa5oOrlEI8z0ALmDgeNWthBm.jpg",
+        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -515,24 +515,6 @@
         "category": "science"
       },
       {
-        "name": "The Boys from Brazil: Rise of the Bolsonaros",
-        "url": "https://www.themoviedb.org/tv/210318",
-        "logo": "https://image.tmdb.org/t/p/w92/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
-        "desc": "The remarkable rise of one of the world’s most controversial leaders, Jair Bolsonaro, from obscurity to the presidency o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/13805",
         "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
@@ -542,19 +524,37 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "The Boys from Brazil: Rise of the Bolsonaros",
+        "url": "https://www.themoviedb.org/tv/210318",
+        "logo": "https://image.tmdb.org/t/p/w92/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
+        "desc": "The remarkable rise of one of the world’s most controversial leaders, Jair Bolsonaro, from obscurity to the presidency o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Nature",
-        "url": "https://www.themoviedb.org/tv/14951",
-        "logo": "https://image.tmdb.org/t/p/w92/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg",
-        "desc": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to t",
+        "name": "Beyond Belief: Fact or Fiction",
+        "url": "https://www.themoviedb.org/tv/12323",
+        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Court of Gold",
+        "url": "https://www.themoviedb.org/tv/282846",
+        "logo": "https://image.tmdb.org/t/p/w92/i9Hia8NKk9DBIyb5mNzoDxMDGMN.jpg",
+        "desc": "Go behind the scenes with the top medal contenders in men's basketball as they battle for gold and glory at the 2024 Oly",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,6 +1070,15 @@
         "category": "music"
       },
       {
+        "name": "1% of Anything",
+        "url": "https://www.themoviedb.org/tv/19375",
+        "logo": "https://image.tmdb.org/t/p/w92/tPiPJkPVrIJ5BRQjFoHAOC6rIbo.jpg",
+        "desc": "Kim Jung-Hwa is a young and kind middle school teacher with little interest in money. When she helps carry an elderly ma",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Ef: A Tale Of Memories & Melodies",
         "url": "https://www.themoviedb.org/tv/27866",
         "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/64770",
         "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
         "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Beating Again",
-        "url": "https://www.themoviedb.org/tv/62267",
-        "logo": "https://image.tmdb.org/t/p/w92/2BZknHHXDOUxE5qifjDRLMbaXq7.jpg",
-        "desc": "After his uncle's unjust takeover of the family company, Kang Min Ho grows up to be a successful, if not cynical investo",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,6 +1426,15 @@
         "category": "entertainment"
       },
       {
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Phineas and Ferb",
         "url": "https://www.themoviedb.org/tv/1877",
         "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
@@ -1435,19 +1444,10 @@
         "category": "entertainment"
       },
       {
-        "name": "3000 Leagues in Search of Mother",
-        "url": "https://www.themoviedb.org/tv/8962",
-        "logo": "https://image.tmdb.org/t/p/w92/cNyYHaHxOytT7DFbVhRrHpkqlst.jpg",
-        "desc": "Italy is in a deep depression, so to support her family, Marco's  mother goes to Argentina to work as a domestic. But af",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Golden Boy",
+        "url": "https://www.themoviedb.org/tv/210865",
+        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
+        "desc": "A young girl is forced to marry a rich groom. The groom is not only rich, but also allows himself to live without any re",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Golden Boy",
-        "url": "https://www.themoviedb.org/tv/210865",
-        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
-        "desc": "A young girl is forced to marry a rich groom. The groom is not only rich, but also allows himself to live without any re",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2794,15 +2794,6 @@
         "category": "animation"
       },
       {
-        "name": "Overflow",
-        "url": "https://www.themoviedb.org/tv/95897",
-        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2812,19 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Overflow",
+        "url": "https://www.themoviedb.org/tv/95897",
+        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Frieren: Beyond Journey's End",
-        "url": "https://www.themoviedb.org/tv/209867",
-        "logo": "https://image.tmdb.org/t/p/w92/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
-        "desc": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of",
+        "name": "Girlfriend, Girlfriend",
+        "url": "https://www.themoviedb.org/tv/113137",
+        "logo": "https://image.tmdb.org/t/p/w92/mexwGz6xQ9kw9PMrjw9IJRX0baP.jpg",
+        "desc": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
