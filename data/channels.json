@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T07:46:03.161Z",
+  "updated": "2026-04-20T12:59:28.832Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Last Week Tonight with John Oliver",
+        "url": "https://www.themoviedb.org/tv/60694",
+        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+        "desc": "A half-hour satirical look at the week in news, politics and current events.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
