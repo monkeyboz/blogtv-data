@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T18:53:10.739Z",
+  "updated": "2026-04-22T01:14:47.705Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Girlfriend, Girlfriend",
-        "url": "https://www.themoviedb.org/tv/113137",
-        "logo": "https://image.tmdb.org/t/p/w92/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
-        "desc": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Girlfriend, Girlfriend",
+        "url": "https://www.themoviedb.org/tv/113137",
+        "logo": "https://image.tmdb.org/t/p/w92/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
+        "desc": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
