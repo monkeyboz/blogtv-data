@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T12:54:43.889Z",
+  "updated": "2026-04-22T18:54:17.500Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/13805",
         "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
@@ -524,6 +515,15 @@
         "category": "science"
       },
       {
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "The Boys from Brazil: Rise of the Bolsonaros",
         "url": "https://www.themoviedb.org/tv/210318",
         "logo": "https://image.tmdb.org/t/p/w92/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
@@ -533,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Golden Horse Awards",
-        "url": "https://www.themoviedb.org/tv/206296",
-        "logo": "https://image.tmdb.org/t/p/w92/q9H3q7q99hIwMFmxaA9pVD8jdoU.jpg",
-        "desc": "The Taipei Golden Horse Film Festival and Awards (Chinese: 台北金馬影展; pinyin: Táiběi Jīnmǎ Yǐngzhǎn; Pe̍h-ōe-jī: Tâi-pak Ki",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1061,19 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "Rosy Lovers",
+        "url": "https://www.themoviedb.org/tv/61706",
+        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
+        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Beating Again",
-        "url": "https://www.themoviedb.org/tv/62267",
-        "logo": "https://image.tmdb.org/t/p/w92/2BZknHHXDOUxE5qifjDRLMbaXq7.jpg",
-        "desc": "After his uncle's unjust takeover of the family company, Kang Min Ho grows up to be a successful, if not cynical investo",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
