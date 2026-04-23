@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T07:18:45.318Z",
+  "updated": "2026-04-23T12:54:10.404Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Golden Boy",
-        "url": "https://www.themoviedb.org/tv/210865",
-        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
-        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
