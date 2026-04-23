@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T12:54:10.404Z",
+  "updated": "2026-04-23T18:51:16.796Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,19 +304,19 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,19 +349,10 @@
         "category": "news"
       },
       {
-        "name": "Last Week Tonight with John Oliver",
-        "url": "https://www.themoviedb.org/tv/60694",
-        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-        "desc": "A half-hour satirical look at the week in news, politics and current events.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Meet the Press",
+        "url": "https://www.themoviedb.org/tv/4496",
+        "logo": "https://image.tmdb.org/t/p/w92/aCLynKB2KB2Raqv7UufWwuQghtp.jpg",
+        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -371,6 +362,15 @@
         "url": "https://www.themoviedb.org/tv/4026",
         "logo": "https://image.tmdb.org/t/p/w92/k4YOaHO6yv1MjtUPRmXbT8ASWHV.jpg",
         "desc": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Last Week Tonight with John Oliver",
+        "url": "https://www.themoviedb.org/tv/60694",
+        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+        "desc": "A half-hour satirical look at the week in news, politics and current events.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Bloodhounds",
-        "url": "https://www.themoviedb.org/tv/127529",
-        "logo": "https://image.tmdb.org/t/p/w92/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
-        "desc": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice ",
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
+        "name": "Bloodhounds",
+        "url": "https://www.themoviedb.org/tv/127529",
+        "logo": "https://image.tmdb.org/t/p/w92/uSQzD7TXsL96J5ggDrJFdUs8uXU.jpg",
+        "desc": "Faced with ruthless foes with a violent thirst, two young boxers band together — risking life and limb to bring justice ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,6 +497,15 @@
         "category": "science"
       },
       {
+        "name": "Downey's Dream Cars",
+        "url": "https://www.themoviedb.org/tv/224386",
+        "logo": "https://image.tmdb.org/t/p/w92/kKMBM31PDCFg6pCesVSsTG5nL5J.jpg",
+        "desc": "Robert Downey Jr. loves restoring classic cars. But he's also become dedicated to fighting climate change. So he's bring",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/13805",
         "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
@@ -515,19 +524,19 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
+        "name": "The Boys from Brazil: Rise of the Bolsonaros",
+        "url": "https://www.themoviedb.org/tv/210318",
+        "logo": "https://image.tmdb.org/t/p/w92/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
+        "desc": "The remarkable rise of one of the world’s most controversial leaders, Jair Bolsonaro, from obscurity to the presidency o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "The Boys from Brazil: Rise of the Bolsonaros",
-        "url": "https://www.themoviedb.org/tv/210318",
-        "logo": "https://image.tmdb.org/t/p/w92/sZXernSnVWGhlrAhDUDtdg3fuZn.jpg",
-        "desc": "The remarkable rise of one of the world’s most controversial leaders, Jair Bolsonaro, from obscurity to the presidency o",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/282846",
         "logo": "https://image.tmdb.org/t/p/w92/i9Hia8NKk9DBIyb5mNzoDxMDGMN.jpg",
         "desc": "Go behind the scenes with the top medal contenders in men's basketball as they battle for gold and glory at the 2024 Oly",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Couples Therapy",
-        "url": "https://www.themoviedb.org/tv/91820",
-        "logo": "https://image.tmdb.org/t/p/w92/rYN2JRrfUZfxLhcQtQC0QTTLR3Q.jpg",
-        "desc": "Far from reality-show caricatures, this is true documentary filmmaking that brings viewers into the authentic and viscer",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,15 +1070,6 @@
         "category": "music"
       },
       {
-        "name": "Rosy Lovers",
-        "url": "https://www.themoviedb.org/tv/61706",
-        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
-        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "My Daughter, Geum Sa-Wol",
         "url": "https://www.themoviedb.org/tv/64040",
         "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
@@ -1088,10 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Rosy Lovers",
+        "url": "https://www.themoviedb.org/tv/61706",
+        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
+        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,19 +1426,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Golden Boy",
+        "url": "https://www.themoviedb.org/tv/210865",
+        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
+        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Phineas and Ferb",
-        "url": "https://www.themoviedb.org/tv/1877",
-        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "The Nanny",
+        "url": "https://www.themoviedb.org/tv/2352",
+        "logo": "https://image.tmdb.org/t/p/w92/4syShXMjaPAP3mG81ekhruv94sd.jpg",
+        "desc": "That flashy girl from Flushing with the heart of an angel (and the voice of a slighty more nasal angel). The comic misad",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2570,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "LEGO Ninjago: Dragons Rising",
         "url": "https://www.themoviedb.org/tv/212989",
         "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
@@ -2588,19 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
