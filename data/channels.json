@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:51:16.796Z",
+  "updated": "2026-04-24T01:19:22.082Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2638,6 +2638,16 @@
         "category": "animation"
       },
       {
+        "name": "Animax (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
+        "id": "Animax.jp@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://nl.utako.moe/Animax/index.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
         "id": "AnimaxAsia.sg@India",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Geekdot (720p)",
-        "logo": "https://i.imgur.com/jML1u4O.png",
-        "id": "Geekdot.br@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
         "category": "animation"
       },
       {
