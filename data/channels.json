@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T07:30:28.803Z",
+  "updated": "2026-04-24T12:52:47.649Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Downey's Dream Cars",
-        "url": "https://www.themoviedb.org/tv/224386",
-        "logo": "https://image.tmdb.org/t/p/w92/kKMBM31PDCFg6pCesVSsTG5nL5J.jpg",
-        "desc": "Robert Downey Jr. loves restoring classic cars. But he's also become dedicated to fighting climate change. So he's bring",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/13805",
         "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
@@ -542,19 +533,28 @@
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Court of Gold",
-        "url": "https://www.themoviedb.org/tv/282846",
-        "logo": "https://image.tmdb.org/t/p/w92/i9Hia8NKk9DBIyb5mNzoDxMDGMN.jpg",
-        "desc": "Go behind the scenes with the top medal contenders in men's basketball as they battle for gold and glory at the 2024 Oly",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
