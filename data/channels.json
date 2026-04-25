@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T12:33:50.737Z",
+  "updated": "2026-04-25T18:31:52.326Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -340,10 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Meet the Press",
-        "url": "https://www.themoviedb.org/tv/4496",
-        "logo": "https://image.tmdb.org/t/p/w92/aCLynKB2KB2Raqv7UufWwuQghtp.jpg",
-        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,19 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Newsnight",
-        "url": "https://www.themoviedb.org/tv/841",
-        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
+        "name": "Meet the Press",
+        "url": "https://www.themoviedb.org/tv/4496",
+        "logo": "https://image.tmdb.org/t/p/w92/aCLynKB2KB2Raqv7UufWwuQghtp.jpg",
+        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -533,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,10 +1079,10 @@
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Rosy Lovers",
+        "url": "https://www.themoviedb.org/tv/61706",
+        "logo": "https://image.tmdb.org/t/p/w92/gKMNj20W3pDUhTwvSUnqXCLqUFP.jpg",
+        "desc": "A family drama about a college student couple who unintentionally becomes parents and realize the true meaning of love a",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,19 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Virtues of Harmony II",
+        "url": "https://www.themoviedb.org/tv/4013",
+        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
+        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Golden Boy",
-        "url": "https://www.themoviedb.org/tv/210865",
-        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
-        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "King of the Hill",
-        "url": "https://www.themoviedb.org/tv/2122",
-        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "name": "Golden Boy",
+        "url": "https://www.themoviedb.org/tv/210865",
+        "logo": "https://image.tmdb.org/t/p/w92/yTHaFClgAktpHwlAJzZGftep2ok.jpg",
+        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2570,6 +2570,24 @@
         "category": "kids"
       },
       {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Sarah Jane Adventures",
+        "url": "https://www.themoviedb.org/tv/203",
+        "logo": "https://image.tmdb.org/t/p/w92/hq0S1VtUabnORdp3l3m11OA67BP.jpg",
+        "desc": "Sarah Jane Smith is a truly remarkable woman who inhabits a world of mystery, danger and wonder; a world where aliens ar",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Super Wings",
         "url": "https://www.themoviedb.org/tv/71026",
         "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
@@ -2583,24 +2601,6 @@
         "url": "https://www.themoviedb.org/tv/212989",
         "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
         "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,6 +2767,15 @@
         "category": "animation"
       },
       {
+        "name": "Girlfriend, Girlfriend",
+        "url": "https://www.themoviedb.org/tv/113137",
+        "logo": "https://image.tmdb.org/t/p/w92/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
+        "desc": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
@@ -2794,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Stranger Things: Tales from '85",
+        "url": "https://www.themoviedb.org/tv/224263",
+        "logo": "https://image.tmdb.org/t/p/w92/8i1513fGVq3DESsMR6pFBZSkbqv.jpg",
+        "desc": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Stranger Things: Tales from '85",
-        "url": "https://www.themoviedb.org/tv/224263",
-        "logo": "https://image.tmdb.org/t/p/w92/8i1513fGVq3DESsMR6pFBZSkbqv.jpg",
-        "desc": "Winter. Hawkins. 1985. Welcome back to a town crawling with secrets, where beloved heroes are facing fresh mysteries... ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Girlfriend, Girlfriend",
-        "url": "https://www.themoviedb.org/tv/113137",
-        "logo": "https://image.tmdb.org/t/p/w92/6vvqfs1Q4lDFhlzSNO5bWY4I4S.jpg",
-        "desc": "Naoya Mukai has loved Saki Saki since grade school, and when she finally accepts his feelings, he's at his happiest. But",
+        "name": "Bob's Burgers",
+        "url": "https://www.themoviedb.org/tv/32726",
+        "logo": "https://image.tmdb.org/t/p/w92/iIHsQe3Qjs3NH62HdamyQEPeqTR.jpg",
+        "desc": "Bob's Burgers follows a third-generation restaurateur, Bob, as he runs Bob's Burgers with the help of his wife and their",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
