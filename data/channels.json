@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T18:31:52.326Z",
+  "updated": "2026-04-26T01:21:24.864Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,6 +432,15 @@
         "category": "technology"
       },
       {
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Smallville",
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
@@ -450,19 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "S.W.A.T.",
-        "url": "https://www.themoviedb.org/tv/71790",
-        "logo": "https://image.tmdb.org/t/p/w92/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
-        "desc": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn betwee",
+        "name": "Monarch: Legacy of Monsters",
+        "url": "https://www.themoviedb.org/tv/202411",
+        "logo": "https://image.tmdb.org/t/p/w92/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+        "desc": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threat",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2787,7 +2787,7 @@
       {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/6qQzMJG27XOJsyAEEIisoJB45j2.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
         "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
