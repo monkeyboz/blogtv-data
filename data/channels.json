@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T13:15:18.364Z",
+  "updated": "2026-04-30T19:02:55.403Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,15 +322,6 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -349,6 +340,15 @@
         "category": "news"
       },
       {
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Newsnight",
-        "url": "https://www.themoviedb.org/tv/841",
-        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Newsnight",
+        "url": "https://www.themoviedb.org/tv/841",
+        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
+        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,10 +441,10 @@
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,15 +524,6 @@
         "category": "science"
       },
       {
-        "name": "MTV Video Music Awards",
-        "url": "https://www.themoviedb.org/tv/46732",
-        "logo": "https://image.tmdb.org/t/p/w92/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
-        "desc": "An annual award ceremony presented by MTV to honor the best in the music video medium.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "American Experience",
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Couples Therapy",
-        "url": "https://www.themoviedb.org/tv/91820",
-        "logo": "https://image.tmdb.org/t/p/w92/rYN2JRrfUZfxLhcQtQC0QTTLR3Q.jpg",
-        "desc": "Far from reality-show caricatures, this is true documentary filmmaking that brings viewers into the authentic and viscer",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "MTV Video Music Awards",
+        "url": "https://www.themoviedb.org/tv/46732",
+        "logo": "https://image.tmdb.org/t/p/w92/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
+        "desc": "An annual award ceremony presented by MTV to honor the best in the music video medium.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,19 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "My Daughter, Geum Sa-Wol",
+        "url": "https://www.themoviedb.org/tv/64040",
+        "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
+        "desc": "A family has been dismantled by revenge and hate, but Geum Sa-Wol (Baek Jin-Hee) attempts to build up a dream house for ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2785,28 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "JUJUTSU KAISEN",
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
         "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Sweet Punishment: I'm the Guard's Personal Pet",
-        "url": "https://www.themoviedb.org/tv/78501",
-        "logo": "https://image.tmdb.org/t/p/w92/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
-        "desc": "The story is set in a prison in the near future. It revolves around Hina Saotome, imprisoned despite her innocence, and ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2825,6 +2807,24 @@
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
         "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
