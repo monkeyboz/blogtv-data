@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T19:04:01.686Z",
+  "updated": "2026-04-30T01:30:39.142Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1027,7 +1027,7 @@
       {
         "name": "The Tudors",
         "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7wmyiVEhmJ7OUvwBIsvOFqMa0q9.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
         "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
@@ -1179,16 +1179,6 @@
         "category": "entertainment"
       },
       {
-        "name": "13 Ulica (1080p)",
-        "logo": "https://i.imgur.com/0gCNnLq.png",
-        "id": "13Ulica.pl@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lowa8026-cmyk.github.io/13Ulica.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "20 Mediaset [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "id": "20.it@SD",
@@ -1246,6 +1236,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "A&E East (720p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+        "id": "AE.us@East",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tvpass.org/live/AEEast/hd",
         "category": "entertainment"
       },
       {
@@ -2534,6 +2534,15 @@
         "category": "kids"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2547,15 +2556,6 @@
         "url": "https://www.themoviedb.org/tv/35007",
         "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
         "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
