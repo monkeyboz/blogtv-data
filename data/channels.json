@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T01:30:39.142Z",
+  "updated": "2026-04-30T07:57:37.311Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,15 +2803,6 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Sweet Punishment: I'm the Guard's Personal Pet",
         "url": "https://www.themoviedb.org/tv/78501",
         "logo": "https://image.tmdb.org/t/p/w92/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/95897",
         "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
         "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
