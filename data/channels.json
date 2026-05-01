@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T19:02:55.403Z",
+  "updated": "2026-05-01T01:46:22.298Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1417,15 +1417,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Young Sheldon",
         "url": "https://www.themoviedb.org/tv/71728",
         "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
@@ -1444,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Come Home Love: Lo and Behold",
+        "url": "https://www.themoviedb.org/tv/91759",
+        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "The Chosen",
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "HK 80's",
-        "url": "https://www.themoviedb.org/tv/228091",
-        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
-        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Dallas",
+        "url": "https://www.themoviedb.org/tv/40",
+        "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+        "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
