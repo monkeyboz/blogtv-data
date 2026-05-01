@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T07:56:41.631Z",
+  "updated": "2026-05-01T12:49:03.367Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2579,19 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Super Wings",
+        "url": "https://www.themoviedb.org/tv/71026",
+        "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
+        "desc": "An action-packed preschool series about an adorable jet plane named Jett who travels the world delivering packages to ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Super Wings",
-        "url": "https://www.themoviedb.org/tv/71026",
-        "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
-        "desc": "An action-packed preschool series about an adorable jet plane named Jett who travels the world delivering packages to ch",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "American Dad!",
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
