@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T13:22:58.985Z",
+  "updated": "2026-05-06T19:16:12.326Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,6 +488,15 @@
     ],
     "science": [
       {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -506,19 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/sUfJxQarDfBMgmJgsgJqmVP16UU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/13805",
+        "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
+        "desc": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and wa",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,19 +533,10 @@
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/13805",
-        "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
-        "desc": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and wa",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/4384",
         "logo": "https://image.tmdb.org/t/p/w92/88Rqa5oOrlEI8z0ALmDgeNWthBm.jpg",
         "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "The Greatest Marriage",
-        "url": "https://www.themoviedb.org/tv/61486",
-        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
-        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "The Devil",
-        "url": "https://www.themoviedb.org/tv/46560",
-        "logo": "https://image.tmdb.org/t/p/w92/9FEbd7soyed3AZYMpfeJXPSQxIX.jpg",
-        "desc": "A string of murders brings together a conflicted detective, a psychic librarian, and a mysterious prosecutor with dubiou",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,19 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,10 +1453,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Dallas",
-        "url": "https://www.themoviedb.org/tv/40",
-        "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
-        "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Sweet Punishment: I'm the Guard's Personal Pet",
-        "url": "https://www.themoviedb.org/tv/78501",
-        "logo": "https://image.tmdb.org/t/p/w92/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
-        "desc": "The story is set in a prison in the near future. It revolves around Hina Saotome, imprisoned despite her innocence, and ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "INVINCIBLE",
         "url": "https://www.themoviedb.org/tv/95557",
         "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
@@ -2803,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Sweet Punishment: I'm the Guard's Personal Pet",
+        "url": "https://www.themoviedb.org/tv/78501",
+        "logo": "https://image.tmdb.org/t/p/w92/rbETzzJLGIB2Bg6NwNekWTKfM6d.jpg",
+        "desc": "The story is set in a prison in the near future. It revolves around Hina Saotome, imprisoned despite her innocence, and ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2816,6 +2807,15 @@
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
         "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
