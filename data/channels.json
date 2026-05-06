@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T19:01:01.562Z",
+  "updated": "2026-05-06T01:24:45.258Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "The Devil",
+        "url": "https://www.themoviedb.org/tv/46560",
+        "logo": "https://image.tmdb.org/t/p/w92/9FEbd7soyed3AZYMpfeJXPSQxIX.jpg",
+        "desc": "A string of murders brings together a conflicted detective, a psychic librarian, and a mysterious prosecutor with dubiou",
         "source": "tmdb",
         "type": "info",
         "category": "music"
