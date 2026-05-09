@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T19:00:29.411Z",
+  "updated": "2026-05-09T01:30:08.519Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,6 +432,15 @@
         "category": "technology"
       },
       {
+        "name": "INVINCIBLE",
+        "url": "https://www.themoviedb.org/tv/95557",
+        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
+        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Stranger Things",
         "url": "https://www.themoviedb.org/tv/66732",
         "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
@@ -450,19 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "INVINCIBLE",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Monarch: Legacy of Monsters",
-        "url": "https://www.themoviedb.org/tv/202411",
-        "logo": "https://image.tmdb.org/t/p/w92/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-        "desc": "After surviving Godzilla's attack on San Francisco, Cate is shaken yet again by a shocking secret. Amid monstrous threat",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
