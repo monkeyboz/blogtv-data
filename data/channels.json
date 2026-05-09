@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T07:28:35.406Z",
+  "updated": "2026-05-09T12:45:30.216Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,15 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "Daredevil: Born Again",
-        "url": "https://www.themoviedb.org/tv/202555",
-        "logo": "https://image.tmdb.org/t/p/w92/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-        "desc": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while for",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "INVINCIBLE",
         "url": "https://www.themoviedb.org/tv/95557",
         "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
@@ -454,6 +445,15 @@
         "url": "https://www.themoviedb.org/tv/4604",
         "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
         "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Daredevil: Born Again",
+        "url": "https://www.themoviedb.org/tv/202555",
+        "logo": "https://image.tmdb.org/t/p/w92/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+        "desc": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while for",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
