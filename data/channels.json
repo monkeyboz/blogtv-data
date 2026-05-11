@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T18:42:07.437Z",
+  "updated": "2026-05-11T01:50:23.051Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,6 +488,15 @@
     ],
     "science": [
       {
+        "name": "Kevin Costner's The West",
+        "url": "https://www.themoviedb.org/tv/227520",
+        "logo": "https://image.tmdb.org/t/p/w92/bOQgliYRKC8tnQJUjqIY9uZRZoV.jpg",
+        "desc": "This fresh look at the epic history of the American West delves into the desperate struggle for the land itself – and ho",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/13805",
         "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
@@ -515,15 +524,6 @@
         "category": "science"
       },
       {
-        "name": "Sternstunde Kunst",
-        "url": "https://www.themoviedb.org/tv/320058",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -533,19 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Sternstunde Religion",
-        "url": "https://www.themoviedb.org/tv/319948",
+        "name": "Sternstunde Kunst",
+        "url": "https://www.themoviedb.org/tv/320058",
         "logo": "",
         "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,15 +2543,6 @@
         "category": "kids"
       },
       {
-        "name": "9-1-1",
-        "url": "https://www.themoviedb.org/tv/75219",
-        "logo": "https://image.tmdb.org/t/p/w92/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
-        "desc": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frigh",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/3022",
         "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
         "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
