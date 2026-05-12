@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T13:30:47.228Z",
+  "updated": "2026-05-12T19:25:04.129Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,15 +313,6 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -331,10 +322,10 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -344,6 +335,15 @@
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
         "desc": "German daily news program, the oldest still existing program on German television.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Last Week Tonight with John Oliver",
-        "url": "https://www.themoviedb.org/tv/60694",
-        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-        "desc": "A half-hour satirical look at the week in news, politics and current events.",
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1417,15 +1417,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Dear Sister",
-        "url": "https://www.themoviedb.org/tv/61669",
-        "logo": "https://image.tmdb.org/t/p/w92/edpOGTAcMjJm9IupI6xZ6S0Mf9t.jpg",
-        "desc": "Growing up, sisters Misaki and Hazuki couldn't have been more different. Misaki's charming personality and popularity st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Young Sheldon",
         "url": "https://www.themoviedb.org/tv/71728",
         "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
@@ -1444,10 +1435,10 @@
         "category": "entertainment"
       },
       {
-        "name": "The One I Love",
-        "url": "https://www.themoviedb.org/tv/306215",
-        "logo": "https://image.tmdb.org/t/p/w92/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
-        "desc": "Erkan Aldur, a young man from a wealthy Istanbul family, is stationed in eastern Turkey to complete his mandatory milita",
+        "name": "Virtues of Harmony II",
+        "url": "https://www.themoviedb.org/tv/4013",
+        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
+        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "name": "The One I Love",
+        "url": "https://www.themoviedb.org/tv/306215",
+        "logo": "https://image.tmdb.org/t/p/w92/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
+        "desc": "Erkan Aldur, a young man from a wealthy Istanbul family, is stationed in eastern Turkey to complete his mandatory milita",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Phineas and Ferb",
+        "url": "https://www.themoviedb.org/tv/1877",
+        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
