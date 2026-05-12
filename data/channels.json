@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T08:17:42.001Z",
+  "updated": "2026-05-12T13:30:47.228Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "Daredevil: Born Again",
-        "url": "https://www.themoviedb.org/tv/202555",
-        "logo": "https://image.tmdb.org/t/p/w92/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-        "desc": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while for",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Daredevil: Born Again",
+        "url": "https://www.themoviedb.org/tv/202555",
+        "logo": "https://image.tmdb.org/t/p/w92/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+        "desc": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while for",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/ykzbDRdz9NAiiwHtk5EVHzRulQ2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
