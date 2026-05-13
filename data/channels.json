@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T08:28:01.930Z",
+  "updated": "2026-05-13T13:58:57.395Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Golden Boy",
         "url": "https://www.themoviedb.org/tv/210865",
         "logo": "https://image.tmdb.org/t/p/w92/cgf5R2XrfRQGp2sTu3cncbnFxRy.jpg",
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Phineas and Ferb",
-        "url": "https://www.themoviedb.org/tv/1877",
-        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
+        "name": "Virtues of Harmony II",
+        "url": "https://www.themoviedb.org/tv/4013",
+        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
+        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Far Away",
+        "url": "https://www.themoviedb.org/tv/274556",
+        "logo": "https://image.tmdb.org/t/p/w92/vPvxzUFy4CYEAThOQim8wuyCqHt.jpg",
+        "desc": "Alya Albora arrives in Mardin with her late husband’s funeral and their five-year-old son to fulfill her husband’s last ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
