@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T19:25:04.129Z",
+  "updated": "2026-05-13T01:50:23.790Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Sternstunde Kunst",
-        "url": "https://www.themoviedb.org/tv/320058",
-        "logo": "",
-        "desc": "",
+        "name": "Document 72 Hours",
+        "url": "https://www.themoviedb.org/tv/74277",
+        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
+        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "name": "The World Heritage",
+        "url": "https://www.themoviedb.org/tv/82172",
+        "logo": "https://image.tmdb.org/t/p/w92/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
+        "desc": "TBS’s ”World Heritage,” is a 30-minute weekly documentary series that is registered by UNESCO under Natural Heritage, Cu",
         "source": "tmdb",
         "type": "info",
         "category": "science"
