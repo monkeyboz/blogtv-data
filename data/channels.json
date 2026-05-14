@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T13:22:48.095Z",
+  "updated": "2026-05-14T19:24:44.517Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -349,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "DAS!",
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
@@ -371,6 +362,15 @@
         "url": "https://www.themoviedb.org/tv/265167",
         "logo": "",
         "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -515,10 +515,10 @@
         "category": "science"
       },
       {
-        "name": "跟着书本去旅行",
-        "url": "https://www.themoviedb.org/tv/120218",
-        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
-        "desc": "",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -528,6 +528,15 @@
         "url": "https://www.themoviedb.org/tv/82172",
         "logo": "https://image.tmdb.org/t/p/w92/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
         "desc": "TBS’s ”World Heritage,” is a 30-minute weekly documentary series that is registered by UNESCO under Natural Heritage, Cu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "跟着书本去旅行",
+        "url": "https://www.themoviedb.org/tv/120218",
+        "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
         "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Kevin Costner's The West",
-        "url": "https://www.themoviedb.org/tv/227520",
-        "logo": "https://image.tmdb.org/t/p/w92/bOQgliYRKC8tnQJUjqIY9uZRZoV.jpg",
-        "desc": "This fresh look at the epic history of the American West delves into the desperate struggle for the land itself – and ho",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Tiny Times",
-        "url": "https://www.themoviedb.org/tv/63217",
-        "logo": "https://image.tmdb.org/t/p/w92/inlMwkyW48yd6YJYXSWfL9tN1Cb.jpg",
-        "desc": "In Shanghai, high school best friends Lin Xiao, Wan Ru, Gu Li, and Nan Xiang, experience various life events that challe",
+        "name": "Go Princess Go",
+        "url": "https://www.themoviedb.org/tv/65288",
+        "logo": "https://image.tmdb.org/t/p/w92/cPHbc0wP54qWa7dmvaFxt5W4uwe.jpg",
+        "desc": "Zhang Peng is a playboy who hits his head as he falls into a pool when he's trying to run away from an ex-girlfriend. He",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "My Son-In-Law's Woman",
-        "url": "https://www.themoviedb.org/tv/65352",
-        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
-        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
+        "name": "Tiny Times",
+        "url": "https://www.themoviedb.org/tv/63217",
+        "logo": "https://image.tmdb.org/t/p/w92/inlMwkyW48yd6YJYXSWfL9tN1Cb.jpg",
+        "desc": "In Shanghai, high school best friends Lin Xiao, Wan Ru, Gu Li, and Nan Xiang, experience various life events that challe",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,10 +1435,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Golden Boy",
-        "url": "https://www.themoviedb.org/tv/210865",
-        "logo": "https://image.tmdb.org/t/p/w92/cgf5R2XrfRQGp2sTu3cncbnFxRy.jpg",
-        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
+        "name": "Virtues of Harmony II",
+        "url": "https://www.themoviedb.org/tv/4013",
+        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
+        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,10 +1453,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "name": "Golden Boy",
+        "url": "https://www.themoviedb.org/tv/210865",
+        "logo": "https://image.tmdb.org/t/p/w92/cgf5R2XrfRQGp2sTu3cncbnFxRy.jpg",
+        "desc": "When Istanbul playboy Ferit Korhan's exasperated grandfather arranges his marriage to a girl from Gaziantep, fate interv",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,10 +2561,10 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "小狐狸分级课程.Level01",
+        "url": "https://www.themoviedb.org/tv/224327",
+        "logo": "https://image.tmdb.org/t/p/w92/nW8rpQo4yH7LwNuUg6lfP2ZvIfy.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,10 +2579,10 @@
         "category": "kids"
       },
       {
-        "name": "小狐狸分级课程.Level01",
-        "url": "https://www.themoviedb.org/tv/224327",
-        "logo": "https://image.tmdb.org/t/p/w92/nW8rpQo4yH7LwNuUg6lfP2ZvIfy.jpg",
-        "desc": "",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Regular Show",
-        "url": "https://www.themoviedb.org/tv/31132",
-        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
+        "name": "Devil May Cry",
+        "url": "https://www.themoviedb.org/tv/235930",
+        "logo": "https://image.tmdb.org/t/p/w92/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+        "desc": "In this epic battle of good vs. evil, the lines are blurry as hell. But a devilishly handsome demon hunter could be the ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
