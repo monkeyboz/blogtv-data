@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:43:49.490Z",
+  "updated": "2026-05-17T01:48:43.348Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -461,7 +461,7 @@
       {
         "name": "The Walking Dead",
         "url": "https://www.themoviedb.org/tv/1402",
-        "logo": "https://image.tmdb.org/t/p/w92/s3OIDrCErUjthsnPPreY7XktQXB.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
         "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
         "source": "tmdb",
         "type": "info",
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Bluey",
-        "url": "https://www.themoviedb.org/tv/82728",
-        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
