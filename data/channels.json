@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T01:57:52.918Z",
+  "updated": "2026-05-18T09:33:17.292Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,6 +414,15 @@
         "category": "technology"
       },
       {
+        "name": "The WONDERfools",
+        "url": "https://www.themoviedb.org/tv/259837",
+        "logo": "https://image.tmdb.org/t/p/w92/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+        "desc": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -427,15 +436,6 @@
         "url": "https://www.themoviedb.org/tv/66732",
         "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
         "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The WONDERfools",
-        "url": "https://www.themoviedb.org/tv/259837",
-        "logo": "https://image.tmdb.org/t/p/w92/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-        "desc": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
