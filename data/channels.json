@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T14:48:27.080Z",
+  "updated": "2026-05-18T19:19:40.239Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,28 +441,28 @@
         "category": "technology"
       },
       {
+        "name": "Renegade Immortal",
+        "url": "https://www.themoviedb.org/tv/223911",
+        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
+        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "INVINCIBLE",
-        "url": "https://www.themoviedb.org/tv/95557",
-        "logo": "https://image.tmdb.org/t/p/w92/4tblBrslcKSifMVZ3TmtT2ukMor.jpg",
-        "desc": "Mark Grayson is a normal teenager except for the fact that his father is the most powerful superhero on the planet. Shor",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/w8enSKCf6Zm0topeQ2XPccDqsqp.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,15 +506,6 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -524,10 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Autofocus",
-        "url": "https://www.themoviedb.org/tv/318116",
-        "logo": "",
-        "desc": "",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,6 +537,15 @@
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Autofocus",
+        "url": "https://www.themoviedb.org/tv/318116",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Love Stories in the Countryside",
-        "url": "https://www.themoviedb.org/tv/49036",
-        "logo": "https://image.tmdb.org/t/p/w92/2XlU2bzsESbc6x9lBKe0gyk90oO.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Golden Boy",
         "url": "https://www.themoviedb.org/tv/210865",
         "logo": "https://image.tmdb.org/t/p/w92/cgf5R2XrfRQGp2sTu3cncbnFxRy.jpg",
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "The One I Love",
-        "url": "https://www.themoviedb.org/tv/306215",
-        "logo": "https://image.tmdb.org/t/p/w92/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
-        "desc": "Erkan Aldur, a young man from a wealthy Istanbul family, is stationed in eastern Turkey to complete his mandatory milita",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Bonanza",
+        "url": "https://www.themoviedb.org/tv/1018",
+        "logo": "https://image.tmdb.org/t/p/w92/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+        "desc": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surroundi",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,6 +2785,15 @@
         "category": "animation"
       },
       {
+        "name": "Renegade Immortal",
+        "url": "https://www.themoviedb.org/tv/223911",
+        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
+        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2803,15 +2812,6 @@
         "category": "animation"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Devil May Cry",
         "url": "https://www.themoviedb.org/tv/235930",
         "logo": "https://image.tmdb.org/t/p/w92/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
