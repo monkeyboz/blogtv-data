@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T08:51:18.539Z",
+  "updated": "2026-05-21T14:35:44.754Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2561,15 +2561,6 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Sesame Street",
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
@@ -2579,10 +2570,10 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Beyblade Burst",
-        "url": "https://www.themoviedb.org/tv/67667",
-        "logo": "https://image.tmdb.org/t/p/w92/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg",
-        "desc": "Middle schooler Valt Aoi, with his Beyblade Valkyrie (Valtryek), faces off against friends, classmates, and rivals to be",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "iCarly",
+        "url": "https://www.themoviedb.org/tv/5371",
+        "logo": "https://image.tmdb.org/t/p/w92/zswxst53aM8g2LysdVbtQNJAiKM.jpg",
+        "desc": "Watch Carly, Sam, and Freddie, as they try to balance their everyday 8th grade lives with their newfound fame managing a",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
