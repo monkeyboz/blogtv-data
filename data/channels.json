@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T08:44:48.441Z",
+  "updated": "2026-05-22T14:08:58.581Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -407,7 +407,7 @@
       {
         "name": "Berlin and the Lady with an Ermine",
         "url": "https://www.themoviedb.org/tv/308014",
-        "logo": "https://image.tmdb.org/t/p/w92/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
         "desc": "Hungry for a new heist, Berlin summons the gang to Seville and turns an ambitious duke into the victim of his own plan: ",
         "source": "tmdb",
         "type": "info",
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "Stranger Things",
-        "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
-        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "name": "Stranger Things",
+        "url": "https://www.themoviedb.org/tv/66732",
+        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
