@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T09:29:49.098Z",
+  "updated": "2026-05-26T14:30:43.929Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Stranger Things",
         "url": "https://www.themoviedb.org/tv/66732",
         "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/259837",
         "logo": "https://image.tmdb.org/t/p/w92/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
         "desc": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2803,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
