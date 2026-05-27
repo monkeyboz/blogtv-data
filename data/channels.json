@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T19:50:12.741Z",
+  "updated": "2026-05-27T02:01:26.383Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -64,13 +64,13 @@
         "category": "news"
       },
       {
-        "name": "10 TV (576p)",
+        "name": "10 TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
         "id": "10TV.in@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+        "url": "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8",
         "category": "news"
       },
       {
@@ -120,7 +120,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+        "url": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8",
         "category": "news"
       },
       {
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -911,7 +911,7 @@
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://mumt03.tangotv.in/7SMUSIC/index.m3u8",
+        "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
         "category": "music"
       },
       {
@@ -1838,13 +1838,13 @@
         "category": "politics"
       },
       {
-        "name": "10 TV (576p)",
+        "name": "10 TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
         "id": "10TV.in@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/391/master.m3u8",
+        "url": "https://mumbai-edge.smartplaytv.in/10TV/index.m3u8",
         "category": "politics"
       },
       {
@@ -1894,7 +1894,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+        "url": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8",
         "category": "politics"
       },
       {
