@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T14:59:25.140Z",
+  "updated": "2026-05-28T20:00:20.612Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1070,6 +1070,15 @@
         "category": "music"
       },
       {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Ef: A Tale Of Memories & Melodies",
         "url": "https://www.themoviedb.org/tv/27866",
         "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
@@ -1079,19 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "MM!",
-        "url": "https://www.themoviedb.org/tv/38084",
-        "logo": "https://image.tmdb.org/t/p/w92/5xsIJYkzrMahFHrwtpp7Gr8jDoQ.jpg",
-        "desc": "There are twisted tales and twisted tales, but few are as twisted as poor Sado's, who's just realized that he actually l",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Warm and Cozy",
-        "url": "https://www.themoviedb.org/tv/62645",
-        "logo": "https://image.tmdb.org/t/p/w92/2S3UaUP93ofMCmA7IlRsHFWjQaF.jpg",
-        "desc": "A workaholic with a rage problem and a laid-back guy from a wealthy family meet at a restaurant named \"Warm and Cozy\" on",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,6 +1408,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Virtues of Harmony II",
+        "url": "https://www.themoviedb.org/tv/4013",
+        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
+        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Virtues of Harmony II",
-        "url": "https://www.themoviedb.org/tv/4013",
-        "logo": "https://image.tmdb.org/t/p/w92/im3qS74ptAtmu7Tz07cN3xnW7xn.jpg",
-        "desc": "The Virtues of Harmony II is a long-running TVB television series, which follows its first series, Virtues of Harmony, a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "King of the Hill",
         "url": "https://www.themoviedb.org/tv/2122",
         "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
         "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Bonanza",
+        "url": "https://www.themoviedb.org/tv/1018",
+        "logo": "https://image.tmdb.org/t/p/w92/wQ1iVrG871anxkEUwWTRdPRi0j1.jpg",
+        "desc": "The High-Sierra adventures of Ben Cartwright and his sons as they run and defend their ranch while helping the surroundi",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
