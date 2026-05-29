@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T20:00:20.612Z",
+  "updated": "2026-05-29T01:55:09.550Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "Have I Got News for You",
+        "url": "https://www.themoviedb.org/tv/797",
+        "logo": "https://image.tmdb.org/t/p/w92/gYrG6F8OXBa8C0Lfx10XaZsHKaw.jpg",
+        "desc": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or s",
         "source": "tmdb",
         "type": "info",
         "category": "news"
