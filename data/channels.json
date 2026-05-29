@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T09:00:09.743Z",
+  "updated": "2026-05-29T14:32:12.979Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1079,10 +1079,10 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/AoxyuMX7gQqw2tdbTYaMIO6HMZ1.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "MM!",
+        "url": "https://www.themoviedb.org/tv/38084",
+        "logo": "https://image.tmdb.org/t/p/w92/5xsIJYkzrMahFHrwtpp7Gr8jDoQ.jpg",
+        "desc": "There are twisted tales and twisted tales, but few are as twisted as poor Sado's, who's just realized that he actually l",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Super Wings",
-        "url": "https://www.themoviedb.org/tv/71026",
-        "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
-        "desc": "An action-packed preschool series about an adorable jet plane named Jett who travels the world delivering packages to ch",
+        "name": "My Little Pony: Friendship Is Magic",
+        "url": "https://www.themoviedb.org/tv/33765",
+        "logo": "https://image.tmdb.org/t/p/w92/fwW7WgJIjhBsnzk87Gyh6g9187m.jpg",
+        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "The Apothecary Diaries",
-        "url": "https://www.themoviedb.org/tv/220542",
-        "logo": "https://image.tmdb.org/t/p/w92/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-        "desc": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's p",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "The Apothecary Diaries",
+        "url": "https://www.themoviedb.org/tv/220542",
+        "logo": "https://image.tmdb.org/t/p/w92/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+        "desc": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's p",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
