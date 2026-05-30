@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T20:03:33.784Z",
+  "updated": "2026-05-30T01:50:07.660Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -783,6 +783,16 @@
         "category": "sports"
       },
       {
+        "name": "Al Iraqia Sport (720p)",
+        "logo": "https://i.imgur.com/DrrlxTO.png",
+        "id": "AlIraqiaSport.iq@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "Alfa Sport (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/vhMPYIW.png",
         "id": "AlfaSport.cy@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Alkass Three (1080p)",
-        "logo": "https://i.imgur.com/d57BdFh.png",
-        "id": "AlkassThree.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -1239,13 +1239,13 @@
         "category": "entertainment"
       },
       {
-        "name": ".red (576p)",
-        "logo": "https://i.imgur.com/GET9Qut.png",
-        "id": "red.ru@SD",
+        "name": "A&E East (720p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+        "id": "AE.us@East",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://tmptv.sunduk.tv/CH147/index.m3u8",
+        "url": "https://tvpass.org/live/AEEast/hd",
         "category": "entertainment"
       },
       {
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
