@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T18:58:17.847Z",
+  "updated": "2026-06-01T02:11:28.759Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "S.W.A.T.",
-        "url": "https://www.themoviedb.org/tv/71790",
-        "logo": "https://image.tmdb.org/t/p/w92/ttzrYMdsKWR8PTRLw7uo4noqaOJ.jpg",
-        "desc": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn betwee",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1339,16 +1339,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "entertainment"
       },
       {
@@ -1564,16 +1564,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
-        "category": "cooking"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "cooking"
       }
     ],
@@ -2322,16 +2322,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Travel",
-        "logo": "https://i.imgur.com/QiuYWs9.png",
-        "id": "BBCTravel.us@Germany",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
-        "category": "health"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "health"
       }
     ],
@@ -2484,26 +2484,6 @@
         "category": "kids"
       },
       {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/600adbdf8c554e00072125c9/colorLogoPNG.png",
-        "id": "Avatar.us@Germany",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
-        "id": "Avatar.us@UK",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8",
-        "category": "kids"
-      },
-      {
         "name": "Baby Shark TV",
         "logo": "https://i.imgur.com/SbBKr8L.png",
         "id": "BabySharkTV.us@Poland",
@@ -2524,13 +2504,33 @@
         "category": "kids"
       },
       {
-        "name": "Babyfirst",
-        "logo": "https://i.imgur.com/WxLHBwu.png",
-        "id": "BabyFirst.us@Brazil",
+        "name": "BabyTV Spain (1080p)",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "id": "BabyTV.uk@Spain",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
+        "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/4BDJ5FT.png",
+        "id": "BabyTV.uk@Turkiye",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Balapan TV (1080p)",
+        "logo": "https://i.imgur.com/2o5T0gi.png",
+        "id": "Balapan.kz@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "category": "kids"
       },
       {
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "The Apothecary Diaries",
-        "url": "https://www.themoviedb.org/tv/220542",
-        "logo": "https://image.tmdb.org/t/p/w92/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
-        "desc": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's p",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Overflow",
         "url": "https://www.themoviedb.org/tv/95897",
         "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/95479",
         "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
         "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
