@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T19:26:15.275Z",
+  "updated": "2026-06-06T01:52:57.375Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -184,6 +184,16 @@
         "category": "news"
       },
       {
+        "name": "2M Monde (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+        "category": "news"
+      },
+      {
         "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "11 Kanal (720p)",
-        "logo": "https://i.imgur.com/y78saaG.png",
-        "id": "Channel11.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "news"
       },
       {
@@ -875,6 +875,16 @@
     ],
     "music": [
       {
+        "name": "4ever Music",
+        "logo": "https://i.imgur.com/UJ5oaeU.png",
+        "id": "4everMusic.ua@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw",
+        "category": "music"
+      },
+      {
         "name": "4 Fun TV (576i) [Not 24/7]",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "70-80 TV (1080P)",
-        "logo": "https://i.imgur.com/y4kNV3Q.png",
-        "id": "7080TV.it@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
         "category": "music"
       },
       {
@@ -1426,15 +1426,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Frasier",
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
@@ -1444,10 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Deep In Love",
-        "url": "https://www.themoviedb.org/tv/302063",
-        "logo": "https://image.tmdb.org/t/p/w92/uHIOTJXN9nNTc51WyunL43Fvge3.jpg",
-        "desc": "In a land where people are accustomed to battling fierce waves and constant storms, the story of a woman who stands tall",
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "The Goldbergs",
+        "url": "https://www.themoviedb.org/tv/49009",
+        "logo": "https://image.tmdb.org/t/p/w92/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+        "desc": "Before there were parenting blogs, trophies for showing up, and peanut allergies, there was a simpler time called the '8",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1958,6 +1958,16 @@
         "category": "politics"
       },
       {
+        "name": "2M Monde (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "11 Kanal (720p)",
-        "logo": "https://i.imgur.com/y78saaG.png",
-        "id": "Channel11.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "politics"
       }
     ],
@@ -2862,6 +2862,16 @@
         "category": "general"
       },
       {
+        "name": "2M Monde (1080p)",
+        "logo": "https://i.imgur.com/MvpntzA.png",
+        "id": "2MMonde.ma@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
+        "category": "general"
+      },
+      {
         "name": "2M Monde (360p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9laloma.tv/live.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "11 Kanal (720p)",
-        "logo": "https://i.imgur.com/y78saaG.png",
-        "id": "Channel11.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://11tv-dp.cdn-04.cosmonova.net.ua/hls/11tv-dp_ua_hi/index.m3u8",
         "category": "general"
       }
     ]
