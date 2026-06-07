@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T08:40:41.769Z",
+  "updated": "2026-06-07T13:13:43.844Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,6 +423,24 @@
         "category": "technology"
       },
       {
+        "name": "Teach You a Lesson",
+        "url": "https://www.themoviedb.org/tv/276161",
+        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "The Ferry Man 10th Anniversary",
+        "url": "https://www.themoviedb.org/tv/289147",
+        "logo": "https://image.tmdb.org/t/p/w92/9ilVMG2ueA0xrviD0A9WoluAcnF.jpg",
+        "desc": "At Mirage City's 444 Convenience Store, Xia Dongqing and Ya join forces with a cryptic Night Watcher to maintain the bal",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Stranger Things",
         "url": "https://www.themoviedb.org/tv/66732",
         "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
@@ -445,24 +463,6 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Smallville",
-        "url": "https://www.themoviedb.org/tv/4604",
-        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Big Game",
-        "url": "https://www.themoviedb.org/tv/107703",
-        "logo": "https://image.tmdb.org/t/p/w92/chLNbjo3QV6Sw47dH5W8ZxArBYb.jpg",
-        "desc": "Sixteen contestants of a new survival show are taken to the Siberian taiga to compete for the price of one million euros",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
