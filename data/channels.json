@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T19:01:42.691Z",
+  "updated": "2026-06-07T02:07:29.201Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,19 +524,19 @@
         "category": "science"
       },
       {
-        "name": "Nature",
-        "url": "https://www.themoviedb.org/tv/14951",
-        "logo": "https://image.tmdb.org/t/p/w92/qRg5boKJdJhJKoGJdchVqPGQTEl.jpg",
-        "desc": "Consistently stunning documentaries transport viewers to far-flung locations ranging from the torrid African plains to t",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1239,13 +1239,13 @@
         "category": "entertainment"
       },
       {
-        "name": "A&E East (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
-        "id": "AE.us@East",
+        "name": "A-Plus TV (576p)",
+        "logo": "https://i.imgur.com/uu0UJme.png",
+        "id": "APlusTV.pk@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://tvpass.org/live/AEEast/hd",
+        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
         "category": "entertainment"
       },
       {
