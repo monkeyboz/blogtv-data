@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T19:01:38.197Z",
+  "updated": "2026-06-08T02:12:34.391Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2464,6 +2464,16 @@
         "category": "kids"
       },
       {
+        "name": "Aqlvoy",
+        "logo": "https://i.imgur.com/ekF5cAi.png",
+        "id": "Aqlvoy.uz@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "ARB Gunes",
         "logo": "https://i.imgur.com/dSg7KUK.png",
         "id": "ARBGunes.az@SD",
@@ -2521,16 +2531,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Balapan TV (1080p)",
-        "logo": "https://i.imgur.com/2o5T0gi.png",
-        "id": "Balapan.kz@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
         "category": "kids"
       },
       {
