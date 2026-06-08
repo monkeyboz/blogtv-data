@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T02:12:34.391Z",
+  "updated": "2026-06-08T10:10:47.862Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,6 +405,15 @@
         "category": "technology"
       },
       {
+        "name": "Teach You a Lesson",
+        "url": "https://www.themoviedb.org/tv/276161",
+        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -423,10 +432,10 @@
         "category": "technology"
       },
       {
-        "name": "Teach You a Lesson",
-        "url": "https://www.themoviedb.org/tv/276161",
-        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -436,15 +445,6 @@
         "url": "https://www.themoviedb.org/tv/289147",
         "logo": "https://image.tmdb.org/t/p/w92/9ilVMG2ueA0xrviD0A9WoluAcnF.jpg",
         "desc": "At Mirage City's 444 Convenience Store, Xia Dongqing and Ya join forces with a cryptic Night Watcher to maintain the bal",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
