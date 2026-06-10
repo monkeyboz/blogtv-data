@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T19:51:58.993Z",
+  "updated": "2026-06-10T02:01:10.507Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -154,6 +154,16 @@
         "category": "news"
       },
       {
+        "name": "1+1 International (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
+        "category": "news"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -181,6 +191,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "2+2 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "news"
       },
       {
@@ -234,16 +254,6 @@
         "category": "news"
       },
       {
-        "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
-        "category": "news"
-      },
-      {
         "name": "3 Stones TV (240p) [Not 24/7]",
         "logo": "https://i.imgur.com/im3g7T2.png",
         "id": "3StonesTV.ke@SD",
@@ -294,16 +304,6 @@
         "category": "news"
       },
       {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
-        "category": "news"
-      },
-      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -340,19 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -611,16 +611,6 @@
         "category": "history"
       },
       {
-        "name": "Animaux (720p) [Geo-Blocked]",
-        "logo": "https://i.imgur.com/FM9FVAG.png",
-        "id": "Animaux.fr@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/animaux/browser-dash/animaux.mpd",
-        "category": "history"
-      },
-      {
         "name": "ARD-alpha (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
         "id": "ARDalpha.de@SD",
@@ -628,16 +618,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "ARD-alpha HD (576p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
-        "id": "ARDalpha.de@HD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha.m3u8",
         "category": "history"
       },
       {
@@ -718,6 +698,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Canal Educativo (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/huBxZpP.png",
+        "id": "CanalEducativo.cu@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.picta.cu/educativo/educativo_0.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Canal Educativo 2 (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/nOl3H5X.png",
+        "id": "CanalEducativo2.cu@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
         "category": "history"
       }
     ],
@@ -1129,16 +1129,6 @@
         "category": "entertainment"
       },
       {
-        "name": "6ter (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/2nd5Cox.png",
-        "id": "6ter.fr@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "8TV",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "id": "8TV.my@SD",
@@ -1246,6 +1236,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "category": "entertainment"
+      },
+      {
+        "name": "Aaj Entertainment (1080p)",
+        "logo": "https://i.imgur.com/WK5Cqap.png",
+        "id": "AajEntertainment.pk@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1928,6 +1928,16 @@
         "category": "politics"
       },
       {
+        "name": "1+1 International (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -1955,6 +1965,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "2+2 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "politics"
       },
       {
@@ -2008,16 +2028,6 @@
         "category": "politics"
       },
       {
-        "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "3 Stones TV (240p) [Not 24/7]",
         "logo": "https://i.imgur.com/im3g7T2.png",
         "id": "3StonesTV.ke@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
         "category": "politics"
       }
     ],
@@ -2832,6 +2832,16 @@
     ],
     "general": [
       {
+        "name": "1+1 International (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
+        "category": "general"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2859,6 +2869,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "2+2 (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "general"
       },
       {
@@ -2912,16 +2932,6 @@
         "category": "general"
       },
       {
-        "name": "3sat HD (1080p) [Geo-Blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
-        "category": "general"
-      },
-      {
         "name": "3 Stones TV (240p) [Not 24/7]",
         "logo": "https://i.imgur.com/im3g7T2.png",
         "id": "3StonesTV.ke@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "9 la Loma TV (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/WQP3el2.png",
-        "id": "9laLomaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://9laloma.tv/live.m3u8",
         "category": "general"
       }
     ]
