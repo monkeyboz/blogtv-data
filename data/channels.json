@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T20:03:52.105Z",
+  "updated": "2026-06-11T02:11:48.706Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -875,13 +875,13 @@
     ],
     "music": [
       {
-        "name": "4ever Music",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4ever Music (1080p)",
         "logo": "https://i.imgur.com/UJ5oaeU.png",
         "id": "4everMusic.ua@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://iptv.prosto.tv/ch132/tracks-v2a1/1.m3u8?live=1&ip=178.136.40.86&id=921233&secret=9szoe89y&ses=41545bc9645b3681&uid=9szoe89y&cs_track=false&e=1783162962&st=bprjJC1msNDEIjna-uUQjw",
+        "url": "https://iptv.prosto.tv/ch132/index.m3u8",
         "category": "music"
       },
       {
@@ -1109,6 +1109,16 @@
         "category": "entertainment"
       },
       {
+        "name": "4ever Theater",
+        "logo": "https://i.imgur.com/kfngtev.png",
+        "id": "4everTheater.ua@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?live=1&ip=178.136.40.86&id=922996&secret=yamxdzwl&21yo=0&e=1783680395&st=OWDBi-vxSZADl0oF8lHHxw",
+        "category": "entertainment"
+      },
+      {
         "name": "4U TV (720p)",
         "logo": "https://i.imgur.com/PexhKwp.png",
         "id": "4UTV.tr@SD",
@@ -1239,16 +1249,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Aaj Entertainment (1080p)",
-        "logo": "https://i.imgur.com/WK5Cqap.png",
-        "id": "AajEntertainment.pk@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "9Life (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/HlJOrGI.png",
         "id": "9Life.au@Sydney",
@@ -1339,6 +1339,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "entertainment"
       },
       {
@@ -1564,6 +1564,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "cooking"
       }
     ],
@@ -2322,6 +2322,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Travel",
+        "logo": "https://i.imgur.com/QiuYWs9.png",
+        "id": "BBCTravel.us@Germany",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "health"
       }
     ],
@@ -2494,6 +2494,16 @@
         "category": "kids"
       },
       {
+        "name": "Avatar",
+        "logo": "https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png",
+        "id": "Avatar.us",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Baby Shark TV",
         "logo": "https://i.imgur.com/SbBKr8L.png",
         "id": "BabySharkTV.us@Poland",
@@ -2514,23 +2524,13 @@
         "category": "kids"
       },
       {
-        "name": "BabyTV Spain (1080p)",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
-        "id": "BabyTV.uk@Spain",
+        "name": "Babyfirst",
+        "logo": "https://i.imgur.com/WxLHBwu.png",
+        "id": "BabyFirst.us@Brazil",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://xykt-fix.github.io/iptv/streams/SP88/index.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "BabyTV Turkiye (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/4BDJ5FT.png",
-        "id": "BabyTV.uk@Turkiye",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+        "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
         "category": "kids"
       },
       {
@@ -2708,6 +2708,16 @@
         "category": "animation"
       },
       {
+        "name": "Crunchyroll (720p)",
+        "logo": "https://i.imgur.com/2FlIQUO.png",
+        "id": "Crunchyroll.us",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-65652f7fc0fc88000883537a.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "DreikoTv (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/k8U0e0b.png",
         "id": "DreikoTV.pa@SD",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Geekdot (720p)",
-        "logo": "https://i.imgur.com/jML1u4O.png",
-        "id": "Geekdot.br@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
         "category": "animation"
       },
       {
