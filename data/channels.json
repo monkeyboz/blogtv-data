@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T09:58:33.039Z",
+  "updated": "2026-06-11T15:26:53.575Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1070,19 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "Beautiful You",
-        "url": "https://www.themoviedb.org/tv/65365",
-        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
-        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "The Greatest Marriage",
+        "url": "https://www.themoviedb.org/tv/61486",
+        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
+        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,6 +1408,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Deweni Inima",
+        "url": "https://www.themoviedb.org/tv/324245",
+        "logo": "https://image.tmdb.org/t/p/w92/rzd78lppHI4YT3CP3VqUOoAZvmR.jpg",
+        "desc": "A humble young cricketer faces a fierce sports and personal rivalry with his wealthy, estranged half-brother. Set agains",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Gullak",
         "url": "https://www.themoviedb.org/tv/90966",
         "logo": "https://image.tmdb.org/t/p/w92/yvUFbucJg19kaR1HMNc7FKdEwYl.jpg",
@@ -1457,15 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
         "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Everwood",
-        "url": "https://www.themoviedb.org/tv/1950",
-        "logo": "https://image.tmdb.org/t/p/w92/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
-        "desc": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the smal",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
