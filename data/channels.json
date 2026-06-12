@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T09:50:56.784Z",
+  "updated": "2026-06-12T14:26:55.614Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,19 +396,19 @@
     ],
     "technology": [
       {
-        "name": "The Boys",
-        "url": "https://www.themoviedb.org/tv/76479",
-        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
+        "name": "Teach You a Lesson",
+        "url": "https://www.themoviedb.org/tv/276161",
+        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Teach You a Lesson",
-        "url": "https://www.themoviedb.org/tv/276161",
-        "logo": "https://image.tmdb.org/t/p/w92/wd14C18cey46iCj9pedMSM4kXE6.jpg",
-        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "The Walking Dead",
-        "url": "https://www.themoviedb.org/tv/1402",
-        "logo": "https://image.tmdb.org/t/p/w92/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
-        "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1408,19 +1408,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "name": "Deweni Inima",
+        "url": "https://www.themoviedb.org/tv/324245",
+        "logo": "https://image.tmdb.org/t/p/w92/rzd78lppHI4YT3CP3VqUOoAZvmR.jpg",
+        "desc": "A humble young cricketer faces a fierce sports and personal rivalry with his wealthy, estranged half-brother. Set agains",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Deweni Inima",
-        "url": "https://www.themoviedb.org/tv/324245",
-        "logo": "https://image.tmdb.org/t/p/w92/rzd78lppHI4YT3CP3VqUOoAZvmR.jpg",
-        "desc": "A humble young cricketer faces a fierce sports and personal rivalry with his wealthy, estranged half-brother. Set agains",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
