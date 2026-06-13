@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T19:47:52.084Z",
+  "updated": "2026-06-13T02:01:11.308Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -515,10 +524,10 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,28 +542,19 @@
         "category": "science"
       },
       {
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Frontline",
         "url": "https://www.themoviedb.org/tv/4384",
         "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
         "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ulisse - The Pleasure of Discovery",
-        "url": "https://www.themoviedb.org/tv/66324",
-        "logo": "https://image.tmdb.org/t/p/w92/wT1e9TKraoXF5sI4NlMnJUCXoNR.jpg",
-        "desc": "Alberto Angela leads the dissemination program dedicated to history, art and culture. A historical, archaeological, info",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "Bluey",
+        "url": "https://www.themoviedb.org/tv/82728",
+        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
