@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T19:02:53.924Z",
+  "updated": "2026-06-14T02:11:13.336Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -154,9 +154,9 @@
         "category": "news"
       },
       {
-        "name": "1+1 International (1080p) [Geo-blocked]",
+        "name": "1+1 International (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua@SD",
+        "id": "1Plus1International.ua",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
@@ -204,13 +204,23 @@
         "category": "news"
       },
       {
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "category": "news"
+      },
+      {
         "name": "2M Monde (1080p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@HD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
         "category": "news"
       },
       {
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "8NTV (1080p)",
-        "logo": "https://i.imgur.com/7ecgGIG.png",
-        "id": "8NTV.mx@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
         "category": "news"
       },
       {
@@ -506,19 +506,19 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Frontline",
+        "url": "https://www.themoviedb.org/tv/4384",
+        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,15 +533,6 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -885,13 +885,13 @@
         "category": "music"
       },
       {
-        "name": "4 Fun TV (576p) [Not 24/7]",
+        "name": "4 Fun TV (576i) [Not 24/7]",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://srv1.adriatelekom.com/4FunTV/index.m3u8",
+        "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
         "category": "music"
       },
       {
@@ -1928,9 +1928,9 @@
         "category": "politics"
       },
       {
-        "name": "1+1 International (1080p) [Geo-blocked]",
+        "name": "1+1 International (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua@SD",
+        "id": "1Plus1International.ua",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
@@ -1978,13 +1978,23 @@
         "category": "politics"
       },
       {
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "2M Monde (1080p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@HD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
         "category": "politics"
       },
       {
@@ -2066,16 +2076,6 @@
         "type": "live",
         "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
         "category": "politics"
-      },
-      {
-        "name": "8NTV (1080p)",
-        "logo": "https://i.imgur.com/7ecgGIG.png",
-        "id": "8NTV.mx@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
-        "category": "politics"
       }
     ],
     "business": [
@@ -2087,6 +2087,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Agenda Minera TV",
+        "logo": "https://i.imgur.com/hg2PiIn.png",
+        "id": "AgendaMineraTV.bo@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
         "category": "business"
       },
       {
@@ -2217,16 +2227,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg TV US Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTV.us@LiveEvent",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
         "category": "business"
       }
     ],
@@ -2832,9 +2832,9 @@
     ],
     "general": [
       {
-        "name": "1+1 International (1080p) [Geo-blocked]",
+        "name": "1+1 International (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua@SD",
+        "id": "1Plus1International.ua",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
@@ -2882,13 +2882,23 @@
         "category": "general"
       },
       {
+        "name": "2M (1080p)",
+        "logo": "https://i.imgur.com/PJYTfHi.png",
+        "id": "2M.ma@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "category": "general"
+      },
+      {
         "name": "2M Monde (1080p)",
         "logo": "https://i.imgur.com/MvpntzA.png",
         "id": "2MMonde.ma@HD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "https://stream-lb.livemediama.com/2m/hls/master.m3u8",
         "category": "general"
       },
       {
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "8NTV (1080p)",
-        "logo": "https://i.imgur.com/7ecgGIG.png",
-        "id": "8NTV.mx@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8",
         "category": "general"
       }
     ]
