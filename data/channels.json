@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T02:15:06.406Z",
+  "updated": "2026-06-15T11:38:20.238Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Everwood",
-        "url": "https://www.themoviedb.org/tv/1950",
-        "logo": "https://image.tmdb.org/t/p/w92/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
-        "desc": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the smal",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Gaatchora",
-        "url": "https://www.themoviedb.org/tv/204958",
-        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
-        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
+        "name": "Everwood",
+        "url": "https://www.themoviedb.org/tv/1950",
+        "logo": "https://image.tmdb.org/t/p/w92/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+        "desc": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the smal",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
