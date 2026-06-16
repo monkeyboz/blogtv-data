@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T20:41:38.069Z",
+  "updated": "2026-06-16T02:30:17.802Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -743,6 +743,16 @@
         "category": "sports"
       },
       {
+        "name": "A Spor (1080p)",
+        "logo": "https://i.imgur.com/ZhkZzLf.png",
+        "id": "ASpor.tr@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "ACCDN (1080p)",
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "id": "ACCDigitalNetwork.us@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Alkass Six (1080p)",
-        "logo": "https://i.imgur.com/CrPSPSC.png",
-        "id": "AlkassSix.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
         "category": "sports"
       }
     ],
