@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T16:16:25.952Z",
+  "updated": "2026-06-16T20:33:32.854Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1043,28 +1043,10 @@
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
         "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,10 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1092,6 +1083,15 @@
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
         "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "The Greatest Marriage",
+        "url": "https://www.themoviedb.org/tv/61486",
+        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
+        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,15 +1417,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1435,19 +1426,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Gaatchora",
-        "url": "https://www.themoviedb.org/tv/204958",
-        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
-        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
+        "name": "What's My Line?",
+        "url": "https://www.themoviedb.org/tv/26663",
+        "logo": "https://image.tmdb.org/t/p/w92/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg",
+        "desc": "Four panelists must determine guests' occupations - and, in the case of famous guests, while blindfolded, their identity",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Deweni Inima",
-        "url": "https://www.themoviedb.org/tv/324245",
-        "logo": "https://image.tmdb.org/t/p/w92/rzd78lppHI4YT3CP3VqUOoAZvmR.jpg",
-        "desc": "A humble young cricketer faces a fierce sports and personal rivalry with his wealthy, estranged half-brother. Set agains",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Gaatchora",
+        "url": "https://www.themoviedb.org/tv/204958",
+        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
+        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Super Wings",
-        "url": "https://www.themoviedb.org/tv/71026",
-        "logo": "https://image.tmdb.org/t/p/w92/lu2DNsIQgn1Jb6djHvrqJSUQXXl.jpg",
-        "desc": "An action-packed preschool series about an adorable jet plane named Jett who travels the world delivering packages to ch",
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
