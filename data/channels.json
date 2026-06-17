@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T14:45:00.425Z",
+  "updated": "2026-06-17T19:54:05.924Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -349,6 +349,15 @@
         "category": "news"
       },
       {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
@@ -362,15 +371,6 @@
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
         "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1061,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "name": "The Greatest Marriage",
+        "url": "https://www.themoviedb.org/tv/61486",
+        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
+        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "The Greatest Marriage",
-        "url": "https://www.themoviedb.org/tv/61486",
-        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
-        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,19 +1417,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Gaatchora",
+        "url": "https://www.themoviedb.org/tv/204958",
+        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
+        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "What's My Line?",
-        "url": "https://www.themoviedb.org/tv/26663",
-        "logo": "https://image.tmdb.org/t/p/w92/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg",
-        "desc": "Four panelists must determine guests' occupations - and, in the case of famous guests, while blindfolded, their identity",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,19 +1444,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Gaatchora",
-        "url": "https://www.themoviedb.org/tv/204958",
-        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
-        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Elif",
-        "url": "https://www.themoviedb.org/tv/49347",
-        "logo": "https://image.tmdb.org/t/p/w92/337YdJG3TUMzpdnbJyP7K9oA72e.jpg",
-        "desc": "A kind 6-year-old girl is placed under the protection of her mother's best friend, who keeps a well-hidden secret, and i",
+        "name": "Cranberry Sorbet",
+        "url": "https://www.themoviedb.org/tv/213194",
+        "logo": "https://image.tmdb.org/t/p/w92/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
+        "desc": "When free-spirited Doğa falls head over heels for charming Fatih, nobody expects the chaos that follows. His family is d",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
         "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "Super Simple Songs",
-        "url": "https://www.themoviedb.org/tv/276191",
-        "logo": "https://image.tmdb.org/t/p/w92/bRwgnC2MZ79fel2L18q0YKhQYeT.jpg",
-        "desc": "Super Simple Songs® is a collection of original kids songs and classic nursery rhymes made SIMPLE for young learners. Co",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "The Fairly OddParents",
-        "url": "https://www.themoviedb.org/tv/4630",
-        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
+        "name": "Super Simple Songs",
+        "url": "https://www.themoviedb.org/tv/276191",
+        "logo": "https://image.tmdb.org/t/p/w92/bRwgnC2MZ79fel2L18q0YKhQYeT.jpg",
+        "desc": "Super Simple Songs® is a collection of original kids songs and classic nursery rhymes made SIMPLE for young learners. Co",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
