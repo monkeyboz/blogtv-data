@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:33:32.854Z",
+  "updated": "2026-06-17T02:14:49.456Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -408,7 +408,7 @@
         "name": "Teach You a Lesson",
         "url": "https://www.themoviedb.org/tv/276161",
         "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-        "desc": "When respect collapses in schools, unconventional inspectors arrive to set things right — with sharp, no-nonsense lesson",
+        "desc": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical in",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1239,13 +1239,13 @@
         "category": "entertainment"
       },
       {
-        "name": "A-Plus TV (576p)",
-        "logo": "https://i.imgur.com/uu0UJme.png",
-        "id": "APlusTV.pk@SD",
+        "name": "A&E (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+        "id": "AE.us@East",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://115.42.65.142:9981/stream/channelid/113328724",
+        "url": "http://23.239.31.26:8989/aande/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1339,6 +1339,16 @@
         "category": "entertainment"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
+        "category": "entertainment"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1564,6 +1564,16 @@
         "category": "cooking"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
+        "category": "cooking"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2322,6 +2322,16 @@
         "category": "health"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
+        "category": "health"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
