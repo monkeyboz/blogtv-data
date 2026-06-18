@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T19:54:05.924Z",
+  "updated": "2026-06-18T02:12:53.894Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -164,6 +164,16 @@
         "category": "news"
       },
       {
+        "name": "1+1 International HD (720p)",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "category": "news"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "8 La Marina TV (576p)",
-        "logo": "https://i.imgur.com/BTJvvBK.png",
-        "id": "8LaMarinaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
         "category": "news"
       },
       {
@@ -1938,6 +1938,16 @@
         "category": "politics"
       },
       {
+        "name": "1+1 International HD (720p)",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "8 La Marina TV (576p)",
-        "logo": "https://i.imgur.com/BTJvvBK.png",
-        "id": "8LaMarinaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
         "category": "politics"
       }
     ],
@@ -2842,6 +2842,16 @@
         "category": "general"
       },
       {
+        "name": "1+1 International HD (720p)",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@HD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "category": "general"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "8 La Marina TV (576p)",
-        "logo": "https://i.imgur.com/BTJvvBK.png",
-        "id": "8LaMarinaTV.es@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streaming005.gestec-video.com/hls/canal24.m3u8",
         "category": "general"
       }
     ]
