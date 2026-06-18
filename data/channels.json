@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T10:00:28.751Z",
+  "updated": "2026-06-18T14:38:25.672Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1444,6 +1444,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Sangeethe",
+        "url": "https://www.themoviedb.org/tv/290225",
+        "logo": "https://image.tmdb.org/t/p/w92/8kkzyQdJEWiv92DJQm0sNR7aIg1.jpg",
+        "desc": "A bitter musical rivalry intertwines with a complex, cross-class romance between a talented middle-class band leader and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Cranberry Sorbet",
         "url": "https://www.themoviedb.org/tv/213194",
         "logo": "https://image.tmdb.org/t/p/w92/fXATVTtJDNizWjKpHgJEZegr6R2.jpg",
@@ -1457,15 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
         "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
