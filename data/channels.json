@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T02:40:27.749Z",
+  "updated": "2026-06-19T10:07:00.902Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1408,19 +1408,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Gullak",
-        "url": "https://www.themoviedb.org/tv/90966",
-        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
-        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
+        "name": "Gaatchora",
+        "url": "https://www.themoviedb.org/tv/204958",
+        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
+        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Gaatchora",
-        "url": "https://www.themoviedb.org/tv/204958",
-        "logo": "https://image.tmdb.org/t/p/w92/lWQisju3gkMuDrTugdjqklrJ2iH.jpg",
-        "desc": "Poles apart, the Bhattacharya sisters get entwined with the lives of the Singharoy brothers. Are marriages really made i",
+        "name": "Gullak",
+        "url": "https://www.themoviedb.org/tv/90966",
+        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
+        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
