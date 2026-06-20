@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T08:36:37.702Z",
+  "updated": "2026-06-20T13:20:00.488Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2570,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2592,15 +2601,6 @@
         "url": "https://www.themoviedb.org/tv/3022",
         "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
         "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "GG Bond",
-        "url": "https://www.themoviedb.org/tv/217772",
-        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
