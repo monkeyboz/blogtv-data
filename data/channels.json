@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T19:08:55.116Z",
+  "updated": "2026-06-22T02:28:05.249Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -61,6 +61,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "7 Info",
+        "logo": "https://i.imgur.com/jcl1nNR.png",
+        "id": "7Info.ci@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
         "category": "news"
       },
       {
@@ -141,16 +151,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-        "id": "Channel24.ua@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
         "category": "news"
       },
       {
@@ -405,6 +405,15 @@
         "category": "technology"
       },
       {
+        "name": "House of the Dragon",
+        "url": "https://www.themoviedb.org/tv/94997",
+        "logo": "https://image.tmdb.org/t/p/w92/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "desc": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires cru",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -445,15 +454,6 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "House of the Dragon",
-        "url": "https://www.themoviedb.org/tv/94997",
-        "logo": "https://image.tmdb.org/t/p/w92/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "desc": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires cru",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -885,6 +885,16 @@
         "category": "music"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4 Fun Dance [Not 24/7]",
+        "logo": "https://i.imgur.com/ZEWHe1B.png",
+        "id": "4FunDance.pl@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://89.218.32.179:18000/play/a016",
+        "category": "music"
+      },
+      {
         "name": "4 Fun TV (576i) [Not 24/7]",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
@@ -1015,16 +1025,6 @@
         "category": "music"
       },
       {
-        "name": "51 Radio TV (480p) [Geo-blocked]",
-        "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
-        "id": "51RadioTV.it@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
-        "category": "music"
-      },
-      {
         "name": "The Tudors",
         "url": "https://www.themoviedb.org/tv/2942",
         "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
@@ -1139,6 +1139,16 @@
         "category": "entertainment"
       },
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
+        "id": "78TV.bg@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://213.91.179.28:8000/play/a0cn",
+        "category": "entertainment"
+      },
+      {
         "name": "8TV",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "id": "8TV.my@SD",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "¡OPA! (1080i) [Geo-blocked]",
-        "logo": "https://i.imgur.com/300c1ZH.png",
-        "id": "OPA.cr@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://5fc584f3f19c9.streamlock.net/genteopa/videogenteopa/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Everwood",
+        "url": "https://www.themoviedb.org/tv/1950",
+        "logo": "https://image.tmdb.org/t/p/w92/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+        "desc": "After the death of his wife, world-class neurosurgeon Dr. Andrew Brown leaves Manhattan and moves his family to the smal",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1838,6 +1838,16 @@
         "category": "politics"
       },
       {
+        "name": "7 Info",
+        "logo": "https://i.imgur.com/jcl1nNR.png",
+        "id": "7Info.ci@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "10 TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
         "id": "10TV.in@SD",
@@ -1915,16 +1925,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-        "id": "Channel24.ua@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
         "category": "politics"
       },
       {
@@ -2638,6 +2638,16 @@
         "category": "animation"
       },
       {
+        "name": "Animax Asia (480i) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+        "id": "AnimaxAsia.sg@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd",
+        "category": "animation"
+      },
+      {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
         "id": "AnimaxAsia.sg@India",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "category": "animation"
-      },
-      {
-        "name": "EnerGeek Fan (1080p)",
-        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
-        "id": "EnerGeekFAN.cl@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
         "category": "animation"
       },
       {
