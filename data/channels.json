@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T02:28:05.249Z",
+  "updated": "2026-06-22T11:27:35.021Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1408,19 +1408,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Gullak",
-        "url": "https://www.themoviedb.org/tv/90966",
-        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
-        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Gullak",
+        "url": "https://www.themoviedb.org/tv/90966",
+        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
+        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
