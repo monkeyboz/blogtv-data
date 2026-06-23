@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T14:14:00.209Z",
+  "updated": "2026-06-23T19:46:05.078Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,15 +322,6 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Saturday Night Live",
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
@@ -344,6 +335,15 @@
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
         "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,15 +441,6 @@
         "category": "technology"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -459,10 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "Sidemen",
+        "url": "https://www.themoviedb.org/tv/240407",
+        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
+        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -524,15 +533,6 @@
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "MythBusters",
         "url": "https://www.themoviedb.org/tv/1428",
         "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Sidemen",
-        "url": "https://www.themoviedb.org/tv/240407",
-        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
-        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
+        "name": "Golden Horse Awards",
+        "url": "https://www.themoviedb.org/tv/206296",
+        "logo": "https://image.tmdb.org/t/p/w92/q9H3q7q99hIwMFmxaA9pVD8jdoU.jpg",
+        "desc": "The Taipei Golden Horse Film Festival and Awards (Chinese: 台北金馬影展; pinyin: Táiběi Jīnmǎ Yǐngzhǎn; Pe̍h-ōe-jī: Tâi-pak Ki",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Mensch Leute",
-        "url": "https://www.themoviedb.org/tv/208506",
-        "logo": "",
-        "desc": "",
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1417,10 +1417,37 @@
         "category": "entertainment"
       },
       {
+        "name": "Nayanatara",
+        "url": "https://www.themoviedb.org/tv/320118",
+        "logo": "https://image.tmdb.org/t/p/w92/prI08jYqAHmAr2DdwFMwnr97Gsr.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Khelaghor",
+        "url": "https://www.themoviedb.org/tv/280932",
+        "logo": "https://image.tmdb.org/t/p/w92/uqly7FYGMFUex57M12yvb7tCvKA.jpg",
+        "desc": "A rich girl gets accidentally married to an uneducated vagabond living in a slum. in the marriage demanding countless ad",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1439,33 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
         "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Nayanatara",
-        "url": "https://www.themoviedb.org/tv/320118",
-        "logo": "https://image.tmdb.org/t/p/w92/prI08jYqAHmAr2DdwFMwnr97Gsr.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "The Fairly OddParents",
-        "url": "https://www.themoviedb.org/tv/4630",
-        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
+        "name": "My Little Pony: Friendship Is Magic",
+        "url": "https://www.themoviedb.org/tv/33765",
+        "logo": "https://image.tmdb.org/t/p/w92/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,15 +2767,6 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "TenPuru",
         "url": "https://www.themoviedb.org/tv/218613",
         "logo": "https://image.tmdb.org/t/p/w92/3zGVf8svzcsFD4MyWpPfUcXYRVK.jpg",
@@ -2785,19 +2776,10 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Secret Mission - Undercover Agents Never Back Down!",
-        "url": "https://www.themoviedb.org/tv/233643",
-        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
+        "name": "6 Lovers",
+        "url": "https://www.themoviedb.org/tv/232393",
+        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2825,6 +2807,24 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "JUJUTSU KAISEN",
+        "url": "https://www.themoviedb.org/tv/95479",
+        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
