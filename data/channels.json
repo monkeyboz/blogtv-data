@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T08:48:50.756Z",
+  "updated": "2026-06-24T13:59:48.360Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,6 +304,15 @@
         "category": "news"
       },
       {
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -313,10 +322,10 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,24 +349,6 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "The Colbert Report",
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
@@ -367,10 +358,19 @@
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "Frontline",
+        "url": "https://www.themoviedb.org/tv/4384",
+        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -450,19 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "JUJUTSU KAISEN",
-        "url": "https://www.themoviedb.org/tv/95479",
-        "logo": "https://image.tmdb.org/t/p/w92/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
-        "desc": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "S.W.A.T.",
+        "url": "https://www.themoviedb.org/tv/71790",
+        "logo": "https://image.tmdb.org/t/p/w92/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+        "desc": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn betwee",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1435,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Dallas",
+        "url": "https://www.themoviedb.org/tv/40",
+        "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+        "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Khelaghor",
         "url": "https://www.themoviedb.org/tv/280932",
         "logo": "https://image.tmdb.org/t/p/w92/uqly7FYGMFUex57M12yvb7tCvKA.jpg",
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
