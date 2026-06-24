@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:46:05.078Z",
+  "updated": "2026-06-24T01:54:49.580Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -174,6 +174,16 @@
         "category": "news"
       },
       {
+        "name": "1+1 Marafon (1080p)",
+        "logo": "https://i.imgur.com/smQKa2G.png",
+        "id": "1Plus1Marafon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+        "category": "news"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "news"
       },
       {
@@ -1052,24 +1052,6 @@
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Hwajung",
         "url": "https://www.themoviedb.org/tv/62409",
         "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
@@ -1079,19 +1061,37 @@
         "category": "music"
       },
       {
-        "name": "The Greatest Marriage",
-        "url": "https://www.themoviedb.org/tv/61486",
-        "logo": "https://image.tmdb.org/t/p/w92/iIPJgwACKzrSeHLm6F3L1L7j1x4.jpg",
-        "desc": "Cha Ki Young was once a successful news anchor living the good life, but everything changed when she defied expectations",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Brave Woman",
-        "url": "https://www.themoviedb.org/tv/46126",
-        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
-        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hpKHlspNjetmLlGrb26X3C3GHPJ.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1279,6 +1279,16 @@
         "category": "entertainment"
       },
       {
+        "name": "36.6 TV",
+        "logo": "https://i.imgur.com/sC0K5BZ.png",
+        "id": "366TV.ua@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Alma TV (576p)",
         "logo": "https://i.imgur.com/MfFOnJp.png",
         "id": "AlmaTV.it@SD",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CaTine (720p)",
-        "logo": "https://i.imgur.com/eFNHuIh.png",
-        "id": "CaTine.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1504,6 +1504,16 @@
         "category": "cooking"
       },
       {
+        "name": "36.6 TV",
+        "logo": "https://i.imgur.com/sC0K5BZ.png",
+        "id": "366TV.ua@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Alma TV (576p)",
         "logo": "https://i.imgur.com/MfFOnJp.png",
         "id": "AlmaTV.it@SD",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CaTine (720p)",
-        "logo": "https://i.imgur.com/eFNHuIh.png",
-        "id": "CaTine.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -1948,6 +1948,16 @@
         "category": "politics"
       },
       {
+        "name": "1+1 Marafon (1080p)",
+        "logo": "https://i.imgur.com/smQKa2G.png",
+        "id": "1Plus1Marafon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "politics"
       }
     ],
@@ -2262,6 +2262,16 @@
         "category": "health"
       },
       {
+        "name": "36.6 TV",
+        "logo": "https://i.imgur.com/sC0K5BZ.png",
+        "id": "366TV.ua@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Alma TV (576p)",
         "logo": "https://i.imgur.com/MfFOnJp.png",
         "id": "AlmaTV.it@SD",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CaTine (720p)",
-        "logo": "https://i.imgur.com/eFNHuIh.png",
-        "id": "CaTine.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8",
         "category": "health"
       }
     ],
@@ -2852,6 +2852,16 @@
         "category": "general"
       },
       {
+        "name": "1+1 Marafon (1080p)",
+        "logo": "https://i.imgur.com/smQKa2G.png",
+        "id": "1Plus1Marafon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+        "category": "general"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "general"
       }
     ]
