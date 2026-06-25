@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:56:17.146Z",
+  "updated": "2026-06-25T19:42:02.568Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -349,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Frontline",
         "url": "https://www.themoviedb.org/tv/4384",
         "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
@@ -367,10 +358,19 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Last Week Tonight with John Oliver",
+        "url": "https://www.themoviedb.org/tv/60694",
+        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+        "desc": "A half-hour satirical look at the week in news, politics and current events.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,15 +441,6 @@
         "category": "technology"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -459,10 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "S.W.A.T.",
-        "url": "https://www.themoviedb.org/tv/71790",
-        "logo": "https://image.tmdb.org/t/p/w92/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
-        "desc": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn betwee",
+        "name": "Hunter x Hunter",
+        "url": "https://www.themoviedb.org/tv/45952",
+        "logo": "https://image.tmdb.org/t/p/w92/tddoUoSGKrVNV4LEMVmkd8y96XD.jpg",
+        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1417,15 +1417,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Gullak",
-        "url": "https://www.themoviedb.org/tv/90966",
-        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
-        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Teen Titans Go!",
         "url": "https://www.themoviedb.org/tv/45140",
         "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
@@ -1435,10 +1426,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Gullak",
+        "url": "https://www.themoviedb.org/tv/90966",
+        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
+        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1448,6 +1439,15 @@
         "url": "https://www.themoviedb.org/tv/40",
         "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
         "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,28 +2767,10 @@
         "category": "animation"
       },
       {
-        "name": "TenPuru",
-        "url": "https://www.themoviedb.org/tv/218613",
-        "logo": "https://image.tmdb.org/t/p/w92/3zGVf8svzcsFD4MyWpPfUcXYRVK.jpg",
-        "desc": "\"I know! I'll become a monk!\" Akagami Akemitsu has spent his days and nights absorbed in studying and part-time work in ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "6 Lovers",
         "url": "https://www.themoviedb.org/tv/232393",
         "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
         "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Overflow",
-        "url": "https://www.themoviedb.org/tv/95897",
-        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,10 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Overflow",
+        "url": "https://www.themoviedb.org/tv/95897",
+        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "TenPuru",
+        "url": "https://www.themoviedb.org/tv/218613",
+        "logo": "https://image.tmdb.org/t/p/w92/3zGVf8svzcsFD4MyWpPfUcXYRVK.jpg",
+        "desc": "\"I know! I'll become a monk!\" Akagami Akemitsu has spent his days and nights absorbed in studying and part-time work in ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Hunter x Hunter",
+        "url": "https://www.themoviedb.org/tv/45952",
+        "logo": "https://image.tmdb.org/t/p/w92/tddoUoSGKrVNV4LEMVmkd8y96XD.jpg",
+        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
