@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:22:30.317Z",
+  "updated": "2026-06-25T01:58:32.779Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1119,6 +1119,16 @@
         "category": "entertainment"
       },
       {
+        "name": "4seven (576p)",
+        "logo": "https://i.imgur.com/Fpaxyop.png",
+        "id": "4seven.uk@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "4U TV (720p)",
         "logo": "https://i.imgur.com/PexhKwp.png",
         "id": "4UTV.tr@SD",
@@ -1136,6 +1146,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "5SELECT (576p)",
+        "logo": "https://i.imgur.com/WJ9xR6l.png",
+        "id": "5SELECT.uk@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "5STAR (576p)",
+        "logo": "https://i.imgur.com/PI11s9s.png",
+        "id": "5STAR.uk@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
         "category": "entertainment"
       },
       {
@@ -1189,6 +1219,16 @@
         "category": "entertainment"
       },
       {
+        "name": "13th Street Universal HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png",
+        "id": "13thStreetUniversal.de@HD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "13 Ulica (1080p)",
         "logo": "https://i.imgur.com/0gCNnLq.png",
         "id": "13Ulica.pl@SD",
@@ -1206,46 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "30A Sidewalks (720p)",
-        "logo": "https://i.imgur.com/HSdwqZN.png",
-        "id": "30ASidewalks.us@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/sidewalks.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "30A Television Channel (720p)",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
-        "id": "30ATelevisionChannel.us@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "247 Box TV",
-        "logo": "https://i.imgur.com/t5AUthL.png",
-        "id": "247BoxTV.ir@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://hls.247box.live/hls/stream.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "312 ТВ (406p)",
-        "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
-        "id": "312TV.kg@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -2464,13 +2464,13 @@
         "category": "kids"
       },
       {
-        "name": "Aqlvoy",
+        "name": "Aqlvoy (576p)",
         "logo": "https://i.imgur.com/ekF5cAi.png",
         "id": "Aqlvoy.uz@SD",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
+        "url": "https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8",
         "category": "kids"
       },
       {
