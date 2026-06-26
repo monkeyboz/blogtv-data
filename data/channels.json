@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T08:44:47.005Z",
+  "updated": "2026-06-26T13:54:21.903Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,6 +432,15 @@
         "category": "technology"
       },
       {
+        "name": "Hunter x Hunter",
+        "url": "https://www.themoviedb.org/tv/45952",
+        "logo": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Teach You a Lesson",
         "url": "https://www.themoviedb.org/tv/276161",
         "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
@@ -445,15 +454,6 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Hunter x Hunter",
-        "url": "https://www.themoviedb.org/tv/45952",
-        "logo": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
-        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2814,7 +2814,7 @@
       {
         "name": "Hunter x Hunter",
         "url": "https://www.themoviedb.org/tv/45952",
-        "logo": "https://image.tmdb.org/t/p/w92/tddoUoSGKrVNV4LEMVmkd8y96XD.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
         "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
         "source": "tmdb",
         "type": "info",
