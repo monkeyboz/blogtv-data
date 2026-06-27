@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T08:22:04.910Z",
+  "updated": "2026-06-27T13:02:24.412Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "DAS!",
-        "url": "https://www.themoviedb.org/tv/62992",
-        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
-        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "name": "Last Week Tonight with John Oliver",
+        "url": "https://www.themoviedb.org/tv/60694",
+        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+        "desc": "A half-hour satirical look at the week in news, politics and current events.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
