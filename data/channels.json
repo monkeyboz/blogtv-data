@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:24:47.454Z",
+  "updated": "2026-06-27T01:54:00.000Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,6 +497,15 @@
         "category": "science"
       },
       {
+        "name": "Sidemen",
+        "url": "https://www.themoviedb.org/tv/240407",
+        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
+        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Horizon",
         "url": "https://www.themoviedb.org/tv/1966",
         "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
@@ -515,28 +524,10 @@
         "category": "science"
       },
       {
-        "name": "Sidemen",
-        "url": "https://www.themoviedb.org/tv/240407",
-        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
-        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Couples Therapy",
-        "url": "https://www.themoviedb.org/tv/91820",
-        "logo": "https://image.tmdb.org/t/p/w92/vBq0dvfzaOAPSRU7OtVo7nQoWru.jpg",
-        "desc": "Far from reality-show caricatures, this is true documentary filmmaking that brings viewers into the authentic and viscer",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Couples Therapy",
+        "url": "https://www.themoviedb.org/tv/91820",
+        "logo": "https://image.tmdb.org/t/p/w92/vBq0dvfzaOAPSRU7OtVo7nQoWru.jpg",
+        "desc": "Far from reality-show caricatures, this is true documentary filmmaking that brings viewers into the authentic and viscer",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
