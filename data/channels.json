@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T02:04:09.337Z",
+  "updated": "2026-06-28T08:36:42.022Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Teach You a Lesson",
-        "url": "https://www.themoviedb.org/tv/276161",
-        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-        "desc": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical in",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Teach You a Lesson",
+        "url": "https://www.themoviedb.org/tv/276161",
+        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+        "desc": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical in",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
