@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T15:23:35.922Z",
+  "updated": "2026-06-29T19:29:10.283Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,24 +304,6 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "The Sky at Night",
-        "url": "https://www.themoviedb.org/tv/9873",
-        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
-        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "The Daily Show",
         "url": "https://www.themoviedb.org/tv/2224",
         "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
@@ -331,10 +313,28 @@
         "category": "news"
       },
       {
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
         "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "The Sky at Night",
+        "url": "https://www.themoviedb.org/tv/9873",
+        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "Sidemen",
-        "url": "https://www.themoviedb.org/tv/240407",
-        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
-        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "The Sky at Night",
         "url": "https://www.themoviedb.org/tv/9873",
         "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
@@ -542,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Sidemen",
+        "url": "https://www.themoviedb.org/tv/240407",
+        "logo": "https://image.tmdb.org/t/p/w92/asetB1Lzs7d1fcXpeGGZCSI2HRw.jpg",
+        "desc": "Welcome to the official Sidemen channel. The home of #SidemenSundays - We post new Sidemen videos every single Sunday!",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/70620",
         "logo": "https://image.tmdb.org/t/p/w92/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
         "desc": "Échappées Belles is a French weekly discovery magazine, broadcast on Saturdays in the first part of the evening on Franc",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
