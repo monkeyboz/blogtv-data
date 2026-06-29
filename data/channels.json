@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T10:15:25.900Z",
+  "updated": "2026-06-29T15:23:35.922Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,15 +414,6 @@
         "category": "technology"
       },
       {
-        "name": "Hunter x Hunter",
-        "url": "https://www.themoviedb.org/tv/45952",
-        "logo": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
-        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "The Boys",
         "url": "https://www.themoviedb.org/tv/76479",
         "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
@@ -450,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "Hunter x Hunter",
+        "url": "https://www.themoviedb.org/tv/45952",
+        "logo": "https://image.tmdb.org/t/p/w92/eobAuhCJA8oRp814V67WhezVXtQ.jpg",
+        "desc": "Gon Freecss discovers that the father he had always been told was dead was actually alive the whole time. Ging is a famo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Agent Kim Reactivated",
         "url": "https://www.themoviedb.org/tv/296206",
         "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Teach You a Lesson",
+        "url": "https://www.themoviedb.org/tv/276161",
+        "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+        "desc": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical in",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1034,15 +1034,6 @@
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1056,6 +1047,15 @@
         "url": "https://www.themoviedb.org/tv/64770",
         "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
         "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1239,13 +1239,13 @@
         "category": "entertainment"
       },
       {
-        "name": "20 Mediaset [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
-        "id": "20.it@SD",
+        "name": "16 Anni e Incinta",
+        "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
+        "id": "16AnnieIncinta.de@IT",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+        "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
         "category": "entertainment"
       },
       {
@@ -1426,10 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Dallas",
-        "url": "https://www.themoviedb.org/tv/40",
-        "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
-        "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Bluey",
+        "url": "https://www.themoviedb.org/tv/82728",
+        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,28 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Dallas",
+        "url": "https://www.themoviedb.org/tv/40",
+        "logo": "https://image.tmdb.org/t/p/w92/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+        "desc": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive ca",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Gullak",
-        "url": "https://www.themoviedb.org/tv/90966",
-        "logo": "https://image.tmdb.org/t/p/w92/arn3mvRYSrEqO7vaKbH8QxM8EEK.jpg",
-        "desc": "Set in quaint by-lanes in the heart of India, Gullak is a collection of disarming and relatable tales of the Mishra fami",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "King of the Hill",
-        "url": "https://www.themoviedb.org/tv/2122",
-        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "name": "The Rifleman",
+        "url": "https://www.themoviedb.org/tv/13859",
+        "logo": "https://image.tmdb.org/t/p/w92/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
+        "desc": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawfor",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2404,6 +2404,26 @@
         "category": "kids"
       },
       {
+        "name": "90's Kids",
+        "logo": "https://images.pluto.tv/channels/6452c814939a590008567a3b/colorLogoPNG_1731836283044.png",
+        "id": "90sKids.us@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6452c814939a590008567a3b.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "90s Kids TV 2",
+        "logo": "https://images.pluto.tv/channels/6452c77ed3fdde00080eb3a8/colorLogoPNG.png",
+        "id": "90sKidsTV2.us@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6452c77ed3fdde00080eb3a8.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "ABC Kids",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
         "id": "ABCKids.au@Sydney",
@@ -2484,6 +2504,16 @@
         "category": "kids"
       },
       {
+        "name": "As Tartarugas Ninja (720p)",
+        "logo": "https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG_1768926936698.png",
+        "id": "AsTartarugasNinja.us@BR",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Atfal & Mawaheb TV (1080p)",
         "logo": "https://i.imgur.com/Y2BqP9m.png",
         "id": "AtfalMawahebTV.sa@SD",
@@ -2494,43 +2524,13 @@
         "category": "kids"
       },
       {
-        "name": "Avatar",
-        "logo": "https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png",
-        "id": "Avatar.us@UK",
+        "name": "Avatar: A lenda de Aang",
+        "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+        "id": "AvatarAlendadeAang.us@BR",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Baby Shark TV",
-        "logo": "https://i.imgur.com/SbBKr8L.png",
-        "id": "BabySharkTV.us@Poland",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Baby Shark TV (1080p)",
-        "logo": "https://i.imgur.com/SbBKr8L.png",
-        "id": "BabySharkTV.us@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Babyfirst",
-        "logo": "https://i.imgur.com/WxLHBwu.png",
-        "id": "BabyFirst.us@Brazil",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8",
+        "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
         "category": "kids"
       },
       {
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "GG Bond",
-        "url": "https://www.themoviedb.org/tv/217772",
-        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
-        "desc": "",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2728,6 +2728,16 @@
         "category": "animation"
       },
       {
+        "name": "Daria",
+        "logo": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
+        "id": "Daria.de@FR",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "DreamWorks Channel Latin America (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
         "id": "DreamWorksChannelLatinAmerica.us@SD",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "EnerGeek (720p) [Not 24/7]",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "id": "EnerGeek.cl@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
         "category": "animation"
       },
       {
@@ -2794,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "6 Lovers",
-        "url": "https://www.themoviedb.org/tv/232393",
-        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
-        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
