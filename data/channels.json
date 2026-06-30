@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:50:43.937Z",
+  "updated": "2026-06-30T13:48:54.272Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "6 Lovers",
-        "url": "https://www.themoviedb.org/tv/232393",
-        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
-        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
