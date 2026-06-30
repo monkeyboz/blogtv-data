@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T19:29:10.283Z",
+  "updated": "2026-06-30T01:59:17.512Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1646,16 +1646,6 @@
         "category": "travel"
       },
       {
-        "name": "Beach TV CSULB (160p) [Not 24/7]",
-        "logo": "https://i.imgur.com/EJjfSWi.png",
-        "id": "BeachTVCSULB.us@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8",
-        "category": "travel"
-      },
-      {
         "name": "Beach TV Florida & Alabama (720p)",
         "logo": "https://i.imgur.com/weypM9C.png",
         "id": "BeachTVFloridaAlabama.us@SD",
@@ -1773,6 +1763,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Travel\",Journy (720p)",
+        "logo": "https://i.imgur.com/1JNrLxq.png",
+        "id": "Journy.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
         "category": "travel"
       }
     ],
@@ -2758,15 +2758,6 @@
         "category": "animation"
       },
       {
-        "name": "Please Put Them On, Takamine-san",
-        "url": "https://www.themoviedb.org/tv/276880",
-        "logo": "https://image.tmdb.org/t/p/w92/aN4X9QSECSfh5p8S3HtTiWRKJla.jpg",
-        "desc": "Student council president Takane Takamine is a popular star student. On the other hand, Koushi Shirota doesn't have many",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Adam's Sweet Agony",
         "url": "https://www.themoviedb.org/tv/241002",
         "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "6 Lovers",
+        "url": "https://www.themoviedb.org/tv/232393",
+        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
