@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T02:05:00.941Z",
+  "updated": "2026-07-01T09:23:50.526Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,15 +2803,6 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Overflow",
         "url": "https://www.themoviedb.org/tv/95897",
         "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
