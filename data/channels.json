@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T19:27:17.558Z",
+  "updated": "2026-07-01T02:05:00.941Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -154,16 +154,6 @@
         "category": "news"
       },
       {
-        "name": "1+1 International (576p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
-        "category": "news"
-      },
-      {
         "name": "1+1 International HD (720p)",
         "logo": "https://i.imgur.com/LOY0rtp.png",
         "id": "1Plus1International.ua@HD",
@@ -211,16 +201,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "2+2 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "news"
       },
       {
@@ -301,6 +281,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
         "category": "news"
       },
       {
@@ -875,16 +875,6 @@
     ],
     "music": [
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4ever Music (1080p)",
-        "logo": "https://i.imgur.com/UJ5oaeU.png",
-        "id": "4everMusic.ua@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://iptv.prosto.tv/ch132/index.m3u8",
-        "category": "music"
-      },
-      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Music\",4 Fun Dance [Not 24/7]",
         "logo": "https://i.imgur.com/ZEWHe1B.png",
         "id": "4FunDance.pl@SD",
@@ -1025,6 +1015,16 @@
         "category": "music"
       },
       {
+        "name": "51 Radio TV (480p) [Geo-blocked]",
+        "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
+        "id": "51RadioTV.it@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
+        "category": "music"
+      },
+      {
         "name": "The Tudors",
         "url": "https://www.themoviedb.org/tv/2942",
         "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
@@ -1109,26 +1109,6 @@
         "category": "entertainment"
       },
       {
-        "name": "4ever Theater",
-        "logo": "https://i.imgur.com/kfngtev.png",
-        "id": "4everTheater.ua@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://iptv.prosto.tv/ch37/tracks-v2a1/mono.m3u8?21yo=0&e=1783680395&id=922996&ip=178.136.40.86&live=1&secret=yamxdzwl&st=OWDBi-vxSZADl0oF8lHHxw",
-        "category": "entertainment"
-      },
-      {
-        "name": "4seven (576p)",
-        "logo": "https://i.imgur.com/Fpaxyop.png",
-        "id": "4seven.uk@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/4Seven.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "4U TV (720p)",
         "logo": "https://i.imgur.com/PexhKwp.png",
         "id": "4UTV.tr@SD",
@@ -1146,26 +1126,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "5SELECT (576p)",
-        "logo": "https://i.imgur.com/WJ9xR6l.png",
-        "id": "5SELECT.uk@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/5Select.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "5STAR (576p)",
-        "logo": "https://i.imgur.com/PI11s9s.png",
-        "id": "5STAR.uk@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/5Star.m3u8",
         "category": "entertainment"
       },
       {
@@ -1219,16 +1179,6 @@
         "category": "entertainment"
       },
       {
-        "name": "13th Street Universal HD (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/13th_Street_Universal.svg/500px-13th_Street_Universal.svg.png",
-        "id": "13thStreetUniversal.de@HD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/13thStreet.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "13 Ulica (1080p)",
         "logo": "https://i.imgur.com/0gCNnLq.png",
         "id": "13Ulica.pl@SD",
@@ -1246,6 +1196,56 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "20 Mediaset [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
+        "id": "20.it@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Sidewalks (720p)",
+        "logo": "https://i.imgur.com/HSdwqZN.png",
+        "id": "30ASidewalks.us@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/sidewalks.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Television Channel (720p)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
+        "id": "30ATelevisionChannel.us@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "247 Box TV",
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "id": "247BoxTV.ir@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://hls.247box.live/hls/stream.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "312 ТВ (406p)",
+        "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
+        "id": "312TV.kg@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1928,16 +1928,6 @@
         "category": "politics"
       },
       {
-        "name": "1+1 International (576p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "1+1 International HD (720p)",
         "logo": "https://i.imgur.com/LOY0rtp.png",
         "id": "1Plus1International.ua@HD",
@@ -1985,16 +1975,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "2+2 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "politics"
       },
       {
@@ -2075,6 +2055,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
         "category": "politics"
       }
     ],
@@ -2484,13 +2484,13 @@
         "category": "kids"
       },
       {
-        "name": "Aqlvoy (576p)",
+        "name": "Aqlvoy",
         "logo": "https://i.imgur.com/ekF5cAi.png",
         "id": "Aqlvoy.uz@SD",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://adpnetworkhd-cmd.github.io/iptv/Aqlvoy.m3u8",
+        "url": "https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8",
         "category": "kids"
       },
       {
@@ -2832,16 +2832,6 @@
     ],
     "general": [
       {
-        "name": "1+1 International (576p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/LOY0rtp.png",
-        "id": "1Plus1International.ua",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8",
-        "category": "general"
-      },
-      {
         "name": "1+1 International HD (720p)",
         "logo": "https://i.imgur.com/LOY0rtp.png",
         "id": "1Plus1International.ua@HD",
@@ -2889,16 +2879,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "2+2 (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://315e5a5d.ottrast.com/iptv/MM4E93NGF5LADZ/6378/index.m3u8",
         "category": "general"
       },
       {
@@ -2979,6 +2959,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "5TV Corrientes (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mSn7ACs.png",
+        "id": "5tv.ar@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "7 TeleValencia (576p)",
+        "logo": "https://i.imgur.com/ILfXDRs.png",
+        "id": "Canal7TeleValencia.es@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
         "category": "general"
       }
     ]
