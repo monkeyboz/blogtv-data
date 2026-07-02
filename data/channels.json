@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T08:37:17.838Z",
+  "updated": "2026-07-02T13:23:35.909Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Echappées Belles",
-        "url": "https://www.themoviedb.org/tv/70620",
-        "logo": "https://image.tmdb.org/t/p/w92/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
-        "desc": "Échappées Belles is a French weekly discovery magazine, broadcast on Saturdays in the first part of the evening on Franc",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
@@ -519,6 +510,15 @@
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
         "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Echappées Belles",
+        "url": "https://www.themoviedb.org/tv/70620",
+        "logo": "https://image.tmdb.org/t/p/w92/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
+        "desc": "Échappées Belles is a French weekly discovery magazine, broadcast on Saturdays in the first part of the evening on Franc",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Couples Therapy",
+        "url": "https://www.themoviedb.org/tv/91820",
+        "logo": "https://image.tmdb.org/t/p/w92/vBq0dvfzaOAPSRU7OtVo7nQoWru.jpg",
+        "desc": "Far from reality-show caricatures, this is true documentary filmmaking that brings viewers into the authentic and viscer",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
