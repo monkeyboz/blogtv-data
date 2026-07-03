@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T01:28:19.849Z",
+  "updated": "2026-07-03T08:42:46.791Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,6 +432,15 @@
         "category": "technology"
       },
       {
+        "name": "Knot",
+        "url": "https://www.themoviedb.org/tv/303493",
+        "logo": "https://image.tmdb.org/t/p/w92/8z62pp4K602d1y6079oU1GBeiAG.jpg",
+        "desc": "A young man’s life changes forever when a powerful Alpha marks him, binding their fates together in an inescapable bond.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/276161",
         "logo": "https://image.tmdb.org/t/p/w92/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
         "desc": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical in",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
