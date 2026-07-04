@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T12:53:30.758Z",
+  "updated": "2026-07-04T18:50:13.060Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,15 +313,6 @@
         "category": "news"
       },
       {
-        "name": "The Sky at Night",
-        "url": "https://www.themoviedb.org/tv/9873",
-        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
-        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -340,6 +331,15 @@
         "category": "news"
       },
       {
+        "name": "The Sky at Night",
+        "url": "https://www.themoviedb.org/tv/9873",
+        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -349,19 +349,19 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Toni Tagiam",
+        "url": "https://www.themoviedb.org/tv/325640",
+        "logo": "",
+        "desc": "\"Toni\" Toni Tagiam known as Jhon Anthony O. Tagiam,born on January 1, 2011, in Manila, Philippines.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Toni Tagiam",
-        "url": "https://www.themoviedb.org/tv/325640",
-        "logo": "",
-        "desc": "\"Toni\" Toni Tagiam known as Jhon Anthony O. Tagiam,born on January 1, 2011, in Manila, Philippines.",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -423,10 +423,10 @@
         "category": "technology"
       },
       {
-        "name": "Knot",
-        "url": "https://www.themoviedb.org/tv/303493",
-        "logo": "https://image.tmdb.org/t/p/w92/8z62pp4K602d1y6079oU1GBeiAG.jpg",
-        "desc": "A young man’s life changes forever when a powerful Alpha marks him, binding their fates together in an inescapable bond.",
+        "name": "NCIS",
+        "url": "https://www.themoviedb.org/tv/4614",
+        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "NCIS",
-        "url": "https://www.themoviedb.org/tv/4614",
-        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "name": "Game of Thrones",
+        "url": "https://www.themoviedb.org/tv/1399",
+        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "name": "Knot",
+        "url": "https://www.themoviedb.org/tv/303493",
+        "logo": "https://image.tmdb.org/t/p/w92/8z62pp4K602d1y6079oU1GBeiAG.jpg",
+        "desc": "A young man’s life changes forever when a powerful Alpha marks him, binding their fates together in an inescapable bond.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1025,19 +1025,19 @@
         "category": "music"
       },
       {
-        "name": "The Tudors",
-        "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
-        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "The Tudors",
+        "url": "https://www.themoviedb.org/tv/2942",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "OniAi",
-        "url": "https://www.themoviedb.org/tv/62696",
-        "logo": "https://image.tmdb.org/t/p/w92/gHaRoBJfNhzbzq6B0R4Gn4nq1lc.jpg",
-        "desc": "Adorable young Akiko is thrilled to be reuniting with Akito, the handsome older brother she hasn’t seen in years! In fac",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Hwajung",
-        "url": "https://www.themoviedb.org/tv/62409",
-        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
-        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
+        "name": "OniAi",
+        "url": "https://www.themoviedb.org/tv/62696",
+        "logo": "https://image.tmdb.org/t/p/w92/gHaRoBJfNhzbzq6B0R4Gn4nq1lc.jpg",
+        "desc": "Adorable young Akiko is thrilled to be reuniting with Akito, the handsome older brother she hasn’t seen in years! In fac",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,15 +1426,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Bluey",
-        "url": "https://www.themoviedb.org/tv/82728",
-        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1444,19 +1435,28 @@
         "category": "entertainment"
       },
       {
-        "name": "The Chosen",
-        "url": "https://www.themoviedb.org/tv/85077",
-        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
-        "desc": "The life of Christ through the eyes of those who encountered him.",
+        "name": "Bluey",
+        "url": "https://www.themoviedb.org/tv/82728",
+        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Pippi Longstocking",
+        "url": "https://www.themoviedb.org/tv/325936",
+        "logo": "",
+        "desc": "Pippi Longstocking arrives in a small town with mismatched stockings, carrot-colored hair, freckles, a monkey on her sho",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "The Chosen",
+        "url": "https://www.themoviedb.org/tv/85077",
+        "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
+        "desc": "The life of Christ through the eyes of those who encountered him.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2552,10 +2552,10 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,10 +2570,10 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Octonauts",
-        "url": "https://www.themoviedb.org/tv/37472",
-        "logo": "https://image.tmdb.org/t/p/w92/iYUhUSKWKpSBahaWLUQIPckAy8p.jpg",
-        "desc": "Follows an underwater exploring crew made up of stylized anthropomorphic animals, a team of eight adventurers who live i",
+        "name": "WWE Metal",
+        "url": "https://www.themoviedb.org/tv/323380",
+        "logo": "",
+        "desc": "WWE Metal (Originally WWF Metal) was a professional wrestling television program produced by World Wrestling Entertainme",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,28 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "6 Lovers",
         "url": "https://www.themoviedb.org/tv/232393",
         "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
         "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2816,6 +2807,15 @@
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
