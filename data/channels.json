@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:56:36.579Z",
+  "updated": "2026-07-04T01:28:39.176Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2464,6 +2464,16 @@
         "category": "kids"
       },
       {
+        "name": "Akili Kids!",
+        "logo": "https://i.imgur.com/xFm2co6.png",
+        "id": "AkiliKids.ke@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Amou Yazid TV (576p)",
         "logo": "https://i.imgur.com/L8UPGPC.png",
         "id": "AmouYazidTV.dz@SD",
@@ -2521,16 +2531,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Avatar: A lenda de Aang",
-        "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
-        "id": "AvatarAlendadeAang.us@BR",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
         "category": "kids"
       },
       {
@@ -2635,16 +2635,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Animax Asia (480i) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
-        "id": "AnimaxAsia.sg@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cignalplaymaxcdn.qzz.io/animax_zte/sanjuantv/manifest.mpd",
         "category": "animation"
       },
       {
@@ -2755,6 +2745,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "EnerGeek (720p) [Not 24/7]",
+        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+        "id": "EnerGeek.cl@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
         "category": "animation"
       },
       {
