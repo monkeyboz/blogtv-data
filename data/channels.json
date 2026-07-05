@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:50:13.060Z",
+  "updated": "2026-07-05T01:44:10.193Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "The Sky at Night",
-        "url": "https://www.themoviedb.org/tv/9873",
-        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
-        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Echappées Belles",
         "url": "https://www.themoviedb.org/tv/70620",
         "logo": "https://image.tmdb.org/t/p/w92/ypjmDCbxvBblRHs1IYcvIaiKzyM.jpg",
@@ -533,10 +524,10 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "The Sky at Night",
+        "url": "https://www.themoviedb.org/tv/9873",
+        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "MythBusters",
-        "url": "https://www.themoviedb.org/tv/1428",
-        "logo": "https://image.tmdb.org/t/p/w92/lvRnMu00NLGiTPijGZg9CRF3nuY.jpg",
-        "desc": "MythBusters is a science entertainment television program created and produced by Australia's Beyond Television Producti",
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Bathurst 1000",
+        "url": "https://www.themoviedb.org/tv/324237",
+        "logo": "https://image.tmdb.org/t/p/w92/e0hp2GJZukQ6NzmI6YHslfNbBLO.jpg",
+        "desc": "The Bathurst 1000 is a 1,000.29 kilometres (621.6 mi) touring car race held annually on the Mount Panorama Circuit in Ba",
         "source": "tmdb",
         "type": "info",
         "category": "science"
