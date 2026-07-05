@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T01:44:10.193Z",
+  "updated": "2026-07-05T08:35:25.971Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Chainsmoker Cat",
+        "url": "https://www.themoviedb.org/tv/312949",
+        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Rick and Morty",
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/70998",
         "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
         "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
