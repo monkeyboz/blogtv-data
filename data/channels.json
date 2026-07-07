@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:00:14.342Z",
+  "updated": "2026-07-07T19:28:52.174Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,15 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "The Boys",
-        "url": "https://www.themoviedb.org/tv/76479",
-        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -450,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Agent Kim Reactivated",
         "url": "https://www.themoviedb.org/tv/296206",
         "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Knot",
-        "url": "https://www.themoviedb.org/tv/303493",
-        "logo": "https://image.tmdb.org/t/p/w92/8z62pp4K602d1y6079oU1GBeiAG.jpg",
-        "desc": "A young man’s life changes forever when a powerful Alpha marks him, binding their fates together in an inescapable bond.",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1444,15 +1444,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Diya Aur Baati Hum",
-        "url": "https://www.themoviedb.org/tv/40382",
-        "logo": "https://image.tmdb.org/t/p/w92/nrTLrIPP4nHQaIsi2ft0gY4vSEo.jpg",
-        "desc": "Diya Aur Baati Hum is an Indian television soap opera, broadcast on Star Plus channel from 29 August 2011. It stars Deep",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Bluey",
         "url": "https://www.themoviedb.org/tv/82728",
         "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/85077",
         "logo": "https://image.tmdb.org/t/p/w92/dqVUFuNrMFWt7uGNWlpo91VKYOI.jpg",
         "desc": "The life of Christ through the eyes of those who encountered him.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "Bluey",
-        "url": "https://www.themoviedb.org/tv/82728",
-        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Bluey",
+        "url": "https://www.themoviedb.org/tv/82728",
+        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
+        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Tom & Jerry Kids Show",
+        "url": "https://www.themoviedb.org/tv/4274",
+        "logo": "https://image.tmdb.org/t/p/w92/pApniCXhegDnhxQda7RcpG8gFP0.jpg",
+        "desc": "Tom and Jerry in their childhood days, playing cat-and-mouse games even then.",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "Chainsmoker Cat",
-        "url": "https://www.themoviedb.org/tv/312949",
-        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Chainsmoker Cat",
+        "url": "https://www.themoviedb.org/tv/312949",
+        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "6 Lovers",
-        "url": "https://www.themoviedb.org/tv/232393",
-        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
-        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
+        "name": "Harem Camp!",
+        "url": "https://www.themoviedb.org/tv/207840",
+        "logo": "https://image.tmdb.org/t/p/w92/dsaYRfBviInhrulwtHOyg1KB4ct.jpg",
+        "desc": "The story follows teacher and veteran solo camper Kensuke, who forms a camping group with four girls.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "name": "6 Lovers",
+        "url": "https://www.themoviedb.org/tv/232393",
+        "logo": "https://image.tmdb.org/t/p/w92/6QCUTINWv4rxmWs6EGYDjqawU8c.jpg",
+        "desc": "The July issue of Dear+ announced anime adaptions of a series of manga serialized in the magazine in celebration of the ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
