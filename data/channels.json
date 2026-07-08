@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T19:28:52.174Z",
+  "updated": "2026-07-08T01:19:40.312Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Toni Tagiam",
-        "url": "https://www.themoviedb.org/tv/325640",
-        "logo": "",
-        "desc": "\"Toni\" Toni Tagiam known as Jhon Anthony O. Tagiam,born on January 1, 2011, in Manila, Philippines.",
+        "name": "The Sky at Night",
+        "url": "https://www.themoviedb.org/tv/9873",
+        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Sky at Night",
-        "url": "https://www.themoviedb.org/tv/9873",
-        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
-        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
+        "name": "Toni Tagiam",
+        "url": "https://www.themoviedb.org/tv/325640",
+        "logo": "",
+        "desc": "\"Toni\" Toni Tagiam known as Jhon Anthony O. Tagiam,born on January 1, 2011, in Manila, Philippines.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -488,10 +488,28 @@
     ],
     "science": [
       {
+        "name": "Arena",
+        "url": "https://www.themoviedb.org/tv/2050",
+        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
+        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
         "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,19 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Arena",
-        "url": "https://www.themoviedb.org/tv/2050",
-        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
-        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ancient Aliens",
-        "url": "https://www.themoviedb.org/tv/32608",
-        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Bathurst 1000",
-        "url": "https://www.themoviedb.org/tv/324237",
-        "logo": "https://image.tmdb.org/t/p/w92/e0hp2GJZukQ6NzmI6YHslfNbBLO.jpg",
-        "desc": "The Bathurst 1000 is a 1,000.29 kilometres (621.6 mi) touring car race held annually on the Mount Panorama Circuit in Ba",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Toni Tagiam",
-        "url": "https://www.themoviedb.org/tv/325640",
-        "logo": "",
-        "desc": "\"Toni\" Toni Tagiam known as Jhon Anthony O. Tagiam,born on January 1, 2011, in Manila, Philippines.",
+        "name": "The Sky at Night",
+        "url": "https://www.themoviedb.org/tv/9873",
+        "logo": "https://image.tmdb.org/t/p/w92/m0WlBOExJzajLPly4ebmCSxwta1.jpg",
+        "desc": "Your monthly journey through the fascinating world of space and astronomy with the latest thinking on what's out there i",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "name": "Csak színház és más semmi",
+        "url": "https://www.themoviedb.org/tv/65223",
+        "logo": "https://image.tmdb.org/t/p/w92/szMbQF6kxhQwXntK6xRxJNtzAqg.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "OniAi",
-        "url": "https://www.themoviedb.org/tv/62696",
-        "logo": "https://image.tmdb.org/t/p/w92/gHaRoBJfNhzbzq6B0R4Gn4nq1lc.jpg",
-        "desc": "Adorable young Akiko is thrilled to be reuniting with Akito, the handsome older brother she hasn’t seen in years! In fac",
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
         "source": "tmdb",
         "type": "info",
         "category": "music"
