@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T01:19:40.312Z",
+  "updated": "2026-07-08T08:02:53.452Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2490,7 +2490,7 @@
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://31.148.48.15/Ani/index.m3u8",
+        "url": "http://46.32.176.50/anitv/index.m3u8",
         "category": "kids"
       },
       {
