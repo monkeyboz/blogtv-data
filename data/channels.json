@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T08:02:53.452Z",
+  "updated": "2026-07-08T13:22:11.967Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -452,7 +452,7 @@
       {
         "name": "Agent Kim Reactivated",
         "url": "https://www.themoviedb.org/tv/296206",
-        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
         "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
         "source": "tmdb",
         "type": "info",
@@ -506,19 +506,19 @@
         "category": "science"
       },
       {
-        "name": "Ancient Aliens",
-        "url": "https://www.themoviedb.org/tv/32608",
-        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Chainsmoker Cat",
+        "url": "https://www.themoviedb.org/tv/312949",
+        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Chainsmoker Cat",
-        "url": "https://www.themoviedb.org/tv/312949",
-        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
