@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:24:58.740Z",
+  "updated": "2026-07-10T08:55:01.924Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1426,19 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Club Friday",
+        "url": "https://www.themoviedb.org/tv/62245",
+        "logo": "https://image.tmdb.org/t/p/w92/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
+        "desc": "Based on a Thai radio show that gives love advice to callers, this series dramatizes stories of infidelity, love triangl",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Club Friday",
-        "url": "https://www.themoviedb.org/tv/62245",
-        "logo": "https://image.tmdb.org/t/p/w92/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
-        "desc": "Based on a Thai radio show that gives love advice to callers, this series dramatizes stories of infidelity, love triangl",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
