@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T08:55:01.924Z",
+  "updated": "2026-07-10T13:49:45.482Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,19 +322,19 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Ancient Aliens",
-        "url": "https://www.themoviedb.org/tv/32608",
-        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Arena",
         "url": "https://www.themoviedb.org/tv/2050",
         "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
@@ -537,6 +528,15 @@
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "WWE Metal",
-        "url": "https://www.themoviedb.org/tv/323380",
-        "logo": "",
-        "desc": "WWE Metal (Originally WWF Metal) was a professional wrestling television program produced by World Wrestling Entertainme",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "WWE Metal",
+        "url": "https://www.themoviedb.org/tv/323380",
+        "logo": "",
+        "desc": "WWE Metal (Originally WWF Metal) was a professional wrestling television program produced by World Wrestling Entertainme",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
