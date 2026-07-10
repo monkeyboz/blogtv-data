@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T19:16:18.884Z",
+  "updated": "2026-07-10T01:24:58.740Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2090,16 +2090,6 @@
         "category": "business"
       },
       {
-        "name": "Agenda Minera TV",
-        "logo": "https://i.imgur.com/hg2PiIn.png",
-        "id": "AgendaMineraTV.bo@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
-        "category": "business"
-      },
-      {
         "name": "Al Arabiya Business (1080p)",
         "logo": "https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",
         "id": "AlArabiyaBusiness.ae@SD",
@@ -2227,6 +2217,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTVMongolia.mn@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
         "category": "business"
       }
     ],
@@ -2514,16 +2514,6 @@
         "category": "kids"
       },
       {
-        "name": "As Tartarugas Ninja (720p)",
-        "logo": "https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG_1768926936698.png",
-        "id": "AsTartarugasNinja.us@BR",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8",
-        "category": "kids"
-      },
-      {
         "name": "Atfal & Mawaheb TV (1080p)",
         "logo": "https://i.imgur.com/Y2BqP9m.png",
         "id": "AtfalMawahebTV.sa@SD",
@@ -2531,6 +2521,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar: A lenda de Aang",
+        "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+        "id": "AvatarAlendadeAang.us@BR",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
         "category": "kids"
       },
       {
