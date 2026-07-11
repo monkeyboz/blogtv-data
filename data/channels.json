@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T12:45:04.826Z",
+  "updated": "2026-07-11T18:40:25.034Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -340,6 +340,15 @@
         "category": "news"
       },
       {
+        "name": "Australian Story",
+        "url": "https://www.themoviedb.org/tv/12317",
+        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "The Colbert Report",
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
@@ -349,28 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
+        "name": "service: trends",
+        "url": "https://www.themoviedb.org/tv/254697",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Australian Story",
-        "url": "https://www.themoviedb.org/tv/12317",
-        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -414,6 +414,15 @@
         "category": "technology"
       },
       {
+        "name": "NCIS",
+        "url": "https://www.themoviedb.org/tv/4614",
+        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -427,15 +436,6 @@
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "NCIS",
-        "url": "https://www.themoviedb.org/tv/4614",
-        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,10 +488,10 @@
     ],
     "science": [
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "name": "Planet Wissen",
+        "url": "https://www.themoviedb.org/tv/66759",
+        "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -506,28 +506,10 @@
         "category": "science"
       },
       {
-        "name": "Planet Wissen",
-        "url": "https://www.themoviedb.org/tv/66759",
-        "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Arena",
         "url": "https://www.themoviedb.org/tv/2050",
         "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
         "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ancient Aliens",
-        "url": "https://www.themoviedb.org/tv/32608",
-        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,10 +524,28 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
-        "desc": "",
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Australian Story",
+        "url": "https://www.themoviedb.org/tv/12317",
+        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ancient Aliens",
+        "url": "https://www.themoviedb.org/tv/32608",
+        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
+        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1025,19 +1025,19 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "The Tudors",
+        "url": "https://www.themoviedb.org/tv/2942",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "The Tudors",
-        "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
-        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Dark Fate",
-        "url": "https://www.themoviedb.org/tv/16684",
-        "logo": "https://image.tmdb.org/t/p/w92/noEK1XucNeKEtpLYmpSaMNEDwfT.jpg",
-        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
+        "name": "Csak színház és más semmi",
+        "url": "https://www.themoviedb.org/tv/65223",
+        "logo": "https://image.tmdb.org/t/p/w92/szMbQF6kxhQwXntK6xRxJNtzAqg.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,10 +1426,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Phineas and Ferb",
+        "url": "https://www.themoviedb.org/tv/1877",
+        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,28 +1444,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Little House on the Prairie",
+        "url": "https://www.themoviedb.org/tv/1781",
+        "logo": "https://image.tmdb.org/t/p/w92/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
+        "desc": "When the big woods of Wisconsin becomes a difficult spot for hunting, Charles Ingalls reluctantly decides to move his fa",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "WWE Metal",
-        "url": "https://www.themoviedb.org/tv/323380",
-        "logo": "",
-        "desc": "WWE Metal (Originally WWF Metal) was a professional wrestling television program produced by World Wrestling Entertainme",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Rugrats",
         "url": "https://www.themoviedb.org/tv/3022",
         "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Bluey",
-        "url": "https://www.themoviedb.org/tv/82728",
-        "logo": "https://image.tmdb.org/t/p/w92/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg",
-        "desc": "Bluey is an inexhaustible six year-old Blue Heeler dog, who loves to play and turns everyday family life into extraordin",
+        "name": "Mister Maker",
+        "url": "https://www.themoviedb.org/tv/32138",
+        "logo": "https://image.tmdb.org/t/p/w92/8iI2OOWiEGS0tOzxUJSa6H8vgCf.jpg",
+        "desc": "Mister Maker is a pre-school children's arts and crafts programme commissioned by Michael Carrington at the BBC for CBee",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "GG Bond",
+        "url": "https://www.themoviedb.org/tv/217772",
+        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2760,7 +2760,7 @@
       {
         "name": "Chainsmoker Cat",
         "url": "https://www.themoviedb.org/tv/312949",
-        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/m7AnmAtTDC5qfEp3BcLSSJerBzM.jpg",
         "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
         "source": "tmdb",
         "type": "info",
@@ -2776,15 +2776,6 @@
         "category": "animation"
       },
       {
-        "name": "Adam's Sweet Agony",
-        "url": "https://www.themoviedb.org/tv/241002",
-        "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
-        "desc": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Overflow",
         "url": "https://www.themoviedb.org/tv/95897",
         "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
@@ -2794,10 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "Chihayafuru",
-        "url": "https://www.themoviedb.org/tv/45247",
-        "logo": "https://image.tmdb.org/t/p/w92/nUfL7xK5DjViiQAwHiRYlb6VMTE.jpg",
-        "desc": "Chihaya Ayase has spent most of her life supporting her sister’s model career. When she meets a boy named Arata Wataya, ",
+        "name": "Adam's Sweet Agony",
+        "url": "https://www.themoviedb.org/tv/241002",
+        "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+        "desc": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
