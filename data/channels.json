@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:11:22.998Z",
+  "updated": "2026-07-11T01:18:27.994Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -204,6 +204,16 @@
         "category": "news"
       },
       {
+        "name": "2+2 Marathon (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2Marathon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
+        "category": "news"
+      },
+      {
         "name": "2M (1080p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "news"
       },
       {
@@ -1043,19 +1043,19 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Csak színház és más semmi",
-        "url": "https://www.themoviedb.org/tv/65223",
-        "logo": "https://image.tmdb.org/t/p/w92/szMbQF6kxhQwXntK6xRxJNtzAqg.jpg",
-        "desc": "",
+        "name": "Dark Fate",
+        "url": "https://www.themoviedb.org/tv/16684",
+        "logo": "https://image.tmdb.org/t/p/w92/noEK1XucNeKEtpLYmpSaMNEDwfT.jpg",
+        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1199,13 +1199,13 @@
         "category": "entertainment"
       },
       {
-        "name": "20 Mediaset [Geo-blocked]",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",20",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "id": "20.it@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+        "url": "http://91.146.94.234:10001/play/a08s",
         "category": "entertainment"
       },
       {
@@ -1978,6 +1978,16 @@
         "category": "politics"
       },
       {
+        "name": "2+2 Marathon (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2Marathon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "2M (1080p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "politics"
       }
     ],
@@ -2882,6 +2882,16 @@
         "category": "general"
       },
       {
+        "name": "2+2 Marathon (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2Marathon.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
+        "category": "general"
+      },
+      {
         "name": "2M (1080p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "5TV Corrientes (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mSn7ACs.png",
-        "id": "5tv.ar@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8",
         "category": "general"
       }
     ]
