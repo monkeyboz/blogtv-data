@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T12:46:36.775Z",
+  "updated": "2026-07-12T18:44:04.271Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,9 +488,9 @@
     ],
     "science": [
       {
-        "name": "Planet Wissen",
-        "url": "https://www.themoviedb.org/tv/66759",
-        "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -506,10 +506,19 @@
         "category": "science"
       },
       {
-        "name": "Arena",
-        "url": "https://www.themoviedb.org/tv/2050",
-        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
-        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
+        "name": "Planet Wissen",
+        "url": "https://www.themoviedb.org/tv/66759",
+        "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Sportclub Story",
+        "url": "https://www.themoviedb.org/tv/230207",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,19 +542,10 @@
         "category": "science"
       },
       {
-        "name": "Australian Story",
-        "url": "https://www.themoviedb.org/tv/12317",
-        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ancient Aliens",
-        "url": "https://www.themoviedb.org/tv/32608",
-        "logo": "https://image.tmdb.org/t/p/w92/6X2hftdC8y78SKMSgfzeUItqaVq.jpg",
-        "desc": "Did intelligent beings from outer space visit Earth thousands of years ago? From the age of the dinosaurs to ancient Egy",
+        "name": "Arena",
+        "url": "https://www.themoviedb.org/tv/2050",
+        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
+        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1426,24 +1426,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Phineas and Ferb",
-        "url": "https://www.themoviedb.org/tv/1877",
-        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Club Friday",
-        "url": "https://www.themoviedb.org/tv/62245",
-        "logo": "https://image.tmdb.org/t/p/w92/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
-        "desc": "Based on a Thai radio show that gives love advice to callers, this series dramatizes stories of infidelity, love triangl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Among Friends",
         "url": "https://www.themoviedb.org/tv/50821",
         "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
@@ -1453,19 +1435,37 @@
         "category": "entertainment"
       },
       {
-        "name": "Little House on the Prairie",
-        "url": "https://www.themoviedb.org/tv/1781",
-        "logo": "https://image.tmdb.org/t/p/w92/eVpvlqKZfEVsBOttNFTUyfPoA6K.jpg",
-        "desc": "When the big woods of Wisconsin becomes a difficult spot for hunting, Charles Ingalls reluctantly decides to move his fa",
+        "name": "Come Home Love: Lo and Behold",
+        "url": "https://www.themoviedb.org/tv/91759",
+        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "name": "Sazae-san",
+        "url": "https://www.themoviedb.org/tv/153485",
+        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+        "url": "https://www.themoviedb.org/tv/6060",
+        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "HK 80's",
+        "url": "https://www.themoviedb.org/tv/228091",
+        "logo": "https://image.tmdb.org/t/p/w92/6IpuLrhh7XZfIvz0OmFOSJdSORe.jpg",
+        "desc": "This sitcom  series premiered in 1981 and changed its name every year, from \"Hong Kong 81\" to \"Hong Kong 86.\" It was eve",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Adam's Sweet Agony",
-        "url": "https://www.themoviedb.org/tv/241002",
-        "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
-        "desc": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2812,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Adam's Sweet Agony",
+        "url": "https://www.themoviedb.org/tv/241002",
+        "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+        "desc": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
