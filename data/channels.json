@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:07:11.893Z",
+  "updated": "2026-07-14T01:10:49.213Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -114,6 +114,16 @@
         "category": "news"
       },
       {
+        "name": "24 Kanal (1080p)",
+        "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+        "id": "24Kanal.ua@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://176.122.125.10:8080/news24/index.m3u8",
+        "category": "news"
+      },
+      {
         "name": "24KZ",
         "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
         "id": "24KZ.kz@SD",
@@ -144,13 +154,13 @@
         "category": "news"
       },
       {
-        "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-        "id": "Channel24.ua@SD",
-        "group": "News",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",1+1 International",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
         "category": "news"
       },
       {
@@ -290,17 +300,7 @@
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://41.223.30.230/3SAT/index.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "3 Stones TV (240p) [Not 24/7]",
-        "logo": "https://i.imgur.com/im3g7T2.png",
-        "id": "3StonesTV.ke@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "news"
       },
       {
@@ -308,6 +308,33 @@
         "url": "https://www.themoviedb.org/tv/2224",
         "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
         "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -322,19 +349,10 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "Mentiras verdaderas",
+        "url": "https://www.themoviedb.org/tv/114863",
+        "logo": "https://image.tmdb.org/t/p/w92/lBm5uxFGU40Hz7wztTAcsvh6Ng9.jpg",
+        "desc": "Daily interviews discussing the guest's personal lives and national contingency.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -353,24 +371,6 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Australian Story",
-        "url": "https://www.themoviedb.org/tv/12317",
-        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "传奇故事",
-        "url": "https://www.themoviedb.org/tv/271305",
-        "logo": "https://image.tmdb.org/t/p/w92/w5OErJPb8BIq7Ic8Hoim6JWBRMa.jpg",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -414,19 +414,28 @@
         "category": "technology"
       },
       {
-        "name": "NCIS",
-        "url": "https://www.themoviedb.org/tv/4614",
-        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "name": "Renegade Immortal",
+        "url": "https://www.themoviedb.org/tv/223911",
+        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
+        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "NCIS",
+        "url": "https://www.themoviedb.org/tv/4614",
+        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -441,28 +450,19 @@
         "category": "technology"
       },
       {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Avatar: The Last Airbender",
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Boys",
-        "url": "https://www.themoviedb.org/tv/76479",
-        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -691,13 +691,13 @@
         "category": "history"
       },
       {
-        "name": "Canal Educação (720p)",
+        "name": "Canal Educacao (720p)",
         "logo": "https://i.imgur.com/OOB7nrS.png",
         "id": "CanalEducacao.br@SD",
         "group": "Education",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+        "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
         "category": "history"
       },
       {
@@ -759,7 +759,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://206.212.244.63/2486/index.m3u8",
+        "url": "http://40.160.24.52/ACC_NETWORK/index.m3u8",
         "category": "sports"
       },
       {
@@ -1349,16 +1349,6 @@
         "category": "entertainment"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
-        "category": "entertainment"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Bizz TV",
+        "logo": "https://i.imgur.com/UxHaJNR.png",
+        "id": "BizzTV.tt@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1574,16 +1574,6 @@
         "category": "cooking"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
-        "category": "cooking"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Bizz TV",
+        "logo": "https://i.imgur.com/UxHaJNR.png",
+        "id": "BizzTV.tt@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -1888,6 +1888,16 @@
         "category": "politics"
       },
       {
+        "name": "24 Kanal (1080p)",
+        "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+        "id": "24Kanal.ua@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://176.122.125.10:8080/news24/index.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "24KZ",
         "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
         "id": "24KZ.kz@SD",
@@ -1918,13 +1928,13 @@
         "category": "politics"
       },
       {
-        "name": "24 Канал (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/960px-24_Group_Ukraine_04.png",
-        "id": "Channel24.ua@SD",
-        "group": "News",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",1+1 International",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
         "category": "politics"
       },
       {
@@ -2064,17 +2074,7 @@
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://41.223.30.230/3SAT/index.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "3 Stones TV (240p) [Not 24/7]",
-        "logo": "https://i.imgur.com/im3g7T2.png",
-        "id": "3StonesTV.ke@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "politics"
       }
     ],
@@ -2332,16 +2332,6 @@
         "category": "health"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Lifestyle\",BBC Lifestyle Poland",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://81.15.109.89:8001/play/BBCLifestyle",
-        "category": "health"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Bizz TV",
+        "logo": "https://i.imgur.com/UxHaJNR.png",
+        "id": "BizzTV.tt@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
         "category": "health"
       }
     ],
@@ -2832,6 +2832,16 @@
     ],
     "general": [
       {
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"General\",1+1 International",
+        "logo": "https://i.imgur.com/LOY0rtp.png",
+        "id": "1Plus1International.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://158.101.222.193:88/georgia_play.php?id=1plus1international",
+        "category": "general"
+      },
+      {
         "name": "1+1 International HD (720p)",
         "logo": "https://i.imgur.com/LOY0rtp.png",
         "id": "1Plus1International.ua@HD",
@@ -2968,17 +2978,7 @@
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://41.223.30.230/3SAT/index.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "3 Stones TV (240p) [Not 24/7]",
-        "logo": "https://i.imgur.com/im3g7T2.png",
-        "id": "3StonesTV.ke@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
+        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "general"
       }
     ]
