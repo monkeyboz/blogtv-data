@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T13:02:44.406Z",
+  "updated": "2026-07-15T18:49:47.939Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -331,28 +331,19 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "传奇故事",
-        "url": "https://www.themoviedb.org/tv/271305",
-        "logo": "https://image.tmdb.org/t/p/w92/w5OErJPb8BIq7Ic8Hoim6JWBRMa.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
         "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +358,19 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "传奇故事",
+        "url": "https://www.themoviedb.org/tv/271305",
+        "logo": "https://image.tmdb.org/t/p/w92/w5OErJPb8BIq7Ic8Hoim6JWBRMa.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -497,19 +497,19 @@
         "category": "science"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "MBC Documantary Prime",
-        "url": "https://www.themoviedb.org/tv/194524",
-        "logo": "https://image.tmdb.org/t/p/w92/qa1pgMZlMOBPKlAGk11V9Auyebh.jpg",
-        "desc": "",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,19 +533,19 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "The World Heritage",
-        "url": "https://www.themoviedb.org/tv/82172",
-        "logo": "https://image.tmdb.org/t/p/w92/bES9DDFubda9XEIbdcEK6DAu8rZ.jpg",
-        "desc": "TBS’s ”World Heritage,” is a 30-minute weekly documentary series that is registered by UNESCO under Natural Heritage, Cu",
+        "name": "Australian Story",
+        "url": "https://www.themoviedb.org/tv/12317",
+        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1034,6 +1034,15 @@
         "category": "music"
       },
       {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Maison Ikkoku",
         "url": "https://www.themoviedb.org/tv/43018",
         "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
@@ -1052,24 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Sweet Home, Sweet Honey",
-        "url": "https://www.themoviedb.org/tv/64357",
-        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
-        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Only Love",
         "url": "https://www.themoviedb.org/tv/61130",
         "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
@@ -1083,6 +1074,15 @@
         "url": "https://www.themoviedb.org/tv/49931",
         "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
         "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Sweet Home, Sweet Honey",
+        "url": "https://www.themoviedb.org/tv/64357",
+        "logo": "https://image.tmdb.org/t/p/w92/5E3K4uWMzruJDOjMeDYt54US503.jpg",
+        "desc": "Even though Oh Bom is in a difficult financial situation, she is still bright and positive. She works part-time work at ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1399,15 +1399,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Avatar: The Last Airbender",
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
@@ -1417,10 +1408,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,10 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Sazae-san",
-        "url": "https://www.themoviedb.org/tv/153485",
-        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
-        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+        "name": "Club Friday",
+        "url": "https://www.themoviedb.org/tv/62245",
+        "logo": "https://image.tmdb.org/t/p/w92/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
+        "desc": "Based on a Thai radio show that gives love advice to callers, this series dramatizes stories of infidelity, love triangl",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Hitler Didi",
+        "url": "https://www.themoviedb.org/tv/41933",
+        "logo": "https://image.tmdb.org/t/p/w92/qwDJ7lsG5nSSMNp6xpcC5FnmS3s.jpg",
+        "desc": "Hitler Didi or General Didi is a daily Indian soap opera that aired on Zee TV. It premiered on November 7, 2011. The sto",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-        "url": "https://www.themoviedb.org/tv/6060",
-        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
+        "name": "Sazae-san",
+        "url": "https://www.themoviedb.org/tv/153485",
+        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Hitler Didi",
-        "url": "https://www.themoviedb.org/tv/41933",
-        "logo": "https://image.tmdb.org/t/p/w92/qwDJ7lsG5nSSMNp6xpcC5FnmS3s.jpg",
-        "desc": "Hitler Didi or General Didi is a daily Indian soap opera that aired on Zee TV. It premiered on November 7, 2011. The sto",
+        "name": "Sister-in-Law Is at Home!",
+        "url": "https://www.themoviedb.org/tv/65682",
+        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
+        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,15 +2543,6 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Sesame Street",
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
@@ -2561,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/217772",
         "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
         "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2769,7 +2769,7 @@
       {
         "name": "Chainsmoker Cat",
         "url": "https://www.themoviedb.org/tv/312949",
-        "logo": "https://image.tmdb.org/t/p/w92/m7AnmAtTDC5qfEp3BcLSSJerBzM.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
         "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
         "source": "tmdb",
         "type": "info",
