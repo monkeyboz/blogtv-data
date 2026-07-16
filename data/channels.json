@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T07:50:12.887Z",
+  "updated": "2026-07-16T13:10:55.988Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1426,6 +1426,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
+        "url": "https://www.themoviedb.org/tv/6060",
+        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Club Friday",
         "url": "https://www.themoviedb.org/tv/62245",
         "logo": "https://image.tmdb.org/t/p/w92/zPrnYxh7uaUdPQ3EGMxgcTrcG59.jpg",
@@ -1457,15 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/153485",
         "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
         "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
