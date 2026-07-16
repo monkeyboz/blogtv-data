@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T01:17:05.029Z",
+  "updated": "2026-07-16T07:50:12.887Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,6 +524,15 @@
         "category": "science"
       },
       {
+        "name": "SBS 특집 다큐멘터리",
+        "url": "https://www.themoviedb.org/tv/202977",
+        "logo": "https://image.tmdb.org/t/p/w92/5Tq6AMWlsHHquik9zaYVnqTz6ba.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "跟着书本去旅行",
         "url": "https://www.themoviedb.org/tv/120218",
         "logo": "https://image.tmdb.org/t/p/w92/j1nH6MopccnN7V2UM5FJX4AlGFM.jpg",
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/12317",
         "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
         "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Planet Wissen",
-        "url": "https://www.themoviedb.org/tv/66759",
-        "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2776,15 +2776,6 @@
         "category": "animation"
       },
       {
-        "name": "Chainsmoker Cat",
-        "url": "https://www.themoviedb.org/tv/312949",
-        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
-        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2807,6 +2798,15 @@
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Chainsmoker Cat",
+        "url": "https://www.themoviedb.org/tv/312949",
+        "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
+        "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
