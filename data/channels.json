@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T18:49:47.939Z",
+  "updated": "2026-07-16T01:17:05.029Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,24 +432,6 @@
         "category": "technology"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -459,10 +441,28 @@
         "category": "technology"
       },
       {
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Avatar: The Last Airbender",
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -651,16 +651,6 @@
         "category": "history"
       },
       {
-        "name": "BVG (576p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png",
-        "id": "BVG.in@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://mumt05.tangotv.in/BVG/index.m3u8",
-        "category": "history"
-      },
-      {
         "name": "Campus TV (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/E1TmADM.png",
         "id": "CampusTV.hn@SD",
@@ -718,6 +708,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tv.picta.cu/educativo2/educativo2_0.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "Canal Futura (720p)",
+        "logo": "https://i.imgur.com/LgynEBC.png",
+        "id": "CanalFutura.br@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://45.162.64.114/FUTURA/index.m3u8",
         "category": "history"
       }
     ],
@@ -780,16 +780,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",ACL Cornhole TV (1080p)",
-        "logo": "https://i.imgur.com/lBIq2ZD.png",
-        "id": "ACLCornholeTV.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/acl-cornhole-tv/aclco.m3u8?ads.vf=Sl3XhzpgcOy",
         "category": "sports"
       },
       {
@@ -871,6 +861,16 @@
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
         "category": "sports"
+      },
+      {
+        "name": "Alkass SHOOF 2 (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+        "id": "AlkassSHOOF2.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+        "category": "sports"
       }
     ],
     "music": [
@@ -951,7 +951,7 @@
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8",
+        "url": "https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8",
         "category": "music"
       },
       {
@@ -961,7 +961,7 @@
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8",
+        "url": "https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8",
         "category": "music"
       },
       {
@@ -1129,6 +1129,16 @@
         "category": "entertainment"
       },
       {
+        "name": "6ter (1080p)",
+        "logo": "https://i.imgur.com/2nd5Cox.png",
+        "id": "6ter.fr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://145.239.5.177/314/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
         "id": "78TV.bg@SD",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://hls.247box.live/hls/stream.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "312 ТВ (406p)",
-        "logo": "https://i.ibb.co/S6sZvqk/iLSGi6c.png",
-        "id": "312TV.kg@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1766,13 +1766,13 @@
         "category": "travel"
       },
       {
-        "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Travel\",Journy (720p)",
+        "name": "JOURNY TV (720p)",
         "logo": "https://i.imgur.com/1JNrLxq.png",
         "id": "Journy.us@SD",
         "group": "Travel",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8?ads.vf=QFdKH3fCQ5m",
+        "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
         "category": "travel"
       }
     ],
@@ -2758,6 +2758,15 @@
         "category": "animation"
       },
       {
+        "name": "Maddie + Triggs",
+        "url": "https://www.themoviedb.org/tv/257723",
+        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
@@ -2771,24 +2780,6 @@
         "url": "https://www.themoviedb.org/tv/312949",
         "logo": "https://image.tmdb.org/t/p/w92/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg",
         "desc": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Maddie + Triggs",
-        "url": "https://www.themoviedb.org/tv/257723",
-        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
-        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Renegade Immortal",
         "url": "https://www.themoviedb.org/tv/223911",
         "logo": "https://image.tmdb.org/t/p/w92/2jEJSCLFjniFT7z4YvyY9Ywo1lc.jpg",
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Adam's Sweet Agony",
+        "url": "https://www.themoviedb.org/tv/241002",
+        "logo": "https://image.tmdb.org/t/p/w92/1n1ZP0KHXUSvVxZG63x7aOzmO4M.jpg",
+        "desc": "This is the story of a boy, who became the lone Adam among four billion Eves. In a world where a pandemic has rendered a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
