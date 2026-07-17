@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T18:51:31.800Z",
+  "updated": "2026-07-17T01:20:39.861Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -224,13 +224,13 @@
         "category": "news"
       },
       {
-        "name": "2M (1080p)",
+        "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "http://185.9.2.18/chid_218/index.m3u8",
         "category": "news"
       },
       {
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Agent Kim Reactivated",
-        "url": "https://www.themoviedb.org/tv/296206",
-        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-        "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,37 +497,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "传奇故事",
-        "url": "https://www.themoviedb.org/tv/271305",
-        "logo": "https://image.tmdb.org/t/p/w92/w5OErJPb8BIq7Ic8Hoim6JWBRMa.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "SBS 특집 다큐멘터리",
-        "url": "https://www.themoviedb.org/tv/202977",
-        "logo": "https://image.tmdb.org/t/p/w92/5Tq6AMWlsHHquik9zaYVnqTz6ba.jpg",
-        "desc": "",
+        "name": "Galileo",
+        "url": "https://www.themoviedb.org/tv/75415",
+        "logo": "https://image.tmdb.org/t/p/w92/VwqwId0kD9NIT0cTWx3Is6Jar5.jpg",
+        "desc": "This daily German magazine show delivers interesting facts on numerous topics centering around technology, life, and biz",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +515,46 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "传奇故事",
+        "url": "https://www.themoviedb.org/tv/271305",
+        "logo": "https://image.tmdb.org/t/p/w92/w5OErJPb8BIq7Ic8Hoim6JWBRMa.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Australian Story",
-        "url": "https://www.themoviedb.org/tv/12317",
-        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Chiisana Tabi",
+        "url": "https://www.themoviedb.org/tv/130990",
+        "logo": "https://image.tmdb.org/t/p/w92/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "World Theme Tour",
+        "url": "https://www.themoviedb.org/tv/120554",
+        "logo": "https://image.tmdb.org/t/p/w92/pHC70ke34d0pEOdhcx8lnWhRtqk.jpg",
+        "desc": "The World Theme Journey is a program designed to deliver living experiences that only free backpackers can feel, away fr",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1998,13 +1998,13 @@
         "category": "politics"
       },
       {
-        "name": "2M (1080p)",
+        "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "http://185.9.2.18/chid_218/index.m3u8",
         "category": "politics"
       },
       {
@@ -2534,15 +2534,6 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Maddie + Triggs",
         "url": "https://www.themoviedb.org/tv/257723",
         "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
         "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2902,13 +2902,13 @@
         "category": "general"
       },
       {
-        "name": "2M (1080p)",
+        "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream-lb.livemediama.com/2m-tnt/hls/master.m3u8",
+        "url": "http://185.9.2.18/chid_218/index.m3u8",
         "category": "general"
       },
       {
