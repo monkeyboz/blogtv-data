@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:22:36.635Z",
+  "updated": "2026-07-18T12:42:41.200Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1444,15 +1444,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Na lovu",
         "url": "https://www.themoviedb.org/tv/206679",
         "logo": "https://image.tmdb.org/t/p/w92/udJ1wVuOwFg1q6UBcQGwcpcdIYF.jpg",
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/65682",
         "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
         "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Hitler Didi",
+        "url": "https://www.themoviedb.org/tv/41933",
+        "logo": "https://image.tmdb.org/t/p/w92/qwDJ7lsG5nSSMNp6xpcC5FnmS3s.jpg",
+        "desc": "Hitler Didi or General Didi is a daily Indian soap opera that aired on Zee TV. It premiered on November 7, 2011. The sto",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
