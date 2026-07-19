@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T12:44:21.122Z",
+  "updated": "2026-07-19T18:44:09.501Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -114,13 +114,13 @@
         "category": "news"
       },
       {
-        "name": "24 Kanal (1080p)",
+        "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://176.122.125.10:8080/news24/index.m3u8",
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
         "category": "news"
       },
       {
@@ -331,10 +331,10 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "DAS!",
+        "url": "https://www.themoviedb.org/tv/62992",
+        "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
+        "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,15 +349,6 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "ZIBB",
         "url": "https://www.themoviedb.org/tv/265167",
         "logo": "",
@@ -367,10 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,19 +396,19 @@
     ],
     "technology": [
       {
-        "name": "House of the Dragon",
-        "url": "https://www.themoviedb.org/tv/94997",
-        "logo": "https://image.tmdb.org/t/p/w92/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "desc": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires cru",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "House of the Dragon",
+        "url": "https://www.themoviedb.org/tv/94997",
+        "logo": "https://image.tmdb.org/t/p/w92/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+        "desc": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires cru",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -432,24 +432,6 @@
         "category": "technology"
       },
       {
-        "name": "NCIS",
-        "url": "https://www.themoviedb.org/tv/4614",
-        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
-        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Agent Kim Reactivated",
-        "url": "https://www.themoviedb.org/tv/296206",
-        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-        "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Re:ZERO -Starting Life in Another World-",
         "url": "https://www.themoviedb.org/tv/65942",
         "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
@@ -459,10 +441,28 @@
         "category": "technology"
       },
       {
+        "name": "NCIS",
+        "url": "https://www.themoviedb.org/tv/4614",
+        "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
+        "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "The Boys",
         "url": "https://www.themoviedb.org/tv/76479",
         "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
         "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Shoujo Commando IZUMI",
+        "url": "https://www.themoviedb.org/tv/91791",
+        "logo": "https://image.tmdb.org/t/p/w92/6TvFAqk2LxU2p0Y9cs3q70aLrnw.jpg",
+        "desc": "A high school girl, Izumi Gojo, who has been found guilty of murder, falls into the sea and disappears when running away",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1025,28 +1025,10 @@
         "category": "music"
       },
       {
-        "name": "The Tudors",
-        "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
-        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Save the Family",
+        "url": "https://www.themoviedb.org/tv/64304",
+        "logo": "https://image.tmdb.org/t/p/w92/7cpgEtTYPkWZGRbMTGGBg4Z05g0.jpg",
+        "desc": "Jung Woo Jin is an ambitious doctor. After he failed in love, he no longer believes in true love. He views marriage as j",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1061,37 +1043,55 @@
         "category": "music"
       },
       {
-        "name": "Save the Family",
-        "url": "https://www.themoviedb.org/tv/64304",
-        "logo": "https://image.tmdb.org/t/p/w92/7cpgEtTYPkWZGRbMTGGBg4Z05g0.jpg",
-        "desc": "Jung Woo Jin is an ambitious doctor. After he failed in love, he no longer believes in true love. He views marriage as j",
+        "name": "The Tudors",
+        "url": "https://www.themoviedb.org/tv/2942",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "Beautiful You",
+        "url": "https://www.themoviedb.org/tv/65365",
+        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
+        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "My Son-In-Law's Woman",
+        "url": "https://www.themoviedb.org/tv/65352",
+        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
+        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "My Dear Cat",
+        "url": "https://www.themoviedb.org/tv/63573",
+        "logo": "https://image.tmdb.org/t/p/w92/a8wHHvIVFyK55M2O3O67vC82g3u.jpg",
+        "desc": "While looking for her lost cat, magazine journalist Go Yang-soon meets law school student and part-time photographer Yeo",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1888,13 +1888,13 @@
         "category": "politics"
       },
       {
-        "name": "24 Kanal (1080p)",
+        "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://176.122.125.10:8080/news24/index.m3u8",
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
         "category": "politics"
       },
       {
@@ -2534,24 +2534,6 @@
         "category": "kids"
       },
       {
-        "name": "Maddie + Triggs",
-        "url": "https://www.themoviedb.org/tv/257723",
-        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
-        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2561,10 +2543,28 @@
         "category": "kids"
       },
       {
+        "name": "Maddie + Triggs",
+        "url": "https://www.themoviedb.org/tv/257723",
+        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "GG Bond",
-        "url": "https://www.themoviedb.org/tv/217772",
-        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
-        "desc": "",
+        "name": "New Looney Tunes",
+        "url": "https://www.themoviedb.org/tv/65763",
+        "logo": "https://image.tmdb.org/t/p/w92/AdROLFTm3nSnqcmkhPabqdRuETZ.jpg",
+        "desc": "Wabbit is an animated series starring Bugs Bunny. The series features many other Looney Tunes characters including Wile ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,6 +2758,24 @@
         "category": "animation"
       },
       {
+        "name": "Re:ZERO -Starting Life in Another World-",
+        "url": "https://www.themoviedb.org/tv/65942",
+        "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "desc": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
@@ -2767,28 +2785,19 @@
         "category": "animation"
       },
       {
-        "name": "Secret Mission - Undercover Agents Never Back Down!",
-        "url": "https://www.themoviedb.org/tv/233643",
-        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
+        "name": "Maddie + Triggs",
+        "url": "https://www.themoviedb.org/tv/257723",
+        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Overflow",
-        "url": "https://www.themoviedb.org/tv/95897",
-        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,28 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "My Wife Has No Emotion",
-        "url": "https://www.themoviedb.org/tv/250596",
-        "logo": "https://image.tmdb.org/t/p/w92/ttaknfJP0qjg7kMKwH0w29fcE6d.jpg",
-        "desc": "Takuma isn’t the most exciting guy. He’s awkward, single, and does nothing but go to work and come home. Tired of doing ",
+        "name": "Secret Mission - Undercover Agents Never Back Down!",
+        "url": "https://www.themoviedb.org/tv/233643",
+        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Re:ZERO -Starting Life in Another World-",
-        "url": "https://www.themoviedb.org/tv/65942",
-        "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "desc": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself t",
+        "name": "Overflow",
+        "url": "https://www.themoviedb.org/tv/95897",
+        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
