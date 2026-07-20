@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T01:21:33.710Z",
+  "updated": "2026-07-20T08:32:05.569Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,6 +432,15 @@
         "category": "technology"
       },
       {
+        "name": "The East Palace",
+        "url": "https://www.themoviedb.org/tv/279323",
+        "logo": "https://image.tmdb.org/t/p/w92/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+        "desc": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Game of Thrones",
-        "url": "https://www.themoviedb.org/tv/1399",
-        "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-        "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2579,19 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
