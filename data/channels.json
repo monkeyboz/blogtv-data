@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T01:18:10.424Z",
+  "updated": "2026-07-21T08:02:14.726Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,6 +322,15 @@
         "category": "news"
       },
       {
+        "name": "60 Minutes",
+        "url": "https://www.themoviedb.org/tv/651",
+        "logo": "https://image.tmdb.org/t/p/w92/vDlT8YU1pF8z37RfNaCOyJ5uO7l.jpg",
+        "desc": "America's popular television News magazine in which an ever changing team of CBS News correspondents contribute segments",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
@@ -362,15 +371,6 @@
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
         "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "Agent Kim Reactivated",
-        "url": "https://www.themoviedb.org/tv/296206",
-        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-        "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Agent Kim Reactivated",
+        "url": "https://www.themoviedb.org/tv/296206",
+        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+        "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "Maddie + Triggs",
-        "url": "https://www.themoviedb.org/tv/257723",
-        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
-        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Maddie + Triggs",
+        "url": "https://www.themoviedb.org/tv/257723",
+        "logo": "https://image.tmdb.org/t/p/w92/tOLQ3aodmqjiDotcaTEPKJmMoJN.jpg",
+        "desc": "A little girl and her doggy best friend find music and adventure in the sounds of the everyday by really listening to th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
