@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T18:59:22.718Z",
+  "updated": "2026-07-22T01:16:43.495Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -214,6 +214,16 @@
         "category": "news"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",2+2 (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream.mcquack.net/173/index.m3u8",
+        "category": "news"
+      },
+      {
         "name": "2+2 Marathon (1080p)",
         "logo": "https://i.imgur.com/v6KBgqk.png",
         "id": "2Plus2Marathon.ua@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "3sat HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "news"
       },
       {
@@ -1988,6 +1988,16 @@
         "category": "politics"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",2+2 (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream.mcquack.net/173/index.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "2+2 Marathon (1080p)",
         "logo": "https://i.imgur.com/v6KBgqk.png",
         "id": "2Plus2Marathon.ua@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "3sat HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "politics"
       }
     ],
@@ -2892,6 +2892,16 @@
         "category": "general"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",2+2 (1080p)",
+        "logo": "https://i.imgur.com/v6KBgqk.png",
+        "id": "2Plus2.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream.mcquack.net/173/index.m3u8",
+        "category": "general"
+      },
+      {
         "name": "2+2 Marathon (1080p)",
         "logo": "https://i.imgur.com/v6KBgqk.png",
         "id": "2Plus2Marathon.ua@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "3sat HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@HD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://41.205.77.102/3SAT/index.m3u8",
         "category": "general"
       }
     ]
