@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T01:20:07.170Z",
+  "updated": "2026-07-24T08:02:13.541Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,15 +524,6 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/12317",
         "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
         "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
