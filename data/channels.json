@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:53:30.814Z",
+  "updated": "2026-07-25T18:44:34.316Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -340,19 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Real Sports with Bryant Gumbel",
-        "url": "https://www.themoviedb.org/tv/10471",
-        "logo": "https://image.tmdb.org/t/p/w92/5dchMs5HvffgKHcsj6EfnzgrjXL.jpg",
-        "desc": "A monthly sports newsmagazine which was \"spawned by the fact that sports have changed dramatically, that it's no longer ",
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-        "desc": "",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "Striscia la Notizia",
+        "url": "https://www.themoviedb.org/tv/9237",
+        "logo": "https://image.tmdb.org/t/p/w92/x4QByhE7lOMtUTi32xWSqoOHenD.jpg",
+        "desc": "Striscia la notizia is an Italian television program on the Mediaset-controlled Canale 5. Its name in Italian translates",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -450,10 +450,10 @@
         "category": "technology"
       },
       {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/m6G92osOtSeXwjSfL21jZCUOvxe.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "name": "Agent Kim Reactivated",
+        "url": "https://www.themoviedb.org/tv/296206",
+        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+        "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,6 +497,15 @@
         "category": "science"
       },
       {
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Austin City Limits",
         "url": "https://www.themoviedb.org/tv/10472",
         "logo": "https://image.tmdb.org/t/p/w92/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
@@ -510,24 +519,6 @@
         "url": "https://www.themoviedb.org/tv/66759",
         "logo": "https://image.tmdb.org/t/p/w92/5VDhxDNprQZA0ZdvJ6mfrkHv12L.jpg",
         "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Australian Story",
-        "url": "https://www.themoviedb.org/tv/12317",
-        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
-        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
         "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Australian Story",
+        "url": "https://www.themoviedb.org/tv/12317",
+        "logo": "https://image.tmdb.org/t/p/w92/AdVz2lrwXb4SOV8V3yV8JSAuqWI.jpg",
+        "desc": "Putting the \"real\" back into reality television, Australian Story is an award-winning documentary series with no narrato",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1034,19 +1034,19 @@
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,19 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "My Son-In-Law's Woman",
-        "url": "https://www.themoviedb.org/tv/65352",
-        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
-        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Witch's Castle",
-        "url": "https://www.themoviedb.org/tv/65260",
-        "logo": "https://image.tmdb.org/t/p/w92/8tjkbkek5nFyr64EFS6bshZMCyu.jpg",
-        "desc": "Oh Dan-Byul lost her parents due to her own mistake. She marries Joon-Young, but her husband passes away. Meanwhile, her",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1092,6 +1083,15 @@
         "url": "https://www.themoviedb.org/tv/49931",
         "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
         "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "My Son-In-Law's Woman",
+        "url": "https://www.themoviedb.org/tv/65352",
+        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
+        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,10 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "name": "Avatar: The Last Airbender",
+        "url": "https://www.themoviedb.org/tv/82452",
+        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Avatar: The Last Airbender",
-        "url": "https://www.themoviedb.org/tv/82452",
-        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Sister-in-Law Is at Home!",
+        "url": "https://www.themoviedb.org/tv/65682",
+        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
+        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
