@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T01:21:03.384Z",
+  "updated": "2026-07-25T07:46:07.340Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -184,6 +184,16 @@
         "category": "news"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina",
+        "logo": "https://i.imgur.com/FlG7npq.png",
+        "id": "1Plus1Ukraina.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uys1g01.s.gy/1PLUS1_UKRAINE",
+        "category": "news"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -291,16 +301,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
         "category": "news"
       },
       {
@@ -1958,6 +1958,16 @@
         "category": "politics"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina",
+        "logo": "https://i.imgur.com/FlG7npq.png",
+        "id": "1Plus1Ukraina.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uys1g01.s.gy/1PLUS1_UKRAINE",
+        "category": "politics"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2065,16 +2075,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
         "category": "politics"
       }
     ],
@@ -2728,13 +2728,13 @@
         "category": "animation"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Animation\",DreamWorks Channel Asia",
+        "name": "DreamWorks Channel Asia (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
         "id": "DreamWorksChannelAsia.us@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://103.137.83.62:9090/play/30/index.m3u8",
+        "url": "https://cdn12.178.indevs.in/163189/dreamworks",
         "category": "animation"
       },
       {
@@ -2862,6 +2862,16 @@
         "category": "general"
       },
       {
+        "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina",
+        "logo": "https://i.imgur.com/FlG7npq.png",
+        "id": "1Plus1Ukraina.ua@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uys1g01.s.gy/1PLUS1_UKRAINE",
+        "category": "general"
+      },
+      {
         "name": "1Almere TV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
@@ -2969,16 +2979,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
-        "category": "general"
-      },
-      {
-        "name": "3sat (720p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
-        "id": "3sat.de@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
         "category": "general"
       }
     ]
