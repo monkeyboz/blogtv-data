@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T08:01:41.923Z",
+  "updated": "2026-07-26T12:50:45.146Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -425,7 +425,7 @@
       {
         "name": "Agent Kim Reactivated",
         "url": "https://www.themoviedb.org/tv/296206",
-        "logo": "https://image.tmdb.org/t/p/w92/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
         "desc": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attrac",
         "source": "tmdb",
         "type": "info",
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "C.I.D.",
-        "url": "https://www.themoviedb.org/tv/15226",
-        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "C.I.D.",
+        "url": "https://www.themoviedb.org/tv/15226",
+        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
