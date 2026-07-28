@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T19:06:20.914Z",
+  "updated": "2026-07-28T01:15:51.874Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,10 +313,10 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Newsnight",
+        "url": "https://www.themoviedb.org/tv/841",
+        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
+        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -331,19 +331,10 @@
         "category": "news"
       },
       {
-        "name": "Newsnight",
-        "url": "https://www.themoviedb.org/tv/841",
-        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,19 +349,28 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Striscia la Notizia",
+        "url": "https://www.themoviedb.org/tv/9237",
+        "logo": "https://image.tmdb.org/t/p/w92/x4QByhE7lOMtUTi32xWSqoOHenD.jpg",
+        "desc": "Striscia la notizia is an Italian television program on the Mediaset-controlled Canale 5. Its name in Italian translates",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Meet the Press",
+        "url": "https://www.themoviedb.org/tv/4496",
+        "logo": "https://image.tmdb.org/t/p/w92/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
+        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -497,28 +497,19 @@
         "category": "science"
       },
       {
-        "name": "Austin City Limits",
-        "url": "https://www.themoviedb.org/tv/10472",
-        "logo": "https://image.tmdb.org/t/p/w92/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
-        "desc": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators ",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Chiisana Tabi",
-        "url": "https://www.themoviedb.org/tv/130990",
-        "logo": "https://image.tmdb.org/t/p/w92/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
-        "desc": "",
+        "name": "Galileo",
+        "url": "https://www.themoviedb.org/tv/75415",
+        "logo": "https://image.tmdb.org/t/p/w92/VwqwId0kD9NIT0cTWx3Is6Jar5.jpg",
+        "desc": "This daily German magazine show delivers interesting facts on numerous topics centering around technology, life, and biz",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +533,28 @@
         "category": "science"
       },
       {
-        "name": "Galileo",
-        "url": "https://www.themoviedb.org/tv/75415",
-        "logo": "https://image.tmdb.org/t/p/w92/VwqwId0kD9NIT0cTWx3Is6Jar5.jpg",
-        "desc": "This daily German magazine show delivers interesting facts on numerous topics centering around technology, life, and biz",
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Chiisana Tabi",
+        "url": "https://www.themoviedb.org/tv/130990",
+        "logo": "https://image.tmdb.org/t/p/w92/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Austin City Limits",
+        "url": "https://www.themoviedb.org/tv/10472",
+        "logo": "https://image.tmdb.org/t/p/w92/q5jxpBFJvwMeqMI7Rg5cqZPdE7V.jpg",
+        "desc": "Now the longest-running music series in American television history, ACL showcases popular music legends and innovators ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2638,16 +2638,6 @@
         "category": "animation"
       },
       {
-        "name": "Animax Asia (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
-        "id": "AnimaxAsia.sg@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://sra72yz.s.gy/ANIMAX_ASIA_SD",
-        "category": "animation"
-      },
-      {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
         "id": "AnimaxAsia.sg@India",
@@ -2758,6 +2748,16 @@
         "category": "animation"
       },
       {
+        "name": "DreikoTv (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/k8U0e0b.png",
+        "id": "DreikoTV.pa@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cloudvideo.servers10.com:8081/8138/index.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "Caressing My Hibernating Bear",
         "url": "https://www.themoviedb.org/tv/204269",
         "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
@@ -2794,15 +2794,6 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
@@ -2812,19 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
