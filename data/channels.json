@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T01:18:01.082Z",
+  "updated": "2026-07-29T08:13:21.386Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-        "url": "https://www.themoviedb.org/tv/6060",
-        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "King of the Hill",
         "url": "https://www.themoviedb.org/tv/2122",
         "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Sazae-san",
+        "url": "https://www.themoviedb.org/tv/153485",
+        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
