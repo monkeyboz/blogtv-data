@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T18:47:55.401Z",
+  "updated": "2026-07-30T01:11:22.157Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -349,6 +349,15 @@
         "category": "news"
       },
       {
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Match of the Day",
         "url": "https://www.themoviedb.org/tv/224",
         "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
@@ -362,15 +371,6 @@
         "url": "https://www.themoviedb.org/tv/4496",
         "logo": "https://image.tmdb.org/t/p/w92/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
         "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Striscia la Notizia",
-        "url": "https://www.themoviedb.org/tv/9237",
-        "logo": "https://image.tmdb.org/t/p/w92/x4QByhE7lOMtUTi32xWSqoOHenD.jpg",
-        "desc": "Striscia la notizia is an Italian television program on the Mediaset-controlled Canale 5. Its name in Italian translates",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -2794,6 +2794,15 @@
         "category": "animation"
       },
       {
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Sazanami Soushi ni Junketsu wo Sasagu",
-        "url": "https://www.themoviedb.org/tv/220118",
-        "logo": "https://image.tmdb.org/t/p/w92/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
-        "desc": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos ",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
