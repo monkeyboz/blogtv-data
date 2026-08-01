@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T19:02:02.406Z",
+  "updated": "2026-08-01T01:25:32.957Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "The Boys",
-        "url": "https://www.themoviedb.org/tv/76479",
-        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
+        "name": "Smallville",
+        "url": "https://www.themoviedb.org/tv/4604",
+        "logo": "https://image.tmdb.org/t/p/w92/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
+        "desc": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen year",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -508,7 +508,7 @@
       {
         "name": "Lecture Room",
         "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/7bS6LJn4EpopXSGSOUxrO9BEUjS.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/dNoj8qo8B4TI5LycTsWGCy1IU4G.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -1043,6 +1043,15 @@
         "category": "music"
       },
       {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Maison Ikkoku",
         "url": "https://www.themoviedb.org/tv/43018",
         "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
@@ -1052,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "My Son-In-Law's Woman",
-        "url": "https://www.themoviedb.org/tv/65352",
-        "logo": "https://image.tmdb.org/t/p/w92/Iuzm6oHOl35iO8F3bEI2Ddli3D.jpg",
-        "desc": "Jin-sook used to hate her son-in-law Hyun-tae when her daughter died, but now Hyun-tae is like a real son to her. One da",
+        "name": "Lovebird",
+        "url": "https://www.themoviedb.org/tv/65556",
+        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
+        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
         "source": "tmdb",
         "type": "info",
         "category": "music"
