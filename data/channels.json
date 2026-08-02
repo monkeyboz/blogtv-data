@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T01:23:02.300Z",
+  "updated": "2026-08-02T07:58:33.748Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Reacher",
+        "url": "https://www.themoviedb.org/tv/108978",
+        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Reacher",
-        "url": "https://www.themoviedb.org/tv/108978",
-        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
