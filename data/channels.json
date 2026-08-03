@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T18:48:21.389Z",
+  "updated": "2026-08-03T01:24:00.770Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -461,7 +461,7 @@
       {
         "name": "Stranger Things",
         "url": "https://www.themoviedb.org/tv/66732",
-        "logo": "https://image.tmdb.org/t/p/w92/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/uKYUR8GPkKRCksczYDJb3pwZauo.jpg",
         "desc": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces,",
         "source": "tmdb",
         "type": "info",
@@ -1025,15 +1025,6 @@
         "category": "music"
       },
       {
-        "name": "The Tudors",
-        "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
-        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "To the One I Love",
         "url": "https://www.themoviedb.org/tv/65539",
         "logo": "https://image.tmdb.org/t/p/w92/76euqER5KNCnplkJkQyEzNT0l2J.jpg",
@@ -1043,10 +1034,10 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "The Tudors",
+        "url": "https://www.themoviedb.org/tv/2942",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1061,10 +1052,10 @@
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1092,6 +1083,15 @@
         "url": "https://www.themoviedb.org/tv/64612",
         "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
         "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2552,24 +2552,6 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "3000 Whys of Blue Cat",
-        "url": "https://www.themoviedb.org/tv/5811",
-        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
-        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2597,10 +2579,28 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "3000 Whys of Blue Cat",
+        "url": "https://www.themoviedb.org/tv/5811",
+        "logo": "https://image.tmdb.org/t/p/w92/vCRRb67Dv1G5sYGaIUnoVkTjNlw.jpg",
+        "desc": "3000 Whys of Blue Cat is the first large-scale Chinese animated series in mainland China with an emphasis on science. Th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
