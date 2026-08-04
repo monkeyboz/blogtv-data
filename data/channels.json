@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:30:31.466Z",
+  "updated": "2026-08-04T19:14:44.644Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,19 +313,19 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Entrée principale",
-        "url": "https://www.themoviedb.org/tv/85791",
-        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
+        "name": "Face The Nation",
+        "url": "https://www.themoviedb.org/tv/2667",
+        "logo": "https://image.tmdb.org/t/p/w92/q0RZ8mFg9MHBsMfqESTvhS5WkiT.jpg",
+        "desc": "Face The Nation with Margaret Brennan is an American Sunday morning political interview show, which premiered on the CBS",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Exclusiv - Das Star-Magazin",
-        "url": "https://www.themoviedb.org/tv/115472",
-        "logo": "https://image.tmdb.org/t/p/w92/A9MYh8E3YED3koL7mlRcRipRJWc.jpg",
-        "desc": "Exclusiv: das Starmagazin reports on the latest news and topics from the world of celebrities on a regular weekly basis.",
+        "name": "Last Week Tonight with John Oliver",
+        "url": "https://www.themoviedb.org/tv/60694",
+        "logo": "https://image.tmdb.org/t/p/w92/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+        "desc": "A half-hour satirical look at the week in news, politics and current events.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -506,28 +506,19 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +533,28 @@
         "category": "science"
       },
       {
-        "name": "Exclusiv - Das Star-Magazin",
-        "url": "https://www.themoviedb.org/tv/115472",
-        "logo": "https://image.tmdb.org/t/p/w92/A9MYh8E3YED3koL7mlRcRipRJWc.jpg",
-        "desc": "Exclusiv: das Starmagazin reports on the latest news and topics from the world of celebrities on a regular weekly basis.",
+        "name": "小灯塔系列",
+        "url": "https://www.themoviedb.org/tv/274451",
+        "logo": "https://image.tmdb.org/t/p/w92/v2ccCihbqhlYJETWVE4PJBE35x0.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Hier und heute",
-        "url": "https://www.themoviedb.org/tv/124982",
-        "logo": "",
-        "desc": "",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,6 +2579,15 @@
         "category": "kids"
       },
       {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/124920",
+        "logo": "https://image.tmdb.org/t/p/w92/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
+        "desc": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2592,15 +2601,6 @@
         "url": "https://www.themoviedb.org/tv/212989",
         "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
         "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/124920",
-        "logo": "https://image.tmdb.org/t/p/w92/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
-        "desc": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world a",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Sazanami Soushi ni Junketsu wo Sasagu",
         "url": "https://www.themoviedb.org/tv/220118",
         "logo": "https://image.tmdb.org/t/p/w92/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
@@ -2803,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Quiet Please!",
-        "url": "https://www.themoviedb.org/tv/299989",
-        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "name": "Caressing My Hibernating Bear",
+        "url": "https://www.themoviedb.org/tv/204269",
+        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
