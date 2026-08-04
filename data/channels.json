@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T01:14:35.917Z",
+  "updated": "2026-08-04T08:12:19.392Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,19 +441,19 @@
         "category": "technology"
       },
       {
-        "name": "Reacher",
-        "url": "https://www.themoviedb.org/tv/108978",
-        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
+        "name": "Renegade Immortal",
+        "url": "https://www.themoviedb.org/tv/223911",
+        "logo": "https://image.tmdb.org/t/p/w92/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
+        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
+        "name": "Reacher",
+        "url": "https://www.themoviedb.org/tv/108978",
+        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2579,19 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
