@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T19:13:19.481Z",
+  "updated": "2026-08-04T01:14:35.917Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -331,28 +331,28 @@
         "category": "news"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Newsnight",
-        "url": "https://www.themoviedb.org/tv/841",
-        "logo": "https://image.tmdb.org/t/p/w92/t5WG6kBLS58hQmmCBxCC7FxGHOI.jpg",
-        "desc": "A daily BBC Television current affairs programme which specialises in analysis and often robust cross-examination of sen",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Exclusiv - Das Star-Magazin",
-        "url": "https://www.themoviedb.org/tv/115472",
-        "logo": "https://image.tmdb.org/t/p/w92/A9MYh8E3YED3koL7mlRcRipRJWc.jpg",
-        "desc": "Exclusiv: das Starmagazin reports on the latest news and topics from the world of celebrities on a regular weekly basis.",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/paRFRd11WlFOxVbGnzjjCBym7FW.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "Exclusiv - Das Star-Magazin",
+        "url": "https://www.themoviedb.org/tv/115472",
+        "logo": "https://image.tmdb.org/t/p/w92/A9MYh8E3YED3koL7mlRcRipRJWc.jpg",
+        "desc": "Exclusiv: das Starmagazin reports on the latest news and topics from the world of celebrities on a regular weekly basis.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
