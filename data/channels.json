@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T08:12:19.392Z",
+  "updated": "2026-08-04T13:30:31.466Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1408,24 +1408,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Avatar: The Last Airbender",
-        "url": "https://www.themoviedb.org/tv/82452",
-        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1444,10 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Saber y Ganar",
-        "url": "https://www.themoviedb.org/tv/5455",
-        "logo": "https://image.tmdb.org/t/p/w92/32Xh0zXL8Z7TYuVNG2MOEHcqMlh.jpg",
-        "desc": "Saber y ganar, the cultural quiz show of \"La 2\" hosted by Jordi Hurtado, has celebrated sixteen years on the air, thus b",
+        "name": "Avatar: The Last Airbender",
+        "url": "https://www.themoviedb.org/tv/82452",
+        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Kyunki... Saas Bhi Kabhi Bahu Thi...",
-        "url": "https://www.themoviedb.org/tv/6060",
-        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Saber y Ganar",
+        "url": "https://www.themoviedb.org/tv/5455",
+        "logo": "https://image.tmdb.org/t/p/w92/32Xh0zXL8Z7TYuVNG2MOEHcqMlh.jpg",
+        "desc": "Saber y ganar, the cultural quiz show of \"La 2\" hosted by Jordi Hurtado, has celebrated sixteen years on the air, thus b",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
