@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:14:44.644Z",
+  "updated": "2026-08-05T01:16:59.007Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -125,7 +125,7 @@
       },
       {
         "name": "24KZ",
-        "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
         "id": "24KZ.kz@SD",
         "group": "News",
         "source": "iptv-org",
@@ -441,15 +441,6 @@
         "category": "technology"
       },
       {
-        "name": "Renegade Immortal",
-        "url": "https://www.themoviedb.org/tv/223911",
-        "logo": "https://image.tmdb.org/t/p/w92/mCt5qgkOYEvuHSiSwNByMv6LMoB.jpg",
-        "desc": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates again",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Reacher",
         "url": "https://www.themoviedb.org/tv/108978",
         "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Bleach",
+        "url": "https://www.themoviedb.org/tv/30984",
+        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -769,7 +769,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://206.212.244.63/2486/index.m3u8",
+        "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
         "category": "sports"
       },
       {
@@ -1061,6 +1061,15 @@
         "category": "music"
       },
       {
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "You are My Destiny",
         "url": "https://www.themoviedb.org/tv/39068",
         "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
@@ -1079,19 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Red Scarf",
+        "url": "https://www.themoviedb.org/tv/44671",
+        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
+        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1899,7 +1899,7 @@
       },
       {
         "name": "24KZ",
-        "logo": "https://24.kz/templates/khabar24/img/logo-new.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
         "id": "24KZ.kz@SD",
         "group": "News",
         "source": "iptv-org",
