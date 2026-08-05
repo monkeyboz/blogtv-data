@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T13:28:43.189Z",
+  "updated": "2026-08-05T19:08:06.445Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,19 +304,19 @@
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -331,19 +331,19 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,10 +358,10 @@
         "category": "news"
       },
       {
-        "name": "Face The Nation",
-        "url": "https://www.themoviedb.org/tv/2667",
-        "logo": "https://image.tmdb.org/t/p/w92/q0RZ8mFg9MHBsMfqESTvhS5WkiT.jpg",
-        "desc": "Face The Nation with Margaret Brennan is an American Sunday morning political interview show, which premiered on the CBS",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Bleach",
+        "url": "https://www.themoviedb.org/tv/30984",
+        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1025,19 +1025,19 @@
         "category": "music"
       },
       {
-        "name": "To the One I Love",
-        "url": "https://www.themoviedb.org/tv/65539",
-        "logo": "https://image.tmdb.org/t/p/w92/76euqER5KNCnplkJkQyEzNT0l2J.jpg",
-        "desc": "What if the one you love were destined to lose his eyesight in three months? What would you like him to see last? If you",
+        "name": "The Tudors",
+        "url": "https://www.themoviedb.org/tv/2942",
+        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
+        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "The Tudors",
-        "url": "https://www.themoviedb.org/tv/2942",
-        "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
-        "desc": "The Tudors is a history-based drama series following the young, vibrant King Henry VIII, a competitive and lustful monar",
+        "name": "To the One I Love",
+        "url": "https://www.themoviedb.org/tv/65539",
+        "logo": "https://image.tmdb.org/t/p/w92/76euqER5KNCnplkJkQyEzNT0l2J.jpg",
+        "desc": "What if the one you love were destined to lose his eyesight in three months? What would you like him to see last? If you",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1052,19 +1052,19 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Red Scarf",
-        "url": "https://www.themoviedb.org/tv/44671",
-        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
-        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,6 +1408,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1435,15 +1444,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Young Sheldon",
         "url": "https://www.themoviedb.org/tv/71728",
         "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Saber y Ganar",
-        "url": "https://www.themoviedb.org/tv/5455",
-        "logo": "https://image.tmdb.org/t/p/w92/32Xh0zXL8Z7TYuVNG2MOEHcqMlh.jpg",
-        "desc": "Saber y ganar, the cultural quiz show of \"La 2\" hosted by Jordi Hurtado, has celebrated sixteen years on the air, thus b",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,15 +2579,6 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/124920",
-        "logo": "https://image.tmdb.org/t/p/w92/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
-        "desc": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/124920",
+        "logo": "https://image.tmdb.org/t/p/w92/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
+        "desc": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Powerpuff Girls",
+        "url": "https://www.themoviedb.org/tv/607",
+        "logo": "https://image.tmdb.org/t/p/w92/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
+        "desc": "A series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Sazanami Soushi ni Junketsu wo Sasagu",
-        "url": "https://www.themoviedb.org/tv/220118",
-        "logo": "https://image.tmdb.org/t/p/w92/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
-        "desc": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2812,19 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "name": "Overflow",
+        "url": "https://www.themoviedb.org/tv/95897",
+        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Quiet Please!",
+        "url": "https://www.themoviedb.org/tv/299989",
+        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Sazanami Soushi ni Junketsu wo Sasagu",
+        "url": "https://www.themoviedb.org/tv/220118",
+        "logo": "https://image.tmdb.org/t/p/w92/6SHb6A2iAX05kNZug794VFEUt7J.jpg",
+        "desc": "\"If it's a request from my precious wife, then I will give you the moon and the stars.\" He flashes his gorgeous tattoos ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
