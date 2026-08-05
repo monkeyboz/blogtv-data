@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T01:16:59.007Z",
+  "updated": "2026-08-05T08:10:50.936Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -306,7 +306,7 @@
       {
         "name": "Jornal Nacional",
         "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
         "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "name": "Scoop",
+        "url": "https://www.themoviedb.org/tv/203599",
+        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
+        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Scoop",
-        "url": "https://www.themoviedb.org/tv/203599",
-        "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
-        "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/13805",
+        "logo": "https://image.tmdb.org/t/p/w92/9NSX2YrFGBIih0XqRedsSbDVx4U.jpg",
+        "desc": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and wa",
         "source": "tmdb",
         "type": "info",
         "category": "science"
