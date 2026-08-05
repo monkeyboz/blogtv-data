@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:10:50.936Z",
+  "updated": "2026-08-05T13:28:43.189Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Mayday",
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
@@ -524,18 +515,9 @@
         "category": "science"
       },
       {
-        "name": "极致瑜伽",
-        "url": "https://www.themoviedb.org/tv/115063",
-        "logo": "https://image.tmdb.org/t/p/w92/n8CZGBAzkhzjDBJPis0gpW6Avt4.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "小灯塔系列",
-        "url": "https://www.themoviedb.org/tv/274451",
-        "logo": "https://image.tmdb.org/t/p/w92/v2ccCihbqhlYJETWVE4PJBE35x0.jpg",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -546,6 +528,24 @@
         "url": "https://www.themoviedb.org/tv/203599",
         "logo": "https://image.tmdb.org/t/p/w92/qo6y0XvSBlKM3XCbYVdcR3a6qyQ.jpg",
         "desc": "Scoop is a comprehensive information programme of Television Broadcasts Limited.\n\nThe content of the program is mainly b",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "极致瑜伽",
+        "url": "https://www.themoviedb.org/tv/115063",
+        "logo": "https://image.tmdb.org/t/p/w92/n8CZGBAzkhzjDBJPis0gpW6Avt4.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
