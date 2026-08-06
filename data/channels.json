@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T01:14:29.356Z",
+  "updated": "2026-08-06T08:09:51.149Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -506,19 +506,19 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
