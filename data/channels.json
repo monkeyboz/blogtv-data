@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T08:09:51.149Z",
+  "updated": "2026-08-06T13:27:12.755Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1435,28 +1435,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Avatar: The Last Airbender",
-        "url": "https://www.themoviedb.org/tv/82452",
-        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Rugrats",
         "url": "https://www.themoviedb.org/tv/3022",
         "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
         "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Avatar: The Last Airbender",
+        "url": "https://www.themoviedb.org/tv/82452",
+        "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+        "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "The Powerpuff Girls",
-        "url": "https://www.themoviedb.org/tv/607",
-        "logo": "https://image.tmdb.org/t/p/w92/468mmhMd21pY4Yx0S0woqeEcxtL.jpg",
-        "desc": "A series about Blossom, Bubbles, and Buttercup, three kindergarten-aged girls with superpowers, as well as their \"father",
+        "name": "LEGO Ninjago: Dragons Rising",
+        "url": "https://www.themoviedb.org/tv/212989",
+        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
