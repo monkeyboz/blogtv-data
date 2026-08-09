@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T18:17:45.982Z",
+  "updated": "2026-08-09T00:41:56.523Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -763,16 +763,6 @@
         "category": "sports"
       },
       {
-        "name": "ACC Network (720p)",
-        "logo": "https://i.imgur.com/TpCkbkT.png",
-        "id": "ACCNetwork.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://gpuserver3.tier1streams.com/ACC_NETWORK/index.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "ACCDN (1080p)",
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "id": "ACCDigitalNetwork.us@SD",
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass SHOOF 2 (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+        "id": "AlkassSHOOF2.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
         "category": "sports"
       }
     ],
@@ -1339,16 +1339,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Lifestyle Philippines (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Philippines",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1399,12 +1389,13 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
-        "source": "tmdb",
-        "type": "info",
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1412,24 +1403,6 @@
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
         "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,10 +1417,28 @@
         "category": "entertainment"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "King of the Hill",
         "url": "https://www.themoviedb.org/tv/2122",
         "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
         "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1564,16 +1564,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Lifestyle Philippines (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Philippines",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
-        "category": "cooking"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2322,16 +2322,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Lifestyle Philippines (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Philippines",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://thinkkast.dpdns.org/thinkkast/bbc_lstylehd/versiglia/index.m3u8",
-        "category": "health"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CBC Sofra (576p)",
+        "logo": "https://i.imgur.com/YAdk2WR.png",
+        "id": "CBCSofra.eg@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
@@ -2638,6 +2638,16 @@
         "category": "animation"
       },
       {
+        "name": "Animax (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/960px-Animax_logo.svg.png",
+        "id": "Animax.jp@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls",
+        "category": "animation"
+      },
+      {
         "name": "Animax Asia India (1080p) [Geo-blocked]",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png",
         "id": "AnimaxAsia.sg@India",
@@ -2645,16 +2655,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Animax Asia Philippines (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
-        "id": "AnimaxAsia.sg@Philippines",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8",
         "category": "animation"
       },
       {
