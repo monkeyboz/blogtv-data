@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T12:34:34.728Z",
+  "updated": "2026-08-11T18:41:29.485Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -54,16 +54,6 @@
         "category": "news"
       },
       {
-        "name": "6 TV Telugu (576p)",
-        "logo": "https://i.imgur.com/l3EcRnZ.png",
-        "id": "6TVTelugu.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
-        "category": "news"
-      },
-      {
         "name": "7 Info",
         "logo": "https://i.imgur.com/jcl1nNR.png",
         "id": "7Info.ci@SD",
@@ -104,16 +94,6 @@
         "category": "news"
       },
       {
-        "name": "24/7 Canal de Noticias",
-        "logo": "https://i.imgur.com/4hDCB1M.png",
-        "id": "247CanaldeNoticias.ar@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
-        "category": "news"
-      },
-      {
         "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
@@ -121,16 +101,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "24KZ",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
-        "id": "24KZ.kz@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
         "category": "news"
       },
       {
@@ -151,6 +121,36 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "30A Lionel Nation TV",
+        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+        "id": "30ALionelNation.us@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/ln.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "92 News HD (720p)",
+        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+        "id": "92NewsHD.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "99TV (720p)",
+        "logo": "https://i.imgur.com/dZA4gel.png",
+        "id": "99TV.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
         "category": "news"
       },
       {
@@ -322,6 +322,15 @@
         "category": "news"
       },
       {
+        "name": "Entrée principale",
+        "url": "https://www.themoviedb.org/tv/85791",
+        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
+        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Saturday Night Live",
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
@@ -331,28 +340,10 @@
         "category": "news"
       },
       {
-        "name": "Hallo Hessen",
-        "url": "https://www.themoviedb.org/tv/113779",
-        "logo": "https://image.tmdb.org/t/p/w92/zRGme9GL0H5RmwzxKYzoXafcRDp.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
         "desc": "A late night television talk show hosted by  Conan O'Brien.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Entrée principale",
-        "url": "https://www.themoviedb.org/tv/85791",
-        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -371,6 +362,15 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Hallo Hessen",
+        "url": "https://www.themoviedb.org/tv/113779",
+        "logo": "https://image.tmdb.org/t/p/w92/zRGme9GL0H5RmwzxKYzoXafcRDp.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "The Walking Dead",
-        "url": "https://www.themoviedb.org/tv/1402",
-        "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
-        "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
+        "name": "The Boys",
+        "url": "https://www.themoviedb.org/tv/76479",
+        "logo": "https://image.tmdb.org/t/p/w92/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+        "desc": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-col",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,19 +488,19 @@
     ],
     "science": [
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "The World of Hammer",
-        "url": "https://www.themoviedb.org/tv/134764",
-        "logo": "https://image.tmdb.org/t/p/w92/hXuCwrKNsOfPzrDoSl8dj3eYw5i.jpg",
-        "desc": "The World of Hammer is a thirteen-part British documentary series created and written by Robert and Ashley Sidaway for C",
+        "name": "Na cestě",
+        "url": "https://www.themoviedb.org/tv/37496",
+        "logo": "https://image.tmdb.org/t/p/w92/wbeNrr7H7BNZsGSwwWoh6Rfgym1.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Baseball",
-        "url": "https://www.themoviedb.org/tv/19215",
-        "logo": "https://image.tmdb.org/t/p/w92/qneEtyv9BKgfb7sVmtnvDqTmV4b.jpg",
-        "desc": "The history of the sport of baseball in America, told through archival photos, film footage, and the words of those who ",
+        "name": "The World of Hammer",
+        "url": "https://www.themoviedb.org/tv/134764",
+        "logo": "https://image.tmdb.org/t/p/w92/hXuCwrKNsOfPzrDoSl8dj3eYw5i.jpg",
+        "desc": "The World of Hammer is a thirteen-part British documentary series created and written by Robert and Ashley Sidaway for C",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -823,16 +823,6 @@
         "category": "sports"
       },
       {
-        "name": "Alkass Five (1080p)",
-        "logo": "https://i.imgur.com/6RGNGsM.png",
-        "id": "AlkassFive.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "Alkass Four (1080p)",
         "logo": "https://i.imgur.com/iDL65Wu.png",
         "id": "AlkassFour.qa@SD",
@@ -853,16 +843,6 @@
         "category": "sports"
       },
       {
-        "name": "Alkass Seven (1080p)",
-        "logo": "https://i.imgur.com/3eyHP3S.png",
-        "id": "AlkassSeven.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass7-p/main.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "Alkass SHOOF (1080p)",
         "logo": "https://shoof.alkass.net/assets/images/shoof.png",
         "id": "AlkassSHOOF.qa@SD",
@@ -870,6 +850,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass SHOOF 2 (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
+        "id": "AlkassSHOOF2.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Six (1080p)",
+        "logo": "https://i.imgur.com/CrPSPSC.png",
+        "id": "AlkassSix.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -905,23 +905,13 @@
         "category": "music"
       },
       {
-        "name": "7S Music (576p)",
+        "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",7S Music (576p)",
         "logo": "https://i.imgur.com/zDiIhdN.png",
         "id": "7SMusic.in@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "7 YOU & ME (720p)",
-        "logo": "https://i.imgur.com/Rte2K3x.png",
-        "id": "7YOUME.it@HD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8",
+        "url": "http://103.175.73.12:8080/live/771/master.m3u8",
         "category": "music"
       },
       {
@@ -1025,6 +1015,16 @@
         "category": "music"
       },
       {
+        "name": "88 Stereo (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/i3YwORV.png",
+        "id": "88Stereo.cr@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
+        "category": "music"
+      },
+      {
         "name": "The Tudors",
         "url": "https://www.themoviedb.org/tv/2942",
         "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
@@ -1061,10 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "My Dear Cat",
-        "url": "https://www.themoviedb.org/tv/63573",
-        "logo": "https://image.tmdb.org/t/p/w92/a8wHHvIVFyK55M2O3O67vC82g3u.jpg",
-        "desc": "While looking for her lost cat, magazine journalist Go Yang-soon meets law school student and part-time photographer Yeo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1199,16 +1199,6 @@
         "category": "entertainment"
       },
       {
-        "name": "13 Ulica (1080p)",
-        "logo": "https://i.imgur.com/0gCNnLq.png",
-        "id": "13Ulica.pl@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://91.146.94.234:10001/play/a088",
-        "category": "entertainment"
-      },
-      {
         "name": "16 Anni e Incinta",
         "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
         "id": "16AnnieIncinta.de@IT",
@@ -1219,13 +1209,13 @@
         "category": "entertainment"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Entertainment\",20",
+        "name": "20 Mediaset [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "id": "20.it@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://91.146.94.234:10001/play/a08s",
+        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1246,6 +1236,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "247 Box TV",
+        "logo": "https://i.imgur.com/t5AUthL.png",
+        "id": "247BoxTV.ir@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://hls.247box.live/hls/stream.m3u8",
         "category": "entertainment"
       },
       {
@@ -1379,7 +1379,7 @@
         "category": "entertainment"
       },
       {
-        "name": "Bizz TV",
+        "name": "Bizz TV (1080p)",
         "logo": "https://i.imgur.com/UxHaJNR.png",
         "id": "BizzTV.tt@SD",
         "group": "Lifestyle",
@@ -1399,10 +1399,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "DC Super Hero Girls",
+        "url": "https://www.themoviedb.org/tv/64365",
+        "logo": "https://image.tmdb.org/t/p/w92/6BIHNmQHktFWkprlKPv7Q5h7Nb7.jpg",
+        "desc": "At Super Hero High, iconic Super Heroes like Wonder Woman, Supergirl, Batgirl, Harley Quinn, Bumblebee, Poison Ivy, and ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1417,10 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1430,6 +1430,24 @@
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
         "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Wheel of Fortune",
+        "url": "https://www.themoviedb.org/tv/2778",
+        "logo": "https://image.tmdb.org/t/p/w92/4S36URhKU4sBL1gC2B5UxmTlZMl.jpg",
+        "desc": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1448,24 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/82452",
         "logo": "https://image.tmdb.org/t/p/w92/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
         "desc": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enem",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1604,7 +1604,7 @@
         "category": "cooking"
       },
       {
-        "name": "Bizz TV",
+        "name": "Bizz TV (1080p)",
         "logo": "https://i.imgur.com/UxHaJNR.png",
         "id": "BizzTV.tt@SD",
         "group": "Lifestyle",
@@ -1716,16 +1716,6 @@
         "category": "travel"
       },
       {
-        "name": "Go2Travel (1080p)",
-        "logo": "https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png",
-        "id": "Go2Travel.us@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://go2thls.wns.live/hls/stream.m3u8",
-        "category": "travel"
-      },
-      {
         "name": "Go USA TV (720p)",
         "logo": "https://i.imgur.com/x90ALip.png",
         "id": "GoUSATV.us@SD",
@@ -1773,6 +1763,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Living Asia Channel (1080p)",
+        "logo": "https://i.imgur.com/q3UToRM.png",
+        "id": "LivingAsiaChannel.ph@HD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
@@ -1828,16 +1828,6 @@
         "category": "politics"
       },
       {
-        "name": "6 TV Telugu (576p)",
-        "logo": "https://i.imgur.com/l3EcRnZ.png",
-        "id": "6TVTelugu.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/232/master.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "7 Info",
         "logo": "https://i.imgur.com/jcl1nNR.png",
         "id": "7Info.ci@SD",
@@ -1878,16 +1868,6 @@
         "category": "politics"
       },
       {
-        "name": "24/7 Canal de Noticias",
-        "logo": "https://i.imgur.com/4hDCB1M.png",
-        "id": "247CanaldeNoticias.ar@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
@@ -1895,16 +1875,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "24KZ",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/24KZ_logo.svg/1280px-24KZ_logo.svg.png",
-        "id": "24KZ.kz@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://tvcdn01.oktv.kz/tv/24kz/index.m3u8",
         "category": "politics"
       },
       {
@@ -1925,6 +1895,36 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "30A Lionel Nation TV",
+        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
+        "id": "30ALionelNation.us@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/ln.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "92 News HD (720p)",
+        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
+        "id": "92NewsHD.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "99TV (720p)",
+        "logo": "https://i.imgur.com/dZA4gel.png",
+        "id": "99TV.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
         "category": "politics"
       },
       {
@@ -2362,7 +2362,7 @@
         "category": "health"
       },
       {
-        "name": "Bizz TV",
+        "name": "Bizz TV (1080p)",
         "logo": "https://i.imgur.com/UxHaJNR.png",
         "id": "BizzTV.tt@SD",
         "group": "Lifestyle",
@@ -2391,16 +2391,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "4Kids TV (576p)",
-        "logo": "https://i.imgur.com/507piHp.png",
-        "id": "4KidsTV.dz@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://tvsen5.aynascope.net/4KidsTV/index.m3u8",
         "category": "kids"
       },
       {
@@ -2464,16 +2454,6 @@
         "category": "kids"
       },
       {
-        "name": "Aghapy Kids (1080p)",
-        "logo": "https://i.imgur.com/8ariztD.png",
-        "id": "AghapyKids.us@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
-        "category": "kids"
-      },
-      {
         "name": "Akili Kids!",
         "logo": "https://i.imgur.com/xFm2co6.png",
         "id": "AkiliKids.ke@SD",
@@ -2514,16 +2494,6 @@
         "category": "kids"
       },
       {
-        "name": "ARB Gunes",
-        "logo": "https://i.imgur.com/dSg7KUK.png",
-        "id": "ARBGunes.az@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8",
-        "category": "kids"
-      },
-      {
         "name": "Atfal & Mawaheb TV (1080p)",
         "logo": "https://i.imgur.com/Y2BqP9m.png",
         "id": "AtfalMawahebTV.sa@SD",
@@ -2534,10 +2504,49 @@
         "category": "kids"
       },
       {
+        "name": "Avatar: A lenda de Aang",
+        "logo": "https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png",
+        "id": "AvatarAlendadeAang.us@BR",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Avatar: La Leyenda de Aang",
+        "logo": "https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png",
+        "id": "AvatarLaLeyendadeAang.us@LatAm",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
+        "category": "kids"
+      },
+      {
+        "name": "Baby Shark TV",
+        "logo": "https://i.imgur.com/SbBKr8L.png",
+        "id": "BabySharkTV.us@Poland",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,15 +2588,6 @@
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Peppa Pig",
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "LEGO Ninjago: Dragons Rising",
-        "url": "https://www.themoviedb.org/tv/212989",
-        "logo": "https://image.tmdb.org/t/p/w92/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-        "desc": "A phenomenon known as the Merge has caused many legendary realms to suddenly combine into one, but their union is unstab",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2615,16 +2615,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Ani-Blast (720p)",
-        "logo": "https://www.medialink.com.hk/img/anione/AOYC1.png",
-        "id": "AniOne.hk@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8",
         "category": "animation"
       },
       {
@@ -2758,6 +2748,16 @@
         "category": "animation"
       },
       {
+        "name": "EnerGeek (720p) [Not 24/7]",
+        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
+        "id": "EnerGeek.cl@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
         "name": "Secret Mission - Undercover Agents Never Back Down!",
         "url": "https://www.themoviedb.org/tv/233643",
         "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Quiet Please!",
-        "url": "https://www.themoviedb.org/tv/299989",
-        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "name": "Overflow",
+        "url": "https://www.themoviedb.org/tv/95897",
+        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
+        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Overflow",
-        "url": "https://www.themoviedb.org/tv/95897",
-        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
+        "name": "Quiet Please!",
+        "url": "https://www.themoviedb.org/tv/299989",
+        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
