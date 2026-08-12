@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:02:24.078Z",
+  "updated": "2026-08-12T12:37:25.472Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,19 +488,19 @@
     ],
     "science": [
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,15 +2543,6 @@
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2565,6 +2556,15 @@
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
         "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "name": "Baalveer",
+        "url": "https://www.themoviedb.org/tv/60334",
+        "logo": "https://image.tmdb.org/t/p/w92/vL6GVWgG5VGc3xfW4l4eFLLbuA8.jpg",
+        "desc": "Darkness is on the horizon as Baalveer faces his toughest enemies yet - one who has ended Baalveers across all the unive",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
