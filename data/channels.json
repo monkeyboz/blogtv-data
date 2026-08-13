@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T07:05:57.894Z",
+  "updated": "2026-08-13T12:38:17.318Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,6 +405,15 @@
         "category": "technology"
       },
       {
+        "name": "Reacher",
+        "url": "https://www.themoviedb.org/tv/108978",
+        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
+        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -427,15 +436,6 @@
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Reacher",
-        "url": "https://www.themoviedb.org/tv/108978",
-        "logo": "https://image.tmdb.org/t/p/w92/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg",
-        "desc": "Jack Reacher, a veteran military police investigator, has just recently entered civilian life. Reacher is a drifter, car",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "RE: European Stories",
-        "url": "https://www.themoviedb.org/tv/98271",
-        "logo": "https://image.tmdb.org/t/p/w92/19ChTJxvw9jZpMnWKsuXc83eI5C.jpg",
-        "desc": "Discover Europe in all its diversity of viewpoints",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
