@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:42:58.700Z",
+  "updated": "2026-08-14T00:51:40.370Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2552,37 +2552,10 @@
         "category": "kids"
       },
       {
-        "name": "哆啦A梦TV版",
-        "url": "https://www.themoviedb.org/tv/310751",
-        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "CITV Breakfast",
-        "url": "https://www.themoviedb.org/tv/37057",
-        "logo": "",
-        "desc": "CITV Breakfast is a British digital television station owned by ITV Breakfast Limited, part of ITV plc. It broadcasts ev",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2601,6 +2574,33 @@
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
         "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "De Fabeltjeskrant",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Happy Toon",
+        "url": "https://www.themoviedb.org/tv/155256",
+        "logo": "https://image.tmdb.org/t/p/w92/9Il7a5oQSpo12wGCkBwkB5S1H3O.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "Secret Mission - Undercover Agents Never Back Down!",
-        "url": "https://www.themoviedb.org/tv/233643",
-        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Secret Mission - Undercover Agents Never Back Down!",
+        "url": "https://www.themoviedb.org/tv/233643",
+        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,19 +2785,19 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Quiet Please!",
-        "url": "https://www.themoviedb.org/tv/299989",
-        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Quiet Please!",
+        "url": "https://www.themoviedb.org/tv/299989",
+        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
