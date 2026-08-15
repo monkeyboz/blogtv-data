@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:11:57.653Z",
+  "updated": "2026-08-15T18:09:36.468Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,15 +414,6 @@
         "category": "technology"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
@@ -432,10 +423,10 @@
         "category": "technology"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -445,6 +436,15 @@
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
         "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -515,10 +524,19 @@
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "name": "Cosmic Disclosure",
+        "url": "https://www.themoviedb.org/tv/69536",
+        "logo": "https://image.tmdb.org/t/p/w92/99V7vkV0E3SFRxlAb45iNePLePz.jpg",
+        "desc": "For the first time ever, a 30-year insider has come forward to reveal over 70 years of humanity's hidden history in spac",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/318058",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -537,24 +555,6 @@
         "url": "https://www.themoviedb.org/tv/5859",
         "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
         "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,6 +1052,15 @@
         "category": "music"
       },
       {
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1070,10 +1079,10 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "name": "Lovebird",
+        "url": "https://www.themoviedb.org/tv/65556",
+        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
+        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
         "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Lovebird",
-        "url": "https://www.themoviedb.org/tv/65556",
-        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
-        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2534,19 +2534,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "De Fabeltjeskrant",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "哆啦A梦TV版",
+        "url": "https://www.themoviedb.org/tv/310751",
+        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Quiet Please!",
-        "url": "https://www.themoviedb.org/tv/299989",
-        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "name": "Caressing My Hibernating Bear",
+        "url": "https://www.themoviedb.org/tv/204269",
+        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "name": "Quiet Please!",
+        "url": "https://www.themoviedb.org/tv/299989",
+        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
+        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
