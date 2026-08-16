@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:12:38.989Z",
+  "updated": "2026-08-16T18:09:53.873Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,19 +322,19 @@
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "name": "Entrée principale",
+        "url": "https://www.themoviedb.org/tv/85791",
+        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
+        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Entrée principale",
-        "url": "https://www.themoviedb.org/tv/85791",
-        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -358,10 +358,10 @@
         "category": "news"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "Diva Depressão",
+        "url": "https://www.themoviedb.org/tv/327183",
+        "logo": "https://image.tmdb.org/t/p/w92/r7dnfDqeBTEP2AqVGCmmazMkO1t.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "The Walking Dead",
+        "url": "https://www.themoviedb.org/tv/1402",
+        "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
+        "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Rick and Morty",
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/19530",
         "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
         "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Walking Dead",
-        "url": "https://www.themoviedb.org/tv/1402",
-        "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
-        "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,24 +488,6 @@
     ],
     "science": [
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "37 Grad",
-        "url": "https://www.themoviedb.org/tv/86086",
-        "logo": "https://image.tmdb.org/t/p/w92/2P0rDTpgHthvowPOq2ZJ1PLzaGD.jpg",
-        "desc": "37° reports on typical life situations in our society from an unusual perspective: the camera accompanies a group or ind",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "BBC Proms",
         "url": "https://www.themoviedb.org/tv/23393",
         "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
@@ -515,10 +497,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "37 Grad",
+        "url": "https://www.themoviedb.org/tv/86086",
+        "logo": "https://image.tmdb.org/t/p/w92/2P0rDTpgHthvowPOq2ZJ1PLzaGD.jpg",
+        "desc": "37° reports on typical life situations in our society from an unusual perspective: the camera accompanies a group or ind",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,9 +524,18 @@
         "category": "science"
       },
       {
-        "name": "Ciné regards",
-        "url": "https://www.themoviedb.org/tv/328178",
-        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/5859",
         "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
         "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ciné regards",
+        "url": "https://www.themoviedb.org/tv/328178",
+        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1043,10 +1043,10 @@
         "category": "music"
       },
       {
-        "name": "To the One I Love",
-        "url": "https://www.themoviedb.org/tv/65539",
-        "logo": "https://image.tmdb.org/t/p/w92/76euqER5KNCnplkJkQyEzNT0l2J.jpg",
-        "desc": "What if the one you love were destined to lose his eyesight in three months? What would you like him to see last? If you",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1061,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "To the One I Love",
+        "url": "https://www.themoviedb.org/tv/65539",
+        "logo": "https://image.tmdb.org/t/p/w92/76euqER5KNCnplkJkQyEzNT0l2J.jpg",
+        "desc": "What if the one you love were destined to lose his eyesight in three months? What would you like him to see last? If you",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2561,15 +2561,6 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2579,10 +2570,10 @@
         "category": "kids"
       },
       {
-        "name": "哆啦A梦TV版",
-        "url": "https://www.themoviedb.org/tv/310751",
-        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
-        "desc": "",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/12225",
         "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
         "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "哆啦A梦TV版",
+        "url": "https://www.themoviedb.org/tv/310751",
+        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
