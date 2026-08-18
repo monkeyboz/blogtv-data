@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T12:18:22.060Z",
+  "updated": "2026-08-18T18:17:32.193Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,10 +322,10 @@
         "category": "news"
       },
       {
-        "name": "Entrée principale",
-        "url": "https://www.themoviedb.org/tv/85791",
-        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,19 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Diva Depressão",
-        "url": "https://www.themoviedb.org/tv/327183",
-        "logo": "https://image.tmdb.org/t/p/w92/r7dnfDqeBTEP2AqVGCmmazMkO1t.jpg",
-        "desc": "",
+        "name": "Entrée principale",
+        "url": "https://www.themoviedb.org/tv/85791",
+        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
+        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "name": "Diva Depressão",
+        "url": "https://www.themoviedb.org/tv/327183",
+        "logo": "https://image.tmdb.org/t/p/w92/r7dnfDqeBTEP2AqVGCmmazMkO1t.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -497,6 +497,15 @@
         "category": "science"
       },
       {
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "37 Grad",
         "url": "https://www.themoviedb.org/tv/86086",
         "logo": "https://image.tmdb.org/t/p/w92/2P0rDTpgHthvowPOq2ZJ1PLzaGD.jpg",
@@ -506,19 +515,10 @@
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
+        "name": "ANIME MANGA EXPLOSION",
+        "url": "https://www.themoviedb.org/tv/226741",
+        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
+        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,10 +533,19 @@
         "category": "science"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/318058",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ciné regards",
-        "url": "https://www.themoviedb.org/tv/328178",
-        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,19 +1052,19 @@
         "category": "music"
       },
       {
-        "name": "Lovebird",
-        "url": "https://www.themoviedb.org/tv/65556",
-        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
-        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Lovebird",
+        "url": "https://www.themoviedb.org/tv/65556",
+        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
+        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "name": "L'amour est dans le pré",
+        "url": "https://www.themoviedb.org/tv/64612",
+        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
+        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,6 +1426,33 @@
         "category": "entertainment"
       },
       {
+        "name": "Sister-in-Law Is at Home!",
+        "url": "https://www.themoviedb.org/tv/65682",
+        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
+        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Ulice",
+        "url": "https://www.themoviedb.org/tv/36361",
+        "logo": "https://image.tmdb.org/t/p/w92/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
+        "desc": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "King of the Hill",
         "url": "https://www.themoviedb.org/tv/2122",
         "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
@@ -1435,37 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Come Home Love: Lo and Behold",
         "url": "https://www.themoviedb.org/tv/91759",
         "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
         "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2776,10 +2776,10 @@
         "category": "animation"
       },
       {
-        "name": "Secret Mission - Undercover Agents Never Back Down!",
-        "url": "https://www.themoviedb.org/tv/233643",
-        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
-        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
+        "name": "Caressing My Hibernating Bear",
+        "url": "https://www.themoviedb.org/tv/204269",
+        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2794,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "name": "Secret Mission - Undercover Agents Never Back Down!",
+        "url": "https://www.themoviedb.org/tv/233643",
+        "logo": "https://image.tmdb.org/t/p/w92/xZV8e1iKi85PFZlbQBdznvtpAVJ.jpg",
+        "desc": "Narcotics Enforcement Agent Riko Ikazuchi is undercover with her junior colleague Noma in an apartment that serves as th",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Overflow",
-        "url": "https://www.themoviedb.org/tv/95897",
-        "logo": "https://image.tmdb.org/t/p/w92/8RtwL5gxUvh9YViqjhNlVRvJpum.jpg",
-        "desc": "Kazushi Sudou is a university student who is visited by his two childhood friends, the sisters Ayane and Kotone Shirakaw",
+        "name": "March Comes In Like a Lion",
+        "url": "https://www.themoviedb.org/tv/65336",
+        "logo": "https://image.tmdb.org/t/p/w92/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
+        "desc": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Quiet Please!",
-        "url": "https://www.themoviedb.org/tv/299989",
-        "logo": "https://image.tmdb.org/t/p/w92/hF9WdEMmEndkkBpOGSzez6Adjdw.jpg",
-        "desc": "One month into living on his own, Yi-hyuk was hoping for an exciting, dramatic start to his independent life—but not thi",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
