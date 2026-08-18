@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T00:27:57.860Z",
+  "updated": "2026-08-18T06:20:07.170Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -763,6 +763,16 @@
         "category": "sports"
       },
       {
+        "name": "ACC Network (720p)",
+        "logo": "https://i.imgur.com/TpCkbkT.png",
+        "id": "ACCNetwork.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "ACCDN (1080p)",
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "id": "ACCDigitalNetwork.us@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Alkass Three (1080p)",
-        "logo": "https://i.imgur.com/d57BdFh.png",
-        "id": "AlkassThree.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -2668,16 +2668,6 @@
         "category": "animation"
       },
       {
-        "name": "Anime Zone TV (480p)",
-        "logo": "https://i.imgur.com/AHaXlCh.png",
-        "id": "AnimeZoneTV.do@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://animezonetv.net/hls/stream.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "Aniplus Asia (720p)",
         "logo": "https://i.imgur.com/Im3MePy.png",
         "id": "AniplusAsia.sg@SD",
@@ -2755,6 +2745,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
+        "name": "EnerGeek Fan (1080p)",
+        "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
+        "id": "EnerGeekFAN.cl@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
         "category": "animation"
       },
       {
