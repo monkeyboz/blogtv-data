@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:18:03.155Z",
+  "updated": "2026-08-19T18:14:20.559Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,10 +322,10 @@
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "name": "Entrée principale",
+        "url": "https://www.themoviedb.org/tv/85791",
+        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
+        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,24 +340,6 @@
         "category": "news"
       },
       {
-        "name": "Entrée principale",
-        "url": "https://www.themoviedb.org/tv/85791",
-        "logo": "https://image.tmdb.org/t/p/w92/9nUl4I9tcElZc9qmPcUv5X93AEm.jpg",
-        "desc": "In this off-the-wall lifestyle magazine, host André Robitaille and his band of contributors report on the latest and gre",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Diva Depressão",
-        "url": "https://www.themoviedb.org/tv/327183",
-        "logo": "https://image.tmdb.org/t/p/w92/r7dnfDqeBTEP2AqVGCmmazMkO1t.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Conan",
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
@@ -367,10 +349,28 @@
         "category": "news"
       },
       {
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Saturday Night Live",
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
         "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -441,6 +441,15 @@
         "category": "technology"
       },
       {
+        "name": "The Walking Dead",
+        "url": "https://www.themoviedb.org/tv/1402",
+        "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
+        "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -450,19 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Pili",
-        "url": "https://www.themoviedb.org/tv/19530",
-        "logo": "https://image.tmdb.org/t/p/w92/sBVfyRYPmKSARRTodsTbwHqgcRA.jpg",
-        "desc": "Pili is a puppet show from Taiwan. It is made by Pili International Multimedia. The TV series started in 1985, and it st",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "All Elite Wrestling: Dynamite",
+        "url": "https://www.themoviedb.org/tv/91555",
+        "logo": "https://image.tmdb.org/t/p/w92/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
+        "desc": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,10 +497,10 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,28 +515,10 @@
         "category": "science"
       },
       {
-        "name": "ANIME MANGA EXPLOSION",
-        "url": "https://www.themoviedb.org/tv/226741",
-        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
-        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
         "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +537,24 @@
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ciné regards",
+        "url": "https://www.themoviedb.org/tv/328178",
+        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1399,10 +1399,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Come Home Love: Lo and Behold",
+        "url": "https://www.themoviedb.org/tv/91759",
+        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1417,6 +1417,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1426,28 +1435,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Ulice",
-        "url": "https://www.themoviedb.org/tv/36361",
-        "logo": "https://image.tmdb.org/t/p/w92/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
-        "desc": "Ulice is a Czech soap opera produced and broadcast by Nova. In the Czech language Ulice means street.\n\nThe show describe",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
+        "name": "Foster's Home for Imaginary Friends",
+        "url": "https://www.themoviedb.org/tv/1720",
+        "logo": "https://image.tmdb.org/t/p/w92/kj6oGL4qqFDY8PGmTloqGQ2TblS.jpg",
+        "desc": "What happens when a child outgrows his trusty Imaginary Friend, the pal that stuck with him through all of the highs and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,6 +2561,15 @@
         "category": "kids"
       },
       {
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2579,28 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "哆啦A梦TV版",
-        "url": "https://www.themoviedb.org/tv/310751",
-        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
-        "desc": "",
+        "name": "Foster's Home for Imaginary Friends",
+        "url": "https://www.themoviedb.org/tv/1720",
+        "logo": "https://image.tmdb.org/t/p/w92/kj6oGL4qqFDY8PGmTloqGQ2TblS.jpg",
+        "desc": "What happens when a child outgrows his trusty Imaginary Friend, the pal that stuck with him through all of the highs and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "De Fabeltjeskrant",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Caressing My Hibernating Bear",
+        "url": "https://www.themoviedb.org/tv/204269",
+        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
+        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,10 +2812,10 @@
         "category": "animation"
       },
       {
-        "name": "March Comes In Like a Lion",
-        "url": "https://www.themoviedb.org/tv/65336",
-        "logo": "https://image.tmdb.org/t/p/w92/sokReNdjEwG2TkdUzJcVnD6sChT.jpg",
-        "desc": "This is a gentle tale about people trying to regain something. And it is a tale of battle. Rei Kiriyama had lost his fam",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
