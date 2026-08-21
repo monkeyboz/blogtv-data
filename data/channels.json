@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T00:31:20.655Z",
+  "updated": "2026-08-21T06:21:59.110Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -441,15 +441,6 @@
         "category": "technology"
       },
       {
-        "name": "All Elite Wrestling: Dynamite",
-        "url": "https://www.themoviedb.org/tv/91555",
-        "logo": "https://image.tmdb.org/t/p/w92/gPNWVCp0zrHRmwfovUpUQO44sts.jpg",
-        "desc": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "The Walking Dead",
         "url": "https://www.themoviedb.org/tv/1402",
         "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
