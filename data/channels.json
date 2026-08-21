@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:18:41.409Z",
+  "updated": "2026-08-21T00:31:20.655Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1034,6 +1034,15 @@
         "category": "music"
       },
       {
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Maison Ikkoku",
         "url": "https://www.themoviedb.org/tv/43018",
         "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
@@ -1070,15 +1079,6 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Cross Game",
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "MM!",
-        "url": "https://www.themoviedb.org/tv/38084",
-        "logo": "https://image.tmdb.org/t/p/w92/5xsIJYkzrMahFHrwtpp7Gr8jDoQ.jpg",
-        "desc": "There are twisted tales and twisted tales, but few are as twisted as poor Sado's, who's just realized that he actually l",
+        "name": "Danni Lowinski",
+        "url": "https://www.themoviedb.org/tv/49931",
+        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
+        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
         "source": "tmdb",
         "type": "info",
         "category": "music"
