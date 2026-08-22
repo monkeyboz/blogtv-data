@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:17:47.180Z",
+  "updated": "2026-08-22T00:28:07.776Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -54,6 +54,16 @@
         "category": "news"
       },
       {
+        "name": "6 TV Telugu (576p)",
+        "logo": "https://i.imgur.com/l3EcRnZ.png",
+        "id": "6TVTelugu.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "category": "news"
+      },
+      {
         "name": "7 Info",
         "logo": "https://i.imgur.com/jcl1nNR.png",
         "id": "7Info.ci@SD",
@@ -94,6 +104,16 @@
         "category": "news"
       },
       {
+        "name": "24 Horas (1080p)",
+        "logo": "https://i.imgur.com/CEE9zPe.png",
+        "id": "24Horas.cl@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "category": "news"
+      },
+      {
         "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
@@ -131,26 +151,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/ln.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "92 News HD (720p)",
-        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
-        "id": "92NewsHD.pk@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "99TV (720p)",
-        "logo": "https://i.imgur.com/dZA4gel.png",
-        "id": "99TV.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
         "category": "news"
       },
       {
@@ -631,6 +631,16 @@
         "category": "history"
       },
       {
+        "name": "BATV Educational Channel",
+        "logo": "https://i.imgur.com/eDoJqtg.png",
+        "id": "BATVEducationalChannel.us@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+        "category": "history"
+      },
+      {
         "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
         "logo": "https://i.imgur.com/tUgEAUJ.png",
         "id": "CVCEducation.us@SD",
@@ -708,16 +718,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://hls.savoir.media/live/stream.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "Canal Universidad",
-        "logo": "https://i.imgur.com/trmPKYw.png",
-        "id": "CanalUniversidad.ar@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
         "category": "history"
       }
     ],
@@ -1319,13 +1319,13 @@
         "category": "entertainment"
       },
       {
-        "name": "Ayush TV (360p) [Not 24/7]",
+        "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "url": "http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1544,13 +1544,13 @@
         "category": "cooking"
       },
       {
-        "name": "Ayush TV (360p) [Not 24/7]",
+        "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "url": "http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8",
         "category": "cooking"
       },
       {
@@ -1828,6 +1828,16 @@
         "category": "politics"
       },
       {
+        "name": "6 TV Telugu (576p)",
+        "logo": "https://i.imgur.com/l3EcRnZ.png",
+        "id": "6TVTelugu.in@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "category": "politics"
+      },
+      {
         "name": "7 Info",
         "logo": "https://i.imgur.com/jcl1nNR.png",
         "id": "7Info.ci@SD",
@@ -1868,6 +1878,16 @@
         "category": "politics"
       },
       {
+        "name": "24 Horas (1080p)",
+        "logo": "https://i.imgur.com/CEE9zPe.png",
+        "id": "24Horas.cl@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "24 Kanal (720p)",
         "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
         "id": "24Kanal.ua@SD",
@@ -1905,26 +1925,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/ln.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "92 News HD (720p)",
-        "logo": "https://i.imgur.com/gp1Ao4s.jpeg",
-        "id": "92NewsHD.pk@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "99TV (720p)",
-        "logo": "https://i.imgur.com/dZA4gel.png",
-        "id": "99TV.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
         "category": "politics"
       },
       {
@@ -2302,13 +2302,13 @@
         "category": "health"
       },
       {
-        "name": "Ayush TV (360p) [Not 24/7]",
+        "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
+        "url": "http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8",
         "category": "health"
       },
       {
