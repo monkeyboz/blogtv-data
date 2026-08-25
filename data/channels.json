@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:19:56.930Z",
+  "updated": "2026-08-25T00:29:24.698Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -104,6 +104,16 @@
         "category": "news"
       },
       {
+        "name": "24/7 Canal de Noticias",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "id": "247CanaldeNoticias.ar@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "category": "news"
+      },
+      {
         "name": "24 Horas (1080p)",
         "logo": "https://i.imgur.com/CEE9zPe.png",
         "id": "24Horas.cl@SD",
@@ -141,16 +151,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-        "category": "news"
-      },
-      {
-        "name": "30A Lionel Nation TV",
-        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
-        "id": "30ALionelNation.us@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/ln.m3u8",
         "category": "news"
       },
       {
@@ -497,10 +497,10 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,19 +515,28 @@
         "category": "science"
       },
       {
-        "name": "Know How...",
-        "url": "https://www.themoviedb.org/tv/320571",
-        "logo": "https://image.tmdb.org/t/p/w92/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
-        "desc": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains eve",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "name": "Fantástico",
+        "url": "https://www.themoviedb.org/tv/19538",
+        "logo": "https://image.tmdb.org/t/p/w92/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
+        "desc": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Galileo",
+        "url": "https://www.themoviedb.org/tv/75415",
+        "logo": "https://image.tmdb.org/t/p/w92/VwqwId0kD9NIT0cTWx3Is6Jar5.jpg",
+        "desc": "This daily German magazine show delivers interesting facts on numerous topics centering around technology, life, and biz",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Die Ratgeber",
-        "url": "https://www.themoviedb.org/tv/275484",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Know How...",
+        "url": "https://www.themoviedb.org/tv/320571",
+        "logo": "https://image.tmdb.org/t/p/w92/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
+        "desc": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains eve",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1878,6 +1878,16 @@
         "category": "politics"
       },
       {
+        "name": "24/7 Canal de Noticias",
+        "logo": "https://i.imgur.com/4hDCB1M.png",
+        "id": "247CanaldeNoticias.ar@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "24 Horas (1080p)",
         "logo": "https://i.imgur.com/CEE9zPe.png",
         "id": "24Horas.cl@SD",
@@ -1915,16 +1925,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-        "category": "politics"
-      },
-      {
-        "name": "30A Lionel Nation TV",
-        "logo": "https://m.media-amazon.com/images/I/71dgsQwVcNL.png",
-        "id": "30ALionelNation.us@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/ln.m3u8",
         "category": "politics"
       },
       {
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2794,6 +2794,15 @@
         "category": "animation"
       },
       {
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
         "url": "https://www.themoviedb.org/tv/70998",
         "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
@@ -2803,28 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Caressing My Hibernating Bear",
-        "url": "https://www.themoviedb.org/tv/204269",
-        "logo": "https://image.tmdb.org/t/p/w92/jSRmnyrqY1wmECpCCk7jv7AGFn6.jpg",
-        "desc": "Nowa, a bear living in the forest, decides to take an abandoned puppy under his wing. He names it Airi and takes care of",
+        "name": "哆啦A梦TV版",
+        "url": "https://www.themoviedb.org/tv/310751",
+        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
