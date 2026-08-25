@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:21:58.403Z",
+  "updated": "2026-08-25T12:20:43.795Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,15 +497,6 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "A Girl's Guide to 21st Century Sex",
         "url": "https://www.themoviedb.org/tv/318058",
         "logo": "",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/320571",
         "logo": "https://image.tmdb.org/t/p/w92/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
         "desc": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains eve",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2552,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Futurama",
-        "url": "https://www.themoviedb.org/tv/615",
-        "logo": "https://image.tmdb.org/t/p/w92/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-        "desc": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "American Dad!",
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
@@ -2812,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Futurama",
+        "url": "https://www.themoviedb.org/tv/615",
+        "logo": "https://image.tmdb.org/t/p/w92/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "desc": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "哆啦A梦TV版",
         "url": "https://www.themoviedb.org/tv/310751",
         "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Bleach",
+        "url": "https://www.themoviedb.org/tv/30984",
+        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
