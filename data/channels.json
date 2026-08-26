@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:19:38.621Z",
+  "updated": "2026-08-26T00:30:27.562Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1034,6 +1034,15 @@
         "category": "music"
       },
       {
+        "name": "Discovery of Love",
+        "url": "https://www.themoviedb.org/tv/61218",
+        "logo": "https://image.tmdb.org/t/p/w92/qtVi9OHMsAoJkZlW1uk2EcONeNt.jpg",
+        "desc": "Han Yeo-reum is a furniture designer who owns a workshop space that she shares with other designers. For the past three ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Danni Lowinski",
         "url": "https://www.themoviedb.org/tv/49931",
         "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
@@ -1074,15 +1083,6 @@
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
         "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1299,16 +1299,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Antena Monden (720p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-        "id": "AntenaMonden.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "id": "AutenticTravel.de@SD",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "entertainment"
       },
       {
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "King of the Hill",
-        "url": "https://www.themoviedb.org/tv/2122",
-        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "name": "X Factor",
+        "url": "https://www.themoviedb.org/tv/16322",
+        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1521,16 +1521,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "Antena Monden (720p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-        "id": "AntenaMonden.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
         "category": "cooking"
       },
       {
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "cooking"
       }
     ],
@@ -2282,16 +2282,6 @@
         "category": "health"
       },
       {
-        "name": "Antena Monden (720p)",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300",
-        "id": "AntenaMonden.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
-        "category": "health"
-      },
-      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "id": "AutenticTravel.de@SD",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "CCTV-12 (720p)",
+        "logo": "https://i.imgur.com/3yTuiOM.png",
+        "id": "CCTV12.cn@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "health"
       }
     ],
