@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T19:26:42.722Z",
+  "updated": "2026-08-27T05:18:29.156Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -452,7 +452,7 @@
       {
         "name": "The Walking Dead",
         "url": "https://www.themoviedb.org/tv/1402",
-        "logo": "https://image.tmdb.org/t/p/w92/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
         "desc": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He ",
         "source": "tmdb",
         "type": "info",
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Die Ratgeber",
         "url": "https://www.themoviedb.org/tv/275484",
         "logo": "",
@@ -524,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "name": "Know How...",
+        "url": "https://www.themoviedb.org/tv/320571",
+        "logo": "https://image.tmdb.org/t/p/w92/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
+        "desc": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains eve",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/97193",
         "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
         "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1034,37 +1034,10 @@
         "category": "music"
       },
       {
-        "name": "Discovery of Love",
-        "url": "https://www.themoviedb.org/tv/61218",
-        "logo": "https://image.tmdb.org/t/p/w92/qtVi9OHMsAoJkZlW1uk2EcONeNt.jpg",
-        "desc": "Han Yeo-reum is a furniture designer who owns a workshop space that she shares with other designers. For the past three ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Danni Lowinski",
         "url": "https://www.themoviedb.org/tv/49931",
         "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
         "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Mekakucity Actors",
-        "url": "https://www.themoviedb.org/tv/60842",
-        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
-        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,6 +1052,15 @@
         "category": "music"
       },
       {
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1088,10 +1070,28 @@
         "category": "music"
       },
       {
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Head over Heels",
         "url": "https://www.themoviedb.org/tv/58929",
         "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
         "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "L'amour est dans le pré",
+        "url": "https://www.themoviedb.org/tv/64612",
+        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
+        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
         "source": "tmdb",
         "type": "info",
         "category": "music"
