@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T16:55:57.829Z",
+  "updated": "2026-08-28T01:49:16.475Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1043,19 +1043,19 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1070,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Mekakucity Actors",
-        "url": "https://www.themoviedb.org/tv/60842",
-        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
-        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
+        "name": "L'amour est dans le pré",
+        "url": "https://www.themoviedb.org/tv/64612",
+        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
+        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1408,10 +1408,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1426,19 +1426,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "X Factor",
-        "url": "https://www.themoviedb.org/tv/16322",
-        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,6 +1444,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Girl Meets World",
+        "url": "https://www.themoviedb.org/tv/46028",
+        "logo": "https://image.tmdb.org/t/p/w92/8E1i8j6GVT7wMzw8CtqzifRpr5R.jpg",
+        "desc": "The adventures of relatable and adventurous Riley Matthews, the tween daughter of Cory and Topanga Matthews, and her bol",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Ulice",
         "url": "https://www.themoviedb.org/tv/36361",
         "logo": "https://image.tmdb.org/t/p/w92/zBEHcmVe87YjfI8SmIYkiDtX35I.jpg",
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Sister-in-Law Is at Home!",
-        "url": "https://www.themoviedb.org/tv/65682",
-        "logo": "https://image.tmdb.org/t/p/w92/2lkV7WWu1QbXV3PYqqslgGZMLNq.jpg",
-        "desc": "\"Bhabiji Ghar Par Hain!\" is a popular Hindi sitcom that premiered in 2015 on And TV and is available on ZEE5. Produced b",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,28 +2543,19 @@
         "category": "kids"
       },
       {
+        "name": "The Daily Fable",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
         "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,10 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
