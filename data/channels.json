@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T11:50:33.400Z",
+  "updated": "2026-08-29T15:48:56.428Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -506,6 +506,24 @@
         "category": "science"
       },
       {
+        "name": "Ciné regards",
+        "url": "https://www.themoviedb.org/tv/328178",
+        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Spotlight",
+        "url": "https://www.themoviedb.org/tv/120454",
+        "logo": "https://image.tmdb.org/t/p/w92/w06r2rsRi8HcyQQhI2WafkTlFof.jpg",
+        "desc": "Profiles and interviews with sports personalities.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "SRF DOK",
         "url": "https://www.themoviedb.org/tv/256266",
         "logo": "https://image.tmdb.org/t/p/w92/ncg9KX8UVMpSnAfFRFXDeqauGSY.jpg",
@@ -524,37 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Spotlight",
-        "url": "https://www.themoviedb.org/tv/120454",
-        "logo": "https://image.tmdb.org/t/p/w92/w06r2rsRi8HcyQQhI2WafkTlFof.jpg",
-        "desc": "Profiles and interviews with sports personalities.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Ciné regards",
-        "url": "https://www.themoviedb.org/tv/328178",
-        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "name": "Die Ratgeber",
+        "url": "https://www.themoviedb.org/tv/275484",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
+        "name": "Cuisines des terroirs",
+        "url": "https://www.themoviedb.org/tv/97193",
+        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
+        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Lovebird",
+        "url": "https://www.themoviedb.org/tv/65556",
+        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
+        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Lovebird",
-        "url": "https://www.themoviedb.org/tv/65556",
-        "logo": "https://image.tmdb.org/t/p/w92/A4BjPVn2E4mG8ayaf03hrCl6p0F.jpg",
-        "desc": "Tells the story of Feride, an orphaned young girl who is forced to attend a boarding school. While she visits her aunt d",
+        "name": "L'amour est dans le pré",
+        "url": "https://www.themoviedb.org/tv/64612",
+        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
+        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2534,19 +2534,19 @@
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "name": "The Daily Fable",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,19 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,6 +2758,15 @@
         "category": "animation"
       },
       {
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2776,28 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Rick and Morty",
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Regular Show",
-        "url": "https://www.themoviedb.org/tv/31132",
-        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
