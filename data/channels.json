@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T17:46:18.910Z",
+  "updated": "2026-08-29T01:12:55.492Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,15 +488,6 @@
     ],
     "science": [
       {
-        "name": "SRF DOK",
-        "url": "https://www.themoviedb.org/tv/256266",
-        "logo": "https://image.tmdb.org/t/p/w92/ncg9KX8UVMpSnAfFRFXDeqauGSY.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Cosmic Disclosure",
         "url": "https://www.themoviedb.org/tv/69536",
         "logo": "https://image.tmdb.org/t/p/w92/99V7vkV0E3SFRxlAb45iNePLePz.jpg",
@@ -515,37 +506,10 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fantástico",
-        "url": "https://www.themoviedb.org/tv/19538",
-        "logo": "https://image.tmdb.org/t/p/w92/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
-        "desc": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Hier und heute",
-        "url": "https://www.themoviedb.org/tv/124982",
-        "logo": "",
+        "name": "SRF DOK",
+        "url": "https://www.themoviedb.org/tv/256266",
+        "logo": "https://image.tmdb.org/t/p/w92/ncg9KX8UVMpSnAfFRFXDeqauGSY.jpg",
         "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +519,42 @@
         "url": "https://www.themoviedb.org/tv/320571",
         "logo": "https://image.tmdb.org/t/p/w92/6ieHlDLKbyETqUYauF061y6v9wE.jpg",
         "desc": "Get the know how to make technology work for you. TWiT shows you tech projects that you can do yourself and explains eve",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Spotlight",
+        "url": "https://www.themoviedb.org/tv/120454",
+        "logo": "https://image.tmdb.org/t/p/w92/w06r2rsRi8HcyQQhI2WafkTlFof.jpg",
+        "desc": "Profiles and interviews with sports personalities.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ciné regards",
+        "url": "https://www.themoviedb.org/tv/328178",
+        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "X Factor",
-        "url": "https://www.themoviedb.org/tv/16322",
-        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
