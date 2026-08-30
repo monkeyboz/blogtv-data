@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T10:47:33.136Z",
+  "updated": "2026-08-30T15:33:45.414Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1061,19 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Mekakucity Actors",
-        "url": "https://www.themoviedb.org/tv/60842",
-        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
-        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Mekakucity Actors",
+        "url": "https://www.themoviedb.org/tv/60842",
+        "logo": "https://image.tmdb.org/t/p/w92/1NhdKUEjIzqtigxuNfczyoAiD8U.jpg",
+        "desc": "The incidents which occurred on August 14th and 15th bring a group of young boys and girls together… They are members of",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Red Scarf",
+        "url": "https://www.themoviedb.org/tv/44671",
+        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
+        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1399,6 +1399,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Jason and the Argonauts",
+        "url": "https://www.themoviedb.org/tv/25406",
+        "logo": "https://image.tmdb.org/t/p/w92/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+        "desc": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Among Friends",
         "url": "https://www.themoviedb.org/tv/50821",
         "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
@@ -1408,19 +1417,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2552,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "My Little Pony: Friendship Is Magic",
+        "url": "https://www.themoviedb.org/tv/33765",
+        "logo": "https://image.tmdb.org/t/p/w92/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2803,19 +2803,19 @@
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Regular Show",
-        "url": "https://www.themoviedb.org/tv/31132",
-        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
