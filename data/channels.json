@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T20:03:25.687Z",
+  "updated": "2026-08-30T01:56:05.872Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -773,16 +773,6 @@
         "category": "sports"
       },
       {
-        "name": "ACC Network HD (720p)",
-        "logo": "https://i.imgur.com/TpCkbkT.png",
-        "id": "ACCNetwork.us@HD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F23.239.31.26%3A8989%2Faccnetwork%2Findex.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "ACCDN (1080p)",
         "logo": "https://i.imgur.com/V6Kaqha.png",
         "id": "ACCDigitalNetwork.us@SD",
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/shooflive2/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Six (1080p)",
+        "logo": "https://i.imgur.com/CrPSPSC.png",
+        "id": "AlkassSix.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -1159,13 +1159,23 @@
         "category": "entertainment"
       },
       {
-        "name": "8TV",
+        "name": "7 Gold (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+        "id": "7Gold.it@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "8TV (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "id": "8TV.my@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://cdn6.163189.xyz/163189/8tv",
+        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
         "category": "entertainment"
       },
       {
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "247 Box TV",
-        "logo": "https://i.imgur.com/t5AUthL.png",
-        "id": "247BoxTV.ir@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://hls.247box.live/hls/stream.m3u8",
         "category": "entertainment"
       },
       {
