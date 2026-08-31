@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T01:51:54.327Z",
+  "updated": "2026-08-31T11:56:49.282Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Regular Show",
-        "url": "https://www.themoviedb.org/tv/31132",
-        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
-        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
