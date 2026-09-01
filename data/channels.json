@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:29:05.821Z",
+  "updated": "2026-09-01T02:14:04.835Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,6 +313,15 @@
         "category": "news"
       },
       {
+        "name": "The Rachel Maddow Show",
+        "url": "https://www.themoviedb.org/tv/7967",
+        "logo": "https://image.tmdb.org/t/p/w92/7Jzrp2piY29h8UgA2hEXsxCskt1.jpg",
+        "desc": "The Rachel Maddow Show is a daily news and opinion television program that airs on MSNBC, running in the 9:00 pm ET time",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Jornal Nacional",
         "url": "https://www.themoviedb.org/tv/16807",
         "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
@@ -331,19 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Match of the Day",
+        "url": "https://www.themoviedb.org/tv/224",
+        "logo": "https://image.tmdb.org/t/p/w92/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
+        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -362,15 +371,6 @@
         "url": "https://www.themoviedb.org/tv/4496",
         "logo": "https://image.tmdb.org/t/p/w92/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
         "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -875,6 +875,16 @@
     ],
     "music": [
       {
+        "name": "4ever Music (1080p)",
+        "logo": "https://i.imgur.com/UJ5oaeU.png",
+        "id": "4everMusic.ua@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream.mcquack.net/257/index.m3u8",
+        "category": "music"
+      },
+      {
         "name": "4 Fun TV (576i) [Not 24/7]",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
@@ -905,13 +915,13 @@
         "category": "music"
       },
       {
-        "name": "like Gecko) Chrome/147.0.0.0 Safari/537.36\" group-title=\"Music\",7S Music (576p)",
+        "name": "7S Music (576p)",
         "logo": "https://i.imgur.com/zDiIhdN.png",
         "id": "7SMusic.in@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://103.175.73.12:8080/live/771/master.m3u8",
+        "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
         "category": "music"
       },
       {
@@ -931,7 +941,7 @@
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://b.jsrdn.com/strm/channels/9xjalwa/master.m3u8",
+        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8",
         "category": "music"
       },
       {
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "88 Stereo (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/i3YwORV.png",
-        "id": "88Stereo.cr@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8",
         "category": "music"
       },
       {
@@ -1106,6 +1106,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https",
+        "category": "entertainment"
+      },
+      {
+        "name": "4ever Theater (1080p)",
+        "logo": "https://i.imgur.com/kfngtev.png",
+        "id": "4everTheater.ua@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://stream.mcquack.net/259/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/sidewalks.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "30A Television Channel (720p)",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s",
-        "id": "30ATelevisionChannel.us@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/feeds/masters/30atv.m3u8",
         "category": "entertainment"
       },
       {
@@ -1408,19 +1408,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "X Factor",
-        "url": "https://www.themoviedb.org/tv/16322",
-        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
