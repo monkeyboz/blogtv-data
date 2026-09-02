@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T01:36:57.268Z",
+  "updated": "2026-09-02T10:01:39.332Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,19 +414,19 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "name": "Jason and the Argonauts",
+        "url": "https://www.themoviedb.org/tv/25406",
+        "logo": "https://image.tmdb.org/t/p/w92/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+        "desc": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Jason and the Argonauts",
-        "url": "https://www.themoviedb.org/tv/25406",
-        "logo": "https://image.tmdb.org/t/p/w92/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
-        "desc": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty ",
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2794,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
