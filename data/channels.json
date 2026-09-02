@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:12:35.786Z",
+  "updated": "2026-09-02T01:36:57.268Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "Spotlight",
-        "url": "https://www.themoviedb.org/tv/120454",
-        "logo": "https://image.tmdb.org/t/p/w92/w06r2rsRi8HcyQQhI2WafkTlFof.jpg",
-        "desc": "Profiles and interviews with sports personalities.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Ciné regards",
+        "url": "https://www.themoviedb.org/tv/328178",
+        "logo": "https://image.tmdb.org/t/p/w92/neCpAdj9o3EKkB5wntZt1nxCofb.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
