@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:10:37.528Z",
+  "updated": "2026-09-03T01:41:04.011Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -621,16 +621,6 @@
         "category": "history"
       },
       {
-        "name": "Arkansas PBS [Geo-blocked]",
-        "logo": "https://i.imgur.com/dNBZLtD.png",
-        "id": "KETS21.us@HD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
-        "category": "history"
-      },
-      {
         "name": "BATV Educational Channel",
         "logo": "https://i.imgur.com/eDoJqtg.png",
         "id": "BATVEducationalChannel.us@SD",
@@ -711,13 +701,23 @@
         "category": "history"
       },
       {
-        "name": "Canal Savoir (360p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png",
-        "id": "CFTUDT.ca@SD",
+        "name": "Canal Universidad",
+        "logo": "https://i.imgur.com/trmPKYw.png",
+        "id": "CanalUniversidad.ar@SD",
         "group": "Education",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://hls.savoir.media/live/stream.m3u8",
+        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "CCTV-7 (720p)",
+        "logo": "https://i.imgur.com/CKcPMQC.png",
+        "id": "CCTV7.cn@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
         "category": "history"
       }
     ],
@@ -1350,7 +1350,7 @@
       },
       {
         "name": "Biz TV (1080p)",
-        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/960px-As_seen_on_TV.svg.png",
         "id": "BizTV.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
@@ -1575,7 +1575,7 @@
       },
       {
         "name": "Biz TV (1080p)",
-        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/960px-As_seen_on_TV.svg.png",
         "id": "BizTV.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
@@ -2333,7 +2333,7 @@
       },
       {
         "name": "Biz TV (1080p)",
-        "logo": "https://i.imgur.com/yaNXOnO.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/As_seen_on_TV.svg/960px-As_seen_on_TV.svg.png",
         "id": "BizTV.us@SD",
         "group": "Lifestyle",
         "source": "iptv-org",
@@ -2678,16 +2678,6 @@
         "category": "animation"
       },
       {
-        "name": "Blues TV",
-        "logo": "https://i.imgur.com/px0CSti.png",
-        "id": "KMBYLD275.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "Crunchyroll (720p)",
         "logo": "https://i.imgur.com/2FlIQUO.png",
         "id": "Crunchyroll.us@SD",
@@ -2755,6 +2745,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=ZZDemoIPTVGH",
+        "category": "animation"
+      },
+      {
+        "name": "eSports Max TV",
+        "logo": "https://i.imgur.com/OprRgQN.png",
+        "id": "eSportsMaxTV.ve@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
         "category": "animation"
       },
       {
