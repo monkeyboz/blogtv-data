@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T09:31:44.226Z",
+  "updated": "2026-09-05T14:04:02.930Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2534,15 +2534,6 @@
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Sesame Street",
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
@@ -2561,6 +2552,24 @@
         "category": "kids"
       },
       {
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "哆啦A梦TV版",
+        "url": "https://www.themoviedb.org/tv/310751",
+        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2570,10 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "The Fairly OddParents",
+        "url": "https://www.themoviedb.org/tv/4630",
+        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
+        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Bullwinkle Show",
+        "url": "https://www.themoviedb.org/tv/1025",
+        "logo": "https://image.tmdb.org/t/p/w92/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+        "desc": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic m",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2583,24 +2601,6 @@
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
         "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "The Fairly OddParents",
-        "url": "https://www.themoviedb.org/tv/4630",
-        "logo": "https://image.tmdb.org/t/p/w92/3ryMj7tIvVtiXyI2tLvHYTjOjq4.jpg",
-        "desc": "The zany, fast-paced adventures of a 10-year-old boy and his fairy godparents, who inadvertently create havoc as they gr",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
