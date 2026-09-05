@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:57:34.473Z",
+  "updated": "2026-09-05T01:36:09.627Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -621,6 +621,16 @@
         "category": "history"
       },
       {
+        "name": "Arkansas PBS [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
+        "id": "PBS.us@KETS",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
+        "category": "history"
+      },
+      {
         "name": "BATV Educational Channel",
         "logo": "https://i.imgur.com/eDoJqtg.png",
         "id": "BATVEducationalChannel.us@SD",
@@ -708,16 +718,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "CCTV-7 (720p)",
-        "logo": "https://i.imgur.com/CKcPMQC.png",
-        "id": "CCTV7.cn@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
         "category": "history"
       }
     ],
@@ -1179,13 +1179,13 @@
         "category": "entertainment"
       },
       {
-        "name": "8TV (1080p) [Geo-blocked]",
+        "name": "8TV",
         "logo": "https://i.imgur.com/Jkx9W88.png",
         "id": "8TV.my@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420325",
+        "url": "http://cdn6.163189.xyz/163189/8tv",
         "category": "entertainment"
       },
       {
@@ -2384,7 +2384,7 @@
     ],
     "kids": [
       {
-        "name": "4 Fun Kids (576i) [[Not 24/7]]",
+        "name": "4 Fun Kids (576i)",
         "logo": "https://i.imgur.com/2JO5Y8c.png",
         "id": "4FunKids.pl@SD",
         "group": "Kids",
@@ -2658,13 +2658,13 @@
         "category": "animation"
       },
       {
-        "name": "ANIME x HIDIVE (720p) [Geo-blocked]",
+        "name": "ANIME x HIDIVE",
         "logo": "https://i.imgur.com/v0BlxCa.png",
         "id": "AnimexHIDIVE.us@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
+        "url": "https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8",
         "category": "animation"
       },
       {
