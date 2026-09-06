@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T19:37:29.782Z",
+  "updated": "2026-09-06T01:30:26.673Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -490,7 +490,7 @@
       {
         "name": "Fuse",
         "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/9hdEulzIzfj0M2JBKRRIxWOBXUY.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
         "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
@@ -1299,6 +1299,16 @@
         "category": "entertainment"
       },
       {
+        "name": "Aspire TV Life (1080p)",
+        "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+        "id": "AspireTVLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "id": "AutenticTravel.de@SD",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "entertainment"
       },
       {
@@ -1524,6 +1524,16 @@
         "category": "cooking"
       },
       {
+        "name": "Aspire TV Life (1080p)",
+        "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+        "id": "AspireTVLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "id": "AutenticTravel.de@SD",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "cooking"
       }
     ],
@@ -2282,6 +2282,16 @@
         "category": "health"
       },
       {
+        "name": "Aspire TV Life (1080p)",
+        "logo": "https://press.upentertainment.com/wp-content/uploads/2022/03/aspire-tv-life-logo.jpg",
+        "id": "AspireTVLife.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Autentic Travel (1080p)",
         "logo": "https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentictravel_white.png",
         "id": "AutenticTravel.de@SD",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CCTV-12 (720p)",
-        "logo": "https://i.imgur.com/3yTuiOM.png",
-        "id": "CCTV12.cn@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv12hd.m3u8",
         "category": "health"
       }
     ],
