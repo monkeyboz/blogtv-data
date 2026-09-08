@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T10:09:51.599Z",
+  "updated": "2026-09-08T15:27:38.101Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,28 +488,10 @@
     ],
     "science": [
       {
-        "name": "ANIME MANGA EXPLOSION",
-        "url": "https://www.themoviedb.org/tv/226741",
-        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
-        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Document 72 Hours",
-        "url": "https://www.themoviedb.org/tv/74277",
-        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
-        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Trust Me: The False Prophet",
+        "url": "https://www.themoviedb.org/tv/316898",
+        "logo": "https://image.tmdb.org/t/p/w92/mDugtY17uzG4r6yU0pRgjawcfSA.jpg",
+        "desc": "In this true-crime documentary, a cult expert and filmmaker infiltrate a polygamist sect to expose a self-proclaimed pro",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -524,19 +506,37 @@
         "category": "science"
       },
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
+        "name": "Document 72 Hours",
+        "url": "https://www.themoviedb.org/tv/74277",
+        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
+        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "ANIME MANGA EXPLOSION",
+        "url": "https://www.themoviedb.org/tv/226741",
+        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
+        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "Vetenskapens värld",
+        "url": "https://www.themoviedb.org/tv/5859",
+        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
+        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Dark Fate",
+        "url": "https://www.themoviedb.org/tv/16684",
+        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
+        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Red Scarf",
-        "url": "https://www.themoviedb.org/tv/44671",
-        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
-        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
+        "name": "Candy Boy",
+        "url": "https://www.themoviedb.org/tv/61439",
+        "logo": "https://image.tmdb.org/t/p/w92/7O68ST950n9zDAs2IgH4brDfGU2.jpg",
+        "desc": "Yukino and Kanade Sakurai are twin sisters that live together in a high school dorm. Although they are twins, they tend ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "name": "Chiikawa",
+        "url": "https://www.themoviedb.org/tv/194916",
+        "logo": "https://image.tmdb.org/t/p/w92/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
+        "desc": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creatu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/kidkbZRBGbsEIrX7pODRSKi9ipl.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "Chiikawa",
+        "url": "https://www.themoviedb.org/tv/194916",
+        "logo": "https://image.tmdb.org/t/p/w92/cXm3mxmlOWJZAyn5fqFI9JpARa3.jpg",
+        "desc": "The story follows the sometimes happy, sometimes sad, and a tad stressful daily life of \"some sort of small, cute creatu",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
