@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T20:51:06.892Z",
+  "updated": "2026-09-08T01:38:12.718Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -74,6 +74,16 @@
         "category": "news"
       },
       {
+        "name": "7 News (720p)",
+        "logo": "https://i.imgur.com/PTl92P5.png",
+        "id": "7News.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://sscsott.com/7news/live/index.m3u8",
+        "category": "news"
+      },
+      {
         "name": "10 TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
         "id": "10TV.in@SD",
@@ -141,16 +151,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
-        "category": "news"
-      },
-      {
-        "name": "24 News (576p)",
-        "logo": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
-        "id": "24News.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8",
         "category": "news"
       },
       {
@@ -945,6 +945,16 @@
         "category": "music"
       },
       {
+        "name": "8XM HD",
+        "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
+        "id": "8XM.pk@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+        "category": "music"
+      },
+      {
         "name": "9X Jalwa (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_JALWA/images/LOGO_HD/image.png",
         "id": "9XJalwa.in@SD",
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://30a-tv.com/music.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "51 Radio TV (480p) [Geo-blocked]",
-        "logo": "https://www.51news.it/images/loghi/logo_tv_radio_51news.png",
-        "id": "51RadioTV.it@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8",
         "category": "music"
       },
       {
@@ -1848,6 +1848,16 @@
         "category": "politics"
       },
       {
+        "name": "7 News (720p)",
+        "logo": "https://i.imgur.com/PTl92P5.png",
+        "id": "7News.pk@SD",
+        "group": "News",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://sscsott.com/7news/live/index.m3u8",
+        "category": "politics"
+      },
+      {
         "name": "10 TV (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_10TV/images/LOGO_HD/image.png",
         "id": "10TV.in@SD",
@@ -1915,16 +1925,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://fs.uplink.kz/24KZ/mono.m3u8?token=onlinetv",
-        "category": "politics"
-      },
-      {
-        "name": "24 News (576p)",
-        "logo": "https://sund-images.sunnxt.com/202222/300x300_24News_202222_d63feca0-79ae-47ea-b75a-66c17d456f4c.png",
-        "id": "24News.in@SD",
-        "group": "News",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8",
         "category": "politics"
       },
       {
