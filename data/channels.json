@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T15:20:29.427Z",
+  "updated": "2026-09-11T20:07:35.947Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,19 +488,19 @@
     ],
     "science": [
       {
-        "name": "Document 72 Hours",
-        "url": "https://www.themoviedb.org/tv/74277",
-        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
-        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
+        "name": "ANIME MANGA EXPLOSION",
+        "url": "https://www.themoviedb.org/tv/226741",
+        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
+        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "ANIME MANGA EXPLOSION",
-        "url": "https://www.themoviedb.org/tv/226741",
-        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
-        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
+        "name": "Document 72 Hours",
+        "url": "https://www.themoviedb.org/tv/74277",
+        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
+        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,28 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fantástico",
-        "url": "https://www.themoviedb.org/tv/19538",
-        "logo": "https://image.tmdb.org/t/p/w92/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
-        "desc": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "SRF DOK",
-        "url": "https://www.themoviedb.org/tv/256266",
-        "logo": "https://image.tmdb.org/t/p/w92/ncg9KX8UVMpSnAfFRFXDeqauGSY.jpg",
-        "desc": "",
+        "name": "Profissão Repórter",
+        "url": "https://www.themoviedb.org/tv/61153",
+        "logo": "https://image.tmdb.org/t/p/w92/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
+        "desc": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +533,28 @@
         "category": "science"
       },
       {
-        "name": "Profissão Repórter",
-        "url": "https://www.themoviedb.org/tv/61153",
-        "logo": "https://image.tmdb.org/t/p/w92/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
-        "desc": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact",
+        "name": "Cuisines des terroirs",
+        "url": "https://www.themoviedb.org/tv/97193",
+        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
+        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Vetenskapens värld",
+        "url": "https://www.themoviedb.org/tv/5859",
+        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
+        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,24 +1052,6 @@
         "category": "music"
       },
       {
-        "name": "Candy Boy",
-        "url": "https://www.themoviedb.org/tv/61439",
-        "logo": "https://image.tmdb.org/t/p/w92/7O68ST950n9zDAs2IgH4brDfGU2.jpg",
-        "desc": "Yukino and Kanade Sakurai are twin sisters that live together in a high school dorm. Although they are twins, they tend ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "High Society",
-        "url": "https://www.themoviedb.org/tv/62863",
-        "logo": "https://image.tmdb.org/t/p/w92/rgQm6Afr15JPVQ5n1cXGLA5QkoV.jpg",
-        "desc": "Jang Yoon-Ha is the youngest daughter of a chaebol. Even though her family is extremely wealthy, she holds a part-time j",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Maison Ikkoku",
         "url": "https://www.themoviedb.org/tv/43018",
         "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
@@ -1088,10 +1070,28 @@
         "category": "music"
       },
       {
+        "name": "Candy Boy",
+        "url": "https://www.themoviedb.org/tv/61439",
+        "logo": "https://image.tmdb.org/t/p/w92/7O68ST950n9zDAs2IgH4brDfGU2.jpg",
+        "desc": "Yukino and Kanade Sakurai are twin sisters that live together in a high school dorm. Although they are twins, they tend ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "L'amour est dans le pré",
         "url": "https://www.themoviedb.org/tv/64612",
         "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
         "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1444,6 +1444,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Jason and the Argonauts",
+        "url": "https://www.themoviedb.org/tv/25406",
+        "logo": "https://image.tmdb.org/t/p/w92/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+        "desc": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Jason and the Argonauts",
-        "url": "https://www.themoviedb.org/tv/25406",
-        "logo": "https://image.tmdb.org/t/p/w92/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
-        "desc": "At a young age, Jason witnesses the brutal deposement and murder of his father at the hands of his uncle Pelias. Twenty ",
+        "name": "Yalan Dünya",
+        "url": "https://www.themoviedb.org/tv/43393",
+        "logo": "https://image.tmdb.org/t/p/w92/48bzd0jjraZJN6F2tL7xr75pCo9.jpg",
+        "desc": "Yalan Dünya produced by Gülse Birsel and directed by Jale Atabey at 2012.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2794,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "American Dad!",
+        "url": "https://www.themoviedb.org/tv/1433",
+        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
+        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "哆啦A梦TV版",
-        "url": "https://www.themoviedb.org/tv/310751",
-        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
-        "desc": "",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
