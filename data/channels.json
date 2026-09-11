@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:08:31.331Z",
+  "updated": "2026-09-11T01:40:07.187Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -925,7 +925,7 @@
         "category": "music"
       },
       {
-        "name": "7S Music (576p)",
+        "name": "7S Music (360p)",
         "logo": "https://i.imgur.com/zDiIhdN.png",
         "id": "7SMusic.in@SD",
         "group": "Music",
@@ -1435,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "X Factor",
+        "url": "https://www.themoviedb.org/tv/16322",
+        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
@@ -1448,15 +1457,6 @@
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
         "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "X Factor",
-        "url": "https://www.themoviedb.org/tv/16322",
-        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
