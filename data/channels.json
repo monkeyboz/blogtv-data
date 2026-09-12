@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T01:46:13.291Z",
+  "updated": "2026-09-12T09:40:12.792Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
