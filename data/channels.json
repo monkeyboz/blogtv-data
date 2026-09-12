@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T09:40:12.792Z",
+  "updated": "2026-09-12T14:28:35.632Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,19 +313,19 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,10 +349,10 @@
         "category": "news"
       },
       {
-        "name": "Meet the Press",
-        "url": "https://www.themoviedb.org/tv/4496",
-        "logo": "https://image.tmdb.org/t/p/w92/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
-        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
+        "name": "Siyaset Meydanı",
+        "url": "https://www.themoviedb.org/tv/49497",
+        "logo": "https://image.tmdb.org/t/p/w92/5OMGxnxXUqptJaCzeOBkRJWkKlK.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Meet the Press",
+        "url": "https://www.themoviedb.org/tv/4496",
+        "logo": "https://image.tmdb.org/t/p/w92/ix7PFKpRTzD5eQxEqD4MvqdAAHW.jpg",
+        "desc": "Meet the Press is a weekly American television news/interview program airing on NBC. It is the longest-running televisio",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1426,6 +1426,15 @@
         "category": "entertainment"
       },
       {
+        "name": "X Factor",
+        "url": "https://www.themoviedb.org/tv/16322",
+        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
+        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Teen Titans Go!",
         "url": "https://www.themoviedb.org/tv/45140",
         "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
@@ -1435,10 +1444,10 @@
         "category": "entertainment"
       },
       {
-        "name": "X Factor",
-        "url": "https://www.themoviedb.org/tv/16322",
-        "logo": "https://image.tmdb.org/t/p/w92/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg",
-        "desc": "X Factor is the Italian version of the British musical talent show The X Factor. The first four seasons aired on Rai 2, ",
+        "name": "Yalan Dünya",
+        "url": "https://www.themoviedb.org/tv/43393",
+        "logo": "https://image.tmdb.org/t/p/w92/48bzd0jjraZJN6F2tL7xr75pCo9.jpg",
+        "desc": "Yalan Dünya produced by Gülse Birsel and directed by Jale Atabey at 2012.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Yalan Dünya",
-        "url": "https://www.themoviedb.org/tv/43393",
-        "logo": "https://image.tmdb.org/t/p/w92/48bzd0jjraZJN6F2tL7xr75pCo9.jpg",
-        "desc": "Yalan Dünya produced by Gülse Birsel and directed by Jale Atabey at 2012.",
+        "name": "Cuisines des terroirs",
+        "url": "https://www.themoviedb.org/tv/97193",
+        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
+        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2767,6 +2767,15 @@
         "category": "animation"
       },
       {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2780,15 +2789,6 @@
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
