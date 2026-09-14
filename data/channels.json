@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:06:35.480Z",
+  "updated": "2026-09-14T21:05:30.970Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,6 +405,15 @@
         "category": "technology"
       },
       {
+        "name": "Kamen Rider",
+        "url": "https://www.themoviedb.org/tv/2661",
+        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
+        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "REBORN!",
         "url": "https://www.themoviedb.org/tv/45857",
         "logo": "https://image.tmdb.org/t/p/w92/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
@@ -432,15 +441,6 @@
         "category": "technology"
       },
       {
-        "name": "Kamen Rider",
-        "url": "https://www.themoviedb.org/tv/2661",
-        "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
-        "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -450,10 +450,10 @@
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "Teenage Mutant Ninja Turtles",
+        "url": "https://www.themoviedb.org/tv/51817",
+        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1052,6 +1052,15 @@
         "category": "music"
       },
       {
+        "name": "Love From Today",
+        "url": "https://www.themoviedb.org/tv/62607",
+        "logo": "https://image.tmdb.org/t/p/w92/iwnzlAHIWfSGVEbtdpOUafHTzPu.jpg",
+        "desc": "A drama about a woman who finally becomes a part of a family after re-adoption and man who chooses love over family.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/44671",
         "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
         "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "name": "Teenage Mutant Ninja Turtles",
+        "url": "https://www.themoviedb.org/tv/51817",
+        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Teenage Mutant Ninja Turtles",
-        "url": "https://www.themoviedb.org/tv/51817",
-        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
