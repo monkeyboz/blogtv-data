@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:03:19.573Z",
+  "updated": "2026-09-14T17:06:35.480Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -313,28 +313,10 @@
         "category": "news"
       },
       {
-        "name": "Jornal Nacional",
-        "url": "https://www.themoviedb.org/tv/16807",
-        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
-        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "The Daily Show",
         "url": "https://www.themoviedb.org/tv/2224",
         "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
         "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "The Rachel Maddow Show",
-        "url": "https://www.themoviedb.org/tv/7967",
-        "logo": "https://image.tmdb.org/t/p/w92/nm4ubPrrnksdaD9EAvqzClfGlFo.jpg",
-        "desc": "The Rachel Maddow Show is a daily news and opinion television program that airs on MSNBC, running in the 9:00 pm ET time",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -349,19 +331,19 @@
         "category": "news"
       },
       {
-        "name": "Match of the Day",
-        "url": "https://www.themoviedb.org/tv/224",
-        "logo": "https://image.tmdb.org/t/p/w92/tVFCu0jE9m5QHmHM4rzEFGs1kUI.jpg",
-        "desc": "BBC's football highlights and analysis.\n\n\"The longest-running football television programme in the world\" as recognised ",
+        "name": "The Rachel Maddow Show",
+        "url": "https://www.themoviedb.org/tv/7967",
+        "logo": "https://image.tmdb.org/t/p/w92/nm4ubPrrnksdaD9EAvqzClfGlFo.jpg",
+        "desc": "The Rachel Maddow Show is a daily news and opinion television program that airs on MSNBC, running in the 9:00 pm ET time",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Fantástico",
-        "url": "https://www.themoviedb.org/tv/19538",
-        "logo": "https://image.tmdb.org/t/p/w92/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
-        "desc": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he ",
+        "name": "Jornal Nacional",
+        "url": "https://www.themoviedb.org/tv/16807",
+        "logo": "https://image.tmdb.org/t/p/w92/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+        "desc": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -371,6 +353,24 @@
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
         "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Siyaset Meydanı",
+        "url": "https://www.themoviedb.org/tv/49497",
+        "logo": "https://image.tmdb.org/t/p/w92/5OMGxnxXUqptJaCzeOBkRJWkKlK.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -497,37 +497,10 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "The Girl",
         "url": "https://www.themoviedb.org/tv/70824",
         "logo": "https://image.tmdb.org/t/p/w92/uzNOxyNt1WIXt9KBRKytiqQZ02y.jpg",
         "desc": "A young woman who was part of the guerrilla group is now seeking a better life in the city. She wants to study medicine,",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fantástico",
-        "url": "https://www.themoviedb.org/tv/19538",
-        "logo": "https://image.tmdb.org/t/p/w92/8N6BBpC561JHXULRzGzFzJGBV14.jpg",
-        "desc": "'Fantástico' is a journalistic program shown on Sundays, presented by Poliana Abritta and Maju Coutinho. Every week, he ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +515,46 @@
         "category": "science"
       },
       {
-        "name": "Profissão Repórter",
-        "url": "https://www.themoviedb.org/tv/61153",
-        "logo": "https://image.tmdb.org/t/p/w92/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
-        "desc": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Document 72 Hours",
-        "url": "https://www.themoviedb.org/tv/74277",
-        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
-        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
+        "name": "ANIME MANGA EXPLOSION",
+        "url": "https://www.themoviedb.org/tv/226741",
+        "logo": "https://image.tmdb.org/t/p/w92/w7IZcIx7i8QpZypjHd0Fv7fpOtE.jpg",
+        "desc": "The size of the Japanese animation market was 2,426 billion yen by 2020. More than half of that amount came from oversea",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Profissão Repórter",
+        "url": "https://www.themoviedb.org/tv/61153",
+        "logo": "https://image.tmdb.org/t/p/w92/hVD9DpHkRiUM12Epx7JmMSZEM0G.jpg",
+        "desc": "Caco Barcellos and a team of young journalists go to the streets, together, to present different angles of the same fact",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1435,19 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Yalan Dünya",
-        "url": "https://www.themoviedb.org/tv/43393",
-        "logo": "https://image.tmdb.org/t/p/w92/48bzd0jjraZJN6F2tL7xr75pCo9.jpg",
-        "desc": "Yalan Dünya produced by Gülse Birsel and directed by Jale Atabey at 2012.",
+        "name": "Uusi Päivä",
+        "url": "https://www.themoviedb.org/tv/54999",
+        "logo": "https://image.tmdb.org/t/p/w92/6S1Ic9YTc24azvC2XgIxSpcdEF2.jpg",
+        "desc": "Set in the small town of Virtaus, the series follows the lives of the town’s residents—both young and old—through their ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "哆啦A梦TV版",
-        "url": "https://www.themoviedb.org/tv/310751",
-        "logo": "https://image.tmdb.org/t/p/w92/wmydskWjF621H31lF8RVQeRZavf.jpg",
-        "desc": "",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "The Bullwinkle Show",
+        "url": "https://www.themoviedb.org/tv/1025",
+        "logo": "https://image.tmdb.org/t/p/w92/cAMWBJyYynFWxJNrIvVnHlN2e9P.jpg",
+        "desc": "A variety show, with the main feature being the serialized adventures of the two title characters, the anthropomorphic m",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,6 +2776,15 @@
         "category": "animation"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2785,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Teenage Mutant Ninja Turtles",
+        "url": "https://www.themoviedb.org/tv/51817",
+        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2812,19 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
