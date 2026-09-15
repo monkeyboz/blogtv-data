@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:05:30.970Z",
+  "updated": "2026-09-15T02:03:49.968Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -40,7 +40,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
         "category": "news"
       },
       {
@@ -294,13 +294,13 @@
         "category": "news"
       },
       {
-        "name": "3sat (720p) [Geo-blocked]",
+        "name": "3sat",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
         "category": "news"
       },
       {
@@ -1339,6 +1339,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://58.8.186.128:10003/bysid/2333",
+        "category": "entertainment"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1564,6 +1564,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://58.8.186.128:10003/bysid/2333",
+        "category": "cooking"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -1683,16 +1683,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "BHA TV (1080p)",
-        "logo": "https://i.imgur.com/Nz5zM3H.png",
-        "id": "BHATV.bz@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streamer2.nexgen.bz/15-BHA/index.m3u8",
         "category": "travel"
       },
       {
@@ -1774,6 +1764,16 @@
         "type": "live",
         "url": "https://d3s3a5c7f101eb.cloudfront.net/playlist.m3u8",
         "category": "travel"
+      },
+      {
+        "name": "Living Asia Channel (1080p)",
+        "logo": "https://i.imgur.com/q3UToRM.png",
+        "id": "LivingAsiaChannel.ph@HD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+        "category": "travel"
       }
     ],
     "politics": [
@@ -1814,7 +1814,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn-4.pishow.tv/live/1007/master.m3u8",
+        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
         "category": "politics"
       },
       {
@@ -2068,13 +2068,13 @@
         "category": "politics"
       },
       {
-        "name": "3sat (720p) [Geo-blocked]",
+        "name": "3sat",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
         "category": "politics"
       }
     ],
@@ -2322,6 +2322,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Lifestyle Asia (720p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Asia",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://58.8.186.128:10003/bysid/2333",
+        "category": "health"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.bizzmedia.biz/bizz_tv/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "CBC Sofra (576p)",
-        "logo": "https://i.imgur.com/YAdk2WR.png",
-        "id": "CBCSofra.eg@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://flu.systemnet.tv/CBCSofra/index.m3u8",
         "category": "health"
       }
     ],
@@ -2972,13 +2972,13 @@
         "category": "general"
       },
       {
-        "name": "3sat (720p) [Geo-blocked]",
+        "name": "3sat",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/960px-3sat_2019.svg.png",
         "id": "3sat.de@SD",
         "group": "General",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8",
+        "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
         "category": "general"
       }
     ]
