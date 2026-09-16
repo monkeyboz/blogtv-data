@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:22:02.716Z",
+  "updated": "2026-09-16T15:38:15.076Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,9 +524,9 @@
         "category": "science"
       },
       {
-        "name": "Xenius",
-        "url": "https://www.themoviedb.org/tv/63009",
-        "logo": "https://image.tmdb.org/t/p/w92/yZ1G3k1hwFt42ILgsU2O3wLNJIp.jpg",
+        "name": "mare TV",
+        "url": "https://www.themoviedb.org/tv/55237",
+        "logo": "https://image.tmdb.org/t/p/w92/v4ASLQzDwpbqIeihFblLDLXTVYZ.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Document 72 Hours",
-        "url": "https://www.themoviedb.org/tv/74277",
-        "logo": "https://image.tmdb.org/t/p/w92/iQO83tdISeenWmtG3wp6EteuGfZ.jpg",
-        "desc": "An unusual documentary series that delves into human dramas through chance encounters with ordinary people at selected s",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "SRF DOK",
+        "url": "https://www.themoviedb.org/tv/256266",
+        "logo": "https://image.tmdb.org/t/p/w92/ncg9KX8UVMpSnAfFRFXDeqauGSY.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,6 +1052,15 @@
         "category": "music"
       },
       {
+        "name": "Red Scarf",
+        "url": "https://www.themoviedb.org/tv/44671",
+        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
+        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Love From Today",
         "url": "https://www.themoviedb.org/tv/62607",
         "logo": "https://image.tmdb.org/t/p/w92/iwnzlAHIWfSGVEbtdpOUafHTzPu.jpg",
@@ -1065,15 +1074,6 @@
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
         "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Red Scarf",
-        "url": "https://www.themoviedb.org/tv/44671",
-        "logo": "https://image.tmdb.org/t/p/w92/bmPPhHKqo4JeIES9FaczCYwAmMm.jpg",
-        "desc": "Al Yazmalım was a Turkish television series based on the novel The Red Scarf by Chinghiz Aitmatov and 1978 Turkish roman",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Daily Fable",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,19 +2579,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Rugrats",
+        "url": "https://www.themoviedb.org/tv/3022",
+        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
