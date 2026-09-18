@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T20:37:50.807Z",
+  "updated": "2026-09-18T01:46:27.487Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -877,6 +877,16 @@
       {
         "name": "1HD Music Television (1080p)",
         "logo": "https://i.imgur.com/4Ww7CsR.png",
+        "id": "1HDMusicTelevision.ru@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://176.118.197.101/1HD/index.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "1HD Music Television (1080p)",
+        "logo": "https://i.imgur.com/4Ww7CsR.png",
         "id": "1HDMusicTelevision.ru@SD",
         "group": "Music",
         "source": "iptv-org",
@@ -1015,16 +1025,6 @@
         "category": "music"
       },
       {
-        "name": "30A Music (720p)",
-        "logo": "https://i.imgur.com/gNWg9tl.png",
-        "id": "30AMusic.us@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/music.m3u8",
-        "category": "music"
-      },
-      {
         "name": "The Tudors",
         "url": "https://www.themoviedb.org/tv/2942",
         "logo": "https://image.tmdb.org/t/p/w92/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg",
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "Love From Today",
-        "url": "https://www.themoviedb.org/tv/62607",
-        "logo": "https://image.tmdb.org/t/p/w92/iwnzlAHIWfSGVEbtdpOUafHTzPu.jpg",
-        "desc": "A drama about a woman who finally becomes a part of a family after re-adoption and man who chooses love over family.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1088,10 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "L'amour est dans le pré",
-        "url": "https://www.themoviedb.org/tv/64612",
-        "logo": "https://image.tmdb.org/t/p/w92/3Im88CMj0f9Z4bbJs6YGxTgnkJI.jpg",
-        "desc": "Male and female farmers take fate into their own hands in order to find true love. They open their homes to three candid",
+        "name": "Love From Today",
+        "url": "https://www.themoviedb.org/tv/62607",
+        "logo": "https://image.tmdb.org/t/p/w92/iwnzlAHIWfSGVEbtdpOUafHTzPu.jpg",
+        "desc": "A drama about a woman who finally becomes a part of a family after re-adoption and man who chooses love over family.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "My Daughter, Geum Sa-Wol",
+        "url": "https://www.themoviedb.org/tv/64040",
+        "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
+        "desc": "A family has been dismantled by revenge and hate, but Geum Sa-Wol (Baek Jin-Hee) attempts to build up a dream house for ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1696,13 +1696,13 @@
         "category": "travel"
       },
       {
-        "name": "Glazami Turista (576i)",
+        "name": "Glazami Turista (1080p)",
         "logo": "https://i.imgur.com/GXJKWdy.png",
         "id": "GlazamiTurista.ru@SD",
         "group": "Travel",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+        "url": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8",
         "category": "travel"
       },
       {
