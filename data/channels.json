@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-18T15:17:18.266Z",
+  "updated": "2026-09-18T20:02:57.053Z",
   "version": "1.0",
   "categories": {
     "news": [
       {
-        "name": "2GB Sydney (1080p)",
+        "name": "2GB (1080p)",
         "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
         "id": "2GB.au@SD",
         "group": "News",
@@ -14,7 +14,7 @@
         "category": "news"
       },
       {
-        "name": "3AW Melbourne (1080p)",
+        "name": "3AW (1080p)",
         "logo": "https://i.imgur.com/Z4MdB0S.png",
         "id": "3AW.au@SD",
         "group": "News",
@@ -24,7 +24,7 @@
         "category": "news"
       },
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
         "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
         "id": "4DmasNoticiasTV.py@SD",
         "group": "News",
@@ -54,7 +54,7 @@
         "category": "news"
       },
       {
-        "name": "6PR Perth (1080p)",
+        "name": "6PR (1080p)",
         "logo": "https://i.imgur.com/Q9iCxg1.png",
         "id": "6PR.au@SD",
         "group": "News",
@@ -144,7 +144,7 @@
         "category": "news"
       },
       {
-        "name": "24 Horas (1080p)",
+        "name": "24 Horas (Chile) (1080p)",
         "logo": "https://i.imgur.com/CEE9zPe.png",
         "id": "24Horas.cl@SD",
         "group": "News",
@@ -194,7 +194,7 @@
         "category": "news"
       },
       {
-        "name": "1Almere TV (720p)",
+        "name": "1AlmereTV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
         "group": "General",
@@ -274,7 +274,7 @@
         "category": "news"
       },
       {
-        "name": "2TV (720p)",
+        "name": "2 TV (720p)",
         "logo": "https://i.imgur.com/FJBL6zI.png",
         "id": "2TV.ge@SD",
         "group": "General",
@@ -488,19 +488,19 @@
     ],
     "science": [
       {
-        "name": "The Girl",
-        "url": "https://www.themoviedb.org/tv/70824",
-        "logo": "https://image.tmdb.org/t/p/w92/uzNOxyNt1WIXt9KBRKytiqQZ02y.jpg",
-        "desc": "A young woman who was part of the guerrilla group is now seeking a better life in the city. She wants to study medicine,",
+        "name": "Cuisines des terroirs",
+        "url": "https://www.themoviedb.org/tv/97193",
+        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
+        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Cuisines des terroirs",
-        "url": "https://www.themoviedb.org/tv/97193",
-        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
-        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
+        "name": "The Girl",
+        "url": "https://www.themoviedb.org/tv/70824",
+        "logo": "https://image.tmdb.org/t/p/w92/uzNOxyNt1WIXt9KBRKytiqQZ02y.jpg",
+        "desc": "A young woman who was part of the guerrilla group is now seeking a better life in the city. She wants to study medicine,",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,17 +533,17 @@
         "category": "science"
       },
       {
-        "name": "Bares für Rares",
-        "url": "https://www.themoviedb.org/tv/79917",
-        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
-        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
+        "name": "kinokino",
+        "url": "https://www.themoviedb.org/tv/120707",
         "logo": "",
         "desc": "",
         "source": "tmdb",
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -591,7 +591,7 @@
         "category": "history"
       },
       {
-        "name": "Alhiwar TV (1080p) [Not 24/7]",
+        "name": "Al Hiwar TV (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/UjOxwdd.png",
         "id": "AlHiwarTV.uk@SD",
         "group": "Education",
@@ -621,16 +621,6 @@
         "category": "history"
       },
       {
-        "name": "Arkansas PBS [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
-        "id": "PBS.us@KETS",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://ketsdt.lls.pbs.org/out/v1/03c094dbd7874a4a8c3fe9fb10081bdb/index.m3u8",
-        "category": "history"
-      },
-      {
         "name": "BATV Educational Channel",
         "logo": "https://i.imgur.com/eDoJqtg.png",
         "id": "BATVEducationalChannel.us@SD",
@@ -641,17 +631,7 @@
         "category": "history"
       },
       {
-        "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT) (480p)",
-        "logo": "https://i.imgur.com/tUgEAUJ.png",
-        "id": "CVCEducation.us@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "BUTV10 (Boston University) (1080p) [Not 24/7]",
+        "name": "BUTV10 (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/Iv1Fe67.png",
         "id": "BUTV10.us@SD",
         "group": "Education",
@@ -681,17 +661,7 @@
         "category": "history"
       },
       {
-        "name": "Canal 15 ILCE Summa Sabres (720p)",
-        "logo": "https://i.imgur.com/r7czgOc.png",
-        "id": "ILCECanal15SummaSaberes.mx@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "Canal 15 Nicaragüense (1080p) [Not 24/7]",
+        "name": "Canal 15 (1080p) [Not 24/7]",
         "logo": "https://i.imgur.com/DGBMuEs.png",
         "id": "Canal15.ni@SD",
         "group": "Education",
@@ -719,6 +689,36 @@
         "type": "live",
         "url": "http://45.162.64.114/FUTURA/index.m3u8",
         "category": "history"
+      },
+      {
+        "name": "Canal Universidad",
+        "logo": "https://i.imgur.com/trmPKYw.png",
+        "id": "CanalUniversidad.ar@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "CCTV-7 (720p)",
+        "logo": "https://i.imgur.com/CKcPMQC.png",
+        "id": "CCTV7.cn@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+        "category": "history"
+      },
+      {
+        "name": "CCTV-10 (720p)",
+        "logo": "https://i.imgur.com/sSSO7UD.png",
+        "id": "CCTV10.cn@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+        "category": "history"
       }
     ],
     "sports": [
@@ -743,23 +743,23 @@
         "category": "sports"
       },
       {
-        "name": ":Šport (1080p)",
-        "logo": "https://i.imgur.com/oAtcxNZ.png",
-        "id": "Sport.sk@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "A Spor (1080p)",
+        "name": "A Spor SD (1080p)",
         "logo": "https://i.imgur.com/ZhkZzLf.png",
         "id": "ASpor.tr@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
         "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "ACC Digital Network (1080p)",
+        "logo": "https://i.imgur.com/V6Kaqha.png",
+        "id": "ACCDigitalNetwork.us@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -773,17 +773,7 @@
         "category": "sports"
       },
       {
-        "name": "ACCDN (1080p)",
-        "logo": "https://i.imgur.com/V6Kaqha.png",
-        "id": "ACCDigitalNetwork.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "ACI Sport TV (1080p)",
+        "name": "ACI Sport TV SD (1080p)",
         "logo": "https://i.imgur.com/U8cHMOt.png",
         "id": "ACISportTV.it@SD",
         "group": "Sports",
@@ -843,16 +833,6 @@
         "category": "sports"
       },
       {
-        "name": "Alkass SHOOF (1080p)",
-        "logo": "https://shoof.alkass.net/assets/images/shoof.png",
-        "id": "AlkassSHOOF.qa@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "Alkass SHOOF 2 (1080p)",
         "logo": "https://shoof.alkass.net/assets/images/shoof2.png",
         "id": "AlkassSHOOF2.qa@SD",
@@ -863,6 +843,16 @@
         "category": "sports"
       },
       {
+        "name": "Alkass SHOOF (1080p)",
+        "logo": "https://shoof.alkass.net/assets/images/shoof.png",
+        "id": "AlkassSHOOF.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/shooflive/main.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "Alkass Six (1080p)",
         "logo": "https://i.imgur.com/CrPSPSC.png",
         "id": "AlkassSix.qa@SD",
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Alkass Three (1080p)",
+        "logo": "https://i.imgur.com/d57BdFh.png",
+        "id": "AlkassThree.qa@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://liveeu-gcp.alkassdigital.net/alkass3-p/main.m3u8",
         "category": "sports"
       }
     ],
@@ -882,16 +882,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://176.118.197.101/1HD/index.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "1HD Music Television (1080p)",
-        "logo": "https://i.imgur.com/4Ww7CsR.png",
-        "id": "1HDMusicTelevision.ru@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
         "category": "music"
       },
       {
@@ -915,13 +905,23 @@
         "category": "music"
       },
       {
-        "name": "4 Kurd",
+        "name": "4Kurd",
         "logo": "https://www.aparatchi.com/images/chanells-logo/4kurd.svg",
         "id": "4Kurd.fr@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
         "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "4 Music",
+        "logo": "",
+        "id": "4Music.fr@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://musichls.persiana.live/hls/stream.m3u8",
         "category": "music"
       },
       {
@@ -1070,15 +1070,6 @@
         "category": "music"
       },
       {
-        "name": "Maison Ikkoku",
-        "url": "https://www.themoviedb.org/tv/43018",
-        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
-        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Love From Today",
         "url": "https://www.themoviedb.org/tv/62607",
         "logo": "https://image.tmdb.org/t/p/w92/iwnzlAHIWfSGVEbtdpOUafHTzPu.jpg",
@@ -1088,10 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "My Daughter, Geum Sa-Wol",
-        "url": "https://www.themoviedb.org/tv/64040",
-        "logo": "https://image.tmdb.org/t/p/w92/vco43NA1Hn8qthz95n1hkRKyK3P.jpg",
-        "desc": "A family has been dismantled by revenge and hate, but Geum Sa-Wol (Baek Jin-Hee) attempts to build up a dream house for ",
+        "name": "Maison Ikkoku",
+        "url": "https://www.themoviedb.org/tv/43018",
+        "logo": "https://image.tmdb.org/t/p/w92/6jN5iROb8bwm8RSjeKw4OXh93Xo.jpg",
+        "desc": "Godai is a ronin (someone who has failed university entrance exams) living in a run down apartment house called Maison I",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Save the Family",
+        "url": "https://www.themoviedb.org/tv/64304",
+        "logo": "https://image.tmdb.org/t/p/w92/7cpgEtTYPkWZGRbMTGGBg4Z05g0.jpg",
+        "desc": "Jung Woo Jin is an ambitious doctor. After he failed in love, he no longer believes in true love. He views marriage as j",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1199,7 +1199,7 @@
         "category": "entertainment"
       },
       {
-        "name": "13 Entretención (720p)",
+        "name": "13E (720p)",
         "logo": "https://i.imgur.com/utI1tJV.png",
         "id": "13E.cl@SD",
         "group": "Entertainment",
@@ -1229,7 +1229,7 @@
         "category": "entertainment"
       },
       {
-        "name": "20 Mediaset [Geo-blocked]",
+        "name": "20 [Geo-blocked]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
         "id": "20.it@SD",
         "group": "Entertainment",
@@ -1259,7 +1259,7 @@
         "category": "entertainment"
       },
       {
-        "name": "13 Prime (720p)",
+        "name": "13P (720p)",
         "logo": "https://i.imgur.com/R6D228s.png",
         "id": "13P.cl@SD",
         "group": "Lifestyle",
@@ -1306,6 +1306,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Antiques Road Trip (1080p)",
+        "logo": "https://i.imgur.com/kkm7VqV.png",
+        "id": "AntiquesRoadTrip.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1389,16 +1399,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "Come Home Love: Lo and Behold",
         "url": "https://www.themoviedb.org/tv/91759",
         "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
@@ -1417,10 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Uusi Päivä",
-        "url": "https://www.themoviedb.org/tv/54999",
-        "logo": "https://image.tmdb.org/t/p/w92/6S1Ic9YTc24azvC2XgIxSpcdEF2.jpg",
-        "desc": "Set in the small town of Virtaus, the series follows the lives of the town’s residents—both young and old—through their ",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,19 +1435,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Cuisines des terroirs",
-        "url": "https://www.themoviedb.org/tv/97193",
-        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
-        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
+        "name": "Uusi Päivä",
+        "url": "https://www.themoviedb.org/tv/54999",
+        "logo": "https://image.tmdb.org/t/p/w92/6S1Ic9YTc24azvC2XgIxSpcdEF2.jpg",
+        "desc": "Set in the small town of Virtaus, the series follows the lives of the town’s residents—both young and old—through their ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1457,6 +1448,15 @@
         "url": "https://www.themoviedb.org/tv/73870",
         "logo": "https://image.tmdb.org/t/p/w92/wZ8n9gzzHxLeH6e0XW42CBKVnaP.jpg",
         "desc": "Two teams composed of a known personality and a contestant chosen from the public battle to guess the outcomes of astoni",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Cuisines des terroirs",
+        "url": "https://www.themoviedb.org/tv/97193",
+        "logo": "https://image.tmdb.org/t/p/w92/hcuxDzMzV8n5DGDwLZNt3IC8cLB.jpg",
+        "desc": "A sensual approach to culinary art \"on the ground\", meeting farmers, winegrowers, restaurateurs and cooks, where gastron",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1484,7 +1484,7 @@
         "category": "cooking"
       },
       {
-        "name": "13 Prime (720p)",
+        "name": "13P (720p)",
         "logo": "https://i.imgur.com/R6D228s.png",
         "id": "13P.cl@SD",
         "group": "Lifestyle",
@@ -1531,6 +1531,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Antiques Road Trip (1080p)",
+        "logo": "https://i.imgur.com/kkm7VqV.png",
+        "id": "AntiquesRoadTrip.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
         "category": "cooking"
       },
       {
@@ -1612,16 +1622,6 @@
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "cooking"
-      },
-      {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
-        "category": "cooking"
       }
     ],
     "travel": [
@@ -1636,7 +1636,7 @@
         "category": "travel"
       },
       {
-        "name": "BamBarBia TV (720p) [Not 24/7]",
+        "name": "BamBarBia.TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/zdRvy87.png",
         "id": "BamBarBiaTV.ua@SD",
         "group": "Travel",
@@ -1716,16 +1716,6 @@
         "category": "travel"
       },
       {
-        "name": "Go USA TV (720p)",
-        "logo": "https://i.imgur.com/x90ALip.png",
-        "id": "GoUSATV.us@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
-        "category": "travel"
-      },
-      {
         "name": "GoTraveler (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/IaRcN1G.png",
         "id": "GoTraveler.us@SD",
@@ -1736,7 +1726,17 @@
         "category": "travel"
       },
       {
-        "name": "InTravel (1080p)",
+        "name": "GoUSA TV (720p)",
+        "logo": "https://i.imgur.com/x90ALip.png",
+        "id": "GoUSATV.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "INTRAVEL (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
         "id": "INTRAVEL.nl@Philippines",
         "group": "Travel",
@@ -1756,7 +1756,7 @@
         "category": "travel"
       },
       {
-        "name": "JOURNY TV (720p)",
+        "name": "Journy (720p)",
         "logo": "https://i.imgur.com/1JNrLxq.png",
         "id": "Journy.us@SD",
         "group": "Travel",
@@ -1766,19 +1766,19 @@
         "category": "travel"
       },
       {
-        "name": "Living Asia Channel (1080p)",
-        "logo": "https://i.imgur.com/q3UToRM.png",
-        "id": "LivingAsiaChannel.ph@HD",
+        "name": "KNOV-CD 41.1 (720p)",
+        "logo": "https://i.imgur.com/D7Lzqyl.png",
+        "id": "KNOVCD411.us@HD",
         "group": "Travel",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
+        "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
         "category": "travel"
       }
     ],
     "politics": [
       {
-        "name": "2GB Sydney (1080p)",
+        "name": "2GB (1080p)",
         "logo": "https://i.ibb.co/jwM8DFG/2GB-1.png",
         "id": "2GB.au@SD",
         "group": "News",
@@ -1788,7 +1788,7 @@
         "category": "politics"
       },
       {
-        "name": "3AW Melbourne (1080p)",
+        "name": "3AW (1080p)",
         "logo": "https://i.imgur.com/Z4MdB0S.png",
         "id": "3AW.au@SD",
         "group": "News",
@@ -1798,7 +1798,7 @@
         "category": "politics"
       },
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
         "logo": "https://i.ibb.co/1fb5BtN/unnamed.png",
         "id": "4DmasNoticiasTV.py@SD",
         "group": "News",
@@ -1828,7 +1828,7 @@
         "category": "politics"
       },
       {
-        "name": "6PR Perth (1080p)",
+        "name": "6PR (1080p)",
         "logo": "https://i.imgur.com/Q9iCxg1.png",
         "id": "6PR.au@SD",
         "group": "News",
@@ -1918,7 +1918,7 @@
         "category": "politics"
       },
       {
-        "name": "24 Horas (1080p)",
+        "name": "24 Horas (Chile) (1080p)",
         "logo": "https://i.imgur.com/CEE9zPe.png",
         "id": "24Horas.cl@SD",
         "group": "News",
@@ -1968,7 +1968,7 @@
         "category": "politics"
       },
       {
-        "name": "1Almere TV (720p)",
+        "name": "1AlmereTV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
         "group": "General",
@@ -2048,7 +2048,7 @@
         "category": "politics"
       },
       {
-        "name": "2TV (720p)",
+        "name": "2 TV (720p)",
         "logo": "https://i.imgur.com/FJBL6zI.png",
         "id": "2TV.ge@SD",
         "group": "General",
@@ -2130,13 +2130,23 @@
         "category": "business"
       },
       {
-        "name": "ausbiz TV (720p) [Not 24/7]",
+        "name": "Ausbiz TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/8vGGdB0.png",
         "id": "AusbizTV.au@SD",
         "group": "Business",
         "source": "iptv-org",
         "type": "live",
         "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg HT (720p)",
+        "logo": "https://i.imgur.com/bmkXfIE.png",
+        "id": "BloombergHT.tr@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
         "category": "business"
       },
       {
@@ -2147,6 +2157,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8",
+        "category": "business"
+      },
+      {
+        "name": "Bloomberg TV + (2160p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "id": "BloombergTV.us@Plus",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d8975dc3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9CbG9vbWJlcmdUVlBsdXNfSExT/playlist.m3u8",
         "category": "business"
       },
       {
@@ -2180,16 +2200,6 @@
         "category": "business"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Business\",Bloomberg TV Bulgaria",
-        "logo": "https://i.imgur.com/cHwOVqk.png",
-        "id": "BloombergTVBulgaria.bg@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://213.91.179.28:8000/play/a04m",
-        "category": "business"
-      },
-      {
         "name": "Bloomberg TV EMEA Live Event (720p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@EMEALiveEvent",
@@ -2210,17 +2220,7 @@
         "category": "business"
       },
       {
-        "name": "like Gecko) Chrome/144.0.0.0 Safari/537.36\" group-title=\"Business\",Bloomberg TV Mongolia HD (1080p)",
-        "logo": "https://www.mongolsat.mn/assets/img/channel/44.png",
-        "id": "BloombergTVMongolia.mn@SD",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg TV US Live Event (720p)",
+        "name": "Bloomberg TV Live Event (720p)",
         "logo": "https://i.imgur.com/OuogLHx.png",
         "id": "BloombergTV.us@LiveEvent",
         "group": "Business",
@@ -2242,7 +2242,7 @@
         "category": "health"
       },
       {
-        "name": "13 Prime (720p)",
+        "name": "13P (720p)",
         "logo": "https://i.imgur.com/R6D228s.png",
         "id": "13P.cl@SD",
         "group": "Lifestyle",
@@ -2289,6 +2289,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Antiques Road Trip (1080p)",
+        "logo": "https://i.imgur.com/kkm7VqV.png",
+        "id": "AntiquesRoadTrip.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8",
         "category": "health"
       },
       {
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "health"
       }
     ],
@@ -2524,13 +2524,13 @@
         "category": "kids"
       },
       {
-        "name": "Baby Shark TV",
+        "name": "Baby Shark TV (1080p)",
         "logo": "https://i.imgur.com/SbBKr8L.png",
-        "id": "BabySharkTV.us@Poland",
+        "id": "BabySharkTV.us@SD",
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8",
+        "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
         "category": "kids"
       },
       {
@@ -2538,15 +2538,6 @@
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
         "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "The Daily Fable",
-        "url": "https://www.themoviedb.org/tv/35007",
-        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
-        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2561,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Daily Fable",
+        "url": "https://www.themoviedb.org/tv/35007",
+        "logo": "https://image.tmdb.org/t/p/w92/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+        "desc": "Fabeltjeskrant [ 'faːbəɫcəskrɑnt] is a Dutch children's television series featuring puppetry and stop motion. Created in",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Goof Troop",
+        "url": "https://www.themoviedb.org/tv/2235",
+        "logo": "https://image.tmdb.org/t/p/w92/vfUUKRmfKkxo7TOEOjWZ1xRHOH.jpg",
+        "desc": "Goofy is a single father raising his son, Max in Spoonerville. As it happens, Goofy and Max end up moving in next door t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2658,7 +2658,7 @@
         "category": "animation"
       },
       {
-        "name": "ANIME x HIDIVE",
+        "name": "Anime x HIDIVE",
         "logo": "https://i.imgur.com/v0BlxCa.png",
         "id": "AnimexHIDIVE.us@SD",
         "group": "Animation",
@@ -2688,7 +2688,7 @@
         "category": "animation"
       },
       {
-        "name": "Daria",
+        "name": "Daria (Germany)",
         "logo": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
         "id": "Daria.de@FR",
         "group": "Animation",
@@ -2708,16 +2708,6 @@
         "category": "animation"
       },
       {
-        "name": "DreamWorks Channel Latin America (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
-        "id": "DreamWorksChannelLatinAmerica.us@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://138.121.15.230:9002/DREAMWORKS/index.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "Dreiko TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/k8U0e0b.png",
         "id": "DreikoTV.pa@SD",
@@ -2728,17 +2718,7 @@
         "category": "animation"
       },
       {
-        "name": "EnerGeek (720p) [Not 24/7]",
-        "logo": "https://cdn.energeek.cl/logos/EG-Retro-2025_pfp.png",
-        "id": "EnerGeek.cl@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH",
-        "category": "animation"
-      },
-      {
-        "name": "EnerGeek Fan (1080p)",
+        "name": "EnerGeek FAN (1080p)",
         "logo": "https://cdn.energeek.cl/logos/EG-Fan-2025_pfp.png",
         "id": "EnerGeekFAN.cl@SD",
         "group": "Animation",
@@ -2755,6 +2735,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "ETC TV (1080p)",
+        "logo": "https://i.postimg.cc/RVYgh7h9/ETC-Logo.png",
+        "id": "ETCTV.cl@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "FilmRise Anime (720p)",
+        "logo": "https://i.imgur.com/3wqeGXM.png",
+        "id": "FilmRiseAnime.us@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
         "category": "animation"
       },
       {
@@ -2872,7 +2872,7 @@
         "category": "general"
       },
       {
-        "name": "1Almere TV (720p)",
+        "name": "1AlmereTV (720p)",
         "logo": "https://i.imgur.com/XfkbTrU.png",
         "id": "1AlmereTV.nl@SD",
         "group": "General",
@@ -2952,7 +2952,7 @@
         "category": "general"
       },
       {
-        "name": "2TV (720p)",
+        "name": "2 TV (720p)",
         "logo": "https://i.imgur.com/FJBL6zI.png",
         "id": "2TV.ge@SD",
         "group": "General",
