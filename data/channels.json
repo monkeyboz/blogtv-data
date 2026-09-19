@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:51:18.287Z",
+  "updated": "2026-09-19T09:48:48.740Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,15 +432,6 @@
         "category": "technology"
       },
       {
-        "name": "A Record of a Mortal's Journey to Immortality",
-        "url": "https://www.themoviedb.org/tv/106449",
-        "logo": "https://image.tmdb.org/t/p/w92/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-        "desc": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/mBcu8d6x6zB1el3MPNl7cZQEQ31.jpg",
         "desc": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2803,15 +2803,6 @@
         "category": "animation"
       },
       {
-        "name": "A Record of a Mortal's Journey to Immortality",
-        "url": "https://www.themoviedb.org/tv/106449",
-        "logo": "https://image.tmdb.org/t/p/w92/rXX12X3Lx7jmlvfUc3glIwJVLCH.jpg",
-        "desc": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "REBORN!",
         "url": "https://www.themoviedb.org/tv/45857",
         "logo": "https://image.tmdb.org/t/p/w92/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
@@ -2825,6 +2816,15 @@
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
