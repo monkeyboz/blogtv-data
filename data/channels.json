@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T01:53:46.070Z",
+  "updated": "2026-09-20T10:10:29.055Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "JAG",
+        "url": "https://www.themoviedb.org/tv/4376",
+        "logo": "https://image.tmdb.org/t/p/w92/zPyHpkJZ5O08lbgrQQIROXtb3xz.jpg",
+        "desc": "Harmon \"Harm\" Rabb Jr. is a former pilot turned lawyer working for the military's JAG (Judge Advocate General) division,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
