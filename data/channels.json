@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:58:12.342Z",
+  "updated": "2026-09-20T19:52:52.042Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,15 +304,6 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -322,10 +313,19 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,28 +340,10 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Siyaset Meydanı",
-        "url": "https://www.themoviedb.org/tv/49497",
-        "logo": "https://image.tmdb.org/t/p/w92/5OMGxnxXUqptJaCzeOBkRJWkKlK.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -371,6 +353,24 @@
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
         "desc": "Every evening at 6:45 p.m. sharp, a prominent guest takes a seat on the red sofa—and DAS! provides daily updates on what",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Have I Got a Bit More News for You",
+        "url": "https://www.themoviedb.org/tv/44337",
+        "logo": "https://image.tmdb.org/t/p/w92/aOZuKQ2uWRfZPzn61bnzQT5LhMR.jpg",
+        "desc": "Based on the week’s news and fronted by guest hosts, this extended version of the satirical news quiz features more of t",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1408,6 +1408,15 @@
         "category": "entertainment"
       },
       {
+        "name": "What's My Line?",
+        "url": "https://www.themoviedb.org/tv/26663",
+        "logo": "https://image.tmdb.org/t/p/w92/A9T7xSQFnlxFgZkqC4lmHYPXhq4.jpg",
+        "desc": "Four panelists must determine guests' occupations - and, in the case of famous guests, while blindfolded, their identity",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1426,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Uusi Päivä",
-        "url": "https://www.themoviedb.org/tv/54999",
-        "logo": "https://image.tmdb.org/t/p/w92/6S1Ic9YTc24azvC2XgIxSpcdEF2.jpg",
-        "desc": "Set in the small town of Virtaus, the series follows the lives of the town’s residents—both young and old—through their ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Among Friends",
         "url": "https://www.themoviedb.org/tv/50821",
         "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
@@ -1444,28 +1444,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Génial!",
-        "url": "https://www.themoviedb.org/tv/73870",
-        "logo": "https://image.tmdb.org/t/p/w92/wZ8n9gzzHxLeH6e0XW42CBKVnaP.jpg",
-        "desc": "Two teams composed of a known personality and a contestant chosen from the public battle to guess the outcomes of astoni",
+        "name": "Uusi Päivä",
+        "url": "https://www.themoviedb.org/tv/54999",
+        "logo": "https://image.tmdb.org/t/p/w92/6S1Ic9YTc24azvC2XgIxSpcdEF2.jpg",
+        "desc": "Set in the small town of Virtaus, the series follows the lives of the town’s residents—both young and old—through their ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Pushpa Impossible",
-        "url": "https://www.themoviedb.org/tv/203769",
-        "logo": "https://image.tmdb.org/t/p/w92/jInpgPiN2KnTFAu2mtIbFJtFp7A.jpg",
-        "desc": "Pushpa Impossible is the story about a feisty middle-aged woman having studied until grade 9 in a Gujarati medium school",
+        "name": "Touched by an Angel",
+        "url": "https://www.themoviedb.org/tv/2243",
+        "logo": "https://image.tmdb.org/t/p/w92/jiSv0xNx6MGhAFfv05Ov7DgDELJ.jpg",
+        "desc": "Monica, an angel, is tasked with bringing guidance and messages from God to various people who are at a crossroads in th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Horogouri Pice Hotel",
-        "url": "https://www.themoviedb.org/tv/282075",
-        "logo": "https://image.tmdb.org/t/p/w92/nLHjbWedQpmaOYJGb7F3qYBAovv.jpg",
-        "desc": "Raised in an orphanage, Shankar and Oishani's daughter Dhriti has a pappening life. And enters Rudra, leading her into t",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "REBORN!",
-        "url": "https://www.themoviedb.org/tv/45857",
-        "logo": "https://image.tmdb.org/t/p/w92/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
-        "desc": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has bee",
+        "name": "Regular Show",
+        "url": "https://www.themoviedb.org/tv/31132",
+        "logo": "https://image.tmdb.org/t/p/w92/mS5SLxMYcKfUxA0utBSR5MOAWWr.jpg",
+        "desc": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
