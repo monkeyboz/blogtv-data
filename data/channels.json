@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T19:52:52.042Z",
+  "updated": "2026-09-21T01:55:04.380Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2699,7 +2699,7 @@
       },
       {
         "name": "DreamWorks Channel Asia (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png",
+        "logo": "",
         "id": "DreamWorksChannelAsia.us@SD",
         "group": "Animation",
         "source": "iptv-org",
@@ -2748,13 +2748,13 @@
         "category": "animation"
       },
       {
-        "name": "FilmRise Anime (720p)",
-        "logo": "https://i.imgur.com/3wqeGXM.png",
-        "id": "FilmRiseAnime.us@SD",
+        "name": "Geekdot (720p)",
+        "logo": "https://i.imgur.com/jML1u4O.png",
+        "id": "Geekdot.br@SD",
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://dvu7aia8rjlfm.cloudfront.net/master.m3u8",
+        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
         "category": "animation"
       },
       {
