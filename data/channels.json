@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:32:45.495Z",
+  "updated": "2026-09-23T02:00:40.117Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -425,7 +425,7 @@
       {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
@@ -2688,16 +2688,6 @@
         "category": "animation"
       },
       {
-        "name": "Daria (Germany)",
-        "logo": "https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png",
-        "id": "Daria.de@FR",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "DreamWorks Channel Asia (1080p)",
         "logo": "",
         "id": "DreamWorksChannelAsia.us@SD",
@@ -2758,6 +2748,16 @@
         "category": "animation"
       },
       {
+        "name": "Gong (1080p)",
+        "logo": "https://i.imgur.com/lA9UFMG.png",
+        "id": "Gong.fr@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "American Dad!",
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
@@ -2787,7 +2787,7 @@
       {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
