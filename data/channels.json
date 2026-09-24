@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:44:41.587Z",
+  "updated": "2026-09-24T01:49:34.708Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -723,13 +723,53 @@
     ],
     "sports": [
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.36\" group-title=\"Sports\",5Sport (1080p)",
+        "name": "5Gold (1080p)",
+        "logo": "https://i.imgur.com/zFLRfXh.png",
+        "id": "5Gold.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://str2.iptvhd.ru:8080/sport5gold/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Live (1080p)",
+        "logo": "https://i.imgur.com/0yr3yvd.png",
+        "id": "5Live.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://str2.iptvhd.ru:8080/5live/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Plus (1080p)",
+        "logo": "https://i.imgur.com/L3RA9Lv.png",
+        "id": "5Plus.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Sport 4K (2160p)",
+        "logo": "https://i.imgur.com/Msfhpqd.png",
+        "id": "5Sport4K.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Sport (1080p)",
         "logo": "https://i.imgur.com/dRVsB89.png",
         "id": "5Sport.il@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://stream.mcquack.net/41/index.m3u8",
+        "url": "http://str2.iptvhd.ru:8080/5sport/index.m3u8",
         "category": "sports"
       },
       {
@@ -830,46 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 2",
-        "logo": "https://i.imgur.com/Yq3Jf19.png",
-        "id": "ArenaSport2.sk@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 5 Premium",
-        "logo": "",
-        "id": "ArenaSport5Premium.rs@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://nl1.nghk.ai/SK2SRHD/index.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Arryadia",
-        "logo": "https://i.imgur.com/XjzK3gZ.png",
-        "id": "Arryadia.ma@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "AS3 Sport TV (1080p)",
-        "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
-        "id": "AS3SportTV.ve@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
         "category": "sports"
       }
     ],
@@ -1726,16 +1726,6 @@
         "category": "travel"
       },
       {
-        "name": "GoUSA TV (720p)",
-        "logo": "https://i.imgur.com/x90ALip.png",
-        "id": "GoUSATV.us@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://brandusa-gousa-1-be.samsung.wurl.tv/playlist.m3u8",
-        "category": "travel"
-      },
-      {
         "name": "INTRAVEL (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png",
         "id": "INTRAVEL.nl@Philippines",
@@ -1773,6 +1763,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Living Asia Channel (1080p)",
+        "logo": "https://i.imgur.com/q3UToRM.png",
+        "id": "LivingAsiaChannel.ph@HD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
