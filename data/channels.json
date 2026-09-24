@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:35:52.940Z",
+  "updated": "2026-09-24T15:59:14.332Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Danni Lowinski",
-        "url": "https://www.themoviedb.org/tv/49931",
-        "logo": "https://image.tmdb.org/t/p/w92/ur3akvTLdk66uDcTv3jFzoL7qfL.jpg",
-        "desc": "Danni Lowinski is a hairdresser in need of money who decides to become a lawyer.",
+        "name": "Hwajung",
+        "url": "https://www.themoviedb.org/tv/62409",
+        "logo": "https://image.tmdb.org/t/p/w92/kJw73nXlDxooReri4hW5gC48Dou.jpg",
+        "desc": "Fair Princess Jungmyung lives a life of the highest privilege, until her half-brother Prince Gwanghae executes the right",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Brave Woman",
+        "url": "https://www.themoviedb.org/tv/46126",
+        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
+        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2785,6 +2785,15 @@
         "category": "animation"
       },
       {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
@@ -2794,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "REBORN!",
+        "url": "https://www.themoviedb.org/tv/45857",
+        "logo": "https://image.tmdb.org/t/p/w92/ewYjHmmyxIaM3heRO0eZaOA6xo2.jpg",
+        "desc": "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything around Tsuna has bee",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/30984",
         "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
         "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
