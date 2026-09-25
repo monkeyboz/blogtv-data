@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:50:40.867Z",
+  "updated": "2026-09-25T02:06:00.952Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -773,6 +773,16 @@
         "category": "sports"
       },
       {
+        "name": "5Stars (1080p)",
+        "logo": "https://i.imgur.com/IQtAKIa.png",
+        "id": "5Stars.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "30A Golf Kingdom (720p)",
         "logo": "https://i.imgur.com/Lv53nh4.png",
         "id": "30AGolfKingdom.us@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 1",
-        "logo": "https://i.imgur.com/2qf67zW.png",
-        "id": "ArenaSport1.sk@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
         "category": "sports"
       }
     ],
