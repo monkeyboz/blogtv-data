@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T20:15:32.537Z",
+  "updated": "2026-09-27T02:04:16.807Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -863,13 +863,13 @@
         "category": "sports"
       },
       {
-        "name": "Alkass Three (720p)",
-        "logo": "https://i.imgur.com/d57BdFh.png",
-        "id": "AlkassThree.qa@SD",
+        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 1",
+        "logo": "https://i.imgur.com/2qf67zW.png",
+        "id": "ArenaSport1.sk@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8",
+        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
         "category": "sports"
       }
     ],
@@ -2698,6 +2698,16 @@
         "category": "animation"
       },
       {
+        "name": "DreamWorks Channel Latin America",
+        "logo": "",
+        "id": "DreamWorksChannelLatinAmerica.us@Panregional",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://xyktmobile00.s.gy/PPV913_DREAMWO",
+        "category": "animation"
+      },
+      {
         "name": "Dreiko TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/k8U0e0b.png",
         "id": "DreikoTV.pa@SD",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Gong (1080p)",
-        "logo": "https://i.imgur.com/lA9UFMG.png",
-        "id": "Gong.fr@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
         "category": "animation"
       },
       {
