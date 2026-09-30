@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T21:33:59.025Z",
+  "updated": "2026-09-30T02:36:58.673Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,15 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Game of Thrones",
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
@@ -445,6 +436,15 @@
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
         "desc": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined whe",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1219,6 +1219,16 @@
         "category": "entertainment"
       },
       {
+        "name": "13 Ulica (1080p)",
+        "logo": "https://i.imgur.com/0gCNnLq.png",
+        "id": "13Ulica.pl@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://57.128.231.171:8080/325/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "16 Anni e Incinta",
         "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
         "id": "16AnnieIncinta.de@IT",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "30A Sidewalks (720p)",
-        "logo": "https://i.imgur.com/HSdwqZN.png",
-        "id": "30ASidewalks.us@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/sidewalks.m3u8",
         "category": "entertainment"
       },
       {
@@ -1369,6 +1369,16 @@
         "category": "entertainment"
       },
       {
+        "name": "BBC Lifestyle Poland (1080p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://57.128.231.171:8080/305/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1594,6 +1594,16 @@
         "category": "cooking"
       },
       {
+        "name": "BBC Lifestyle Poland (1080p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://57.128.231.171:8080/305/index.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -2352,6 +2352,16 @@
         "category": "health"
       },
       {
+        "name": "BBC Lifestyle Poland (1080p)",
+        "logo": "https://i.imgur.com/9mzJJ3y.png",
+        "id": "BBCLifestyle.uk@Poland",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://57.128.231.171:8080/305/index.m3u8",
+        "category": "health"
+      },
+      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "health"
       }
     ],
@@ -2805,7 +2805,7 @@
       {
         "name": "Mushoku Tensei: Jobless Reincarnation",
         "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
