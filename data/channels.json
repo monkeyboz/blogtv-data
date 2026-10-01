@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T02:40:40.921Z",
+  "updated": "2026-10-01T11:54:35.235Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,15 +488,6 @@
     ],
     "science": [
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Vetenskapens värld",
         "url": "https://www.themoviedb.org/tv/5859",
         "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
@@ -546,6 +537,15 @@
         "url": "https://www.themoviedb.org/tv/90",
         "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
         "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
