@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T17:34:44.565Z",
+  "updated": "2026-10-01T22:03:08.947Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,6 +423,15 @@
         "category": "technology"
       },
       {
+        "name": "C.I.D.",
+        "url": "https://www.themoviedb.org/tv/15226",
+        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Kamen Rider",
         "url": "https://www.themoviedb.org/tv/2661",
         "logo": "https://image.tmdb.org/t/p/w92/2DIBDFHiKQawz4WPsYekl9DHwyA.jpg",
@@ -432,10 +441,10 @@
         "category": "technology"
       },
       {
-        "name": "C.I.D.",
-        "url": "https://www.themoviedb.org/tv/15226",
-        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
+        "name": "JoJo's Bizarre Adventure",
+        "url": "https://www.themoviedb.org/tv/45790",
+        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/94664",
         "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
         "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "JoJo's Bizarre Adventure",
-        "url": "https://www.themoviedb.org/tv/45790",
-        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,15 +488,6 @@
     ],
     "science": [
       {
-        "name": "Vetenskapens värld",
-        "url": "https://www.themoviedb.org/tv/5859",
-        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
-        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "20/20",
         "url": "https://www.themoviedb.org/tv/2035",
         "logo": "https://image.tmdb.org/t/p/w92/cmqmilQ6l9zAWImNCvRLtXlvQ3Q.jpg",
@@ -506,37 +497,10 @@
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Vetenskapens värld",
+        "url": "https://www.themoviedb.org/tv/5859",
+        "logo": "https://image.tmdb.org/t/p/w92/oiedjExoTFB9kXvV5oQPGi57oZt.jpg",
+        "desc": "Vetenskapens värld is a popular science TV documentary program broadcast on Swedish Television (SVT).",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +515,46 @@
         "category": "science"
       },
       {
-        "name": "The South Bank Show",
-        "url": "https://www.themoviedb.org/tv/2448",
-        "logo": "https://image.tmdb.org/t/p/w92/QBT2EAFORGpvrCY2sVLbrSj8tS.jpg",
-        "desc": "The South Bank Show is a television arts magazine show produced by ITV between 1978 and 2010. A new series began on Sky ",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/318058",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Capitão Furacão",
+        "url": "https://www.themoviedb.org/tv/227292",
+        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
+        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Capitão Furacão",
-        "url": "https://www.themoviedb.org/tv/227292",
-        "logo": "https://image.tmdb.org/t/p/w92/8xQdqtAKFVyYlAVnI6Jcpbpp2PI.jpg",
-        "desc": "\"Capitão Furacão\" premiered on TV Globo's launch day, April 26, 1965, with the motto \"Always alert and obedient!\" The ch",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Ninjago: Masters of Spinjitzu",
-        "url": "https://www.themoviedb.org/tv/38693",
-        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Rugrats",
-        "url": "https://www.themoviedb.org/tv/3022",
-        "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
-        "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
