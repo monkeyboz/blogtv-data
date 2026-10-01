@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T21:34:33.696Z",
+  "updated": "2026-10-01T02:40:40.921Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -50,7 +50,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
+        "url": "http://51.75.127.199:3141/4tv/index.m3u8",
         "category": "news"
       },
       {
@@ -945,6 +945,16 @@
         "category": "music"
       },
       {
+        "name": "7X Music (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+        "id": "7XMusic.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://51.75.127.199:3141/7xmusic/index.m3u8",
+        "category": "music"
+      },
+      {
         "name": "8XM HD",
         "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
         "id": "8XM.pk@HD",
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "30A Music (720p)",
-        "logo": "https://i.imgur.com/gNWg9tl.png",
-        "id": "30AMusic.us@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/music.m3u8",
         "category": "music"
       },
       {
@@ -1824,7 +1824,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
+        "url": "http://51.75.127.199:3141/4tv/index.m3u8",
         "category": "politics"
       },
       {
@@ -2760,7 +2760,7 @@
       {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "name": "Re:ZERO -Starting Life in Another World-",
+        "url": "https://www.themoviedb.org/tv/65942",
+        "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
+        "desc": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
