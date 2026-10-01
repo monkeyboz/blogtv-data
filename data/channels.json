@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T11:54:35.235Z",
+  "updated": "2026-10-01T17:34:44.565Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,15 +304,6 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Tagesschau",
         "url": "https://www.themoviedb.org/tv/94722",
         "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
@@ -322,10 +313,10 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,10 +331,10 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -353,6 +344,15 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "Ef: A Tale Of Memories & Melodies",
-        "url": "https://www.themoviedb.org/tv/27866",
-        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
-        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Cross Game",
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
@@ -1079,10 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Ef: A Tale Of Memories & Melodies",
+        "url": "https://www.themoviedb.org/tv/27866",
+        "logo": "https://image.tmdb.org/t/p/w92/itaApgjIrAKzgnGIjGIMYN6VnSP.jpg",
+        "desc": "On Christmas Eve, Hiro Hirono meets a girl named Miyako Miyamura as she chases a purse snatcher. Hiro later finds out th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,6 +1435,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Against the Current",
         "url": "https://www.themoviedb.org/tv/282326",
         "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Diagnosis: Murder",
-        "url": "https://www.themoviedb.org/tv/2625",
-        "logo": "https://image.tmdb.org/t/p/w92/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
-        "desc": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,19 +2803,19 @@
         "category": "animation"
       },
       {
-        "name": "Mushoku Tensei: Jobless Reincarnation",
-        "url": "https://www.themoviedb.org/tv/94664",
-        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
+        "name": "JoJo's Bizarre Adventure",
+        "url": "https://www.themoviedb.org/tv/45790",
+        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "JoJo's Bizarre Adventure",
-        "url": "https://www.themoviedb.org/tv/45790",
-        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
+        "name": "Mushoku Tensei: Jobless Reincarnation",
+        "url": "https://www.themoviedb.org/tv/94664",
+        "logo": "https://image.tmdb.org/t/p/w92/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+        "desc": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as a",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
