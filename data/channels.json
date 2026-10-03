@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T21:29:08.554Z",
+  "updated": "2026-10-03T02:31:11.176Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1428,7 +1428,7 @@
       {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
         "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Re:ZERO -Starting Life in Another World-",
-        "url": "https://www.themoviedb.org/tv/65942",
-        "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "desc": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself t",
+        "name": "JoJo's Bizarre Adventure",
+        "url": "https://www.themoviedb.org/tv/45790",
+        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "JoJo's Bizarre Adventure",
-        "url": "https://www.themoviedb.org/tv/45790",
-        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
