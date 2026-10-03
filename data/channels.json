@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T02:31:11.176Z",
+  "updated": "2026-10-03T10:42:58.767Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,19 +304,19 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Re:ZERO -Starting Life in Another World-",
-        "url": "https://www.themoviedb.org/tv/65942",
-        "logo": "https://image.tmdb.org/t/p/w92/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg",
-        "desc": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself t",
+        "name": "JoJo's Bizarre Adventure",
+        "url": "https://www.themoviedb.org/tv/45790",
+        "logo": "https://image.tmdb.org/t/p/w92/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+        "desc": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -537,6 +528,15 @@
         "url": "https://www.themoviedb.org/tv/1181",
         "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
         "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Against the Current",
-        "url": "https://www.themoviedb.org/tv/282326",
-        "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-        "desc": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Frasier",
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
@@ -1457,6 +1448,15 @@
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
         "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Against the Current",
+        "url": "https://www.themoviedb.org/tv/282326",
+        "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+        "desc": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
