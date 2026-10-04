@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:02:22.439Z",
+  "updated": "2026-10-04T20:32:30.889Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -524,19 +524,10 @@
         "category": "science"
       },
       {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Oddity Archive",
-        "url": "https://www.themoviedb.org/tv/215920",
-        "logo": "https://image.tmdb.org/t/p/w92/xR3vmpzfzyhiEwaTO2BwUfeHY4a.jpg",
-        "desc": "The Oddity Archive is a web series that revolves around the \"cultural dustbin\", especially as it pertains to media. The ",
+        "name": "The South Bank Show",
+        "url": "https://www.themoviedb.org/tv/2448",
+        "logo": "https://image.tmdb.org/t/p/w92/QBT2EAFORGpvrCY2sVLbrSj8tS.jpg",
+        "desc": "The South Bank Show is a television arts magazine show produced by ITV between 1978 and 2010. A new series began on Sky ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +542,19 @@
         "category": "science"
       },
       {
-        "name": "The South Bank Show",
-        "url": "https://www.themoviedb.org/tv/2448",
-        "logo": "https://image.tmdb.org/t/p/w92/QBT2EAFORGpvrCY2sVLbrSj8tS.jpg",
-        "desc": "The South Bank Show is a television arts magazine show produced by ITV between 1978 and 2010. A new series began on Sky ",
+        "name": "Arena",
+        "url": "https://www.themoviedb.org/tv/2050",
+        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
+        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1417,19 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1444,6 +1435,24 @@
         "category": "entertainment"
       },
       {
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Against the Current",
         "url": "https://www.themoviedb.org/tv/282326",
         "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
@@ -1453,19 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Ninjago: Masters of Spinjitzu",
-        "url": "https://www.themoviedb.org/tv/38693",
-        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2812,10 +2812,10 @@
         "category": "animation"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
