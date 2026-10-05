@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T02:35:41.821Z",
+  "updated": "2026-10-05T12:48:04.225Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -490,7 +490,7 @@
       {
         "name": "20/20",
         "url": "https://www.themoviedb.org/tv/2035",
-        "logo": "https://image.tmdb.org/t/p/w92/cmqmilQ6l9zAWImNCvRLtXlvQ3Q.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/7PeIlDjm9KviwuXMmvc7w5RGGNm.jpg",
         "desc": "20/20 is an American television newsmagazine that has been broadcast on ABC since June 6, 1978. Created by ABC News exec",
         "source": "tmdb",
         "type": "info",
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Against the Current",
-        "url": "https://www.themoviedb.org/tv/282326",
-        "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
-        "desc": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned",
+        "name": "King of the Hill",
+        "url": "https://www.themoviedb.org/tv/2122",
+        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "King of the Hill",
-        "url": "https://www.themoviedb.org/tv/2122",
-        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
