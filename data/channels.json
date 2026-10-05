@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:32:30.889Z",
+  "updated": "2026-10-05T02:35:41.821Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1061,6 +1061,15 @@
         "category": "music"
       },
       {
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Cross Game",
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
@@ -1083,15 +1092,6 @@
         "url": "https://www.themoviedb.org/tv/46126",
         "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
         "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
