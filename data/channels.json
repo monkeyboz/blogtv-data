@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T23:23:50.555Z",
+  "updated": "2026-10-06T03:29:18.662Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -150,7 +150,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
         "category": "news"
       },
       {
@@ -895,6 +895,16 @@
         "category": "music"
       },
       {
+        "name": "4 Fun Dance",
+        "logo": "https://i.imgur.com/ZEWHe1B.png",
+        "id": "4FunDance.pl@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://92.114.85.87:8018/play/a00k/index.m3u8",
+        "category": "music"
+      },
+      {
         "name": "4 Fun TV (576i) [Not 24/7]",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
@@ -961,7 +971,7 @@
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8",
+        "url": "https://cdn4.mjunoon.tv:8087/streamtest/131M/chunks.m3u8",
         "category": "music"
       },
       {
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "15+ Music (1080p)",
-        "logo": "https://i.imgur.com/kj21hwd.png",
-        "id": "15PlusMusic.ru@HD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
         "category": "music"
       },
       {
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Against the Current",
+        "url": "https://www.themoviedb.org/tv/282326",
+        "logo": "https://image.tmdb.org/t/p/w92/euBlF64efQmsl2y54LeNmLQPNob.jpg",
+        "desc": "Shen Jialan, once a nobleman's granddaughter, falls from grace after her family is falsely accused of treason. Abandoned",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "King of the Hill",
-        "url": "https://www.themoviedb.org/tv/2122",
-        "logo": "https://image.tmdb.org/t/p/w92/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
-        "desc": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident s",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1924,7 +1924,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://cdn1tlinkgo.tlink.cl/24horashd/mono.m3u8",
+        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
         "category": "politics"
       },
       {
@@ -2738,16 +2738,6 @@
         "category": "animation"
       },
       {
-        "name": "ETC TV (1080p)",
-        "logo": "https://i.postimg.cc/RVYgh7h9/ETC-Logo.png",
-        "id": "ETCTV.cl@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://cdn1tlinkgo.tlink.cl/etc/mono.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "Geekdot (720p)",
         "logo": "https://i.imgur.com/jML1u4O.png",
         "id": "Geekdot.br@SD",
@@ -2755,6 +2745,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
+        "category": "animation"
+      },
+      {
+        "name": "Gong (1080p)",
+        "logo": "https://i.imgur.com/lA9UFMG.png",
+        "id": "Gong.fr@SD",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
         "category": "animation"
       },
       {
