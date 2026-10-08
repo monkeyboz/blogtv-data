@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:20:02.305Z",
+  "updated": "2026-10-08T03:11:13.178Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -905,13 +905,13 @@
         "category": "music"
       },
       {
-        "name": "4 Fun TV (576i) [Not 24/7]",
+        "name": "4 Fun TV",
         "logo": "https://i.imgur.com/rI1wo2l.png",
         "id": "4FunTV.pl@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+        "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
         "category": "music"
       },
       {
@@ -1686,6 +1686,16 @@
         "category": "travel"
       },
       {
+        "name": "Destination America (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/960px-Destination_America_logo.svg.png",
+        "id": "DestinationAmerica.us@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8",
+        "category": "travel"
+      },
+      {
         "name": "Discover Pakistan (1080p)",
         "logo": "https://i.imgur.com/IJH47fJ.png",
         "id": "DiscoverPakistan.pk@SD",
@@ -1763,16 +1773,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "Living Asia Channel (1080p)",
-        "logo": "https://i.imgur.com/q3UToRM.png",
-        "id": "LivingAsiaChannel.ph@HD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
