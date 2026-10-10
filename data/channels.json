@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:57:06.546Z",
+  "updated": "2026-10-10T11:27:20.882Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Dancing with the Stars",
-        "url": "https://www.themoviedb.org/tv/1508",
-        "logo": "https://image.tmdb.org/t/p/w92/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-        "desc": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom e",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
