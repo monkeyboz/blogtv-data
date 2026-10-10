@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:55:00.618Z",
+  "updated": "2026-10-10T02:57:06.546Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -965,7 +965,7 @@
         "category": "music"
       },
       {
-        "name": "8XM HD",
+        "name": "8XM",
         "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
         "id": "8XM.pk@HD",
         "group": "Music",
@@ -1149,6 +1149,16 @@
         "category": "entertainment"
       },
       {
+        "name": "5USA (360p)",
+        "logo": "https://i.imgur.com/Pi7so2l.png",
+        "id": "5USA.uk@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lb.iptvnetwork.net/ls28/10115/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "6ter (1080p)",
         "logo": "https://i.imgur.com/2nd5Cox.png",
         "id": "6ter.fr@SD",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "20 [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
-        "id": "20.it@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
         "category": "entertainment"
       },
       {
