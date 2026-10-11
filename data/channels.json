@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T20:46:27.659Z",
+  "updated": "2026-10-11T02:26:32.540Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -50,7 +50,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://51.75.127.199:3141/4tv/index.m3u8",
+        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
         "category": "news"
       },
       {
@@ -863,13 +863,13 @@
         "category": "sports"
       },
       {
-        "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Sports\",Arena Sport 1",
-        "logo": "https://i.imgur.com/2qf67zW.png",
-        "id": "ArenaSport1.sk@SD",
+        "name": "Arena4",
+        "logo": "https://i.imgur.com/uAaQDr6.png",
+        "id": "Arena4.hu@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+        "url": "http://88.212.15.17/live/arena4/index.m3u8",
         "category": "sports"
       }
     ],
@@ -955,16 +955,6 @@
         "category": "music"
       },
       {
-        "name": "7X Music (576p)",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
-        "id": "7XMusic.in@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://51.75.127.199:3141/7xmusic/index.m3u8",
-        "category": "music"
-      },
-      {
         "name": "8XM",
         "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
         "id": "8XM.pk@HD",
@@ -1022,6 +1012,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+        "category": "music"
+      },
+      {
+        "name": "15+ Music (1080p)",
+        "logo": "https://i.imgur.com/kj21hwd.png",
+        "id": "15PlusMusic.ru@HD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
         "category": "music"
       },
       {
@@ -1706,13 +1706,13 @@
         "category": "travel"
       },
       {
-        "name": "Glazami Turista (1080p)",
+        "name": "Glazami Turista (576i)",
         "logo": "https://i.imgur.com/GXJKWdy.png",
         "id": "GlazamiTurista.ru@SD",
         "group": "Travel",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://str2.iptvhd.ru:8080/Glazami_turista_HD/index.m3u8",
+        "url": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
         "category": "travel"
       },
       {
@@ -1824,7 +1824,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://51.75.127.199:3141/4tv/index.m3u8",
+        "url": "https://cdn.pishow.tv/ott/live/1007/master.m3u8",
         "category": "politics"
       },
       {
