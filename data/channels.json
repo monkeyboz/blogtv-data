@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T11:40:58.455Z",
+  "updated": "2026-10-11T16:51:35.509Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -340,6 +340,15 @@
         "category": "news"
       },
       {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
         "name": "Saturday Night Live",
         "url": "https://www.themoviedb.org/tv/1667",
         "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
@@ -362,15 +371,6 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Only Love",
         "url": "https://www.themoviedb.org/tv/61130",
         "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
@@ -1079,19 +1070,28 @@
         "category": "music"
       },
       {
-        "name": "Brave Woman",
-        "url": "https://www.themoviedb.org/tv/46126",
-        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
-        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2552,15 +2552,6 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2570,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Ninjago: Masters of Spinjitzu",
-        "url": "https://www.themoviedb.org/tv/38693",
-        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/3022",
         "logo": "https://image.tmdb.org/t/p/w92/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
         "desc": "Focuses on a group of toddlers, most prominently Tommy, Chuckie, Phil, Lil, and Angelica, and their day-to-day lives, us",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "The Loud House",
+        "url": "https://www.themoviedb.org/tv/68073",
+        "logo": "https://image.tmdb.org/t/p/w92/v0xMCeZIkgBUQtiije0IDc8ReHr.jpg",
+        "desc": "Welcome to the Loud House, where life can get pretty crazy. One boy, TEN girls?! Lincoln Loud wouldn’t change it for the",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Harem Camp!",
+        "url": "https://www.themoviedb.org/tv/207840",
+        "logo": "https://image.tmdb.org/t/p/w92/dsaYRfBviInhrulwtHOyg1KB4ct.jpg",
+        "desc": "The story follows teacher and veteran solo camper Kensuke, who forms a camping group with four girls.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Chibi Maruko-chan",
         "url": "https://www.themoviedb.org/tv/57775",
         "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/60625",
         "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
         "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
