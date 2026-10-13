@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T04:06:52.608Z",
+  "updated": "2026-10-13T13:01:33.803Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -533,6 +533,15 @@
         "category": "science"
       },
       {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/16656",
         "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
         "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Arena",
-        "url": "https://www.themoviedb.org/tv/2050",
-        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
-        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
         "source": "tmdb",
         "type": "info",
         "category": "science"
