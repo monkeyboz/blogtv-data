@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T23:51:55.500Z",
+  "updated": "2026-10-13T04:06:52.608Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -853,6 +853,16 @@
         "category": "sports"
       },
       {
+        "name": "Arena Sport Premium M1",
+        "logo": "https://tvarenasport.mk/wp-content/themes/tvarenasport-mk/assets/channels/arena-m1.png",
+        "id": "ArenaSportPremiumM1.mk@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqQgIFxl-Ch6B37eGpkVDb28",
+        "category": "sports"
+      },
+      {
         "name": "Arryadia (720p)",
         "logo": "https://i.imgur.com/XjzK3gZ.png",
         "id": "Arryadia.ma@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://149.100.11.252:8000/play/a065/index.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "AS3 Sport TV (1080p)",
-        "logo": "https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg",
-        "id": "AS3SportTV.ve@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://streamtv.as3sport.online:3394/hybrid/play.m3u8",
         "category": "sports"
       }
     ],
