@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:26:01.020Z",
+  "updated": "2026-10-15T15:50:09.054Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,19 +515,10 @@
         "category": "science"
       },
       {
-        "name": "凤凰大视野",
-        "url": "https://www.themoviedb.org/tv/93120",
-        "logo": "https://image.tmdb.org/t/p/w92/xKhGbQg0pjgrsLE8octAdB31026.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
+        "name": "Arena",
+        "url": "https://www.themoviedb.org/tv/2050",
+        "logo": "https://image.tmdb.org/t/p/w92/6dh235EYfy95s5Vin208Flcrng6.jpg",
+        "desc": "Arena is a British television documentary series, made and broadcast by the BBC. Voted by leading TV executives in Broad",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,6 +537,15 @@
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
         "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "A Girl's Guide to 21st Century Sex",
+        "url": "https://www.themoviedb.org/tv/318058",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Pokémon Horizons",
+        "url": "https://www.themoviedb.org/tv/220150",
+        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
+        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
+        "name": "Teenage Mutant Ninja Turtles",
+        "url": "https://www.themoviedb.org/tv/51817",
+        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
+        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Pokémon Horizons",
-        "url": "https://www.themoviedb.org/tv/220150",
-        "logo": "https://image.tmdb.org/t/p/w92/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg",
-        "desc": "Follow Liko and Roy as they unravel the mysteries that surround them and encounter Friede, Captain Pikachu, Amethio, and",
+        "name": "We Bare Bears",
+        "url": "https://www.themoviedb.org/tv/63401",
+        "logo": "https://image.tmdb.org/t/p/w92/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+        "desc": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, tryin",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
