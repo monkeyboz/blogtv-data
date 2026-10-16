@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:51:33.683Z",
+  "updated": "2026-10-16T10:13:27.752Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1435,19 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Avatar: Seven Havens",
-        "url": "https://www.themoviedb.org/tv/284833",
-        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
+        "name": "Teen Titans Go!",
+        "url": "https://www.themoviedb.org/tv/45140",
+        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
+        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Teen Titans Go!",
-        "url": "https://www.themoviedb.org/tv/45140",
-        "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
-        "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
+        "name": "Avatar: Seven Havens",
+        "url": "https://www.themoviedb.org/tv/284833",
+        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Teenage Mutant Ninja Turtles",
-        "url": "https://www.themoviedb.org/tv/51817",
-        "logo": "https://image.tmdb.org/t/p/w92/n0DN6kJf0kGeuNFUYLT6eZe5ERR.jpg",
-        "desc": "The Teenage Mutant Ninja Turtles are back in an all-new animated series on Nickelodeon! Surfacing topside for the first ",
+        "name": "We Bare Bears",
+        "url": "https://www.themoviedb.org/tv/63401",
+        "logo": "https://image.tmdb.org/t/p/w92/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
+        "desc": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, tryin",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "We Bare Bears",
-        "url": "https://www.themoviedb.org/tv/63401",
-        "logo": "https://image.tmdb.org/t/p/w92/3xWzlLZ0kAD6SkVZTekFM9lxZyP.jpg",
-        "desc": "Three brother bears awkwardly attempt to find their place in civilized  society, whether they're looking for food, tryin",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
