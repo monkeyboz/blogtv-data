@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:35:23.463Z",
+  "updated": "2026-10-16T01:51:33.683Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1417,6 +1417,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
@@ -1435,15 +1444,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Teen Titans Go!",
         "url": "https://www.themoviedb.org/tv/45140",
         "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Dancing with the Stars",
+        "url": "https://www.themoviedb.org/tv/1508",
+        "logo": "https://image.tmdb.org/t/p/w92/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
+        "desc": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom e",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Diagnosis: Murder",
-        "url": "https://www.themoviedb.org/tv/2625",
-        "logo": "https://image.tmdb.org/t/p/w92/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
-        "desc": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
