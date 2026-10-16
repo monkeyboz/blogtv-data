@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T10:13:27.752Z",
+  "updated": "2026-10-16T15:38:42.121Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "House of the Dragon",
-        "url": "https://www.themoviedb.org/tv/94997",
-        "logo": "https://image.tmdb.org/t/p/w92/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-        "desc": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires cru",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,15 +524,6 @@
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -542,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "A Girl's Guide to 21st Century Sex",
-        "url": "https://www.themoviedb.org/tv/318058",
-        "logo": "",
-        "desc": "",
+        "name": "20/20",
+        "url": "https://www.themoviedb.org/tv/2035",
+        "logo": "https://image.tmdb.org/t/p/w92/7PeIlDjm9KviwuXMmvc7w5RGGNm.jpg",
+        "desc": "20/20 is an American television newsmagazine that has been broadcast on ABC since June 6, 1978. Created by ABC News exec",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
         "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1417,6 +1417,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Avatar: Seven Havens",
+        "url": "https://www.themoviedb.org/tv/284833",
+        "logo": "https://image.tmdb.org/t/p/w92/9kraV68AzbRktgbmvOt63iAGgZX.jpg",
+        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Young Sheldon",
         "url": "https://www.themoviedb.org/tv/71728",
         "logo": "https://image.tmdb.org/t/p/w92/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
@@ -1444,19 +1453,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Avatar: Seven Havens",
-        "url": "https://www.themoviedb.org/tv/284833",
-        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Dancing with the Stars",
-        "url": "https://www.themoviedb.org/tv/1508",
-        "logo": "https://image.tmdb.org/t/p/w92/iisHVZ6we56PE4BcV1csB46SbiG.jpg",
-        "desc": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom e",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
-        "url": "https://www.themoviedb.org/tv/70998",
-        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
-        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Souryo to Majiwaru Shikiyoku no Yoru ni...",
+        "url": "https://www.themoviedb.org/tv/70998",
+        "logo": "https://image.tmdb.org/t/p/w92/ueI9EeoRdMVa7hWEm21nQEU8Zv3.jpg",
+        "desc": "At a high school reunion, Mio Fukatani reunites with a classmate she has not seen in years—Takahide Kujou. She had alway",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "name": "Chibi Maruko-chan",
+        "url": "https://www.themoviedb.org/tv/57775",
+        "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+        "desc": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a c",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
