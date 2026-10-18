@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T19:44:59.635Z",
+  "updated": "2026-10-18T01:43:46.187Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -839,7 +839,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://88.212.15.19/live/test_arenasport/playlist.m3u8",
+        "url": "http://88.212.15.17/live/test_arenasport/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -869,7 +869,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8",
+        "url": "http://88.212.15.17/live/test_arenasport_dva/playlist.m3u8",
         "category": "sports"
       }
     ],
@@ -1359,16 +1359,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Lifestyle Asia (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Asia",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://58.8.186.128:10003/bysid/2333",
-        "category": "entertainment"
-      },
-      {
         "name": "BBC Lifestyle Poland (1080p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Poland",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
+        "category": "entertainment"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1584,16 +1584,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Lifestyle Asia (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Asia",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://58.8.186.128:10003/bysid/2333",
-        "category": "cooking"
-      },
-      {
         "name": "BBC Lifestyle Poland (1080p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Poland",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
+        "category": "cooking"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2342,16 +2342,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Lifestyle Asia (720p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Asia",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://58.8.186.128:10003/bysid/2333",
-        "category": "health"
-      },
-      {
         "name": "BBC Lifestyle Poland (1080p)",
         "logo": "https://i.imgur.com/9mzJJ3y.png",
         "id": "BBCLifestyle.uk@Poland",
@@ -2380,6 +2370,16 @@
         "type": "live",
         "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
         "category": "health"
+      },
+      {
+        "name": "Better Health TV (480p)",
+        "logo": "https://i.imgur.com/qnwJiji.png",
+        "id": "BetterHealthTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "health"
       }
     ],
     "kids": [
@@ -2390,7 +2390,7 @@
         "group": "Kids",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://stream.4fun.tv:8889/hls/4fk_high/index.m3u8",
+        "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8",
         "category": "kids"
       },
       {
