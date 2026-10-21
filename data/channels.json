@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:10:54.750Z",
+  "updated": "2026-10-21T20:56:44.294Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,19 +304,19 @@
         "category": "news"
       },
       {
-        "name": "The Daily Show",
-        "url": "https://www.themoviedb.org/tv/2224",
-        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
-        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
+        "name": "The Daily Show",
+        "url": "https://www.themoviedb.org/tv/2224",
+        "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
+        "desc": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -340,19 +340,19 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
-        "desc": "",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -515,19 +515,19 @@
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,10 +542,10 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,15 +1052,6 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Potato Star 2013QR3",
         "url": "https://www.themoviedb.org/tv/64770",
         "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
@@ -1070,19 +1061,28 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "Brave Woman",
+        "url": "https://www.themoviedb.org/tv/46126",
+        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
+        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Avatar: Seven Havens",
-        "url": "https://www.themoviedb.org/tv/284833",
-        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
+        "name": "Sazae-san",
+        "url": "https://www.themoviedb.org/tv/153485",
+        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Avatar: Seven Havens",
+        "url": "https://www.themoviedb.org/tv/284833",
+        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
+        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2767,19 +2767,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,15 +2803,6 @@
         "category": "animation"
       },
       {
-        "name": "Rick and Morty",
-        "url": "https://www.themoviedb.org/tv/60625",
-        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
-        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Bleach",
         "url": "https://www.themoviedb.org/tv/30984",
         "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
@@ -2821,10 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Chibi Maruko-chan",
-        "url": "https://www.themoviedb.org/tv/57775",
-        "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
-        "desc": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a c",
+        "name": "Rick and Morty",
+        "url": "https://www.themoviedb.org/tv/60625",
+        "logo": "https://image.tmdb.org/t/p/w92/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg",
+        "desc": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
