@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T15:59:17.702Z",
+  "updated": "2026-10-23T20:42:07.213Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -396,6 +396,15 @@
     ],
     "technology": [
       {
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "NCIS",
         "url": "https://www.themoviedb.org/tv/4614",
         "logo": "https://image.tmdb.org/t/p/w92/y4fGncqELtnvRQuwSpuH8LncZqU.jpg",
@@ -414,19 +423,19 @@
         "category": "technology"
       },
       {
-        "name": "C.I.D.",
-        "url": "https://www.themoviedb.org/tv/15226",
-        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "C.I.D.",
+        "url": "https://www.themoviedb.org/tv/15226",
+        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -454,15 +463,6 @@
         "url": "https://www.themoviedb.org/tv/1399",
         "logo": "https://image.tmdb.org/t/p/w92/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
         "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
@@ -515,10 +524,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Bares für Rares",
+        "url": "https://www.themoviedb.org/tv/79917",
+        "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
+        "desc": "In the show, selected applicants each present a curiosity, rarity or antique they have brought with them. Once they have",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -533,10 +542,10 @@
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/4384",
         "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
         "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Reporter",
-        "url": "https://www.themoviedb.org/tv/319412",
-        "logo": "",
-        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,19 +1052,19 @@
         "category": "music"
       },
       {
-        "name": "Brave Woman",
-        "url": "https://www.themoviedb.org/tv/46126",
-        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
-        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Brave Woman",
+        "url": "https://www.themoviedb.org/tv/46126",
+        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
+        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "My Dear Cat",
-        "url": "https://www.themoviedb.org/tv/63573",
-        "logo": "https://image.tmdb.org/t/p/w92/a8wHHvIVFyK55M2O3O67vC82g3u.jpg",
-        "desc": "While looking for her lost cat, magazine journalist Go Yang-soon meets law school student and part-time photographer Yeo",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2552,19 +2552,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Ninjago: Masters of Spinjitzu",
-        "url": "https://www.themoviedb.org/tv/38693",
-        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
+        "name": "My Little Pony: Friendship Is Magic",
+        "url": "https://www.themoviedb.org/tv/33765",
+        "logo": "https://image.tmdb.org/t/p/w92/uvCchgn7uUUE2MJfhzg39M4RaZW.jpg",
+        "desc": "Journey to the enchanted land of Equestria, where unicorn Twilight Sparkle and her pals have adventures and learn valuab",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Jake and the Never Land Pirates",
-        "url": "https://www.themoviedb.org/tv/34891",
-        "logo": "https://image.tmdb.org/t/p/w92/uet64gptwR7iDGc0laIRmYNtNH0.jpg",
-        "desc": "A crew of kid pirates - leader Jake and pals Izzy and Cubby - and their Never Land adventures as they work to outwit two",
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2803,28 +2803,28 @@
         "category": "animation"
       },
       {
-        "name": "クレヨンしんちゃん",
-        "url": "https://www.themoviedb.org/tv/323180",
-        "logo": "https://image.tmdb.org/t/p/w92/kQo5FG8xSSKybH9vEYgR2aCB2Qa.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Hana-Kimi",
-        "url": "https://www.themoviedb.org/tv/254492",
-        "logo": "https://image.tmdb.org/t/p/w92/hZU0HRRGm9l4iRpUL98cMUogkge.jpg",
-        "desc": "Mizuki Ashiya is on a mission: disguise herself as a boy and enroll in a male boarding school to meet her idol, high jum",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Bleach",
         "url": "https://www.themoviedb.org/tv/30984",
         "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
         "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Naruto",
+        "url": "https://www.themoviedb.org/tv/46260",
+        "logo": "https://image.tmdb.org/t/p/w92/xppeysfvDKVx775MFuH8Z9BlpMk.jpg",
+        "desc": "Naruto Uzumaki, a mischievous adolescent ninja, struggles as he searches for recognition and dreams of becoming the Hoka",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Chibi Maruko-chan",
+        "url": "https://www.themoviedb.org/tv/57775",
+        "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+        "desc": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a c",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
