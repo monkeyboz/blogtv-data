@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T02:10:42.794Z",
+  "updated": "2026-10-23T10:35:34.472Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -342,7 +342,7 @@
       {
         "name": "Volle Kanne",
         "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "",
+        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -414,19 +414,19 @@
         "category": "technology"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "C.I.D.",
+        "url": "https://www.themoviedb.org/tv/15226",
+        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "C.I.D.",
-        "url": "https://www.themoviedb.org/tv/15226",
-        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
-        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
