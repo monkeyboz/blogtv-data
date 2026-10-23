@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T20:54:01.003Z",
+  "updated": "2026-10-23T02:10:42.794Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -234,16 +234,6 @@
         "category": "news"
       },
       {
-        "name": "2+2 Marathon (1080p)",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2Marathon.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
-        "category": "news"
-      },
-      {
         "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -301,6 +291,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+        "category": "news"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
         "category": "news"
       },
       {
@@ -955,6 +955,16 @@
         "category": "music"
       },
       {
+        "name": "7X Music (360p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
+        "id": "7XMusic.in@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+        "category": "music"
+      },
+      {
         "name": "8XM",
         "logo": "https://i.ibb.co/Kc0xHyBb/8XM-Logo.png",
         "id": "8XM.pk@HD",
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "15+ Music (1080p)",
-        "logo": "https://i.imgur.com/kj21hwd.png",
-        "id": "15PlusMusic.ru@HD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
         "category": "music"
       },
       {
@@ -1159,16 +1159,6 @@
         "category": "entertainment"
       },
       {
-        "name": "6ter (1080p)",
-        "logo": "https://i.imgur.com/2nd5Cox.png",
-        "id": "6ter.fr@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://145.239.5.177/314/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
         "id": "78TV.bg@SD",
@@ -1229,16 +1219,6 @@
         "category": "entertainment"
       },
       {
-        "name": "13 Ulica (1080p)",
-        "logo": "https://i.imgur.com/0gCNnLq.png",
-        "id": "13Ulica.pl@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://57.128.231.171:8080/325/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "16 Anni e Incinta",
         "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
         "id": "16AnnieIncinta.de@IT",
@@ -1246,6 +1226,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "20 [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
+        "id": "20.it@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "30A Sidewalks (720p)",
+        "logo": "https://i.imgur.com/HSdwqZN.png",
+        "id": "30ASidewalks.us@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://30a-tv.com/sidewalks.m3u8",
         "category": "entertainment"
       },
       {
@@ -1359,16 +1359,6 @@
         "category": "entertainment"
       },
       {
-        "name": "BBC Lifestyle Poland (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://57.128.231.171:8080/305/index.m3u8",
-        "category": "entertainment"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1584,16 +1584,6 @@
         "category": "cooking"
       },
       {
-        "name": "BBC Lifestyle Poland (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://57.128.231.171:8080/305/index.m3u8",
-        "category": "cooking"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -2008,16 +2008,6 @@
         "category": "politics"
       },
       {
-        "name": "2+2 Marathon (1080p)",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2Marathon.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
-        "category": "politics"
-      },
-      {
         "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -2075,6 +2065,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+        "category": "politics"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
         "category": "politics"
       }
     ],
@@ -2342,16 +2342,6 @@
         "category": "health"
       },
       {
-        "name": "BBC Lifestyle Poland (1080p)",
-        "logo": "https://i.imgur.com/9mzJJ3y.png",
-        "id": "BBCLifestyle.uk@Poland",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://57.128.231.171:8080/305/index.m3u8",
-        "category": "health"
-      },
-      {
         "name": "BBC Travel",
         "logo": "https://i.imgur.com/QiuYWs9.png",
         "id": "BBCTravel.us@Germany",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Biz TV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
+        "id": "BizTV.us@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "health"
       }
     ],
@@ -2912,16 +2912,6 @@
         "category": "general"
       },
       {
-        "name": "2+2 Marathon (1080p)",
-        "logo": "https://i.imgur.com/v6KBgqk.png",
-        "id": "2Plus2Marathon.ua@SD",
-        "group": "General",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://lowa8026-cmyk.github.io/Ukraine/Edyni_Novyny/2Plus2Marafon.m3u8",
-        "category": "general"
-      },
-      {
         "name": "2M",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
@@ -2979,6 +2969,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8",
+        "category": "general"
+      },
+      {
+        "name": "3 Stones TV (240p) [Not 24/7]",
+        "logo": "https://i.imgur.com/im3g7T2.png",
+        "id": "3StonesTV.ke@SD",
+        "group": "General",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://goliveafrica.media:9998/live/64d21e682fd26/index.m3u8",
         "category": "general"
       }
     ]
