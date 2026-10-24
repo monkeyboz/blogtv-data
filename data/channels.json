@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:42:07.213Z",
+  "updated": "2026-10-24T02:09:36.120Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -885,6 +885,16 @@
         "category": "music"
       },
       {
+        "name": "2TV (1080p)",
+        "logo": "https://i.imgur.com/sZUIhGc.png",
+        "id": "2TV.lt@SD",
+        "group": "Music",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd",
+        "category": "music"
+      },
+      {
         "name": "4ever Music (1080p)",
         "logo": "https://i.imgur.com/UJ5oaeU.png",
         "id": "4everMusic.ua@SD",
@@ -1012,16 +1022,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
-        "category": "music"
-      },
-      {
-        "name": "13 Festival (1080p)",
-        "logo": "https://i.imgur.com/Ymk6j5o.png",
-        "id": "13Festival.cl@SD",
-        "group": "Music",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
         "category": "music"
       },
       {
