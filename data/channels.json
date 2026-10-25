@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T10:14:49.975Z",
+  "updated": "2026-10-25T15:06:57.106Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2803,6 +2803,15 @@
         "category": "animation"
       },
       {
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Bleach",
         "url": "https://www.themoviedb.org/tv/30984",
         "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/105248",
         "logo": "https://image.tmdb.org/t/p/w92/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg",
         "desc": "In a dystopia riddled with corruption and cybernetic implants, a talented but reckless street kid strives to become a me",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Pokémon",
-        "url": "https://www.themoviedb.org/tv/60572",
-        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
