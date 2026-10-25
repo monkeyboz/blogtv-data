@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:53:12.329Z",
+  "updated": "2026-10-25T01:55:58.328Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -144,13 +144,13 @@
         "category": "news"
       },
       {
-        "name": "24 Horas (Chile) (1080p)",
-        "logo": "https://i.imgur.com/CEE9zPe.png",
-        "id": "24Horas.cl@SD",
+        "name": "24 Kanal (720p)",
+        "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+        "id": "24Kanal.ua@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
         "category": "news"
       },
       {
@@ -1918,13 +1918,13 @@
         "category": "politics"
       },
       {
-        "name": "24 Horas (Chile) (1080p)",
-        "logo": "https://i.imgur.com/CEE9zPe.png",
-        "id": "24Horas.cl@SD",
+        "name": "24 Kanal (720p)",
+        "logo": "https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg",
+        "id": "24Kanal.ua@SD",
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://187.102.208.209:8000/play/a0a1/index.m3u8",
+        "url": "https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8",
         "category": "politics"
       },
       {
