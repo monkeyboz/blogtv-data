@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:03:28.638Z",
+  "updated": "2026-10-26T01:57:42.425Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -839,7 +839,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://88.212.15.17/live/arena4/index.m3u8",
+        "url": "http://88.212.7.14/live/arena4/index.m3u8",
         "category": "sports"
       },
       {
@@ -849,7 +849,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://88.212.15.17/live/test_arenasport/playlist.m3u8",
+        "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -1159,6 +1159,16 @@
         "category": "entertainment"
       },
       {
+        "name": "6ter",
+        "logo": "https://i.imgur.com/2nd5Cox.png",
+        "id": "6ter.fr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://149.62.177.107:9999/6ter/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "like Gecko) Chrome/149.0.0.0 Safari/537.3\" group-title=\"Entertainment\",7/8 TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png",
         "id": "78TV.bg@SD",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "30A Sidewalks (720p)",
-        "logo": "https://i.imgur.com/HSdwqZN.png",
-        "id": "30ASidewalks.us@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://30a-tv.com/sidewalks.m3u8",
         "category": "entertainment"
       },
       {
@@ -1426,24 +1426,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Inkigayo",
-        "url": "https://www.themoviedb.org/tv/65278",
-        "logo": "https://image.tmdb.org/t/p/w92/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
-        "desc": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Avatar: Seven Havens",
-        "url": "https://www.themoviedb.org/tv/284833",
-        "logo": "https://image.tmdb.org/t/p/w92/u62d0BPqsdv2TUDifcMmoePbHPL.jpg",
-        "desc": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Frasier",
         "url": "https://www.themoviedb.org/tv/3452",
         "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
@@ -1453,10 +1435,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Inkigayo",
+        "url": "https://www.themoviedb.org/tv/65278",
+        "logo": "https://image.tmdb.org/t/p/w92/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
+        "desc": "The program is a weekly music show that features and introduces viewers to the most popular artists in Korea. Every week",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1448,24 @@
         "url": "https://www.themoviedb.org/tv/1877",
         "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
         "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Sazae-san",
+        "url": "https://www.themoviedb.org/tv/153485",
+        "logo": "https://image.tmdb.org/t/p/w92/ovOdOiGr0xHxB8rCwLSXAchCrta.jpg",
+        "desc": "The adventures of Sazae Fuguta and her family and friends in their Tokyo suburb.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2638,6 +2638,16 @@
         "category": "animation"
       },
       {
+        "name": "Animax Asia Taiwan",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png",
+        "id": "AnimaxAsia.sg@Taiwan",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://125.227.210.55:3056/VideoInput/play.ts",
+        "category": "animation"
+      },
+      {
         "name": "Anime Vision (1080p)",
         "logo": "https://i.imgur.com/pUpKznl.png",
         "id": "AnimeVision.es@SD",
@@ -2668,7 +2678,7 @@
         "category": "animation"
       },
       {
-        "name": "Aniplus Asia (720p)",
+        "name": "Aniplus Asia (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Im3MePy.png",
         "id": "AniplusAsia.sg@SD",
         "group": "Animation",
@@ -2748,16 +2758,6 @@
         "category": "animation"
       },
       {
-        "name": "Gong (1080p)",
-        "logo": "https://i.imgur.com/lA9UFMG.png",
-        "id": "Gong.fr@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8",
-        "category": "animation"
-      },
-      {
         "name": "South Park",
         "url": "https://www.themoviedb.org/tv/2190",
         "logo": "https://image.tmdb.org/t/p/w92/k7n2EVge7G77eMr3brztRGG1fFU.jpg",
@@ -2769,7 +2769,7 @@
       {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/k5UALlcA0EnviaCUn2wMjOWYiOO.jpg",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
