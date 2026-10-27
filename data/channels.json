@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:55:15.262Z",
+  "updated": "2026-10-27T21:30:45.872Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -488,19 +488,19 @@
     ],
     "science": [
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -524,6 +524,15 @@
         "category": "science"
       },
       {
+        "name": "American Experience",
+        "url": "https://www.themoviedb.org/tv/1181",
+        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
+        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Bares für Rares",
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
@@ -533,28 +542,19 @@
         "category": "science"
       },
       {
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
         "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Dirty Money",
-        "url": "https://www.themoviedb.org/tv/76307",
-        "logo": "https://image.tmdb.org/t/p/w92/hAnNeIPSzV0a8jxE3nkEdCtYWp8.jpg",
-        "desc": "From crippling payday loans to cars that cheat emissions tests, this investigative series exposes brazen acts of corpora",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1399,6 +1399,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Moesha",
+        "url": "https://www.themoviedb.org/tv/3497",
+        "logo": "https://image.tmdb.org/t/p/w92/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
+        "desc": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Come Home Love: Lo and Behold",
         "url": "https://www.themoviedb.org/tv/91759",
         "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
@@ -1448,15 +1457,6 @@
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
         "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Young Sheldon",
-        "url": "https://www.themoviedb.org/tv/71728",
-        "logo": "https://image.tmdb.org/t/p/w92/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
-        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2758,10 +2758,37 @@
         "category": "animation"
       },
       {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
         "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Wakfu",
+        "url": "https://www.themoviedb.org/tv/64414",
+        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Cococinel",
+        "url": "https://www.themoviedb.org/tv/21144",
+        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
+        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,15 +2812,6 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "American Dad!",
         "url": "https://www.themoviedb.org/tv/1433",
         "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
@@ -2803,28 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Dragon Ball Super: Beerus",
-        "url": "https://www.themoviedb.org/tv/312359",
-        "logo": "https://image.tmdb.org/t/p/w92/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-        "desc": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to st",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
