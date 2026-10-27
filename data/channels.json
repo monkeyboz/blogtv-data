@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:35:24.208Z",
+  "updated": "2026-10-27T11:08:08.667Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Bleach",
+        "url": "https://www.themoviedb.org/tv/30984",
+        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
