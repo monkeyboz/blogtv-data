@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:29:01.097Z",
+  "updated": "2026-10-28T21:56:00.180Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -423,19 +423,19 @@
         "category": "technology"
       },
       {
-        "name": "Strong Girl Bong-soon",
-        "url": "https://www.themoviedb.org/tv/68814",
-        "logo": "https://image.tmdb.org/t/p/w92/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
-        "desc": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle wit",
+        "name": "Baywatch",
+        "url": "https://www.themoviedb.org/tv/4386",
+        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Baywatch",
-        "url": "https://www.themoviedb.org/tv/4386",
-        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
-        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
+        "name": "Strong Girl Bong-soon",
+        "url": "https://www.themoviedb.org/tv/68814",
+        "logo": "https://image.tmdb.org/t/p/w92/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+        "desc": "Born with supernatural strength, Bong-soon fights evil and procures justice while getting tangled in a love triangle wit",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,6 +506,15 @@
         "category": "science"
       },
       {
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
@@ -524,15 +533,6 @@
         "category": "science"
       },
       {
-        "name": "American Experience",
-        "url": "https://www.themoviedb.org/tv/1181",
-        "logo": "https://image.tmdb.org/t/p/w92/YkcFBVYG6jvvHBRL1BxraAcOxh.jpg",
-        "desc": "TV's most-watched history series brings to life the compelling stories from our past that inform our understanding of th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Bares für Rares",
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "name": "Frontline",
+        "url": "https://www.themoviedb.org/tv/4384",
+        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1043,19 +1043,19 @@
         "category": "music"
       },
       {
-        "name": "On the Wings of Love",
-        "url": "https://www.themoviedb.org/tv/63776",
-        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
-        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Brave Woman",
-        "url": "https://www.themoviedb.org/tv/46126",
-        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
-        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
+        "name": "My Dear Cat",
+        "url": "https://www.themoviedb.org/tv/63573",
+        "logo": "https://image.tmdb.org/t/p/w92/a8wHHvIVFyK55M2O3O67vC82g3u.jpg",
+        "desc": "While looking for her lost cat, magazine journalist Go Yang-soon meets law school student and part-time photographer Yeo",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Frasier",
-        "url": "https://www.themoviedb.org/tv/3452",
-        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
-        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Inkigayo",
         "url": "https://www.themoviedb.org/tv/65278",
         "logo": "https://image.tmdb.org/t/p/w92/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
@@ -1453,19 +1444,28 @@
         "category": "entertainment"
       },
       {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
+        "name": "Ninjago: Masters of Spinjitzu",
+        "url": "https://www.themoviedb.org/tv/38693",
+        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
+        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Ninjago: Masters of Spinjitzu",
-        "url": "https://www.themoviedb.org/tv/38693",
-        "logo": "https://image.tmdb.org/t/p/w92/wz6ZqlyndVpdRayZi1gbYHWcqFi.jpg",
-        "desc": "When the fate of their world, Ninjago, is challenged by great threats, it's up to the ninja: Kai, Jay, Cole, Zane, Lloyd",
+        "name": "Frasier",
+        "url": "https://www.themoviedb.org/tv/3452",
+        "logo": "https://image.tmdb.org/t/p/w92/gYAb6GCVEFsU9hzMCG5rxaxoIv3.jpg",
+        "desc": "After many years spent at the “Cheers” bar, Frasier moves back home to Seattle to work as a radio psychiatrist after his",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Young Sheldon",
+        "url": "https://www.themoviedb.org/tv/71728",
+        "logo": "https://image.tmdb.org/t/p/w92/42dEkEZRVy1x36JH2LP12k6c9A.jpg",
+        "desc": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
