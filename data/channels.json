@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:30:45.872Z",
+  "updated": "2026-10-28T02:44:38.630Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1369,16 +1369,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Beauty ON (576p)",
-        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
-        "id": "BeautyON.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
-        "category": "entertainment"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1396,6 +1386,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "entertainment"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1594,16 +1594,6 @@
         "category": "cooking"
       },
       {
-        "name": "Beauty ON (576p)",
-        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
-        "id": "BeautyON.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
-        "category": "cooking"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1621,6 +1611,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "cooking"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2352,16 +2352,6 @@
         "category": "health"
       },
       {
-        "name": "Beauty ON (576p)",
-        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
-        "id": "BeautyON.ro@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-a7-tv/live_hq?offsetSeconds=0",
-        "category": "health"
-      },
-      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2379,6 +2369,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
+        "category": "health"
+      },
+      {
+        "name": "Biznet Lifestyle (1080p)",
+        "logo": "https://i.imgur.com/XqUfQKA.png",
+        "id": "BiznetLifestyle.id@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "health"
       }
     ],
