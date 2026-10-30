@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T03:08:43.489Z",
+  "updated": "2026-10-30T11:44:23.476Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -432,15 +432,6 @@
         "category": "technology"
       },
       {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Strong Girl Bong-soon",
         "url": "https://www.themoviedb.org/tv/68814",
         "logo": "https://image.tmdb.org/t/p/w92/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
@@ -463,6 +454,15 @@
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "C.I.D.",
+        "url": "https://www.themoviedb.org/tv/15226",
+        "logo": "https://image.tmdb.org/t/p/w92/3UymnlLfLMKxG8OcFhSnAlnhQfZ.jpg",
+        "desc": "A team of dedicated men and women in the Crime Investigation Department will risk everything to solve Mumbai's toughest,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2812,19 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Chibi Maruko-chan",
+        "url": "https://www.themoviedb.org/tv/57775",
+        "logo": "https://image.tmdb.org/t/p/w92/bfn54AAMuh47IFqeoco0jgeVH1a.jpg",
+        "desc": "Meet Maruko, a sweet schoolgirl with a hefty dose of curiosity (and occasional laziness!). She sails through life in a c",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Bleach",
-        "url": "https://www.themoviedb.org/tv/30984",
-        "logo": "https://image.tmdb.org/t/p/w92/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
-        "desc": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who ",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
