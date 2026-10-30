@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:18:21.996Z",
+  "updated": "2026-10-30T21:43:28.202Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -331,15 +331,6 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "DAS!",
         "url": "https://www.themoviedb.org/tv/62992",
         "logo": "https://image.tmdb.org/t/p/w92/yMg0l6hxCnR94Fcl1F1IEkmG26V.jpg",
@@ -349,10 +340,10 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -362,6 +353,15 @@
         "url": "https://www.themoviedb.org/tv/4385",
         "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
         "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -488,6 +488,15 @@
     ],
     "science": [
       {
+        "name": "BBC Proms",
+        "url": "https://www.themoviedb.org/tv/23393",
+        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
+        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
@@ -524,28 +533,19 @@
         "category": "science"
       },
       {
-        "name": "Horizon",
-        "url": "https://www.themoviedb.org/tv/1966",
-        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
-        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Democracy Now!",
         "url": "https://www.themoviedb.org/tv/31732",
         "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
         "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1399,10 +1399,28 @@
         "category": "entertainment"
       },
       {
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Moesha",
         "url": "https://www.themoviedb.org/tv/3497",
         "logo": "https://image.tmdb.org/t/p/w92/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
         "desc": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, a",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1426,6 +1444,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Black Kite",
+        "url": "https://www.themoviedb.org/tv/70282",
+        "logo": "https://image.tmdb.org/t/p/w92/y7SBOoSfgCqnkjUGSDNgaNRoCIn.jpg",
+        "desc": "Yasu's mother passed away when he was very young and his father abandoned him. Yasu's wife, Misako, also lost both her p",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Inkigayo",
         "url": "https://www.themoviedb.org/tv/65278",
         "logo": "https://image.tmdb.org/t/p/w92/hvY5NH73JRvfJI714MF6Ja4TM3.jpg",
@@ -1439,33 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/45140",
         "logo": "https://image.tmdb.org/t/p/w92/kPKAigYUlWRpnfo4Ptiwlz4FWXU.jpg",
         "desc": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save th",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Jeopardy!",
-        "url": "https://www.themoviedb.org/tv/2912",
-        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
-        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
-        "url": "https://www.themoviedb.org/tv/6060",
-        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
-        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
