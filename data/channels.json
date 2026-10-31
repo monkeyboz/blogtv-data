@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:43:28.202Z",
+  "updated": "2026-10-31T02:54:35.905Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -833,6 +833,16 @@
         "category": "sports"
       },
       {
+        "name": "AntenaPlay Events (576p) [Not 24/7]",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
+        "id": "AntenaPlayEvents.ro@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "Arena4",
         "logo": "https://i.imgur.com/uAaQDr6.png",
         "id": "Arena4.hu@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
-        "category": "sports"
-      },
-      {
-        "name": "Arena Sport 1 Premium (Slovenia)",
-        "logo": "https://i.imgur.com/csv6YsL.png",
-        "id": "ArenaSport1Premium.si@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6",
         "category": "sports"
       }
     ],
