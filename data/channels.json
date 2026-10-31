@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:23:35.434Z",
+  "updated": "2026-10-31T20:43:15.869Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -396,15 +396,6 @@
     ],
     "technology": [
       {
-        "name": "Baywatch",
-        "url": "https://www.themoviedb.org/tv/4386",
-        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
-        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Vikings",
         "url": "https://www.themoviedb.org/tv/44217",
         "logo": "https://image.tmdb.org/t/p/w92/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
@@ -432,15 +423,6 @@
         "category": "technology"
       },
       {
-        "name": "Wakfu",
-        "url": "https://www.themoviedb.org/tv/64414",
-        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
-        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Star vs. the Forces of Evil",
         "url": "https://www.themoviedb.org/tv/61923",
         "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
@@ -450,19 +432,37 @@
         "category": "technology"
       },
       {
-        "name": "Person of Interest",
-        "url": "https://www.themoviedb.org/tv/1411",
-        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "name": "Baywatch",
+        "url": "https://www.themoviedb.org/tv/4386",
+        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Magnum P.I.",
-        "url": "https://www.themoviedb.org/tv/79593",
-        "logo": "https://image.tmdb.org/t/p/w92/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
-        "desc": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a p",
+        "name": "The Last Kingdom",
+        "url": "https://www.themoviedb.org/tv/63333",
+        "logo": "https://image.tmdb.org/t/p/w92/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+        "desc": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Kuruluş Osman",
+        "url": "https://www.themoviedb.org/tv/95603",
+        "logo": "https://image.tmdb.org/t/p/w92/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
+        "desc": "The epic continuation of Diriliş Ertuğrul, Kuruluş Osman follows Osman Bey — son of Ertuğrul and destined founder of the",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Mob Psycho 100",
+        "url": "https://www.themoviedb.org/tv/67075",
+        "logo": "https://image.tmdb.org/t/p/w92/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+        "desc": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1061,15 +1061,6 @@
         "category": "music"
       },
       {
-        "name": "On the Wings of Love",
-        "url": "https://www.themoviedb.org/tv/63776",
-        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
-        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
         "name": "Potato Star 2013QR3",
         "url": "https://www.themoviedb.org/tv/64770",
         "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
@@ -1079,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Dark Fate",
-        "url": "https://www.themoviedb.org/tv/16684",
-        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
-        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1092,6 +1083,15 @@
         "url": "https://www.themoviedb.org/tv/46337",
         "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
         "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2534,19 +2534,19 @@
         "category": "kids"
       },
       {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
+        "name": "Cococinel",
+        "url": "https://www.themoviedb.org/tv/21144",
+        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
+        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Wakfu",
-        "url": "https://www.themoviedb.org/tv/64414",
-        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
-        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Star vs. the Forces of Evil",
         "url": "https://www.themoviedb.org/tv/61923",
         "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
@@ -2812,10 +2803,19 @@
         "category": "animation"
       },
       {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
+        "name": "Wakfu",
+        "url": "https://www.themoviedb.org/tv/64414",
+        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Wandance",
+        "url": "https://www.themoviedb.org/tv/262259",
+        "logo": "https://image.tmdb.org/t/p/w92/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
+        "desc": "Kabo is a high school student with a stutter who struggles to express his feelings. He finds himself drawn to his classm",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
