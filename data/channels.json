@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T20:43:15.869Z",
+  "updated": "2026-11-01T02:48:15.240Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2080,6 +2080,16 @@
     ],
     "business": [
       {
+        "name": "5Dias TV",
+        "logo": "https://i.imgur.com/AX25tmv.png",
+        "id": "5DiasTV.py@SD",
+        "group": "Business",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
+        "category": "business"
+      },
+      {
         "name": "30A Investment Pitch (720p)",
         "logo": "https://i.imgur.com/CKCtZo7.png",
         "id": "30AInvestmentPitch.us@SD",
@@ -2217,16 +2227,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
-        "category": "business"
-      },
-      {
-        "name": "Bloomberg TV Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "id": "BloombergTV.us@LiveEvent",
-        "group": "Business",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
         "category": "business"
       }
     ],
