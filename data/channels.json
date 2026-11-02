@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:24:25.883Z",
+  "updated": "2026-11-02T02:56:05.034Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -843,6 +843,16 @@
         "category": "sports"
       },
       {
+        "name": "AntenaSport",
+        "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
+        "id": "AntenaSport.ro@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "Arena4",
         "logo": "https://i.imgur.com/uAaQDr6.png",
         "id": "Arena4.hu@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Arena Sport 1 Premium (Serbia) (360p)",
-        "logo": "https://i.imgur.com/csv6YsL.png",
-        "id": "ArenaSport1Premium.rs@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
         "category": "sports"
       }
     ],
