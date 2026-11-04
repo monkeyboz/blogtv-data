@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T13:20:50.942Z",
+  "updated": "2026-11-04T22:56:28.735Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "Airwolf",
-        "url": "https://www.themoviedb.org/tv/2119",
-        "logo": "https://image.tmdb.org/t/p/w92/4PAN7zPqmR9b73een97WkxqCTQN.jpg",
-        "desc": "As part of a deal with an intelligence agency to look for his missing brother, a renegade pilot goes on missions with an",
+        "name": "Mob Psycho 100",
+        "url": "https://www.themoviedb.org/tv/67075",
+        "logo": "https://image.tmdb.org/t/p/w92/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+        "desc": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -497,19 +497,19 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -524,24 +524,6 @@
         "category": "science"
       },
       {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Reporter",
-        "url": "https://www.themoviedb.org/tv/319412",
-        "logo": "",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -551,10 +533,28 @@
         "category": "science"
       },
       {
-        "name": "BBC Proms",
-        "url": "https://www.themoviedb.org/tv/23393",
-        "logo": "https://image.tmdb.org/t/p/w92/605DvsE6xjYaJ3fYDRhnj0fmb2D.jpg",
-        "desc": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Roy",
+        "name": "Grands Reportages",
+        "url": "https://www.themoviedb.org/tv/98281",
+        "logo": "https://image.tmdb.org/t/p/w92/vuLnCZRKP3odfWoi0x52BxrbOqW.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "Dark Fate",
+        "url": "https://www.themoviedb.org/tv/16684",
+        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
+        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Dark Fate",
-        "url": "https://www.themoviedb.org/tv/16684",
-        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
-        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Moesha",
-        "url": "https://www.themoviedb.org/tv/3497",
-        "logo": "https://image.tmdb.org/t/p/w92/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
-        "desc": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, a",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1457,6 +1448,15 @@
         "url": "https://www.themoviedb.org/tv/70282",
         "logo": "https://image.tmdb.org/t/p/w92/y7SBOoSfgCqnkjUGSDNgaNRoCIn.jpg",
         "desc": "Yasu's mother passed away when he was very young and his father abandoned him. Yasu's wife, Misako, also lost both her p",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Kyunki Saas Bhi Kabhi Bahu Thi",
+        "url": "https://www.themoviedb.org/tv/6060",
+        "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
+        "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2534,15 +2534,6 @@
         "category": "kids"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Elena of Avalor",
         "url": "https://www.themoviedb.org/tv/67175",
         "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
@@ -2552,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2592,6 +2583,15 @@
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
         "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "The Legend of Korra",
+        "url": "https://www.themoviedb.org/tv/33880",
+        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "The Legend of Korra",
-        "url": "https://www.themoviedb.org/tv/33880",
-        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,19 +2803,19 @@
         "category": "animation"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
