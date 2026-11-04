@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:37:21.998Z",
+  "updated": "2026-11-04T03:31:44.768Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -833,16 +833,6 @@
         "category": "sports"
       },
       {
-        "name": "AntenaPlay Events (576p) [Not 24/7]",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
-        "id": "AntenaPlayEvents.ro@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live4dai.antenaplay.ro/live2_sdi09/live2_sdi09_600k.m3u8",
-        "category": "sports"
-      },
-      {
         "name": "AntenaSport",
         "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
         "id": "AntenaSport.ro@SD",
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Arena Sport 1 Premium (Serbia) (360p)",
+        "logo": "https://i.imgur.com/csv6YsL.png",
+        "id": "ArenaSport1Premium.rs@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
         "category": "sports"
       }
     ],
@@ -2767,15 +2767,6 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "The Legend of Korra",
         "url": "https://www.themoviedb.org/tv/33880",
         "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
@@ -2789,6 +2780,15 @@
         "url": "https://www.themoviedb.org/tv/61923",
         "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
         "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
