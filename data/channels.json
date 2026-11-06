@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T22:57:11.155Z",
+  "updated": "2026-11-06T03:51:21.862Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -70,7 +70,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
         "category": "news"
       },
       {
@@ -134,7 +134,7 @@
         "category": "news"
       },
       {
-        "name": "24/7 Canal de Noticias",
+        "name": "24/7 Canal de Noticias (360p)",
         "logo": "https://i.imgur.com/4hDCB1M.png",
         "id": "247CanaldeNoticias.ar@SD",
         "group": "News",
@@ -234,7 +234,7 @@
         "category": "news"
       },
       {
-        "name": "2M",
+        "name": "2M (576p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
@@ -274,7 +274,7 @@
         "category": "news"
       },
       {
-        "name": "3HD",
+        "name": "3HD (576p)",
         "logo": "https://i.imgur.com/YRiulCU.png",
         "id": "3HD.th@SD",
         "group": "General",
@@ -621,7 +621,7 @@
         "category": "history"
       },
       {
-        "name": "BATV Educational Channel",
+        "name": "BATV Educational Channel (1080p)",
         "logo": "https://i.imgur.com/eDoJqtg.png",
         "id": "BATVEducationalChannel.us@SD",
         "group": "Education",
@@ -829,7 +829,7 @@
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
         "category": "sports"
       },
       {
@@ -1099,13 +1099,13 @@
     ],
     "entertainment": [
       {
-        "name": "2x2 (576i)",
+        "name": "2x2 (576p)",
         "logo": "https://i.imgur.com/fhQFLEl.png",
         "id": "2x2.ru@SD",
         "group": "Entertainment",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https",
+        "url": "http://176.118.197.101/2x2/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1159,7 +1159,7 @@
         "category": "entertainment"
       },
       {
-        "name": "6ter",
+        "name": "6ter (1080p)",
         "logo": "https://i.imgur.com/2nd5Cox.png",
         "id": "6ter.fr@SD",
         "group": "Entertainment",
@@ -1844,7 +1844,7 @@
         "group": "News",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://yuppparoriglin.akamaized.net/181224/smil:6tv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+        "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
         "category": "politics"
       },
       {
@@ -1908,7 +1908,7 @@
         "category": "politics"
       },
       {
-        "name": "24/7 Canal de Noticias",
+        "name": "24/7 Canal de Noticias (360p)",
         "logo": "https://i.imgur.com/4hDCB1M.png",
         "id": "247CanaldeNoticias.ar@SD",
         "group": "News",
@@ -2008,7 +2008,7 @@
         "category": "politics"
       },
       {
-        "name": "2M",
+        "name": "2M (576p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
@@ -2048,7 +2048,7 @@
         "category": "politics"
       },
       {
-        "name": "3HD",
+        "name": "3HD (576p)",
         "logo": "https://i.imgur.com/YRiulCU.png",
         "id": "3HD.th@SD",
         "group": "General",
@@ -2156,7 +2156,7 @@
         "group": "Business",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "url": "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8",
         "category": "business"
       },
       {
@@ -2454,7 +2454,7 @@
         "category": "kids"
       },
       {
-        "name": "Akili Kids!",
+        "name": "Akili Kids! (720p)",
         "logo": "https://i.imgur.com/xFm2co6.png",
         "id": "AkiliKids.ke@SD",
         "group": "Kids",
@@ -2704,7 +2704,7 @@
         "group": "Animation",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn12.178.indevs.in/163189/dreamworks",
+        "url": "http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8",
         "category": "animation"
       },
       {
@@ -2912,7 +2912,7 @@
         "category": "general"
       },
       {
-        "name": "2M",
+        "name": "2M (576p)",
         "logo": "https://i.imgur.com/PJYTfHi.png",
         "id": "2M.ma@SD",
         "group": "General",
@@ -2952,7 +2952,7 @@
         "category": "general"
       },
       {
-        "name": "3HD",
+        "name": "3HD (576p)",
         "logo": "https://i.imgur.com/YRiulCU.png",
         "id": "3HD.th@SD",
         "group": "General",
