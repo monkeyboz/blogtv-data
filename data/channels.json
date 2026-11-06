@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:18:48.128Z",
+  "updated": "2026-11-06T22:27:18.555Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-        "desc": "",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,6 +396,15 @@
     ],
     "technology": [
       {
+        "name": "The Last Kingdom",
+        "url": "https://www.themoviedb.org/tv/63333",
+        "logo": "https://image.tmdb.org/t/p/w92/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+        "desc": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "The 100",
         "url": "https://www.themoviedb.org/tv/48866",
         "logo": "https://image.tmdb.org/t/p/w92/wHIMMLFsk32wIzDmawWkYVbxFCS.jpg",
@@ -405,19 +414,19 @@
         "category": "technology"
       },
       {
-        "name": "The Legend of Korra",
-        "url": "https://www.themoviedb.org/tv/33880",
-        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "The Last Kingdom",
-        "url": "https://www.themoviedb.org/tv/63333",
-        "logo": "https://image.tmdb.org/t/p/w92/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-        "desc": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, ",
+        "name": "The Legend of Korra",
+        "url": "https://www.themoviedb.org/tv/33880",
+        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -441,28 +450,19 @@
         "category": "technology"
       },
       {
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
         "name": "Kuruluş Osman",
         "url": "https://www.themoviedb.org/tv/95603",
         "logo": "https://image.tmdb.org/t/p/w92/tu4BWsGFHcYDWulZwHxylA91vo0.jpg",
         "desc": "The epic continuation of Diriliş Ertuğrul, Kuruluş Osman follows Osman Bey — son of Ertuğrul and destined founder of the",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "The Librarians",
-        "url": "https://www.themoviedb.org/tv/61599",
-        "logo": "https://image.tmdb.org/t/p/w92/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-        "desc": "A group of librarians set off on adventures in an effort to save mysterious, ancient artifacts. Based on the series of \"",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Mob Psycho 100",
-        "url": "https://www.themoviedb.org/tv/67075",
-        "logo": "https://image.tmdb.org/t/p/w92/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
-        "desc": "Shigeo Kageyama, a.k.a. \"Mob,\" is a boy who has trouble expressing himself, but who happens to be a powerful esper. Mob ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,15 +506,6 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
@@ -528,6 +519,15 @@
         "url": "https://www.themoviedb.org/tv/31732",
         "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
         "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1043,19 +1043,19 @@
         "category": "music"
       },
       {
-        "name": "Rin-ne",
-        "url": "https://www.themoviedb.org/tv/62601",
-        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
-        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Rin-ne",
+        "url": "https://www.themoviedb.org/tv/62601",
+        "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+        "desc": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned whole and healthy",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "Dark Fate",
-        "url": "https://www.themoviedb.org/tv/16684",
-        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
-        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1399,6 +1399,15 @@
         "category": "entertainment"
       },
       {
+        "name": "Phineas and Ferb",
+        "url": "https://www.themoviedb.org/tv/1877",
+        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Star vs. the Forces of Evil",
         "url": "https://www.themoviedb.org/tv/61923",
         "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
@@ -1417,10 +1426,10 @@
         "category": "entertainment"
       },
       {
-        "name": "The Dangerous Book for Boys",
-        "url": "https://www.themoviedb.org/tv/77345",
-        "logo": "https://image.tmdb.org/t/p/w92/sU4tfnvxpqDwr4n4usyNYrjdtQ8.jpg",
-        "desc": "The story of a middle-class family coping with the sudden passing of their beloved patriarch Patrick, a whimsical invent",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,10 +1444,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "The Dangerous Book for Boys",
+        "url": "https://www.themoviedb.org/tv/77345",
+        "logo": "https://image.tmdb.org/t/p/w92/sU4tfnvxpqDwr4n4usyNYrjdtQ8.jpg",
+        "desc": "The story of a middle-class family coping with the sudden passing of their beloved patriarch Patrick, a whimsical invent",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1448,15 +1457,6 @@
         "url": "https://www.themoviedb.org/tv/37606",
         "logo": "https://image.tmdb.org/t/p/w92/VYnnyA2hyxi3VUPgCA71mMtt69.jpg",
         "desc": "The life of Gumball Watterson, a 12-year old cat who attends middle school in Elmore. Accompanied by his pet, adoptive b",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Black Kite",
-        "url": "https://www.themoviedb.org/tv/70282",
-        "logo": "https://image.tmdb.org/t/p/w92/y7SBOoSfgCqnkjUGSDNgaNRoCIn.jpg",
-        "desc": "Yasu's mother passed away when he was very young and his father abandoned him. Yasu's wife, Misako, also lost both her p",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,10 +2758,28 @@
         "category": "animation"
       },
       {
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "The Legend of Korra",
         "url": "https://www.themoviedb.org/tv/33880",
         "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
         "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Phineas and Ferb",
+        "url": "https://www.themoviedb.org/tv/1877",
+        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2776,19 +2794,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2803,28 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Arthur",
         "url": "https://www.themoviedb.org/tv/2153",
         "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
         "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Wandance",
-        "url": "https://www.themoviedb.org/tv/262259",
-        "logo": "https://image.tmdb.org/t/p/w92/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
-        "desc": "Kabo is a high school student with a stutter who struggles to express his feelings. He finds himself drawn to his classm",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
