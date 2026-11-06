@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:51:21.862Z",
+  "updated": "2026-11-06T13:18:48.128Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2561,15 +2561,6 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2583,6 +2574,15 @@
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
         "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
