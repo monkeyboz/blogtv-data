@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:27:18.555Z",
+  "updated": "2026-11-07T03:25:58.035Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -833,6 +833,16 @@
         "category": "sports"
       },
       {
+        "name": "AntenaPlay Events (576i) [Not 24/7]",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
+        "id": "AntenaPlayEvents.ro@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "AntenaSport",
         "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
         "id": "AntenaSport.ro@SD",
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Arena Sport 1 Premium (Serbia) (360p)",
-        "logo": "https://i.imgur.com/csv6YsL.png",
-        "id": "ArenaSport1Premium.rs@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
         "category": "sports"
       }
     ],
@@ -2708,6 +2708,16 @@
         "category": "animation"
       },
       {
+        "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Animation\",DreamWorks Channel Latin America (1080p)",
+        "logo": "",
+        "id": "DreamWorksChannelLatinAmerica.us@Panregional",
+        "group": "Animation",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://barinaslive1.boldmss.com/DREAMWORKS/DREAMWORKS.isml/index.m3u8",
+        "category": "animation"
+      },
+      {
         "name": "Dreiko TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/k8U0e0b.png",
         "id": "DreikoTV.pa@SD",
@@ -2745,16 +2755,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8",
-        "category": "animation"
-      },
-      {
-        "name": "Geekdot (720p)",
-        "logo": "https://i.imgur.com/jML1u4O.png",
-        "id": "Geekdot.br@SD",
-        "group": "Animation",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream.ichibantv.com:3764/hybrid/play.m3u8",
         "category": "animation"
       },
       {
