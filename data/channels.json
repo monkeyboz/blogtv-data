@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T21:07:52.593Z",
+  "updated": "2026-11-08T02:53:53.999Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1219,6 +1219,16 @@
         "category": "entertainment"
       },
       {
+        "name": "like Gecko) Chrome/156.0.0.0 Safari/537.36\" group-title=\"Entertainment\",13eme Rue",
+        "logo": "https://i.imgur.com/k0DCMTL.png",
+        "id": "13emeRue.fr@SD",
+        "group": "Entertainment",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://192.99.186.30/stream/251/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "13 Realities (1080p)",
         "logo": "https://i.imgur.com/m0SuwMU.png",
         "id": "13Realities.cl@SD",
@@ -1236,16 +1246,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "20 [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/960px-20_Mediaset_2018.svg.png",
-        "id": "20.it@SD",
-        "group": "Entertainment",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -2424,6 +2424,16 @@
         "category": "kids"
       },
       {
+        "name": "123TV (480p)",
+        "logo": "https://i.imgur.com/xXGeZms.png",
+        "id": "123TV.ve@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://200.59.191.177:8000/play/a0lb/index.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "ABC Kids",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/ABC_Kids_%282020%29.svg/revision/latest/scale-to-width-down/512",
         "id": "ABCKids.au@Sydney",
@@ -2521,16 +2531,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Baby Shark TV (1080p)",
-        "logo": "https://i.imgur.com/SbBKr8L.png",
-        "id": "BabySharkTV.us@SD",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8",
         "category": "kids"
       },
       {
