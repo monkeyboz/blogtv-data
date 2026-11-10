@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T14:29:25.550Z",
+  "updated": "2026-11-10T00:54:18.521Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -2570,19 +2570,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "GG Bond",
+        "url": "https://www.themoviedb.org/tv/217772",
+        "logo": "https://image.tmdb.org/t/p/w92/9XC8xxZU01ZMtilejudKuJtPHbV.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2597,10 +2597,10 @@
         "category": "kids"
       },
       {
-        "name": "Sítio do Picapau Amarelo",
-        "url": "https://www.themoviedb.org/tv/42680",
-        "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
-        "desc": "At the farm, imagination knows no bounds. Emília, Pedrinho, Narizinho, and Visconde embark on adventures through fantast",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2767,10 +2767,10 @@
         "category": "animation"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2785,19 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "The Legend of Korra",
-        "url": "https://www.themoviedb.org/tv/33880",
-        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2807,6 +2798,15 @@
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "The Legend of Korra",
+        "url": "https://www.themoviedb.org/tv/33880",
+        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
