@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:50:44.778Z",
+  "updated": "2026-11-10T22:35:44.407Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -340,15 +340,6 @@
         "category": "news"
       },
       {
-        "name": "Conan",
-        "url": "https://www.themoviedb.org/tv/32415",
-        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
-        "desc": "A late night television talk show hosted by  Conan O'Brien.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "Volle Kanne",
         "url": "https://www.themoviedb.org/tv/64190",
         "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
@@ -358,10 +349,10 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Conan",
+        "url": "https://www.themoviedb.org/tv/32415",
+        "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
+        "desc": "A late night television talk show hosted by  Conan O'Brien.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -371,6 +362,15 @@
         "url": "https://www.themoviedb.org/tv/37288",
         "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
         "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -432,19 +432,19 @@
         "category": "technology"
       },
       {
-        "name": "Vikings",
-        "url": "https://www.themoviedb.org/tv/44217",
-        "logo": "https://image.tmdb.org/t/p/w92/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-        "desc": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking b",
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "Vikings",
+        "url": "https://www.themoviedb.org/tv/44217",
+        "logo": "https://image.tmdb.org/t/p/w92/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+        "desc": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking b",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,19 +506,19 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "name": "Horizon",
+        "url": "https://www.themoviedb.org/tv/1966",
+        "logo": "https://image.tmdb.org/t/p/w92/uX8pic7asQBdnwMB9QjPvTsn1Dw.jpg",
+        "desc": "Horizon tells amazing science stories, unravels mysteries and reveals worlds you've never seen before.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1052,19 +1052,19 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,15 +1417,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -1435,19 +1426,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "The Dangerous Book for Boys",
-        "url": "https://www.themoviedb.org/tv/77345",
-        "logo": "https://image.tmdb.org/t/p/w92/sU4tfnvxpqDwr4n4usyNYrjdtQ8.jpg",
-        "desc": "The story of a middle-class family coping with the sudden passing of their beloved patriarch Patrick, a whimsical invent",
+        "name": "Come Home Love: Lo and Behold",
+        "url": "https://www.themoviedb.org/tv/91759",
+        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/6060",
         "logo": "https://image.tmdb.org/t/p/w92/rJfoyxt7FOKr7WPB6FPuffarpcn.jpg",
         "desc": "A mother-in-law's struggle to put up with her three bahu's. The three bahu's have grown up sons. The bahu's sons start t",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Jeopardy!",
+        "url": "https://www.themoviedb.org/tv/2912",
+        "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
+        "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2543,15 +2543,6 @@
         "category": "kids"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2561,10 +2552,10 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2579,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2785,15 +2785,6 @@
         "category": "animation"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
         "name": "Family Guy",
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
@@ -2803,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "The Legend of Korra",
-        "url": "https://www.themoviedb.org/tv/33880",
-        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2812,19 @@
         "category": "animation"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
+        "name": "The Legend of Korra",
+        "url": "https://www.themoviedb.org/tv/33880",
+        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
