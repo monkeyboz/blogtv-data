@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T00:54:18.521Z",
+  "updated": "2026-11-10T13:50:44.778Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "WWE NXT",
-        "url": "https://www.themoviedb.org/tv/31991",
-        "logo": "https://image.tmdb.org/t/p/w92/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-        "desc": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestl",
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
