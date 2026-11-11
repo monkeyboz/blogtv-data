@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T22:35:44.407Z",
+  "updated": "2026-11-11T03:21:56.074Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -677,7 +677,7 @@
         "group": "Education",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://45.162.64.114/CANAL_EDUCACAO/index.m3u8",
+        "url": "http://45.177.114.115/CANAL_EDUCACAO/index.m3u8",
         "category": "history"
       },
       {
@@ -687,7 +687,7 @@
         "group": "Education",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://45.162.64.114/FUTURA/index.m3u8",
+        "url": "http://170.83.16.50/FUTURA/index.m3u8",
         "category": "history"
       },
       {
@@ -770,16 +770,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://raycom-accdn-firetv.amagi.tv/playlist.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "ACC Network (720p)",
-        "logo": "https://i.imgur.com/TpCkbkT.png",
-        "id": "ACCNetwork.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://23.239.31.26:8989/accnetwork/index.m3u8",
         "category": "sports"
       },
       {
@@ -870,6 +860,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://88.212.15.50/live/test_arenasport/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "Arena Sport 1 Premium (Serbia) (360p)",
+        "logo": "https://i.imgur.com/csv6YsL.png",
+        "id": "ArenaSport1Premium.rs@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD",
         "category": "sports"
       }
     ],
