@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:45:20.270Z",
+  "updated": "2026-11-12T04:32:03.021Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -965,13 +965,13 @@
         "category": "music"
       },
       {
-        "name": "7X Music (360p)",
+        "name": "7X Music (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png",
         "id": "7XMusic.in@SD",
         "group": "Music",
         "source": "iptv-org",
         "type": "live",
-        "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+        "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
         "category": "music"
       },
       {
