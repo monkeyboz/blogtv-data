@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:29:40.812Z",
+  "updated": "2026-11-13T22:57:01.517Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-        "desc": "",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -414,10 +414,10 @@
         "category": "technology"
       },
       {
-        "name": "The Last Kingdom",
-        "url": "https://www.themoviedb.org/tv/63333",
-        "logo": "https://image.tmdb.org/t/p/w92/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
-        "desc": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, ",
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -432,37 +432,37 @@
         "category": "technology"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "The Last Kingdom",
+        "url": "https://www.themoviedb.org/tv/63333",
+        "logo": "https://image.tmdb.org/t/p/w92/8eJf0hxgIhE6QSxbtuNCekTddy1.jpg",
+        "desc": "A show of heroic deeds and epic battles with a thematic depth that embraces politics, religion, warfare, courage, love, ",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Vikings",
-        "url": "https://www.themoviedb.org/tv/44217",
-        "logo": "https://image.tmdb.org/t/p/w92/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
-        "desc": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking b",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Person of Interest",
-        "url": "https://www.themoviedb.org/tv/1411",
-        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "name": "One Piece",
+        "url": "https://www.themoviedb.org/tv/37854",
+        "logo": "https://image.tmdb.org/t/p/w92/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
+        "desc": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "name": "WWE NXT",
+        "url": "https://www.themoviedb.org/tv/31991",
+        "logo": "https://image.tmdb.org/t/p/w92/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
+        "desc": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestl",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,19 +506,28 @@
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "name": "Beyond Belief: Fact or Fiction",
+        "url": "https://www.themoviedb.org/tv/12323",
+        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -546,15 +555,6 @@
         "url": "https://www.themoviedb.org/tv/130990",
         "logo": "https://image.tmdb.org/t/p/w92/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
         "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Fuse",
-        "url": "https://www.themoviedb.org/tv/16656",
-        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
-        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,10 +1070,10 @@
         "category": "music"
       },
       {
-        "name": "Dark Fate",
-        "url": "https://www.themoviedb.org/tv/16684",
-        "logo": "https://image.tmdb.org/t/p/w92/sySKmSg8yE4CVzWwMSXHnw3xXV4.jpg",
-        "desc": "Mariana lives with her father, Atílio, and is motherless. He is a very powerful man, and he keeps a big secret: Mariana ",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "On the Wings of Love",
-        "url": "https://www.themoviedb.org/tv/63776",
-        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
-        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1435,15 +1435,6 @@
         "category": "entertainment"
       },
       {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
@@ -1453,10 +1444,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Come Home Love: Lo and Behold",
+        "url": "https://www.themoviedb.org/tv/91759",
+        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1457,15 @@
         "url": "https://www.themoviedb.org/tv/42680",
         "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
         "desc": "At the farm, imagination knows no bounds. Emília, Pedrinho, Narizinho, and Visconde embark on adventures through fantast",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2785,28 +2785,10 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "The Plastic Man Comedy/Adventure Show",
-        "url": "https://www.themoviedb.org/tv/10731",
-        "logo": "https://image.tmdb.org/t/p/w92/xbow0yurKC9GM7GutPjtbkLZKoP.jpg",
-        "desc": "The Plastic Man Comedy/Adventure Show is an animated television series produced by Ruby-Spears Productions from 1979 to ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2803,28 @@
         "category": "animation"
       },
       {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
         "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
+        "name": "The Plastic Man Comedy/Adventure Show",
+        "url": "https://www.themoviedb.org/tv/10731",
+        "logo": "https://image.tmdb.org/t/p/w92/xbow0yurKC9GM7GutPjtbkLZKoP.jpg",
+        "desc": "The Plastic Man Comedy/Adventure Show is an animated television series produced by Ruby-Spears Productions from 1979 to ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
