@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T03:46:28.520Z",
+  "updated": "2026-11-13T13:29:40.812Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "WWE NXT",
-        "url": "https://www.themoviedb.org/tv/31991",
-        "logo": "https://image.tmdb.org/t/p/w92/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-        "desc": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestl",
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -2534,15 +2534,6 @@
         "category": "kids"
       },
       {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2570,6 +2561,15 @@
         "category": "kids"
       },
       {
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Sítio do Picapau Amarelo",
         "url": "https://www.themoviedb.org/tv/42680",
         "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
@@ -2588,19 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Peppa Pig",
+        "url": "https://www.themoviedb.org/tv/12225",
+        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
+        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2758,19 +2758,19 @@
         "category": "animation"
       },
       {
-        "name": "Phineas and Ferb",
-        "url": "https://www.themoviedb.org/tv/1877",
-        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
-        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Phineas and Ferb",
+        "url": "https://www.themoviedb.org/tv/1877",
+        "logo": "https://image.tmdb.org/t/p/w92/g6TidT7be954rrzPPBTIXkSmfXj.jpg",
+        "desc": "Each day, two kindhearted suburban stepbrothers on summer vacation embark on some grand new project, which annoys their ",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
