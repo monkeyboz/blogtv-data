@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:44:53.386Z",
+  "updated": "2026-11-14T12:35:18.704Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Chiisana Tabi",
-        "url": "https://www.themoviedb.org/tv/130990",
-        "logo": "https://image.tmdb.org/t/p/w92/5j8HLZzU1KY0ceoWvRAmeRUFMuU.jpg",
-        "desc": "",
+        "name": "Frontline",
+        "url": "https://www.themoviedb.org/tv/4384",
+        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
+        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2543,19 +2543,19 @@
         "category": "kids"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
