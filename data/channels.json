@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:35:18.704Z",
+  "updated": "2026-11-14T21:43:39.415Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,18 +322,18 @@
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -358,19 +358,19 @@
         "category": "news"
       },
       {
-        "name": "Saturday Night Live",
-        "url": "https://www.themoviedb.org/tv/1667",
-        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
-        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
+        "name": "Morgenmagazin",
+        "url": "https://www.themoviedb.org/tv/37288",
+        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "Morgenmagazin",
-        "url": "https://www.themoviedb.org/tv/37288",
-        "logo": "https://image.tmdb.org/t/p/w92/aJlCBcmAE4xvLGR1xFMMB3rd1GI.jpg",
-        "desc": "",
+        "name": "The Colbert Report",
+        "url": "https://www.themoviedb.org/tv/4385",
+        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
+        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -459,10 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "WWE NXT",
-        "url": "https://www.themoviedb.org/tv/31991",
-        "logo": "https://image.tmdb.org/t/p/w92/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-        "desc": "Wrestlers will portray heroes or villains as they follow a series of events that build tension and culminate in a wrestl",
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,6 +488,15 @@
     ],
     "science": [
       {
+        "name": "Beyond Belief: Fact or Fiction",
+        "url": "https://www.themoviedb.org/tv/12323",
+        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Bares für Rares",
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
@@ -506,37 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Beyond Belief: Fact or Fiction",
-        "url": "https://www.themoviedb.org/tv/12323",
-        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
-        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
         "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +533,28 @@
         "category": "science"
       },
       {
-        "name": "Frontline",
-        "url": "https://www.themoviedb.org/tv/4384",
-        "logo": "https://image.tmdb.org/t/p/w92/9RLrBcrOK9Vm3VN9V9aqztiIIdJ.jpg",
-        "desc": "Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex ",
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1070,19 +1070,19 @@
         "category": "music"
       },
       {
-        "name": "On the Wings of Love",
-        "url": "https://www.themoviedb.org/tv/63776",
-        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
-        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1426,28 +1426,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
         "desc": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and mu",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Come Home Love: Lo and Behold",
-        "url": "https://www.themoviedb.org/tv/91759",
-        "logo": "https://image.tmdb.org/t/p/w92/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
-        "desc": "Hung Sue Gan starting from the bottom, established his own logistics company, which is now running smoothly. His only co",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1466,6 +1448,24 @@
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
         "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Among Friends",
+        "url": "https://www.themoviedb.org/tv/50821",
+        "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2552,15 +2552,6 @@
         "category": "kids"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "PAW Patrol",
         "url": "https://www.themoviedb.org/tv/57532",
         "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
@@ -2592,6 +2583,15 @@
         "url": "https://www.themoviedb.org/tv/502",
         "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
         "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/57911",
+        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
+        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "The Plastic Man Comedy/Adventure Show",
-        "url": "https://www.themoviedb.org/tv/10731",
-        "logo": "https://image.tmdb.org/t/p/w92/xbow0yurKC9GM7GutPjtbkLZKoP.jpg",
-        "desc": "The Plastic Man Comedy/Adventure Show is an animated television series produced by Ruby-Spears Productions from 1979 to ",
+        "name": "Wakfu",
+        "url": "https://www.themoviedb.org/tv/64414",
+        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
