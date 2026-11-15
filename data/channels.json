@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T03:23:05.841Z",
+  "updated": "2026-11-15T13:00:54.134Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -1426,6 +1426,15 @@
         "category": "entertainment"
       },
       {
+        "name": "SpongeBob SquarePants",
+        "url": "https://www.themoviedb.org/tv/387",
+        "logo": "https://image.tmdb.org/t/p/w92/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+        "desc": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob Sq",
+        "source": "tmdb",
+        "type": "info",
+        "category": "entertainment"
+      },
+      {
         "name": "Jeopardy!",
         "url": "https://www.themoviedb.org/tv/2912",
         "logo": "https://image.tmdb.org/t/p/w92/11rWvQOEZBouD7wet0sWHwu7NDs.jpg",
@@ -1457,15 +1466,6 @@
         "url": "https://www.themoviedb.org/tv/50821",
         "logo": "https://image.tmdb.org/t/p/w92/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
         "desc": "Miklós introduces viewers into the world of Money and Charm.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "entertainment"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/57911",
-        "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
-        "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
