@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T03:24:28.699Z",
+  "updated": "2026-11-16T14:05:36.237Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,10 +497,10 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,10 +515,19 @@
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -537,15 +546,6 @@
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
         "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1079,19 +1079,19 @@
         "category": "music"
       },
       {
-        "name": "On the Wings of Love",
-        "url": "https://www.themoviedb.org/tv/63776",
-        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
-        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
+        "name": "Only Love",
+        "url": "https://www.themoviedb.org/tv/61130",
+        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
+        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
+        "name": "On the Wings of Love",
+        "url": "https://www.themoviedb.org/tv/63776",
+        "logo": "https://image.tmdb.org/t/p/w92/1o5ncwjcCQsiBZ8Z9vuLGojF9AH.jpg",
+        "desc": "A young Filipina woman agrees to marry an American citizen so she can stay in the US and fulfill her American dream, lea",
         "source": "tmdb",
         "type": "info",
         "category": "music"
