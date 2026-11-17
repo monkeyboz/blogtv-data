@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T14:05:36.237Z",
+  "updated": "2026-11-17T01:10:00.453Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -322,18 +322,18 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
         "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
       },
       {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
         "desc": "",
         "source": "tmdb",
         "type": "info",
@@ -367,10 +367,10 @@
         "category": "news"
       },
       {
-        "name": "The Colbert Report",
-        "url": "https://www.themoviedb.org/tv/4385",
-        "logo": "https://image.tmdb.org/t/p/w92/pn2CVXjOlR8kY5MgOTJjZ71IM0Q.jpg",
-        "desc": "The Colbert Report is an American satirical late night television program. It stars political humorist Stephen Colbert, ",
+        "name": "Saturday Night Live",
+        "url": "https://www.themoviedb.org/tv/1667",
+        "logo": "https://image.tmdb.org/t/p/w92/s1cZBqbMwAF3w8S3Yo0j5nr2Yuo.jpg",
+        "desc": "A late-night live television sketch comedy and variety show created by Lorne Michaels. The show's comedy sketches, which",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,15 +396,6 @@
     ],
     "technology": [
       {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "The Lord of the Rings: The Rings of Power",
         "url": "https://www.themoviedb.org/tv/84773",
         "logo": "https://image.tmdb.org/t/p/w92/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
@@ -414,10 +405,10 @@
         "category": "technology"
       },
       {
-        "name": "Pokémon",
-        "url": "https://www.themoviedb.org/tv/60572",
-        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -427,6 +418,24 @@
         "url": "https://www.themoviedb.org/tv/61923",
         "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
         "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Strike Back",
+        "url": "https://www.themoviedb.org/tv/32573",
+        "logo": "https://image.tmdb.org/t/p/w92/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+        "desc": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20,",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,19 +459,10 @@
         "category": "technology"
       },
       {
-        "name": "One Piece",
-        "url": "https://www.themoviedb.org/tv/37854",
-        "logo": "https://image.tmdb.org/t/p/w92/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
-        "desc": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Wakfu",
+        "url": "https://www.themoviedb.org/tv/64414",
+        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -488,6 +488,15 @@
     ],
     "science": [
       {
+        "name": "Beyond Belief: Fact or Fiction",
+        "url": "https://www.themoviedb.org/tv/12323",
+        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
+        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "Bares für Rares",
         "url": "https://www.themoviedb.org/tv/79917",
         "logo": "https://image.tmdb.org/t/p/w92/j9SzcU00nl64FdgLs4otaHBfRkj.jpg",
@@ -501,15 +510,6 @@
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
         "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Beyond Belief: Fact or Fiction",
-        "url": "https://www.themoviedb.org/tv/12323",
-        "logo": "https://image.tmdb.org/t/p/w92/x6t4LPGYdCLqsdijZqSOxzic3Tj.jpg",
-        "desc": "Can you tell the difference between fact and fiction? Several stories of strange, mysterious and incredible occurrences ",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -611,6 +611,16 @@
         "category": "history"
       },
       {
+        "name": "Animaux (720p)",
+        "logo": "https://i.imgur.com/FM9FVAG.png",
+        "id": "Animaux.fr@SD",
+        "group": "Education",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/animaux/live.livx/playlist.m3u8",
+        "category": "history"
+      },
+      {
         "name": "ARD-alpha (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/960px-ARD_alpha.svg.png",
         "id": "ARDalpha.de@SD",
@@ -708,16 +718,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://74.91.26.218:82/live/cctv7hd.m3u8",
-        "category": "history"
-      },
-      {
-        "name": "CCTV-10 (720p)",
-        "logo": "https://i.imgur.com/sSSO7UD.png",
-        "id": "CCTV10.cn@SD",
-        "group": "Education",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://74.91.26.218:82/live/cctv10hd.m3u8",
         "category": "history"
       }
     ],
@@ -2552,10 +2552,10 @@
         "category": "kids"
       },
       {
-        "name": "PAW Patrol",
-        "url": "https://www.themoviedb.org/tv/57532",
-        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
-        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2570,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Ninja Boy Rantaro",
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
@@ -2579,28 +2588,19 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Peppa Pig",
-        "url": "https://www.themoviedb.org/tv/12225",
-        "logo": "https://image.tmdb.org/t/p/w92/iwKVo3HlsyVNXCzFEkd0xHz3kGi.jpg",
-        "desc": "Peppa Pig is an energetic piggy who lives with Mummy, Daddy, and little brother George. She loves to jump in mud puddles",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/57911",
         "logo": "https://image.tmdb.org/t/p/w92/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
         "desc": "Doraemon is an anime TV series created by Fujiko F. Fujio and based on the manga series of the same name. This anime is ",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,6 +2776,15 @@
         "category": "animation"
       },
       {
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Pokémon",
         "url": "https://www.themoviedb.org/tv/60572",
         "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
@@ -2785,10 +2794,10 @@
         "category": "animation"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "Wakfu",
+        "url": "https://www.themoviedb.org/tv/64414",
+        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
+        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/1434",
         "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
         "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "American Dad!",
-        "url": "https://www.themoviedb.org/tv/1433",
-        "logo": "https://image.tmdb.org/t/p/w92/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg",
-        "desc": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
