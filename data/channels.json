@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:04:54.091Z",
+  "updated": "2026-11-18T14:39:57.049Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -294,7 +294,7 @@
         "category": "news"
       },
       {
-        "name": "5tv",
+        "name": "5tv (608p)",
         "logo": "https://i.imgur.com/mSn7ACs.png",
         "id": "5tv.ar@SD",
         "group": "General",
@@ -723,6 +723,26 @@
     ],
     "sports": [
       {
+        "name": "5Gold",
+        "logo": "https://i.imgur.com/zFLRfXh.png",
+        "id": "5Gold.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Live",
+        "logo": "https://i.imgur.com/0yr3yvd.png",
+        "id": "5Live.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8",
+        "category": "sports"
+      },
+      {
         "name": "5Plus (1080p)",
         "logo": "https://i.imgur.com/L3RA9Lv.png",
         "id": "5Plus.il@SD",
@@ -730,6 +750,26 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Sport 4K",
+        "logo": "https://i.imgur.com/Msfhpqd.png",
+        "id": "5Sport4K.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Sport",
+        "logo": "https://i.imgur.com/dRVsB89.png",
+        "id": "5Sport.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -830,46 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "Alfa Sport (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/vhMPYIW.png",
-        "id": "AlfaSport.cy@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
-        "category": "sports"
-      },
-      {
-        "name": "American Ninja Warrior (1080p)",
-        "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
-        "id": "AmericanNinjaWarrior.us@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
-        "category": "sports"
-      },
-      {
-        "name": "AntenaPlay Events (576i) [Not 24/7]",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/8/87/Antena_Play_symbol_white_2022.svg/revision/latest/scale-to-width-down/1000?cb=20251128201145",
-        "id": "AntenaPlayEvents.ro@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8",
-        "category": "sports"
-      },
-      {
-        "name": "AntenaSport",
-        "logo": "https://cdn.as.ro/wp-content/themes/antenasport/images/icons-as/as.svg",
-        "id": "AntenaSport.ro@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8",
         "category": "sports"
       }
     ],
@@ -2068,7 +2068,7 @@
         "category": "politics"
       },
       {
-        "name": "5tv",
+        "name": "5tv (608p)",
         "logo": "https://i.imgur.com/mSn7ACs.png",
         "id": "5tv.ar@SD",
         "group": "General",
@@ -2758,6 +2758,15 @@
         "category": "animation"
       },
       {
+        "name": "Family Guy",
+        "url": "https://www.themoviedb.org/tv/1434",
+        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
+        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "The Simpsons",
         "url": "https://www.themoviedb.org/tv/456",
         "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
@@ -2794,10 +2803,10 @@
         "category": "animation"
       },
       {
-        "name": "Family Guy",
-        "url": "https://www.themoviedb.org/tv/1434",
-        "logo": "https://image.tmdb.org/t/p/w92/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg",
-        "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Gr",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2816,15 +2825,6 @@
         "url": "https://www.themoviedb.org/tv/37854",
         "logo": "https://image.tmdb.org/t/p/w92/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
         "desc": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2972,7 +2972,7 @@
         "category": "general"
       },
       {
-        "name": "5tv",
+        "name": "5tv (608p)",
         "logo": "https://i.imgur.com/mSn7ACs.png",
         "id": "5tv.ar@SD",
         "group": "General",
