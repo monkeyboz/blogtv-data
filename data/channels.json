@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:38:31.181Z",
+  "updated": "2026-11-19T04:42:29.392Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -743,13 +743,23 @@
         "category": "sports"
       },
       {
-        "name": "5Plus (1080p)",
+        "name": "5Max",
+        "logo": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
+        "id": "5Max.il@SD",
+        "group": "Sports",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8",
+        "category": "sports"
+      },
+      {
+        "name": "5Plus",
         "logo": "https://i.imgur.com/L3RA9Lv.png",
         "id": "5Plus.il@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://89.33.29.115:8080/sportplus/index.m3u8",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -773,13 +783,13 @@
         "category": "sports"
       },
       {
-        "name": "5Stars (1080p)",
+        "name": "5Stars",
         "logo": "https://i.imgur.com/IQtAKIa.png",
         "id": "5Stars.il@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://89.33.29.115:8080/IL_5Stars/index.m3u8",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8",
         "category": "sports"
       },
       {
@@ -860,16 +870,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
-        "category": "sports"
-      },
-      {
-        "name": "Al Iraqia Sport (720p)",
-        "logo": "https://i.imgur.com/DrrlxTO.png",
-        "id": "AlIraqiaSport.iq@SD",
-        "group": "Sports",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
         "category": "sports"
       }
     ],
@@ -1339,6 +1339,16 @@
         "category": "entertainment"
       },
       {
+        "name": "Ayush Next Communication Network (576p)",
+        "logo": "https://i.imgur.com/g68oamL.jpeg",
+        "id": "AyushNextCommunicationNetwork.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "entertainment"
       },
       {
@@ -1564,6 +1564,16 @@
         "category": "cooking"
       },
       {
+        "name": "Ayush Next Communication Network (576p)",
+        "logo": "https://i.imgur.com/g68oamL.jpeg",
+        "id": "AyushNextCommunicationNetwork.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "cooking"
       }
     ],
@@ -2322,6 +2322,16 @@
         "category": "health"
       },
       {
+        "name": "Ayush Next Communication Network (576p)",
+        "logo": "https://i.imgur.com/g68oamL.jpeg",
+        "id": "AyushNextCommunicationNetwork.in@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Ayush TV (576p)",
         "logo": "https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540",
         "id": "AyushTV.in@SD",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "Biznet Lifestyle (1080p)",
-        "logo": "https://i.imgur.com/XqUfQKA.png",
-        "id": "BiznetLifestyle.id@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
         "category": "health"
       }
     ],
@@ -2504,6 +2504,16 @@
         "category": "kids"
       },
       {
+        "name": "Arutz HaYeladim",
+        "logo": "https://i.imgur.com/n1KusFW.png",
+        "id": "ArutzHaYeladim.il@SD",
+        "group": "Kids",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8",
+        "category": "kids"
+      },
+      {
         "name": "Atfal & Mawaheb TV (1080p)",
         "logo": "https://i.imgur.com/Y2BqP9m.png",
         "id": "AtfalMawahebTV.sa@SD",
@@ -2521,16 +2531,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8",
-        "category": "kids"
-      },
-      {
-        "name": "Avatar: La Leyenda de Aang",
-        "logo": "https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png",
-        "id": "AvatarLaLeyendadeAang.us@LatAm",
-        "group": "Kids",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8",
         "category": "kids"
       },
       {
