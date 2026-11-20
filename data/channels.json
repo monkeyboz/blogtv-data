@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:27:48.064Z",
+  "updated": "2026-11-20T23:26:02.137Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -405,19 +405,19 @@
         "category": "technology"
       },
       {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "name": "Strike Back",
+        "url": "https://www.themoviedb.org/tv/32573",
+        "logo": "https://image.tmdb.org/t/p/w92/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+        "desc": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Strike Back",
-        "url": "https://www.themoviedb.org/tv/32573",
-        "logo": "https://image.tmdb.org/t/p/w92/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
-        "desc": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20,",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -432,15 +432,6 @@
         "category": "technology"
       },
       {
-        "name": "Agent Hamilton",
-        "url": "https://www.themoviedb.org/tv/97079",
-        "logo": "https://image.tmdb.org/t/p/w92/A8wKCnzR2lksFuO6XyJZUUYddRP.jpg",
-        "desc": "Carl Hamilton has just returned to Sweden after many years of secret education in the US when Stockholm is shaken by a s",
-        "source": "tmdb",
-        "type": "info",
-        "category": "technology"
-      },
-      {
         "name": "Wakfu",
         "url": "https://www.themoviedb.org/tv/64414",
         "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
@@ -450,19 +441,28 @@
         "category": "technology"
       },
       {
-        "name": "Magnum P.I.",
-        "url": "https://www.themoviedb.org/tv/79593",
-        "logo": "https://image.tmdb.org/t/p/w92/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
-        "desc": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a p",
+        "name": "Agent Hamilton",
+        "url": "https://www.themoviedb.org/tv/97079",
+        "logo": "https://image.tmdb.org/t/p/w92/A8wKCnzR2lksFuO6XyJZUUYddRP.jpg",
+        "desc": "Carl Hamilton has just returned to Sweden after many years of secret education in the US when Stockholm is shaken by a s",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "source": "tmdb",
+        "type": "info",
+        "category": "technology"
+      },
+      {
+        "name": "Magnum P.I.",
+        "url": "https://www.themoviedb.org/tv/79593",
+        "logo": "https://image.tmdb.org/t/p/w92/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
+        "desc": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a p",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -506,28 +506,10 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Panorama",
         "url": "https://www.themoviedb.org/tv/5675",
         "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
         "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,10 +524,28 @@
         "category": "science"
       },
       {
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
         "name": "NOVA",
         "url": "https://www.themoviedb.org/tv/3562",
         "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
         "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1061,19 +1061,19 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "You are My Destiny",
+        "url": "https://www.themoviedb.org/tv/39068",
+        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
+        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
         "source": "tmdb",
         "type": "info",
         "category": "music"
       },
       {
-        "name": "You are My Destiny",
-        "url": "https://www.themoviedb.org/tv/39068",
-        "logo": "https://image.tmdb.org/t/p/w92/pU92oXGcffbJuZkWniyqMtQPIss.jpg",
-        "desc": "Jang Sae-byuk is a cheerful and grateful orphan who always tries her best. She dreams of one day becoming an interior de",
+        "name": "Head over Heels",
+        "url": "https://www.themoviedb.org/tv/58929",
+        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
+        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -2552,24 +2552,6 @@
         "category": "kids"
       },
       {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Miraculous: Tales of Ladybug & Cat Noir",
         "url": "https://www.themoviedb.org/tv/65334",
         "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
@@ -2588,6 +2570,15 @@
         "category": "kids"
       },
       {
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
         "name": "Ninja Boy Rantaro",
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
@@ -2601,6 +2592,15 @@
         "url": "https://www.themoviedb.org/tv/42680",
         "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
         "desc": "At the farm, imagination knows no bounds. Emília, Pedrinho, Narizinho, and Visconde embark on adventures through fantast",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Cococinel",
+        "url": "https://www.themoviedb.org/tv/21144",
+        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
+        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
