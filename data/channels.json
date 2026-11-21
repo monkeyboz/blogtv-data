@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:46:50.958Z",
+  "updated": "2026-11-21T22:29:57.951Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -304,15 +304,6 @@
         "category": "news"
       },
       {
-        "name": "Tagesschau",
-        "url": "https://www.themoviedb.org/tv/94722",
-        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
-        "desc": "German daily news program, the oldest still existing program on German television.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
         "name": "The Daily Show",
         "url": "https://www.themoviedb.org/tv/2224",
         "logo": "https://image.tmdb.org/t/p/w92/ixcfyK7it6FjRM36Te4OdblAq4X.jpg",
@@ -322,19 +313,10 @@
         "category": "news"
       },
       {
-        "name": "Volle Kanne",
-        "url": "https://www.themoviedb.org/tv/64190",
-        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "news"
-      },
-      {
-        "name": "ZIBB",
-        "url": "https://www.themoviedb.org/tv/265167",
-        "logo": "",
-        "desc": "",
+        "name": "Tagesschau",
+        "url": "https://www.themoviedb.org/tv/94722",
+        "logo": "https://image.tmdb.org/t/p/w92/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+        "desc": "German daily news program, the oldest still existing program on German television.",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -353,6 +335,24 @@
         "url": "https://www.themoviedb.org/tv/32415",
         "logo": "https://image.tmdb.org/t/p/w92/oQxrvUhP3ycwnlxIrIMQ9Z3kleq.jpg",
         "desc": "A late night television talk show hosted by  Conan O'Brien.",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "Volle Kanne",
+        "url": "https://www.themoviedb.org/tv/64190",
+        "logo": "https://image.tmdb.org/t/p/w92/3tHHtqwNmQzRpiGqZNfj2OQUgYB.jpg",
+        "desc": "",
+        "source": "tmdb",
+        "type": "info",
+        "category": "news"
+      },
+      {
+        "name": "ZIBB",
+        "url": "https://www.themoviedb.org/tv/265167",
+        "logo": "",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "news"
@@ -396,19 +396,19 @@
     ],
     "technology": [
       {
-        "name": "The Lord of the Rings: The Rings of Power",
-        "url": "https://www.themoviedb.org/tv/84773",
-        "logo": "https://image.tmdb.org/t/p/w92/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
-        "desc": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evi",
+        "name": "Strike Back",
+        "url": "https://www.themoviedb.org/tv/32573",
+        "logo": "https://image.tmdb.org/t/p/w92/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+        "desc": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20,",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Strike Back",
-        "url": "https://www.themoviedb.org/tv/32573",
-        "logo": "https://image.tmdb.org/t/p/w92/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
-        "desc": "The series follows John Porter, a former British Special Forces soldier, who is drafted back into service by Section 20,",
+        "name": "The Lord of the Rings: The Rings of Power",
+        "url": "https://www.themoviedb.org/tv/84773",
+        "logo": "https://image.tmdb.org/t/p/w92/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg",
+        "desc": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evi",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -432,10 +432,10 @@
         "category": "technology"
       },
       {
-        "name": "Wakfu",
-        "url": "https://www.themoviedb.org/tv/64414",
-        "logo": "https://image.tmdb.org/t/p/w92/nA8Z1fq3OTE2IrM8BiWxlPmrCpU.jpg",
-        "desc": "Follow Yugo and his friends Amalia, Evangelyne, Tristepin, Ruel and Az as they try to rescue the world of Wakfu from des",
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -450,19 +450,19 @@
         "category": "technology"
       },
       {
-        "name": "Person of Interest",
-        "url": "https://www.themoviedb.org/tv/1411",
-        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "name": "Baywatch",
+        "url": "https://www.themoviedb.org/tv/4386",
+        "logo": "https://image.tmdb.org/t/p/w92/34t8WxHn1OcIVpcTxmjYmjX9tE4.jpg",
+        "desc": "Join the Baywatch lifeguards on their thrilling adventures filled with beautiful beaches and those iconic red swimsuits.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Magnum P.I.",
-        "url": "https://www.themoviedb.org/tv/79593",
-        "logo": "https://image.tmdb.org/t/p/w92/hN7DKusbmKPqSZnMG5hemioMAiE.jpg",
-        "desc": "Thomas Magnum, a decorated former Navy SEAL, returns home from Afghanistan and applies his military skills to become a p",
+        "name": "UFO",
+        "url": "https://www.themoviedb.org/tv/2560",
+        "logo": "https://image.tmdb.org/t/p/w92/yJMF2BlJ3M7rXRQQpv91WInBtXO.jpg",
+        "desc": "A secret, high-technology international agency called SHADO defends Earth from alien invaders.",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -524,19 +524,19 @@
         "category": "science"
       },
       {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -551,10 +551,10 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
-        "desc": "",
+        "name": "Fuse",
+        "url": "https://www.themoviedb.org/tv/16656",
+        "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
+        "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1043,6 +1043,15 @@
         "category": "music"
       },
       {
+        "name": "Potato Star 2013QR3",
+        "url": "https://www.themoviedb.org/tv/64770",
+        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
+        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "source": "tmdb",
+        "type": "info",
+        "category": "music"
+      },
+      {
         "name": "Rin-ne",
         "url": "https://www.themoviedb.org/tv/62601",
         "logo": "https://image.tmdb.org/t/p/w92/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
@@ -1052,10 +1061,10 @@
         "category": "music"
       },
       {
-        "name": "Potato Star 2013QR3",
-        "url": "https://www.themoviedb.org/tv/64770",
-        "logo": "https://image.tmdb.org/t/p/w92/8HLs1vyor0iHcKKHosrtxWfG8LL.jpg",
-        "desc": "A mysterious asteroid crash-lands on Earth in 2013 and causes all sorts of weird things to start happening, specifically",
+        "name": "Cross Game",
+        "url": "https://www.themoviedb.org/tv/46337",
+        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
+        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1079,19 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Cross Game",
-        "url": "https://www.themoviedb.org/tv/46337",
-        "logo": "https://image.tmdb.org/t/p/w92/3M701nra5h9ChMjT1ACOPfJqQnv.jpg",
-        "desc": "Kō Kitamura, whose family owns a sporting goods store, has known the Tsukishima  girls since he was born. The Tsukishima",
-        "source": "tmdb",
-        "type": "info",
-        "category": "music"
-      },
-      {
-        "name": "Only Love",
-        "url": "https://www.themoviedb.org/tv/61130",
-        "logo": "https://image.tmdb.org/t/p/w92/iauYBDkz2gxvuAiuPtReQHNbDXR.jpg",
-        "desc": "Kim Tae-yang is a physician and Choi Yoo-ri is a broadcasting producer. Choi Jae-min is a dandy-ish executive at a cloth",
+        "name": "Beautiful You",
+        "url": "https://www.themoviedb.org/tv/65365",
+        "logo": "https://image.tmdb.org/t/p/w92/52LuqWCmRmoluDpeaEXmF2oETqy.jpg",
+        "desc": "This is the story of various characters who learn about love, courage, healing and savior in the name of ‘family’ who st",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1417,10 +1417,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1435,19 +1435,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Doraemon",
-        "url": "https://www.themoviedb.org/tv/65733",
-        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
-        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
+        "name": "Star vs. the Forces of Evil",
+        "url": "https://www.themoviedb.org/tv/61923",
+        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
+        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Moesha",
-        "url": "https://www.themoviedb.org/tv/3497",
-        "logo": "https://image.tmdb.org/t/p/w92/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
-        "desc": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, a",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1462,10 +1462,10 @@
         "category": "entertainment"
       },
       {
-        "name": "Among Friends",
-        "url": "https://www.themoviedb.org/tv/50821",
-        "logo": "https://image.tmdb.org/t/p/w92/mT6VFzwGPddwGjWGxzNOy4JVL8.jpg",
-        "desc": "Miklós introduces viewers into the world of Money and Charm.",
+        "name": "Moesha",
+        "url": "https://www.themoviedb.org/tv/3497",
+        "logo": "https://image.tmdb.org/t/p/w92/uOTVIUWWuORHpakT5FtOXLEbAvF.jpg",
+        "desc": "The everyday life of Moesha Mitchell, a vivacious young woman juggling romance, school, ever-changing family dynamics, a",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2561,24 +2561,6 @@
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
-        "name": "Elena of Avalor",
-        "url": "https://www.themoviedb.org/tv/67175",
-        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
-        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
-        "source": "tmdb",
-        "type": "info",
-        "category": "kids"
-      },
-      {
         "name": "Ninja Boy Rantaro",
         "url": "https://www.themoviedb.org/tv/34860",
         "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
@@ -2597,10 +2579,28 @@
         "category": "kids"
       },
       {
-        "name": "Cococinel",
-        "url": "https://www.themoviedb.org/tv/21144",
-        "logo": "https://image.tmdb.org/t/p/w92/x0F2gqQgOEcwfj5hGFMC53C0hZ4.jpg",
-        "desc": "\"Cococinel\" follows the adventures of Cococinel, a ladybug who becomes a superheroine thanks to a magical clover. In the",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "Elena of Avalor",
+        "url": "https://www.themoviedb.org/tv/67175",
+        "logo": "https://image.tmdb.org/t/p/w92/rnMgIX5Uc9S4r8WvZZByczz2kF7.jpg",
+        "desc": "The story of a brave teenager who has saved her kingdom from an evil sorceress and must now learn to rule as a crown pri",
+        "source": "tmdb",
+        "type": "info",
+        "category": "kids"
+      },
+      {
+        "name": "PAW Patrol",
+        "url": "https://www.themoviedb.org/tv/57532",
+        "logo": "https://image.tmdb.org/t/p/w92/8HXkgUBO5OF8ZK9XbY69RM4S5rv.jpg",
+        "desc": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-sa",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
@@ -2776,19 +2776,19 @@
         "category": "animation"
       },
       {
-        "name": "The Simpsons",
-        "url": "https://www.themoviedb.org/tv/456",
-        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
-        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
+        "name": "Pokémon",
+        "url": "https://www.themoviedb.org/tv/60572",
+        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
+        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
       },
       {
-        "name": "Pokémon",
-        "url": "https://www.themoviedb.org/tv/60572",
-        "logo": "https://image.tmdb.org/t/p/w92/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg",
-        "desc": "Join Ash accompanied by his partner Pikachu, as he travels through many regions, meets new friends and faces new challen",
+        "name": "The Simpsons",
+        "url": "https://www.themoviedb.org/tv/456",
+        "logo": "https://image.tmdb.org/t/p/w92/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg",
+        "desc": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson fam",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
@@ -2821,10 +2821,10 @@
         "category": "animation"
       },
       {
-        "name": "Star vs. the Forces of Evil",
-        "url": "https://www.themoviedb.org/tv/61923",
-        "logo": "https://image.tmdb.org/t/p/w92/dKFL1AOdKNoazqZDg1zq2z69Lx1.jpg",
-        "desc": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains thr",
+        "name": "Doraemon",
+        "url": "https://www.themoviedb.org/tv/65733",
+        "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
+        "desc": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated bo",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
