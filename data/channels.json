@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:26:02.137Z",
+  "updated": "2026-11-21T04:28:23.452Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -542,19 +542,19 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
-        "desc": "",
+        "name": "Great Performances",
+        "url": "https://www.themoviedb.org/tv/10029",
+        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
+        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
         "source": "tmdb",
         "type": "info",
         "category": "science"
       },
       {
-        "name": "Great Performances",
-        "url": "https://www.themoviedb.org/tv/10029",
-        "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
-        "desc": "The best in the performing arts from across America and around the world including a diverse programming portfolio of cl",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -843,33 +843,33 @@
         "category": "sports"
       },
       {
-        "name": "Adriatic Sport 1",
-        "logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-1.png",
-        "id": "AdriaticSport1.ba@SD",
+        "name": "Al Iraqia Sport (720p)",
+        "logo": "https://i.imgur.com/DrrlxTO.png",
+        "id": "AlIraqiaSport.iq@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205",
+        "url": "https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8",
         "category": "sports"
       },
       {
-        "name": "Adriatic Sport 2",
-        "logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-2.png",
-        "id": "AdriaticSport2.ba@SD",
+        "name": "Alfa Sport (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/vhMPYIW.png",
+        "id": "AlfaSport.cy@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581",
+        "url": "https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx",
         "category": "sports"
       },
       {
-        "name": "Adriatic Sport 3",
-        "logo": "https://channels2.digital.ugbb.net/wp-content/uploads/2022/04/logo-adriatic-sport-3.png",
-        "id": "AdriaticSport3.ba@SD",
+        "name": "American Ninja Warrior (1080p)",
+        "logo": "https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png",
+        "id": "AmericanNinjaWarrior.us@SD",
         "group": "Sports",
         "source": "iptv-org",
         "type": "live",
-        "url": "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845",
+        "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior",
         "category": "sports"
       }
     ],
