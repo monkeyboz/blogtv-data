@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:53:09.302Z",
+  "updated": "2026-11-23T04:17:24.806Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -723,7 +723,7 @@
     ],
     "sports": [
       {
-        "name": "5Gold",
+        "name": "5Gold (1080p)",
         "logo": "https://i.imgur.com/zFLRfXh.png",
         "id": "5Gold.il@SD",
         "group": "Sports",
@@ -733,7 +733,7 @@
         "category": "sports"
       },
       {
-        "name": "5Live",
+        "name": "5Live (1080p)",
         "logo": "https://i.imgur.com/0yr3yvd.png",
         "id": "5Live.il@SD",
         "group": "Sports",
@@ -743,7 +743,7 @@
         "category": "sports"
       },
       {
-        "name": "5Max",
+        "name": "5Max (1080p)",
         "logo": "https://i.postimg.cc/XNmh01pH/5sport-max-il.png",
         "id": "5Max.il@SD",
         "group": "Sports",
@@ -753,7 +753,7 @@
         "category": "sports"
       },
       {
-        "name": "5Plus",
+        "name": "5Plus (1080p)",
         "logo": "https://i.imgur.com/L3RA9Lv.png",
         "id": "5Plus.il@SD",
         "group": "Sports",
@@ -763,7 +763,7 @@
         "category": "sports"
       },
       {
-        "name": "5Sport 4K",
+        "name": "5Sport 4K (1080p)",
         "logo": "https://i.imgur.com/Msfhpqd.png",
         "id": "5Sport4K.il@SD",
         "group": "Sports",
@@ -783,7 +783,7 @@
         "category": "sports"
       },
       {
-        "name": "5Stars",
+        "name": "5Stars (1080p)",
         "logo": "https://i.imgur.com/IQtAKIa.png",
         "id": "5Stars.il@SD",
         "group": "Sports",
@@ -1716,6 +1716,16 @@
         "category": "travel"
       },
       {
+        "name": "Global Trekker (720p)",
+        "logo": "https://i.imgur.com/5nlmJIw.png",
+        "id": "GlobalTrekker.sg@SD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8",
+        "category": "travel"
+      },
+      {
         "name": "GoTraveler (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/IaRcN1G.png",
         "id": "GoTraveler.us@SD",
@@ -1763,16 +1773,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
-        "category": "travel"
-      },
-      {
-        "name": "Living Asia Channel (1080p)",
-        "logo": "https://i.imgur.com/q3UToRM.png",
-        "id": "LivingAsiaChannel.ph@HD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
@@ -2494,7 +2494,7 @@
         "category": "kids"
       },
       {
-        "name": "Aqlvoy",
+        "name": "Aqlvoy (1080p)",
         "logo": "https://i.imgur.com/ekF5cAi.png",
         "id": "Aqlvoy.uz@SD",
         "group": "Kids",
@@ -2504,7 +2504,7 @@
         "category": "kids"
       },
       {
-        "name": "Arutz HaYeladim",
+        "name": "Arutz HaYeladim (720p)",
         "logo": "https://i.imgur.com/n1KusFW.png",
         "id": "ArutzHaYeladim.il@SD",
         "group": "Kids",
@@ -2748,7 +2748,7 @@
         "category": "animation"
       },
       {
-        "name": "eSports Max TV",
+        "name": "eSports Max TV (1080p)",
         "logo": "https://i.imgur.com/OprRgQN.png",
         "id": "eSportsMaxTV.ve@SD",
         "group": "Animation",
