@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T16:33:47.750Z",
+  "updated": "2026-11-25T01:39:43.365Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -414,19 +414,19 @@
         "category": "technology"
       },
       {
-        "name": "Person of Interest",
-        "url": "https://www.themoviedb.org/tv/1411",
-        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
-        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
+        "name": "Doctor Who",
+        "url": "https://www.themoviedb.org/tv/57243",
+        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
+        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
       },
       {
-        "name": "Doctor Who",
-        "url": "https://www.themoviedb.org/tv/57243",
-        "logo": "https://image.tmdb.org/t/p/w92/lHfmc6d8pOVFrD0eOKPiDbjeucG.jpg",
-        "desc": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. T",
+        "name": "Person of Interest",
+        "url": "https://www.themoviedb.org/tv/1411",
+        "logo": "https://image.tmdb.org/t/p/w92/f8aIvYk5h7Z8EP3dinCmVgQFYow.jpg",
+        "desc": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent",
         "source": "tmdb",
         "type": "info",
         "category": "technology"
@@ -1088,10 +1088,10 @@
         "category": "music"
       },
       {
-        "name": "Head over Heels",
-        "url": "https://www.themoviedb.org/tv/58929",
-        "logo": "https://image.tmdb.org/t/p/w92/hW372TcfVVEwkEVhrnSAFfRpVkS.jpg",
-        "desc": "A man's budding romance with a beautiful woman is sabotaged by his evil twin, but they get another chance at love when t",
+        "name": "Brave Woman",
+        "url": "https://www.themoviedb.org/tv/46126",
+        "logo": "https://image.tmdb.org/t/p/w92/ehbB6L0gMU2ILJCScO2036crfEw.jpg",
+        "desc": "A moving tale of courage and resilience in the struggle for freedom – this is the role that life has cast for headstrong",
         "source": "tmdb",
         "type": "info",
         "category": "music"
@@ -1379,6 +1379,16 @@
         "category": "entertainment"
       },
       {
+        "name": "Beauty ON (576i)",
+        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
+        "id": "BeautyON.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://91.235.165.117:8002/play/bautyon_hd/index.m3u8",
+        "category": "entertainment"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1386,16 +1396,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "entertainment"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "entertainment"
       },
       {
@@ -1604,6 +1604,16 @@
         "category": "cooking"
       },
       {
+        "name": "Beauty ON (576i)",
+        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
+        "id": "BeautyON.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://91.235.165.117:8002/play/bautyon_hd/index.m3u8",
+        "category": "cooking"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -1611,16 +1621,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "cooking"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "cooking"
       }
     ],
@@ -1716,16 +1716,6 @@
         "category": "travel"
       },
       {
-        "name": "Global Trekker (720p)",
-        "logo": "https://i.imgur.com/5nlmJIw.png",
-        "id": "GlobalTrekker.sg@SD",
-        "group": "Travel",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8",
-        "category": "travel"
-      },
-      {
         "name": "GoTraveler (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/IaRcN1G.png",
         "id": "GoTraveler.us@SD",
@@ -1773,6 +1763,16 @@
         "source": "iptv-org",
         "type": "live",
         "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+        "category": "travel"
+      },
+      {
+        "name": "Living Asia Channel (1080p)",
+        "logo": "https://i.imgur.com/q3UToRM.png",
+        "id": "LivingAsiaChannel.ph@HD",
+        "group": "Travel",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8",
         "category": "travel"
       }
     ],
@@ -2362,6 +2362,16 @@
         "category": "health"
       },
       {
+        "name": "Beauty ON (576i)",
+        "logo": "https://static.cinemagia.ro/img/tv_station/beauty-on.jpg",
+        "id": "BeautyON.ro@SD",
+        "group": "Lifestyle",
+        "source": "iptv-org",
+        "type": "live",
+        "url": "http://91.235.165.117:8002/play/bautyon_hd/index.m3u8",
+        "category": "health"
+      },
+      {
         "name": "Better Health TV (480p)",
         "logo": "https://i.imgur.com/qnwJiji.png",
         "id": "BetterHealthTV.us@SD",
@@ -2369,16 +2379,6 @@
         "source": "iptv-org",
         "type": "live",
         "url": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8",
-        "category": "health"
-      },
-      {
-        "name": "Biz TV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/A_logo_for_BizTV.png",
-        "id": "BizTV.us@SD",
-        "group": "Lifestyle",
-        "source": "iptv-org",
-        "type": "live",
-        "url": "https://2-fss-1.streamhoster.com/pl_154/205722-2251224-1/playlist.m3u8",
         "category": "health"
       }
     ],
