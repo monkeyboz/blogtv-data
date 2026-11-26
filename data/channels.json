@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T16:16:42.327Z",
+  "updated": "2026-11-26T01:12:56.789Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -497,10 +497,10 @@
         "category": "science"
       },
       {
-        "name": "NOVA",
-        "url": "https://www.themoviedb.org/tv/3562",
-        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
-        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
+        "name": "Lecture Room",
+        "url": "https://www.themoviedb.org/tv/237020",
+        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
+        "desc": "",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -515,19 +515,10 @@
         "category": "science"
       },
       {
-        "name": "Lecture Room",
-        "url": "https://www.themoviedb.org/tv/237020",
-        "logo": "https://image.tmdb.org/t/p/w92/3eHAbgJ8yElDfpWhGxWVNULXF4k.jpg",
-        "desc": "",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
-        "name": "Mayday",
-        "url": "https://www.themoviedb.org/tv/90",
-        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
-        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
+        "name": "NOVA",
+        "url": "https://www.themoviedb.org/tv/3562",
+        "logo": "https://image.tmdb.org/t/p/w92/giUBXYnDAaJgNqA6iE3BMVE2EHp.jpg",
+        "desc": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demy",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -542,10 +533,10 @@
         "category": "science"
       },
       {
-        "name": "Democracy Now!",
-        "url": "https://www.themoviedb.org/tv/31732",
-        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
-        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
+        "name": "Mayday",
+        "url": "https://www.themoviedb.org/tv/90",
+        "logo": "https://image.tmdb.org/t/p/w92/2uuVIAb4MtPmMNTpOyID5V8DzrU.jpg",
+        "desc": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/16656",
         "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
         "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Democracy Now!",
+        "url": "https://www.themoviedb.org/tv/31732",
+        "logo": "https://image.tmdb.org/t/p/w92/pwMvc40mOHyZ9IsFPTcW0Jdm57l.jpg",
+        "desc": "A United States daily progressive, nonprofit, independently syndicated program of news, analysis, and opinion.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -1417,19 +1417,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
+        "name": "SpongeBob SquarePants",
+        "url": "https://www.themoviedb.org/tv/387",
+        "logo": "https://image.tmdb.org/t/p/w92/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+        "desc": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob Sq",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "SpongeBob SquarePants",
-        "url": "https://www.themoviedb.org/tv/387",
-        "logo": "https://image.tmdb.org/t/p/w92/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
-        "desc": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob Sq",
+        "name": "Ninja Boy Rantaro",
+        "url": "https://www.themoviedb.org/tv/34860",
+        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
+        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -1453,19 +1453,19 @@
         "category": "entertainment"
       },
       {
-        "name": "Ninja Boy Rantaro",
-        "url": "https://www.themoviedb.org/tv/34860",
-        "logo": "https://image.tmdb.org/t/p/w92/fzNiSp0HhCthOTYu9IYWlPPa7fU.jpg",
-        "desc": "Rantarō, Shinbei and Kirimaru are ninja  apprentices in the Ninja Gakuen, where first grade ones are called  \"Nintamas\".",
+        "name": "Sítio do Picapau Amarelo",
+        "url": "https://www.themoviedb.org/tv/42680",
+        "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
+        "desc": "At the farm, imagination knows no bounds. Emília, Pedrinho, Narizinho, and Visconde embark on adventures through fantast",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
       },
       {
-        "name": "Sítio do Picapau Amarelo",
-        "url": "https://www.themoviedb.org/tv/42680",
-        "logo": "https://image.tmdb.org/t/p/w92/bEY82X0bFLUJxIOFWLumjCZJQAb.jpg",
-        "desc": "At the farm, imagination knows no bounds. Emília, Pedrinho, Narizinho, and Visconde embark on adventures through fantast",
+        "name": "Arthur",
+        "url": "https://www.themoviedb.org/tv/2153",
+        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
+        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "entertainment"
@@ -2794,6 +2794,15 @@
         "category": "animation"
       },
       {
+        "name": "The Legend of Korra",
+        "url": "https://www.themoviedb.org/tv/33880",
+        "logo": "https://image.tmdb.org/t/p/w92/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+        "desc": "Avatar Korra, a headstrong, rebellious, feisty young woman who continually challenges and breaks with tradition, is on h",
+        "source": "tmdb",
+        "type": "info",
+        "category": "animation"
+      },
+      {
         "name": "Doraemon",
         "url": "https://www.themoviedb.org/tv/65733",
         "logo": "https://image.tmdb.org/t/p/w92/9ZN1P32SHviL3SV51qLivxycvcx.jpg",
@@ -2807,15 +2816,6 @@
         "url": "https://www.themoviedb.org/tv/37854",
         "logo": "https://image.tmdb.org/t/p/w92/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg",
         "desc": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece",
-        "source": "tmdb",
-        "type": "info",
-        "category": "animation"
-      },
-      {
-        "name": "Arthur",
-        "url": "https://www.themoviedb.org/tv/2153",
-        "logo": "https://image.tmdb.org/t/p/w92/nYN8okmcsmhd4bGVcqifZ5OCumB.jpg",
-        "desc": "The show revolves around the lives of 8-year-old Arthur Read, an anthropomorphic aardvark, his friends and family, and t",
         "source": "tmdb",
         "type": "info",
         "category": "animation"
