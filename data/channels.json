@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T01:11:25.521Z",
+  "updated": "2026-11-27T15:41:34.868Z",
   "version": "1.0",
   "categories": {
     "news": [
@@ -515,15 +515,6 @@
         "category": "science"
       },
       {
-        "name": "Panorama",
-        "url": "https://www.themoviedb.org/tv/5675",
-        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
-        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
-        "source": "tmdb",
-        "type": "info",
-        "category": "science"
-      },
-      {
         "name": "Great Performances",
         "url": "https://www.themoviedb.org/tv/10029",
         "logo": "https://image.tmdb.org/t/p/w92/1RD6s6KEbX36Cb99pAoWmU8gkwh.jpg",
@@ -555,6 +546,15 @@
         "url": "https://www.themoviedb.org/tv/16656",
         "logo": "https://image.tmdb.org/t/p/w92/dBgJKqZnmfARnN8bkaA7elWjhz9.jpg",
         "desc": "Fitil is a popular Soviet/Russian television satirical/comedy short film series which ran for about 500 episodes. Some o",
+        "source": "tmdb",
+        "type": "info",
+        "category": "science"
+      },
+      {
+        "name": "Panorama",
+        "url": "https://www.themoviedb.org/tv/5675",
+        "logo": "https://image.tmdb.org/t/p/w92/2559yxjK49kF9sL8mdIEp757VpK.jpg",
+        "desc": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
         "source": "tmdb",
         "type": "info",
         "category": "science"
@@ -2561,19 +2561,19 @@
         "category": "kids"
       },
       {
-        "name": "Miraculous: Tales of Ladybug & Cat Noir",
-        "url": "https://www.themoviedb.org/tv/65334",
-        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
-        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
+        "name": "Sesame Street",
+        "url": "https://www.themoviedb.org/tv/502",
+        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
+        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
       },
       {
-        "name": "Sesame Street",
-        "url": "https://www.themoviedb.org/tv/502",
-        "logo": "https://image.tmdb.org/t/p/w92/14k9BfZ2p4rQBMeJ5crKTfUZVwD.jpg",
-        "desc": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concept",
+        "name": "Miraculous: Tales of Ladybug & Cat Noir",
+        "url": "https://www.themoviedb.org/tv/65334",
+        "logo": "https://image.tmdb.org/t/p/w92/acrtAy8gmxcsEvrDP09MpMSCeDZ.jpg",
+        "desc": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes ",
         "source": "tmdb",
         "type": "info",
         "category": "kids"
